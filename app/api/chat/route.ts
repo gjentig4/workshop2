@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server";
-import { chatCompletion, parseStreamChunk, OpenRouterResponse, OpenRouterTool } from "@/lib/openrouter";
+import { chatCompletion, parseStreamChunk, OpenRouterResponse, OpenRouterTool, extractReasoningText } from "@/lib/openrouter";
 import { AVAILABLE_TOOLS, executeTool } from "@/lib/tools";
 import { createTrace, flushLangfuse, getTraceUrl } from "@/lib/langfuse";
 import { ChatRequest, Message } from "@/types";
@@ -201,7 +201,11 @@ export async function POST(request: NextRequest) {
     let data: OpenRouterResponse = await response.json();
     let assistantMessage = data.choices[0]?.message;
     let content = assistantMessage?.content || "";
-    const reasoningContent = assistantMessage?.reasoning_content;
+    // Extract reasoning from multiple possible sources
+    const reasoningContent = 
+      assistantMessage?.reasoning_content || 
+      assistantMessage?.reasoning ||
+      extractReasoningText(assistantMessage?.reasoning_details);
 
     // Tool execution with ReAct loop
     const allToolResults: { id: string; name: string; arguments: Record<string, unknown>; result: unknown }[] = [];

@@ -38,6 +38,18 @@ export interface OpenRouterTool {
   };
 }
 
+// Reasoning details structure from OpenRouter
+export interface ReasoningDetail {
+  type: "reasoning.summary" | "reasoning.encrypted" | "reasoning.text";
+  id?: string | null;
+  format?: string;
+  index?: number;
+  summary?: string; // For reasoning.summary type
+  data?: string; // For reasoning.encrypted type
+  text?: string; // For reasoning.text type
+  signature?: string | null; // For reasoning.text type
+}
+
 export interface OpenRouterResponse {
   id: string;
   model: string;
@@ -46,7 +58,9 @@ export interface OpenRouterResponse {
     message: {
       role: string;
       content: string;
-      reasoning_content?: string; // For models that support thinking/reasoning
+      reasoning_content?: string; // Legacy format
+      reasoning?: string; // New unified format
+      reasoning_details?: ReasoningDetail[]; // Detailed reasoning blocks
       tool_calls?: {
         id: string;
         type: "function";
@@ -71,6 +85,17 @@ export interface OpenRouterResponse {
     // OpenRouter native cost tracking
     cost?: number;
   };
+}
+
+// Extract reasoning text from reasoning_details array
+export function extractReasoningText(details?: ReasoningDetail[]): string {
+  if (!details || details.length === 0) return "";
+  
+  return details
+    .filter(d => d.type === "reasoning.text" || d.type === "reasoning.summary")
+    .map(d => d.text || d.summary || "")
+    .filter(Boolean)
+    .join("\n\n");
 }
 
 export async function chatCompletion(
@@ -171,6 +196,7 @@ export async function chatCompletion(
 export function parseStreamChunk(chunk: string): {
   content?: string;
   reasoning?: string;
+  reasoningDetails?: ReasoningDetail[];
   toolCalls?: OpenRouterResponse["choices"][0]["message"]["tool_calls"];
   usage?: OpenRouterResponse["usage"];
   done?: boolean;
@@ -182,10 +208,25 @@ export function parseStreamChunk(chunk: string): {
     }
     try {
       const parsed = JSON.parse(data);
+      const delta = parsed.choices?.[0]?.delta;
+      
+      // Extract reasoning from multiple possible sources
+      let reasoning = delta?.reasoning_content || delta?.reasoning;
+      
+      // Also check for reasoning_details array (new format)
+      const reasoningDetails = delta?.reasoning_details as ReasoningDetail[] | undefined;
+      if (reasoningDetails && reasoningDetails.length > 0) {
+        const detailText = extractReasoningText(reasoningDetails);
+        if (detailText) {
+          reasoning = (reasoning || "") + detailText;
+        }
+      }
+      
       return {
-        content: parsed.choices?.[0]?.delta?.content,
-        reasoning: parsed.choices?.[0]?.delta?.reasoning_content || parsed.choices?.[0]?.delta?.reasoning,
-        toolCalls: parsed.choices?.[0]?.delta?.tool_calls,
+        content: delta?.content,
+        reasoning,
+        reasoningDetails,
+        toolCalls: delta?.tool_calls,
         usage: parsed.usage,
       };
     } catch {

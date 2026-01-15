@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 import { generateEmbedding } from "@/lib/embeddings";
-import { chatCompletion, parseStreamChunk, OpenRouterResponse, OpenRouterTool } from "@/lib/openrouter";
+import { chatCompletion, parseStreamChunk, OpenRouterResponse, OpenRouterTool, extractReasoningText } from "@/lib/openrouter";
 import { createTrace, flushLangfuse, getTraceUrl } from "@/lib/langfuse";
 import { AVAILABLE_TOOLS, executeTool } from "@/lib/tools";
 import { ChatRequest, Message, RAGSearchResult } from "@/types";
@@ -218,7 +218,11 @@ ${context || "No relevant context found in the knowledge base."}`;
       let responseData: OpenRouterResponse = await response.json();
       let assistantMessage = responseData.choices[0]?.message;
       let content = assistantMessage?.content || "";
-      const reasoningContent = assistantMessage?.reasoning_content;
+      // Extract reasoning from multiple possible sources
+      const reasoningContent = 
+        assistantMessage?.reasoning_content || 
+        assistantMessage?.reasoning ||
+        extractReasoningText(assistantMessage?.reasoning_details);
 
       // Tool execution with ReAct loop
       const allToolResults: { id: string; name: string; arguments: Record<string, unknown>; result: unknown }[] = [];
