@@ -155,6 +155,11 @@ export function RAGChat({
         ? JSON.stringify(settings.tools_config)
         : undefined;
 
+      // Build structured output schema if enabled
+      const structuredOutputSchema = settings.structured_output_enabled && settings.structured_output_schema
+        ? JSON.stringify(settings.structured_output_schema)
+        : undefined;
+
       const response = await fetch("/api/rag/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -174,6 +179,7 @@ export function RAGChat({
           embeddingStrategy: ragSettings.embeddingStrategy || "document",
           similarityThreshold: ragSettings.similarityThreshold ?? 0.1,
           skipRag,
+          structuredOutputSchema,
         }),
       });
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Profile, ToolDefinition } from "@/types";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -18,8 +18,103 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
-import { ChevronDown, ChevronRight, Settings, FileText, Wrench } from "lucide-react";
+import { ChevronDown, ChevronRight, Settings, FileText, Wrench, Braces, Check, AlertCircle } from "lucide-react";
+import { Textarea } from "@/components/ui/textarea";
 import { RetrievalStrategySelector } from "./embedding-strategy-selector";
+
+const EXAMPLE_SCHEMA = `{
+  "name": "response",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "answer": {
+        "type": "string",
+        "description": "The main answer"
+      },
+      "confidence": {
+        "type": "number",
+        "description": "Confidence score 0-1"
+      }
+    },
+    "required": ["answer", "confidence"]
+  }
+}`;
+
+function StructuredOutputSchemaEditor({
+  value,
+  onChange,
+}: {
+  value: string;
+  onChange: (value: string) => void;
+}) {
+  const [localValue, setLocalValue] = useState(value);
+  const [isValid, setIsValid] = useState<boolean | null>(null);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    if (!localValue.trim()) {
+      setIsValid(null);
+      setError(null);
+      return;
+    }
+
+    try {
+      JSON.parse(localValue);
+      setIsValid(true);
+      setError(null);
+      onChange(localValue);
+    } catch (e) {
+      setIsValid(false);
+      setError(e instanceof Error ? e.message : "Invalid JSON");
+    }
+  }, [localValue]);
+
+  return (
+    <div className="space-y-2 p-3 bg-zinc-900/50 rounded-lg border border-zinc-800">
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <Braces className="w-3 h-3 text-zinc-400" />
+          <label className="text-xs text-zinc-400">JSON Schema</label>
+        </div>
+        {isValid !== null && (
+          <div className={`flex items-center gap-1 text-xs ${isValid ? "text-green-400" : "text-red-400"}`}>
+            {isValid ? (
+              <>
+                <Check className="w-3 h-3" />
+                Valid
+              </>
+            ) : (
+              <>
+                <AlertCircle className="w-3 h-3" />
+                Invalid
+              </>
+            )}
+          </div>
+        )}
+      </div>
+
+      <Textarea
+        value={localValue}
+        onChange={(e) => setLocalValue(e.target.value)}
+        placeholder={EXAMPLE_SCHEMA}
+        className="bg-zinc-800 border-zinc-700 text-xs font-mono min-h-[100px] resize-none"
+      />
+
+      {error && <p className="text-xs text-red-400">{error}</p>}
+
+      {!localValue.trim() && (
+        <button
+          type="button"
+          onClick={() => setLocalValue(EXAMPLE_SCHEMA)}
+          className="text-xs text-cyan-400 hover:text-cyan-300"
+        >
+          Load example schema
+        </button>
+      )}
+    </div>
+  );
+}
 
 interface SettingsPanelProps {
   settings: Partial<Profile>;
@@ -180,6 +275,21 @@ export function SettingsPanel({
             <label className="text-sm text-zinc-400">Structured Output</label>
           </div>
         </div>
+
+        {/* Structured Output Schema Editor */}
+        {settings.structured_output_enabled && (
+          <StructuredOutputSchemaEditor
+            value={settings.structured_output_schema ? JSON.stringify(settings.structured_output_schema, null, 2) : ""}
+            onChange={(value) => {
+              try {
+                const parsed = value ? JSON.parse(value) : null;
+                updateSetting("structured_output_schema", parsed);
+              } catch {
+                // Keep the invalid JSON as-is for editing
+              }
+            }}
+          />
+        )}
 
         {/* System Prompt & Tools Buttons */}
         <div className="flex flex-col gap-2 pt-2">

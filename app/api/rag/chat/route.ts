@@ -28,6 +28,7 @@ export async function POST(request: NextRequest) {
       enableTracing = true,
       profileId,
       skipRag = false, // When true, skip document retrieval (e.g., learning mode)
+      structuredOutputSchema,
     } = body;
 
     if (!messages || messages.length === 0) {
@@ -134,6 +135,7 @@ ${context || "No relevant context found in the knowledge base."}`;
           reasoningEnabled: enableReasoning,
           reasoningEffort,
           toolsEnabled: enableTools,
+          structuredOutputEnabled: !!structuredOutputSchema,
           systemPrompt: customSystemPrompt || "default RAG prompt",
         })
       : null;
@@ -197,6 +199,7 @@ ${context || "No relevant context found in the knowledge base."}`;
       enableTools,
       customTools,
       enableTracing,
+      structuredOutputSchema,
     };
 
     const response = await chatCompletion(chatRequest, tools);
