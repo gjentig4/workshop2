@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import ReactMarkdown from "react-markdown";
 import { RAGSearchResult } from "@/types";
 import { Button } from "@/components/ui/button";
+import { MarkdownWithFrontmatter } from "@/components/shared/markdown-with-frontmatter";
 import {
   Collapsible,
   CollapsibleContent,
@@ -15,7 +15,6 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import { ChevronDown, ChevronRight, FileText, ExternalLink } from "lucide-react";
 
 interface ContextPreviewProps {
@@ -147,35 +146,7 @@ export function ContextPreview({ context, isLoading }: ContextPreviewProps) {
 
           <div className="flex-1 overflow-y-auto min-h-0">
             <div className="bg-zinc-800/50 p-4 rounded-lg text-zinc-300 prose prose-invert prose-xs max-w-none text-xs">
-              <ReactMarkdown
-                components={{
-                  p: ({ children }) => <p className="my-2 first:mt-0 last:mb-0">{children}</p>,
-                  ul: ({ children }) => <ul className="my-2 ml-4 list-disc space-y-1">{children}</ul>,
-                  ol: ({ children }) => <ol className="my-2 ml-4 list-decimal space-y-1">{children}</ol>,
-                  li: ({ children }) => <li className="pl-1">{children}</li>,
-                  h1: ({ children }) => <h1 className="text-sm font-bold my-2 first:mt-0 text-zinc-100">{children}</h1>,
-                  h2: ({ children }) => <h2 className="text-xs font-bold my-1.5 first:mt-0 text-zinc-100">{children}</h2>,
-                  h3: ({ children }) => <h3 className="text-xs font-semibold my-1 first:mt-0 text-zinc-100">{children}</h3>,
-                  strong: ({ children }) => <strong className="font-semibold text-zinc-100">{children}</strong>,
-                  code: ({ children }) => <code className="bg-zinc-700 px-1 py-0.5 rounded text-cyan-400 text-xs">{children}</code>,
-                  pre: ({ children }) => <pre className="bg-zinc-900 p-3 rounded overflow-x-auto my-2">{children}</pre>,
-                  a: ({ children, href }) => <a href={href} className="text-cyan-400 hover:underline">{children}</a>,
-                  blockquote: ({ children }) => <blockquote className="border-l-2 border-zinc-600 pl-3 italic text-zinc-400 my-2">{children}</blockquote>,
-                  img: ({ src, alt }) => (
-                    <span className="block my-2">
-                      <img 
-                        src={src} 
-                        alt={alt || "Image"} 
-                        className="max-w-full h-auto rounded-lg border border-zinc-700"
-                        loading="lazy"
-                      />
-                      {alt && <span className="block text-xs text-zinc-500 mt-1 italic">{alt}</span>}
-                    </span>
-                  ),
-                }}
-              >
-                {selectedResult?.content || ""}
-              </ReactMarkdown>
+              <MarkdownWithFrontmatter content={selectedResult?.content || ""} />
             </div>
           </div>
         </DialogContent>

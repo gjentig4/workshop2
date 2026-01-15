@@ -72,7 +72,7 @@ export function Navigation() {
             <div className="w-px h-6 bg-zinc-800 mx-2" />
             
             <a
-              href="https://github.com/gjentig4"
+              href="https://github.com/gjentig4/workshop2"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-zinc-400 hover:text-white hover:bg-zinc-800/50 transition-colors"

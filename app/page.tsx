@@ -214,7 +214,7 @@ export default function Home() {
             
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com/gjentig4"
+                href="https://github.com/gjentig4/workshop2"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm text-zinc-500 hover:text-zinc-300 transition-colors"

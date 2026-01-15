@@ -1,36 +1,152 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Teamleader AI Workshop
+
+An educational application for learning LLM concepts, RAG (Retrieval-Augmented Generation), and building AI-powered applications. Built for the Teamleader Focus AI Workshop.
+
+## Features
+
+### AI Playground
+Experiment with LLM capabilities without RAG:
+- **Model Selection**: Use any model from [OpenRouter](https://openrouter.ai/models) (200+ models available)
+- **Temperature Control**: Adjust response randomness (0.0-2.0)
+- **Streaming**: Watch responses generate in real-time
+- **System Prompts**: Configure AI persona and behavior
+- **Tool Calling**: Test function calling with demo tools (datetime, weather)
+- **Structured Output**: Force JSON schema responses
+- **Reasoning Mode**: Enable extended thinking for complex tasks
+- **Debug Panel**: View token counts, latency, and API details
+
+### RAG Lab
+Build and query your own knowledge base:
+- **Document Upload**: Upload markdown/text files for embedding
+- **Embedding Strategies**: Store as chunks, full documents, or both
+- **Semantic Search**: Query documents using vector similarity
+- **Retrieval Settings**: Configure Top K results and similarity threshold
+- **Learning Mode**: Interactive guided learning with suggested questions
+
+### Observability
+- **Langfuse Integration**: Full tracing, logging, and prompt management
+- **Token Tracking**: Monitor usage and costs per request
+- **Prompt Versioning**: Update prompts without code deployments
+
+## Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **UI**: Tailwind CSS, Radix UI, Lucide Icons
+- **LLM Provider**: OpenRouter API
+- **Embeddings**: OpenAI `text-embedding-3-small`
+- **Vector Database**: Supabase with pgvector
+- **Observability**: Langfuse
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+- Node.js 18+
+- Supabase account (for vector database)
+- OpenRouter API key
+- OpenAI API key (for embeddings)
+- Langfuse account (optional, for tracing)
+
+### Environment Variables
+
+Create a `.env.local` file:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+OPENROUTER_API_KEY=your_openrouter_key
+OPENAI_API_KEY=your_openai_key
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+LANGFUSE_PUBLIC_KEY=your_langfuse_public_key
+LANGFUSE_SECRET_KEY=your_langfuse_secret_key
+LANGFUSE_HOST=https://cloud.langfuse.com
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) to start exploring.
 
-## Learn More
+## Key Concepts Covered
 
-To learn more about Next.js, take a look at the following resources:
+### Prompt Engineering
+- **CRAFT Framework**: Context, Role, Action, Format, Tone
+- **XML Tags**: Structured prompt organization
+- **Prompt Caching**: Up to 90% cost savings with cache-friendly structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### RAG Architecture
+- **Embeddings**: Converting text to vectors for semantic search
+- **Chunking**: Splitting documents for precise retrieval
+- **Vector Search**: Finding relevant context using similarity
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Tool Calling
+- **ReAct Pattern**: Reason → Act → Observe → Answer
+- **Parallel Execution**: Multiple tool calls in single request
+- **Demo Tools**: `get_current_datetime` (real) and `get_weather` (mock)
 
-## Deploy on Vercel
+### Cost Optimization
+- Prompt caching structure (static content first, dynamic last)
+- Smart retrieval (fewer, better chunks)
+- Model selection based on task complexity
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Sample Documents
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Sample documents for testing RAG are available in:
+- `/DOCS` folder in this repository
+- [Google Drive](https://drive.google.com/drive/folders/11uYOmzhfKrwqoacIDTjd8f3-kwYRKl4V?usp=sharing)
+
+## Contributing
+
+We welcome contributions! High-impact areas include:
+
+1. **Streaming + Tool Calls**: Implement hybrid streaming that pauses for tool execution
+2. **OpenRouter Embeddings**: Replace OpenAI embeddings with OpenRouter's unified API
+3. **Profiles System**: Improve configuration saving/sharing (`/api/profiles`)
+4. **Learning Mode Questions**: Add practical examples to `learning-mode-panel.tsx`
+5. **Workshop Prompt**: Update the guide in `/lib/presets.ts`
+
+**Important**: When making changes that affect functionality, update the `workshop-guide` prompt in Langfuse! The prompt source lives in `/lib/presets.ts`.
+
+## Project Structure
+
+```
+app/
+├── api/
+│   ├── chat/          # Playground chat endpoint
+│   ├── rag/           # RAG chat and embeddings
+│   └── profiles/      # User configuration profiles
+├── playground/        # AI Playground page
+└── rag-lab/          # RAG Lab page
+
+components/
+├── playground/        # Playground UI components
+├── rag-lab/          # RAG Lab UI components
+├── shared/           # Shared components (navigation, message bubble)
+└── ui/               # Base UI components (shadcn/ui)
+
+lib/
+├── embeddings.ts     # Embedding generation
+├── tools.ts          # Tool definitions and execution
+├── presets.ts        # System prompt presets
+└── supabase.ts       # Database client
+```
+
+## The Bigger Picture
+
+This workshop prepares you for AI integration in Teamleader Focus:
+- **Support AI**: Answer customer questions from help documentation (RAG)
+- **Action Suggestions**: AI suggests actions, UI shows interactive buttons (tool calling)
+- **Smart Prefilling**: AI fills forms based on context (structured output)
+- **Observability**: Track what's working with Langfuse
+
+## License
+
+MIT
+
+## Author
+
+Built by [Gent Thaqi](https://github.com/gjentig4) for the Teamleader AI Workshop.
+
+Repository: [github.com/gjentig4/workshop2](https://github.com/gjentig4/workshop2)

@@ -14,6 +14,7 @@ import { FileUploader } from "@/components/rag-lab/file-uploader";
 import { LearningModePanel } from "@/components/rag-lab/learning-mode-panel";
 import { RAGChat } from "@/components/rag-lab/rag-chat";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Slider } from "@/components/ui/slider";
 import { Upload, FolderOpen, GraduationCap } from "lucide-react";
 
 const DEFAULT_SETTINGS: Partial<Profile> = {
@@ -386,6 +387,37 @@ export default function RAGLabPage() {
               </TabsContent>
 
               <TabsContent value="upload" className="mt-3 space-y-4">
+                {/* Chunk Settings */}
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <label className="text-sm text-zinc-400">
+                      Chunk Size: {ragSettings.chunkSize}
+                    </label>
+                    <Slider
+                      value={[ragSettings.chunkSize]}
+                      onValueChange={([v]) => setRagSettings(prev => ({ ...prev, chunkSize: v }))}
+                      min={200}
+                      max={4000}
+                      step={100}
+                      className="w-32"
+                    />
+                  </div>
+
+                  <div className="flex items-center justify-between">
+                    <label className="text-sm text-zinc-400">
+                      Overlap: {ragSettings.chunkOverlap}
+                    </label>
+                    <Slider
+                      value={[ragSettings.chunkOverlap]}
+                      onValueChange={([v]) => setRagSettings(prev => ({ ...prev, chunkOverlap: v }))}
+                      min={0}
+                      max={500}
+                      step={50}
+                      className="w-32"
+                    />
+                  </div>
+                </div>
+
                 <FileUploader
                   chunkSize={ragSettings.chunkSize}
                   chunkOverlap={ragSettings.chunkOverlap}

@@ -1,10 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import ReactMarkdown from "react-markdown";
-import { FileText, Trash2, Loader2, Layers, File, Eye, RefreshCw, ChevronDown, ChevronRight } from "lucide-react";
+import { FileText, Trash2, Loader2, Layers, RefreshCw, ChevronDown, ChevronRight } from "lucide-react";
+import { MarkdownWithFrontmatter } from "@/components/shared/markdown-with-frontmatter";
 import { Button } from "@/components/ui/button";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import { Badge } from "@/components/ui/badge";
 import {
   Dialog,
@@ -225,7 +224,12 @@ export function DocumentManager({ refreshTrigger, onRefresh }: DocumentManagerPr
                             {wholeDoc.length > 0 && (
                               <Badge
                                 variant="secondary"
-                                className="text-[9px] h-3.5 px-1 py-0 bg-emerald-950/50 text-emerald-300 border-emerald-800/50"
+                                className="text-[9px] h-3.5 px-1 py-0 bg-emerald-950/50 text-emerald-300 border-emerald-800/50 cursor-pointer hover:bg-emerald-900/50"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  setSelectedEmbedding(wholeDoc[0]);
+                                }}
+                                title="Click to view full document"
                               >
                                 <FileText className="w-2 h-2 mr-0.5" />
                                 doc
@@ -258,7 +262,9 @@ export function DocumentManager({ refreshTrigger, onRefresh }: DocumentManagerPr
                       {doc.embeddings.map((emb) => (
                         <div
                           key={emb.id}
-                          className="flex items-center justify-between p-1.5 rounded bg-zinc-900/50 hover:bg-zinc-800/50 transition-colors group"
+                          className="flex items-center justify-between p-1.5 rounded bg-zinc-900/50 hover:bg-zinc-800/50 transition-colors group cursor-pointer"
+                          onClick={() => setSelectedEmbedding(emb)}
+                          title="Click to view content"
                         >
                           <div className="flex items-center gap-1.5 min-w-0 flex-1">
                             {emb.embedding_type === "chunk" ? (
@@ -279,16 +285,11 @@ export function DocumentManager({ refreshTrigger, onRefresh }: DocumentManagerPr
                             <Button
                               size="icon"
                               variant="ghost"
-                              className="h-5 w-5 text-zinc-500 hover:text-zinc-300"
-                              onClick={() => setSelectedEmbedding(emb)}
-                            >
-                              <Eye className="w-2.5 h-2.5" />
-                            </Button>
-                            <Button
-                              size="icon"
-                              variant="ghost"
                               className="h-5 w-5 text-zinc-500 hover:text-red-400"
-                              onClick={() => deleteEmbedding(emb.id, doc.id)}
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                deleteEmbedding(emb.id, doc.id);
+                              }}
                             >
                               <Trash2 className="w-2.5 h-2.5" />
                             </Button>
@@ -328,38 +329,11 @@ export function DocumentManager({ refreshTrigger, onRefresh }: DocumentManagerPr
             {selectedEmbedding?.content.split(/\s+/).length} words
           </div>
 
-          <ScrollArea className="flex-1 min-h-0 mt-4">
-            <div className="pr-4 pb-4">
-              <div className="bg-zinc-800/50 p-4 rounded-lg text-zinc-300 prose prose-invert prose-xs max-w-none text-xs">
-                <ReactMarkdown
-                  components={{
-                    p: ({ children }) => <p className="my-2 first:mt-0 last:mb-0">{children}</p>,
-                    ul: ({ children }) => <ul className="my-2 ml-4 list-disc space-y-1">{children}</ul>,
-                    ol: ({ children }) => <ol className="my-2 ml-4 list-decimal space-y-1">{children}</ol>,
-                    li: ({ children }) => <li className="pl-1">{children}</li>,
-                    h1: ({ children }) => <h1 className="text-sm font-bold my-2 first:mt-0 text-zinc-100">{children}</h1>,
-                    h2: ({ children }) => <h2 className="text-xs font-bold my-1.5 first:mt-0 text-zinc-100">{children}</h2>,
-                    h3: ({ children }) => <h3 className="text-xs font-semibold my-1 first:mt-0 text-zinc-100">{children}</h3>,
-                    strong: ({ children }) => <strong className="font-semibold text-zinc-100">{children}</strong>,
-                    code: ({ children }) => <code className="bg-zinc-700 px-1 py-0.5 rounded text-cyan-400 text-xs">{children}</code>,
-                    img: ({ src, alt }) => (
-                      <span className="block my-2">
-                        <img 
-                          src={src} 
-                          alt={alt || "Image"} 
-                          className="max-w-full h-auto rounded-lg border border-zinc-700"
-                          loading="lazy"
-                        />
-                        {alt && <span className="block text-xs text-zinc-500 mt-1 italic">{alt}</span>}
-                      </span>
-                    ),
-                  }}
-                >
-                  {selectedEmbedding?.content || ""}
-                </ReactMarkdown>
-              </div>
+          <div className="flex-1 overflow-y-auto mt-4">
+            <div className="bg-zinc-800/50 p-4 rounded-lg text-zinc-300 prose prose-invert prose-xs max-w-none text-xs">
+              <MarkdownWithFrontmatter content={selectedEmbedding?.content || ""} />
             </div>
-          </ScrollArea>
+          </div>
         </DialogContent>
       </Dialog>
     </div>

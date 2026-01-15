@@ -17,7 +17,7 @@ import { Message, PlaygroundSettings, ChatRequest } from "@/types";
 import { supportsReasoning } from "@/lib/reasoning";
 
 const DEFAULT_SETTINGS: PlaygroundSettings = {
-  model: "",
+  model: "anthropic/claude-haiku-4.5",
   temperature: 0.7,
   enableStreaming: true,
   enableSystemPrompt: true,
@@ -29,7 +29,7 @@ const DEFAULT_SETTINGS: PlaygroundSettings = {
   customTools: "",
   enableStructuredOutput: false,
   structuredOutputSchema: "",
-  enableTracing: false,
+  enableTracing: true,
 };
 
 export default function PlaygroundPage() {

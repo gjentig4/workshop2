@@ -7,7 +7,19 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
-import { ChevronDown, ChevronRight, GraduationCap, Sparkles } from "lucide-react";
+import { 
+  ChevronDown, 
+  ChevronRight, 
+  GraduationCap, 
+  Sparkles,
+  Rocket,
+  PenTool,
+  BookOpen,
+  Wrench,
+  Brain,
+  Code,
+  LucideIcon,
+} from "lucide-react";
 
 interface LearningModePanelProps {
   isEnabled: boolean;
@@ -20,7 +32,7 @@ interface LearningModePanelProps {
 interface QuestionCategory {
   id: string;
   name: string;
-  icon: string;
+  icon: LucideIcon;
   questions: string[];
 }
 
@@ -28,7 +40,7 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
   {
     id: "getting-started",
     name: "Getting Started",
-    icon: "🚀",
+    icon: Rocket,
     questions: [
       "What can you help me with?",
       "Explain how this RAG system works",
@@ -39,7 +51,7 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
   {
     id: "prompt-engineering",
     name: "Prompt Engineering",
-    icon: "✍️",
+    icon: PenTool,
     questions: [
       "What is prompt caching and how does it save money?",
       "How should I structure a good system prompt?",
@@ -52,7 +64,7 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
   {
     id: "rag-retrieval",
     name: "RAG & Retrieval",
-    icon: "📚",
+    icon: BookOpen,
     questions: [
       "What is the difference between chunks and full documents?",
       "How does similarity search work?",
@@ -64,19 +76,19 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
   {
     id: "tools-actions",
     name: "Tools & Actions",
-    icon: "🔧",
+    icon: Wrench,
     questions: [
+      "What is the ReAct pattern? Are there other patterns?",
+      "How do tools work with LLMs?",
       "What time is it in Brussels?",
       "What's the weather like in Prishtina?",
       "Can you get the current date and also check the weather?",
-      "How do tools work with LLMs?",
-      "What is the ReAct pattern?",
     ],
   },
   {
     id: "advanced",
     name: "Advanced Concepts",
-    icon: "🧠",
+    icon: Brain,
     questions: [
       "What are the tradeoffs of using LangChain vs raw API calls?",
       "How would you handle having 100+ tools?",
@@ -85,6 +97,18 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
       "What is structured output and when should I use it?",
       "What are context windows and token limits?",
       "How do I reduce hallucinations in LLM responses?",
+    ],
+  },
+  {
+    id: "contribute",
+    name: "I'm a Dev, How Can I Help?",
+    icon: Code,
+    questions: [
+      "What features are missing from this repo?",
+      "How can I help implement streaming with tool calls?",
+      "What's the deal with profiles and how can I improve them?",
+      "How would I implement OpenRouter embeddings?",
+      "Where can I add useful links and resources to the workshop?",
     ],
   },
 ];
@@ -152,7 +176,7 @@ export function LearningModePanel({
           >
             <CollapsibleTrigger asChild>
               <button className="w-full flex items-center gap-2 p-2 rounded-lg hover:bg-zinc-800/50 text-left text-sm">
-                <span>{category.icon}</span>
+                <category.icon className="w-4 h-4 text-orange-400" />
                 <span className="flex-1 font-medium text-zinc-300">
                   {category.name}
                 </span>
