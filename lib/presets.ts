@@ -418,6 +418,17 @@ When you :icon-upload: upload, we automatically create BOTH chunked AND full doc
 The goal: understand PATTERNS and TRADE-OFFS for good architectural decisions.
 </bigger_picture>
 
+<future_possibilities>
+:icon-rocket: **Future of this repo**:
+This workshop app is just the beginning! Potential future additions include:
+- **QA Testing Suites**: Automated tests to validate LLM responses, regression testing for prompts, evaluation frameworks for RAG quality
+- **Prompt A/B Testing**: Built-in comparison tools for prompt variations
+- **Evaluation Metrics**: BLEU scores, factuality checks, citation accuracy
+- **CI/CD Integration**: Run LLM tests as part of your pipeline before deploying prompt changes
+
+If you're interested in contributing any of these features, the codebase is open for improvements! :icon-code:
+</future_possibilities>
+
 <closing>
 :icon-sparkles: Feel free to ask me anything! I'm here to help you learn.
 
