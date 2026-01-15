@@ -12,6 +12,7 @@ import { ToolsEditorModal } from "@/components/rag-lab/tools-editor-modal";
 import { DocumentManager } from "@/components/rag-lab/document-manager";
 import { FileUploader } from "@/components/rag-lab/file-uploader";
 import { EmbeddingStrategySelector } from "@/components/rag-lab/embedding-strategy-selector";
+import { LearningModePanel } from "@/components/rag-lab/learning-mode-panel";
 import { RAGChat } from "@/components/rag-lab/rag-chat";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Upload, FolderOpen } from "lucide-react";
@@ -67,6 +68,9 @@ export default function RAGLabPage() {
 
   // RAG/Embedding settings (for uploads)
   const [ragSettings, setRagSettings] = useState<RAGSettings>(DEFAULT_RAG_SETTINGS);
+
+  // Learning mode - external input for chat
+  const [learningModeInput, setLearningModeInput] = useState<string>("");
 
   // Fetch profiles on mount
   useEffect(() => {
@@ -333,6 +337,13 @@ export default function RAGLabPage() {
                 />
               </TabsContent>
             </Tabs>
+
+            {/* Learning Mode Panel */}
+            <div className="border-t border-zinc-800">
+              <LearningModePanel
+                onSelectQuestion={(question) => setLearningModeInput(question)}
+              />
+            </div>
           </div>
         </aside>
 
@@ -349,6 +360,8 @@ export default function RAGLabPage() {
             }}
             initialMessages={messages}
             onMessagesChange={handleMessagesChange}
+            externalInput={learningModeInput}
+            onExternalInputConsumed={() => setLearningModeInput("")}
           />
         </main>
       </div>

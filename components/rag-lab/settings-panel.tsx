@@ -170,24 +170,6 @@ export function SettingsPanel({
           </div>
         </div>
 
-        {/* Search Strategy - which embeddings to search */}
-        <div className="flex items-center gap-4">
-          <label className="text-sm text-zinc-400">Search</label>
-          <Select
-            value={settings.embedding_strategy || "document"}
-            onValueChange={(value) => updateSetting("embedding_strategy", value as "document" | "chunk" | "both")}
-          >
-            <SelectTrigger className="w-40 bg-zinc-800 border-zinc-700">
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent className="bg-zinc-800 border-zinc-700">
-              <SelectItem value="document">Full Documents</SelectItem>
-              <SelectItem value="chunk">Chunks Only</SelectItem>
-              <SelectItem value="both">All Embeddings</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
-
         {/* System Prompt & Tools Buttons */}
         <div className="flex flex-col gap-2 pt-2">
           <Button

@@ -23,6 +23,8 @@ interface RAGChatProps {
   ragSettings: RAGSettings;
   initialMessages?: Message[];
   onMessagesChange?: (messages: Message[]) => void;
+  externalInput?: string;
+  onExternalInputConsumed?: () => void;
 }
 
 export function RAGChat({
@@ -32,9 +34,12 @@ export function RAGChat({
   ragSettings,
   initialMessages = [],
   onMessagesChange,
+  externalInput,
+  onExternalInputConsumed,
 }: RAGChatProps) {
   const [messages, setMessages] = useState<Message[]>(initialMessages);
   const [input, setInput] = useState("");
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [context, setContext] = useState<RAGSearchResult[]>([]);
   const [debugInfo, setDebugInfo] = useState<Message["metadata"] | null>(null);
@@ -45,6 +50,18 @@ export function RAGChat({
   useEffect(() => {
     setMessages(initialMessages);
   }, [initialMessages]);
+
+  // Handle external input (from Learning Mode)
+  useEffect(() => {
+    if (externalInput) {
+      setInput(externalInput);
+      onExternalInputConsumed?.();
+      // Focus the textarea
+      setTimeout(() => {
+        textareaRef.current?.focus();
+      }, 0);
+    }
+  }, [externalInput, onExternalInputConsumed]);
 
   // Notify parent of message changes
   useEffect(() => {
@@ -111,8 +128,10 @@ export function RAGChat({
         throw new Error(errorData.error || `HTTP ${response.status}`);
       }
 
-      // Handle streaming response
-      if (settings.streaming_enabled !== false) {
+      // Handle streaming response (tools force non-streaming mode on server)
+      const useStreaming = settings.streaming_enabled !== false && !settings.tools_enabled;
+      
+      if (useStreaming) {
         const reader = response.body?.getReader();
         if (!reader) throw new Error("No reader");
 
@@ -296,6 +315,7 @@ export function RAGChat({
       <div className="border-t border-zinc-800 p-4 shrink-0">
         <form onSubmit={handleSubmit} className="flex gap-3">
           <Textarea
+            ref={textareaRef}
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder={

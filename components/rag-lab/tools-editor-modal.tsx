@@ -29,94 +29,45 @@ interface ToolsEditorModalProps {
   onSave: (enabled: boolean, tools: ToolDefinition[]) => void;
 }
 
-// Preset tool configurations
+// Preset tool configurations - must match executeTool implementations in lib/tools.ts
 const TOOL_PRESETS: Record<string, ToolDefinition[]> = {
-  "Teamleader Support": [
+  "Demo Tools": [
     {
-      name: "search_knowledge_base",
-      description: "Search the Teamleader knowledge base for relevant articles and documentation",
-      parameters: {
-        type: "object",
-        properties: {
-          query: {
-            type: "string",
-            description: "The search query to find relevant help articles",
-          },
-        },
-        required: ["query"],
-      },
-    },
-    {
-      name: "get_customer_info",
-      description: "Retrieve customer information by ID or email",
-      parameters: {
-        type: "object",
-        properties: {
-          customer_id: {
-            type: "string",
-            description: "The customer's unique ID",
-          },
-          email: {
-            type: "string",
-            description: "The customer's email address",
-          },
-        },
-      },
-    },
-    {
-      name: "create_support_ticket",
-      description: "Create a new support ticket for the customer",
-      parameters: {
-        type: "object",
-        properties: {
-          subject: {
-            type: "string",
-            description: "The ticket subject",
-          },
-          description: {
-            type: "string",
-            description: "Detailed description of the issue",
-          },
-          priority: {
-            type: "string",
-            enum: ["low", "medium", "high", "urgent"],
-            description: "Ticket priority level",
-          },
-        },
-        required: ["subject", "description"],
-      },
-    },
-    {
-      name: "escalate_to_human",
-      description: "Escalate the conversation to a human support agent",
-      parameters: {
-        type: "object",
-        properties: {
-          reason: {
-            type: "string",
-            description: "Reason for escalation",
-          },
-          context: {
-            type: "string",
-            description: "Summary of the conversation so far",
-          },
-        },
-        required: ["reason"],
-      },
-    },
-  ],
-  "Basic": [
-    {
-      name: "get_current_time",
-      description: "Get the current date and time",
+      name: "get_current_datetime",
+      description: "Get the current date and time. Use this when the user asks about the current date, time, day of the week, or anything time-related.",
       parameters: {
         type: "object",
         properties: {
           timezone: {
             type: "string",
-            description: "The timezone to get time for (e.g., 'Europe/Brussels')",
+            description: "Timezone (e.g., 'Europe/Brussels', 'America/New_York'). Defaults to UTC if not specified.",
+          },
+          format: {
+            type: "string",
+            enum: ["full", "date_only", "time_only"],
+            description: "Output format. 'full' includes date and time, 'date_only' just the date, 'time_only' just the time.",
           },
         },
+        required: [],
+      },
+    },
+    {
+      name: "get_weather",
+      description: "Get current weather information for a city or location. Returns temperature, conditions, humidity, and wind speed.",
+      parameters: {
+        type: "object",
+        properties: {
+          location: {
+            type: "string",
+            description: "City name (e.g., 'Prishtina, Kosovo', 'Brussels, Belgium', 'New York')",
+          },
+          units: {
+            type: "string",
+            enum: ["celsius", "fahrenheit"],
+            description: "Temperature units (default: celsius)",
+          },
+        },
+        required: ["location"],
       },
     },
   ],
