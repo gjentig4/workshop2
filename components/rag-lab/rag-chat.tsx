@@ -25,7 +25,10 @@ interface RAGChatProps {
   onMessagesChange?: (messages: Message[]) => void;
   externalInput?: string;
   onExternalInputConsumed?: () => void;
+  skipRag?: boolean;
 }
+
+const CHAT_STORAGE_KEY = "rag-lab-chat-messages";
 
 export function RAGChat({
   profileId,
@@ -36,8 +39,22 @@ export function RAGChat({
   onMessagesChange,
   externalInput,
   onExternalInputConsumed,
+  skipRag = false,
 }: RAGChatProps) {
-  const [messages, setMessages] = useState<Message[]>(initialMessages);
+  const [messages, setMessages] = useState<Message[]>(() => {
+    // Try to load from localStorage on initial mount
+    if (typeof window !== "undefined") {
+      const saved = localStorage.getItem(CHAT_STORAGE_KEY);
+      if (saved) {
+        try {
+          return JSON.parse(saved);
+        } catch {
+          // Invalid JSON, ignore
+        }
+      }
+    }
+    return initialMessages;
+  });
   const [input, setInput] = useState("");
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const [isLoading, setIsLoading] = useState(false);
@@ -45,11 +62,26 @@ export function RAGChat({
   const [debugInfo, setDebugInfo] = useState<Message["metadata"] | null>(null);
   const [streamingContent, setStreamingContent] = useState("");
   const scrollRef = useRef<HTMLDivElement>(null);
+  const [autoScroll, setAutoScroll] = useState(true);
+
+  // Save messages to localStorage whenever they change
+  useEffect(() => {
+    if (messages.length > 0) {
+      localStorage.setItem(CHAT_STORAGE_KEY, JSON.stringify(messages));
+    } else {
+      localStorage.removeItem(CHAT_STORAGE_KEY);
+    }
+  }, [messages]);
 
   // Update messages when initial messages change (profile switch)
+  // This is intentionally using initialMessages as the only dependency
+  // to avoid re-syncing when local messages change
   useEffect(() => {
-    setMessages(initialMessages);
-  }, [initialMessages]);
+    if (initialMessages.length > 0) {
+      setMessages(initialMessages);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [JSON.stringify(initialMessages)]);
 
   // Handle external input (from Learning Mode)
   useEffect(() => {
@@ -68,15 +100,36 @@ export function RAGChat({
     onMessagesChange?.(messages);
   }, [messages, onMessagesChange]);
 
-  // Auto-scroll to bottom
+  // Auto-scroll to bottom (only if user hasn't scrolled up)
   useEffect(() => {
-    if (scrollRef.current) {
+    if (scrollRef.current && autoScroll) {
       const viewport = scrollRef.current.querySelector("[data-radix-scroll-area-viewport]");
       if (viewport) {
         viewport.scrollTop = viewport.scrollHeight;
       }
     }
-  }, [messages, streamingContent]);
+  }, [messages, streamingContent, autoScroll]);
+
+  // Re-enable auto-scroll when loading finishes
+  useEffect(() => {
+    if (!isLoading) {
+      setAutoScroll(true);
+    }
+  }, [isLoading]);
+
+  // Track scroll position to detect if user scrolled up
+  const handleScrollCapture = () => {
+    if (scrollRef.current && isLoading) {
+      const viewport = scrollRef.current.querySelector("[data-radix-scroll-area-viewport]");
+      if (viewport) {
+        const { scrollTop, scrollHeight, clientHeight } = viewport;
+        const isNearBottom = scrollHeight - scrollTop - clientHeight < 100;
+        if (!isNearBottom) {
+          setAutoScroll(false);
+        }
+      }
+    }
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -120,6 +173,7 @@ export function RAGChat({
           topK: ragSettings.topK || 5,
           embeddingStrategy: ragSettings.embeddingStrategy || "document",
           similarityThreshold: ragSettings.similarityThreshold ?? 0.1,
+          skipRag,
         }),
       });
 
@@ -235,19 +289,20 @@ export function RAGChat({
     setMessages([]);
     setContext([]);
     setDebugInfo(null);
+    localStorage.removeItem(CHAT_STORAGE_KEY);
   };
 
   return (
-    <div className="flex flex-col h-full">
+    <div className="flex flex-col h-full min-h-0">
       {/* Context Preview */}
       {(context.length > 0 || isLoading) && (
-        <div className="px-4 pt-4">
+        <div className="px-4 pt-4 shrink-0">
           <ContextPreview context={context} isLoading={isLoading && context.length === 0} />
         </div>
       )}
 
       {/* Chat Messages */}
-      <div className="flex-1 overflow-hidden">
+      <div className="flex-1 overflow-hidden min-h-0" onScrollCapture={handleScrollCapture}>
         <ScrollArea className="h-full" ref={scrollRef}>
           <div className="p-4 space-y-4">
             {messages.length === 0 ? (

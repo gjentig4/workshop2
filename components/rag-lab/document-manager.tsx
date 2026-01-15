@@ -330,16 +330,16 @@ export function DocumentManager({ refreshTrigger, onRefresh }: DocumentManagerPr
 
           <ScrollArea className="flex-1 min-h-0 mt-4">
             <div className="pr-4 pb-4">
-              <div className="bg-zinc-800/50 p-4 rounded-lg text-zinc-300 prose prose-invert prose-sm max-w-none">
+              <div className="bg-zinc-800/50 p-4 rounded-lg text-zinc-300 prose prose-invert prose-xs max-w-none text-xs">
                 <ReactMarkdown
                   components={{
                     p: ({ children }) => <p className="my-2 first:mt-0 last:mb-0">{children}</p>,
                     ul: ({ children }) => <ul className="my-2 ml-4 list-disc space-y-1">{children}</ul>,
                     ol: ({ children }) => <ol className="my-2 ml-4 list-decimal space-y-1">{children}</ol>,
                     li: ({ children }) => <li className="pl-1">{children}</li>,
-                    h1: ({ children }) => <h1 className="text-xl font-bold my-3 first:mt-0 text-zinc-100">{children}</h1>,
-                    h2: ({ children }) => <h2 className="text-lg font-bold my-2 first:mt-0 text-zinc-100">{children}</h2>,
-                    h3: ({ children }) => <h3 className="text-base font-bold my-2 first:mt-0 text-zinc-100">{children}</h3>,
+                    h1: ({ children }) => <h1 className="text-sm font-bold my-2 first:mt-0 text-zinc-100">{children}</h1>,
+                    h2: ({ children }) => <h2 className="text-xs font-bold my-1.5 first:mt-0 text-zinc-100">{children}</h2>,
+                    h3: ({ children }) => <h3 className="text-xs font-semibold my-1 first:mt-0 text-zinc-100">{children}</h3>,
                     strong: ({ children }) => <strong className="font-semibold text-zinc-100">{children}</strong>,
                     code: ({ children }) => <code className="bg-zinc-700 px-1 py-0.5 rounded text-cyan-400 text-xs">{children}</code>,
                     img: ({ src, alt }) => (

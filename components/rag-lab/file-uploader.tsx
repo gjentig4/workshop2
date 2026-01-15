@@ -6,18 +6,18 @@ import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
 
 interface FileUploaderProps {
-  strategy: "chunk" | "document" | "both";
-  chunkSize: number;
-  chunkOverlap: number;
+  chunkSize?: number;
+  chunkOverlap?: number;
   onUploadComplete: () => void;
 }
 
 export function FileUploader({
-  strategy,
-  chunkSize,
-  chunkOverlap,
+  chunkSize = 1000,
+  chunkOverlap = 200,
   onUploadComplete,
 }: FileUploaderProps) {
+  // Always use "both" strategy - store as chunks AND full document
+  const strategy = "both";
   const [isDragging, setIsDragging] = useState(false);
   const [files, setFiles] = useState<File[]>([]);
   const [isUploading, setIsUploading] = useState(false);

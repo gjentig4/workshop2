@@ -11,11 +11,10 @@ import { PromptEditorModal } from "@/components/rag-lab/prompt-editor-modal";
 import { ToolsEditorModal } from "@/components/rag-lab/tools-editor-modal";
 import { DocumentManager } from "@/components/rag-lab/document-manager";
 import { FileUploader } from "@/components/rag-lab/file-uploader";
-import { EmbeddingStrategySelector } from "@/components/rag-lab/embedding-strategy-selector";
 import { LearningModePanel } from "@/components/rag-lab/learning-mode-panel";
 import { RAGChat } from "@/components/rag-lab/rag-chat";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Upload, FolderOpen } from "lucide-react";
+import { Upload, FolderOpen, GraduationCap } from "lucide-react";
 
 const DEFAULT_SETTINGS: Partial<Profile> = {
   model: "anthropic/claude-sonnet-4.5",
@@ -69,8 +68,14 @@ export default function RAGLabPage() {
   // RAG/Embedding settings (for uploads)
   const [ragSettings, setRagSettings] = useState<RAGSettings>(DEFAULT_RAG_SETTINGS);
 
-  // Learning mode - external input for chat
+  // Learning mode state
+  const [learningModeEnabled, setLearningModeEnabled] = useState(false);
   const [learningModeInput, setLearningModeInput] = useState<string>("");
+  const [learningModeExpandedCategories, setLearningModeExpandedCategories] = useState<Set<string>>(new Set());
+  const [savedSettingsBeforeLearningMode, setSavedSettingsBeforeLearningMode] = useState<{
+    promptName: string | null;
+    systemPrompt: string;
+  } | null>(null);
 
   // Fetch profiles on mount
   useEffect(() => {
@@ -275,6 +280,52 @@ export default function RAGLabPage() {
     setMessages(newMessages);
   }, []);
 
+  // Handle learning mode toggle
+  const handleLearningModeToggle = async (enabled: boolean) => {
+    if (enabled) {
+      // Save current settings before enabling learning mode
+      setSavedSettingsBeforeLearningMode({
+        promptName,
+        systemPrompt,
+      });
+
+      // Load the workshop-guide prompt from Langfuse
+      try {
+        const response = await fetch(
+          `/api/langfuse/prompts?name=workshop-guide`
+        );
+        if (response.ok) {
+          const data = await response.json();
+          setSystemPrompt(data.prompt || "");
+          setPromptName("workshop-guide");
+          setPromptVersion(data.version || 1);
+          toast.success("Learning Mode enabled - Workshop Guide loaded");
+        } else {
+          // Fallback: just clear prompt if workshop-guide doesn't exist in Langfuse
+          toast.error("Workshop guide prompt not found in Langfuse. Please create it first.");
+          return; // Don't enable learning mode if prompt doesn't exist
+        }
+      } catch (error) {
+        console.error("Failed to load workshop prompt:", error);
+        toast.error("Failed to load workshop prompt from Langfuse");
+        return;
+      }
+
+      setLearningModeExpandedCategories(new Set(["getting-started"]));
+    } else {
+      // Restore previous settings
+      if (savedSettingsBeforeLearningMode) {
+        setPromptName(savedSettingsBeforeLearningMode.promptName);
+        setSystemPrompt(savedSettingsBeforeLearningMode.systemPrompt);
+        setSavedSettingsBeforeLearningMode(null);
+      }
+      setLearningModeExpandedCategories(new Set());
+      toast.success("Learning Mode disabled - Previous settings restored");
+    }
+
+    setLearningModeEnabled(enabled);
+  };
+
   return (
     <div className="h-[calc(100vh-4rem)] flex flex-col">
       {/* Header with Profile Selector */}
@@ -295,6 +346,15 @@ export default function RAGLabPage() {
         {/* Sidebar */}
         <aside className="w-80 shrink-0 border-r border-zinc-800 bg-zinc-950 flex flex-col overflow-hidden">
           <div className="flex-1 overflow-y-auto overflow-x-hidden min-w-0">
+            {/* Learning Mode Panel - At the top */}
+            <LearningModePanel
+              isEnabled={learningModeEnabled}
+              onToggle={handleLearningModeToggle}
+              onSelectQuestion={(question) => setLearningModeInput(question)}
+              expandedCategories={learningModeExpandedCategories}
+              onExpandedCategoriesChange={setLearningModeExpandedCategories}
+            />
+
             {/* Settings Panel */}
             <SettingsPanel
               settings={settings}
@@ -302,6 +362,7 @@ export default function RAGLabPage() {
               onOpenPromptEditor={() => setShowPromptEditor(true)}
               onOpenToolsEditor={() => setShowToolsEditor(true)}
               promptName={promptName}
+              learningModeActive={learningModeEnabled}
             />
 
             {/* Document Tabs */}
@@ -325,36 +386,34 @@ export default function RAGLabPage() {
               </TabsContent>
 
               <TabsContent value="upload" className="mt-3 space-y-4">
-                <EmbeddingStrategySelector
-                  settings={ragSettings}
-                  onSettingsChange={setRagSettings}
-                />
                 <FileUploader
-                  strategy={ragSettings.embeddingStrategy}
                   chunkSize={ragSettings.chunkSize}
                   chunkOverlap={ragSettings.chunkOverlap}
                   onUploadComplete={handleUploadComplete}
                 />
               </TabsContent>
             </Tabs>
-
-            {/* Learning Mode Panel */}
-            <div className="border-t border-zinc-800">
-              <LearningModePanel
-                onSelectQuestion={(question) => setLearningModeInput(question)}
-              />
-            </div>
           </div>
         </aside>
 
         {/* Main Chat Area */}
         <main className="flex-1 flex flex-col min-w-0 bg-zinc-900/30">
+          {/* Learning Mode Indicator */}
+          {learningModeEnabled && (
+            <div className="px-4 py-2 bg-amber-950/30 border-b border-amber-800/30 flex items-center gap-2">
+              <GraduationCap className="w-4 h-4 text-amber-500" />
+              <span className="text-sm text-amber-400">
+                Learning Mode Active - RAG retrieval is disabled
+              </span>
+            </div>
+          )}
           <RAGChat
             profileId={selectedProfileId}
             settings={settings}
             systemPrompt={systemPrompt}
             ragSettings={{
               ...ragSettings,
+              embeddingStrategy: (settings.embedding_strategy as "chunk" | "document" | "both") ?? "document",
               topK: settings.top_k ?? 5,
               similarityThreshold: settings.similarity_threshold ?? 0.1,
             }}
@@ -362,6 +421,7 @@ export default function RAGLabPage() {
             onMessagesChange={handleMessagesChange}
             externalInput={learningModeInput}
             onExternalInputConsumed={() => setLearningModeInput("")}
+            skipRag={learningModeEnabled}
           />
         </main>
       </div>

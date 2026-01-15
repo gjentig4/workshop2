@@ -27,6 +27,7 @@ export async function POST(request: NextRequest) {
       customTools,
       enableTracing = true,
       profileId,
+      skipRag = false, // When true, skip document retrieval (e.g., learning mode)
     } = body;
 
     if (!messages || messages.length === 0) {
@@ -54,55 +55,59 @@ export async function POST(request: NextRequest) {
 
     const supabase = await createClient();
 
-    // Generate embedding for the query
-    const queryEmbedding = await generateEmbedding(lastUserMessage.content);
-    
-    console.log("Query embedding generated, length:", queryEmbedding.length);
-
-    // Search for relevant context
+    // Search for relevant context (skip if in learning mode)
     let searchResults: RAGSearchResult[] = [];
 
-    const { data, error } = await supabase.rpc("match_embeddings", {
-      query_embedding: JSON.stringify(queryEmbedding),
-      match_threshold: 0.0, // Get all results, filter client-side
-      match_count: topK * 3, // Fetch more, filter later
-    });
-
-    if (error) {
-      console.error("RAG search error:", error);
-    }
-
-    if (data) {
-      console.log("RAG search found", data.length, "raw results");
+    if (!skipRag) {
+      // Generate embedding for the query
+      const queryEmbedding = await generateEmbedding(lastUserMessage.content);
       
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      searchResults = data.map((row: any) => ({
-        content: row.content,
-        documentId: row.document_id,
-        filename: row.filename,
-        similarity: row.similarity,
-        embeddingType: row.embedding_type,
-        chunkIndex: row.chunk_index,
-      }));
+      console.log("Query embedding generated, length:", queryEmbedding.length);
 
-      // Filter by similarity threshold first
-      searchResults = searchResults.filter(
-        (r) => r.similarity >= similarityThreshold
-      );
-      console.log("After threshold filter:", searchResults.length, "results (threshold:", similarityThreshold, ")");
+      const { data, error } = await supabase.rpc("match_embeddings", {
+        query_embedding: JSON.stringify(queryEmbedding),
+        match_threshold: 0.0, // Get all results, filter client-side
+        match_count: topK * 3, // Fetch more, filter later
+      });
 
-      // Filter by embedding strategy
-      if (embeddingStrategy !== "both") {
-        searchResults = searchResults.filter(
-          (r) => r.embeddingType === embeddingStrategy
-        );
+      if (error) {
+        console.error("RAG search error:", error);
       }
-      
-      // Limit to topK after filtering
-      searchResults = searchResults.slice(0, topK);
-      console.log("Final results:", searchResults.length);
+
+      if (data) {
+        console.log("RAG search found", data.length, "raw results");
+        
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        searchResults = data.map((row: any) => ({
+          content: row.content,
+          documentId: row.document_id,
+          filename: row.filename,
+          similarity: row.similarity,
+          embeddingType: row.embedding_type,
+          chunkIndex: row.chunk_index,
+        }));
+
+        // Filter by similarity threshold first
+        searchResults = searchResults.filter(
+          (r) => r.similarity >= similarityThreshold
+        );
+        console.log("After threshold filter:", searchResults.length, "results (threshold:", similarityThreshold, ")");
+
+        // Filter by embedding strategy
+        if (embeddingStrategy !== "both") {
+          searchResults = searchResults.filter(
+            (r) => r.embeddingType === embeddingStrategy
+          );
+        }
+        
+        // Limit to topK after filtering
+        searchResults = searchResults.slice(0, topK);
+        console.log("Final results:", searchResults.length);
+      } else {
+        console.log("RAG search returned no results");
+      }
     } else {
-      console.log("RAG search returned no results");
+      console.log("Skipping RAG retrieval (learning mode)");
     }
 
     // Build context from search results

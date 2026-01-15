@@ -19,6 +19,7 @@ import {
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
 import { ChevronDown, ChevronRight, Settings, FileText, Wrench } from "lucide-react";
+import { RetrievalStrategySelector } from "./embedding-strategy-selector";
 
 interface SettingsPanelProps {
   settings: Partial<Profile>;
@@ -26,6 +27,7 @@ interface SettingsPanelProps {
   onOpenPromptEditor: () => void;
   onOpenToolsEditor: () => void;
   promptName: string | null;
+  learningModeActive?: boolean;
 }
 
 export function SettingsPanel({
@@ -34,6 +36,7 @@ export function SettingsPanel({
   onOpenPromptEditor,
   onOpenToolsEditor,
   promptName,
+  learningModeActive = false,
 }: SettingsPanelProps) {
   const [isOpen, setIsOpen] = useState(true);
 
@@ -139,9 +142,17 @@ export function SettingsPanel({
               max={80}
               step={5}
               className="w-32"
+              disabled={learningModeActive}
             />
           </div>
         </div>
+
+        {/* Retrieval Strategy */}
+        <RetrievalStrategySelector
+          value={(settings.embedding_strategy as "chunk" | "document" | "both") || "both"}
+          onChange={(value) => updateSetting("embedding_strategy", value)}
+          disabled={learningModeActive}
+        />
 
         {/* Toggles Row */}
         <div className="flex flex-wrap gap-6">

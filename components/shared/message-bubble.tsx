@@ -1,10 +1,140 @@
 "use client";
 
-import { useState } from "react";
+import { useState, ReactNode } from "react";
 import ReactMarkdown from "react-markdown";
 import { cn } from "@/lib/utils";
 import { Message } from "@/types";
-import { User, Bot, Wrench, Settings, Brain, ChevronDown, ChevronRight } from "lucide-react";
+import * as LucideIcons from "lucide-react";
+
+const { User, Bot, Wrench, Settings, Brain, ChevronDown, ChevronRight } = LucideIcons;
+
+// Icon map for commonly used icons in learning mode responses
+const ICON_MAP: Record<string, LucideIcons.LucideIcon> = {
+  settings: LucideIcons.Settings,
+  temperature: LucideIcons.Thermometer,
+  model: LucideIcons.Cpu,
+  streaming: LucideIcons.Radio,
+  tools: LucideIcons.Wrench,
+  tool: LucideIcons.Wrench,
+  prompt: LucideIcons.FileText,
+  upload: LucideIcons.Upload,
+  docs: LucideIcons.FolderOpen,
+  document: LucideIcons.FileText,
+  search: LucideIcons.Search,
+  chunk: LucideIcons.Layers,
+  embed: LucideIcons.Database,
+  database: LucideIcons.Database,
+  langfuse: LucideIcons.BarChart3,
+  trace: LucideIcons.Activity,
+  debug: LucideIcons.Bug,
+  reasoning: LucideIcons.Brain,
+  brain: LucideIcons.Brain,
+  code: LucideIcons.Code,
+  api: LucideIcons.Webhook,
+  weather: LucideIcons.Cloud,
+  time: LucideIcons.Clock,
+  datetime: LucideIcons.Calendar,
+  check: LucideIcons.Check,
+  warning: LucideIcons.AlertTriangle,
+  info: LucideIcons.Info,
+  tip: LucideIcons.Lightbulb,
+  lightbulb: LucideIcons.Lightbulb,
+  star: LucideIcons.Star,
+  heart: LucideIcons.Heart,
+  arrow: LucideIcons.ArrowRight,
+  link: LucideIcons.ExternalLink,
+  cache: LucideIcons.HardDrive,
+  cost: LucideIcons.DollarSign,
+  money: LucideIcons.DollarSign,
+  token: LucideIcons.Coins,
+  learning: LucideIcons.GraduationCap,
+  graduation: LucideIcons.GraduationCap,
+  play: LucideIcons.Play,
+  stop: LucideIcons.Square,
+  refresh: LucideIcons.RefreshCw,
+  save: LucideIcons.Save,
+  copy: LucideIcons.Copy,
+  edit: LucideIcons.Edit,
+  delete: LucideIcons.Trash2,
+  plus: LucideIcons.Plus,
+  minus: LucideIcons.Minus,
+  toggle: LucideIcons.ToggleLeft,
+  switch: LucideIcons.ToggleLeft,
+  slider: LucideIcons.SlidersHorizontal,
+  chart: LucideIcons.BarChart3,
+  json: LucideIcons.Braces,
+  xml: LucideIcons.Code2,
+  message: LucideIcons.MessageSquare,
+  chat: LucideIcons.MessageCircle,
+  user: LucideIcons.User,
+  bot: LucideIcons.Bot,
+  send: LucideIcons.Send,
+  key: LucideIcons.Key,
+  lock: LucideIcons.Lock,
+  eye: LucideIcons.Eye,
+  sparkles: LucideIcons.Sparkles,
+  magic: LucideIcons.Wand2,
+  rocket: LucideIcons.Rocket,
+  zap: LucideIcons.Zap,
+  fire: LucideIcons.Flame,
+  target: LucideIcons.Target,
+  filter: LucideIcons.Filter,
+  sort: LucideIcons.ArrowUpDown,
+  list: LucideIcons.List,
+  grid: LucideIcons.LayoutGrid,
+  folder: LucideIcons.Folder,
+  file: LucideIcons.File,
+  image: LucideIcons.Image,
+  video: LucideIcons.Video,
+  audio: LucideIcons.Volume2,
+  download: LucideIcons.Download,
+  cloud: LucideIcons.Cloud,
+  server: LucideIcons.Server,
+  globe: LucideIcons.Globe,
+  network: LucideIcons.Network,
+  terminal: LucideIcons.Terminal,
+  console: LucideIcons.Terminal,
+  package: LucideIcons.Package,
+  git: LucideIcons.GitBranch,
+  github: LucideIcons.Github,
+};
+
+// Render icons in text like :icon-settings: or :icon:settings:
+function renderWithIcons(text: string): ReactNode[] {
+  const parts = text.split(/(:icon[-:][\w-]+:)/g);
+  return parts.map((part, index) => {
+    const match = part.match(/^:icon[-:]([\w-]+):$/);
+    if (match) {
+      const iconName = match[1].toLowerCase().replace(/-/g, "");
+      const IconComponent = ICON_MAP[iconName];
+      if (IconComponent) {
+        return <IconComponent key={index} className="inline-block w-4 h-4 mx-0.5 text-teal-400" />;
+      }
+      // Fallback: just show the text if icon not found
+      return part;
+    }
+    return part;
+  });
+}
+
+// Process children to handle icon syntax in text nodes
+function processChildren(children: ReactNode): ReactNode {
+  if (typeof children === "string") {
+    if (children.includes(":icon")) {
+      return <>{renderWithIcons(children)}</>;
+    }
+    return children;
+  }
+  if (Array.isArray(children)) {
+    return children.map((child, i) => {
+      if (typeof child === "string" && child.includes(":icon")) {
+        return <span key={i}>{renderWithIcons(child)}</span>;
+      }
+      return child;
+    });
+  }
+  return children;
+}
 
 interface MessageBubbleProps {
   message: Message;
@@ -88,15 +218,15 @@ export function MessageBubble({ message, showMetadata = false }: MessageBubblePr
             {message.content}
           </div>
         ) : (
-          <div className="text-zinc-100 markdown-content">
+          <div className="text-zinc-100 markdown-content text-sm">
             <ReactMarkdown
               components={{
-                p: ({ children }) => <p className="my-3 first:mt-0 last:mb-0 whitespace-pre-wrap">{children}</p>,
+                p: ({ children }) => <p className="my-3 first:mt-0 last:mb-0 whitespace-pre-wrap">{processChildren(children)}</p>,
                 ul: ({ children }) => <ul className="my-3 ml-4 list-disc space-y-1">{children}</ul>,
                 ol: ({ children }) => <ol className="my-3 ml-4 list-decimal space-y-1">{children}</ol>,
-                li: ({ children }) => <li className="pl-1">{children}</li>,
-                strong: ({ children }) => <strong className="font-semibold text-zinc-100">{children}</strong>,
-                em: ({ children }) => <em className="italic">{children}</em>,
+                li: ({ children }) => <li className="pl-1">{processChildren(children)}</li>,
+                strong: ({ children }) => <strong className="font-semibold text-zinc-100">{processChildren(children)}</strong>,
+                em: ({ children }) => <em className="italic">{processChildren(children)}</em>,
                 code: ({ children, className }) => {
                   const isBlock = className?.includes('language-');
                   return isBlock ? (
@@ -106,7 +236,7 @@ export function MessageBubble({ message, showMetadata = false }: MessageBubblePr
                   );
                 },
                 pre: ({ children }) => <pre className="my-3 first:mt-0 last:mb-0">{children}</pre>,
-                a: ({ children, href }) => <a href={href} className="text-cyan-400 hover:underline" target="_blank" rel="noopener noreferrer">{children}</a>,
+                a: ({ children, href }) => <a href={href} className="text-cyan-400 hover:underline" target="_blank" rel="noopener noreferrer">{processChildren(children)}</a>,
                 img: ({ src, alt }) => (
                   <span className="block my-3">
                     <img 
@@ -123,10 +253,10 @@ export function MessageBubble({ message, showMetadata = false }: MessageBubblePr
                     {alt && <span className="block text-xs text-zinc-500 mt-1 italic">{alt}</span>}
                   </span>
                 ),
-                h1: ({ children }) => <h1 className="text-xl font-bold my-4 first:mt-0">{children}</h1>,
-                h2: ({ children }) => <h2 className="text-lg font-bold my-3 first:mt-0">{children}</h2>,
-                h3: ({ children }) => <h3 className="text-base font-bold my-3 first:mt-0">{children}</h3>,
-                blockquote: ({ children }) => <blockquote className="border-l-2 border-zinc-600 pl-4 my-3 italic text-zinc-400">{children}</blockquote>,
+                h1: ({ children }) => <h1 className="text-xl font-bold my-4 first:mt-0">{processChildren(children)}</h1>,
+                h2: ({ children }) => <h2 className="text-lg font-bold my-3 first:mt-0">{processChildren(children)}</h2>,
+                h3: ({ children }) => <h3 className="text-base font-bold my-3 first:mt-0">{processChildren(children)}</h3>,
+                blockquote: ({ children }) => <blockquote className="border-l-2 border-zinc-600 pl-4 my-3 italic text-zinc-400">{processChildren(children)}</blockquote>,
               }}
             >
               {message.content}

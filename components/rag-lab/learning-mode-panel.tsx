@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { Button } from "@/components/ui/button";
+import { useEffect } from "react";
+import { Switch } from "@/components/ui/switch";
 import {
   Collapsible,
   CollapsibleContent,
@@ -10,7 +10,11 @@ import {
 import { ChevronDown, ChevronRight, GraduationCap, Sparkles } from "lucide-react";
 
 interface LearningModePanelProps {
+  isEnabled: boolean;
+  onToggle: (enabled: boolean) => void;
   onSelectQuestion: (question: string) => void;
+  expandedCategories: Set<string>;
+  onExpandedCategoriesChange: (categories: Set<string>) => void;
 }
 
 interface QuestionCategory {
@@ -85,11 +89,19 @@ const QUESTION_CATEGORIES: QuestionCategory[] = [
   },
 ];
 
-export function LearningModePanel({ onSelectQuestion }: LearningModePanelProps) {
-  const [isOpen, setIsOpen] = useState(false);
-  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(
-    new Set(["getting-started"])
-  );
+export function LearningModePanel({ 
+  isEnabled, 
+  onToggle, 
+  onSelectQuestion,
+  expandedCategories,
+  onExpandedCategoriesChange,
+}: LearningModePanelProps) {
+  // Auto-expand first category when enabled
+  useEffect(() => {
+    if (isEnabled && expandedCategories.size === 0) {
+      onExpandedCategoriesChange(new Set(["getting-started"]));
+    }
+  }, [isEnabled, expandedCategories.size, onExpandedCategoriesChange]);
 
   const toggleCategory = (categoryId: string) => {
     const newExpanded = new Set(expandedCategories);
@@ -98,7 +110,7 @@ export function LearningModePanel({ onSelectQuestion }: LearningModePanelProps) 
     } else {
       newExpanded.add(categoryId);
     }
-    setExpandedCategories(newExpanded);
+    onExpandedCategoriesChange(newExpanded);
   };
 
   const handleQuestionClick = (question: string) => {
@@ -106,33 +118,31 @@ export function LearningModePanel({ onSelectQuestion }: LearningModePanelProps) 
   };
 
   return (
-    <Collapsible open={isOpen} onOpenChange={setIsOpen}>
-      <CollapsibleTrigger asChild>
-        <Button
-          variant="ghost"
-          className="w-full flex items-center justify-between p-3 hover:bg-zinc-800/50"
-        >
-          <div className="flex items-center gap-2">
-            <GraduationCap className="w-4 h-4 text-amber-500" />
-            <span className="font-medium">Learning Mode</span>
-            {isOpen && (
-              <span className="text-xs bg-amber-500/20 text-amber-400 px-1.5 py-0.5 rounded">
-                Workshop
-              </span>
-            )}
-          </div>
-          {isOpen ? (
-            <ChevronDown className="w-4 h-4" />
-          ) : (
-            <ChevronRight className="w-4 h-4" />
+    <div className="border-b border-zinc-800">
+      {/* Toggle Header */}
+      <div className="flex items-center justify-between p-3">
+        <div className="flex items-center gap-2">
+          <GraduationCap className="w-4 h-4 text-amber-500" />
+          <span className="font-medium text-sm">Learning Mode</span>
+          {isEnabled && (
+            <span className="text-xs bg-amber-500/20 text-amber-400 px-1.5 py-0.5 rounded">
+              Active
+            </span>
           )}
-        </Button>
-      </CollapsibleTrigger>
+        </div>
+        <Switch
+          checked={isEnabled}
+          onCheckedChange={onToggle}
+          className="data-[state=checked]:bg-amber-600"
+        />
+      </div>
 
-      <CollapsibleContent className="px-3 pb-4 space-y-2">
-        <p className="text-xs text-zinc-500 mb-3">
-          Click a question to explore. Great for learning how the system works!
-        </p>
+      {/* Collapsible Questions Panel */}
+      <Collapsible open={isEnabled}>
+        <CollapsibleContent className="px-3 pb-4 space-y-2">
+          <p className="text-xs text-zinc-500 mb-3">
+            RAG retrieval is disabled. Click a question to explore concepts!
+          </p>
 
         {QUESTION_CATEGORIES.map((category) => (
           <Collapsible
@@ -168,7 +178,8 @@ export function LearningModePanel({ onSelectQuestion }: LearningModePanelProps) 
             </CollapsibleContent>
           </Collapsible>
         ))}
-      </CollapsibleContent>
-    </Collapsible>
+        </CollapsibleContent>
+      </Collapsible>
+    </div>
   );
 }
