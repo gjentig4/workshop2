@@ -13,6 +13,7 @@ import { FeatureToggles } from "@/components/playground/feature-toggles";
 import { DebugPanel } from "@/components/playground/debug-panel";
 import { StructuredOutputEditor } from "@/components/playground/structured-output-editor";
 import { ToolEditor } from "@/components/playground/tool-editor";
+import { ApiKeyInput } from "@/components/shared/api-key-input";
 import { Message, PlaygroundSettings, ChatRequest } from "@/types";
 import { supportsReasoning } from "@/lib/reasoning";
 
@@ -30,6 +31,7 @@ const DEFAULT_SETTINGS: PlaygroundSettings = {
   enableStructuredOutput: false,
   structuredOutputSchema: "",
   enableTracing: true,
+  openRouterApiKey: "",
 };
 
 export default function PlaygroundPage() {
@@ -84,6 +86,7 @@ export default function PlaygroundPage() {
           ? settings.structuredOutputSchema
           : undefined,
         enableTracing: settings.enableTracing,
+        openRouterApiKey: settings.openRouterApiKey || undefined,
       };
 
       const response = await fetch("/api/chat", {
@@ -288,6 +291,12 @@ export default function PlaygroundPage() {
             onReasoningEffortChange={(effort) =>
               setSettings((s) => ({ ...s, reasoningEffort: effort }))
             }
+          />
+
+          {/* API Key Input */}
+          <ApiKeyInput
+            value={settings.openRouterApiKey || ""}
+            onChange={(key) => setSettings((s) => ({ ...s, openRouterApiKey: key }))}
           />
 
           {/* Temperature */}

@@ -78,6 +78,9 @@ export default function RAGLabPage() {
     systemPrompt: string;
   } | null>(null);
 
+  // OpenRouter API key (local only, not persisted to profile for security)
+  const [openRouterApiKey, setOpenRouterApiKey] = useState("");
+
   // Fetch profiles on mount
   useEffect(() => {
     fetchProfiles();
@@ -364,6 +367,8 @@ export default function RAGLabPage() {
               onOpenToolsEditor={() => setShowToolsEditor(true)}
               promptName={promptName}
               learningModeActive={learningModeEnabled}
+              openRouterApiKey={openRouterApiKey}
+              onApiKeyChange={setOpenRouterApiKey}
             />
 
             {/* Document Tabs */}
@@ -454,6 +459,7 @@ export default function RAGLabPage() {
             externalInput={learningModeInput}
             onExternalInputConsumed={() => setLearningModeInput("")}
             skipRag={learningModeEnabled}
+            openRouterApiKey={openRouterApiKey}
           />
         </main>
       </div>

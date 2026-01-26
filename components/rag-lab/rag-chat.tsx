@@ -26,6 +26,7 @@ interface RAGChatProps {
   externalInput?: string;
   onExternalInputConsumed?: () => void;
   skipRag?: boolean;
+  openRouterApiKey?: string;
 }
 
 const CHAT_STORAGE_KEY = "rag-lab-chat-messages";
@@ -40,6 +41,7 @@ export function RAGChat({
   externalInput,
   onExternalInputConsumed,
   skipRag = false,
+  openRouterApiKey,
 }: RAGChatProps) {
   const [messages, setMessages] = useState<Message[]>(() => {
     // Try to load from localStorage on initial mount
@@ -180,6 +182,7 @@ export function RAGChat({
           similarityThreshold: ragSettings.similarityThreshold ?? 0.1,
           skipRag,
           structuredOutputSchema,
+          openRouterApiKey: openRouterApiKey || undefined,
         }),
       });
 

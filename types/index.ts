@@ -50,6 +50,7 @@ export interface PlaygroundSettings {
   enableStructuredOutput: boolean;
   structuredOutputSchema?: string;
   enableTracing: boolean;
+  openRouterApiKey?: string; // User-provided OpenRouter API key (optional)
 }
 
 // Tool definition for custom tools
@@ -120,6 +121,7 @@ export interface ChatRequest {
   customTools?: string; // JSON string of custom tools
   structuredOutputSchema?: string;
   enableTracing?: boolean;
+  openRouterApiKey?: string; // User-provided OpenRouter API key (optional, falls back to env var)
 }
 
 export interface ChatResponse {

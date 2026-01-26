@@ -29,6 +29,7 @@ export async function POST(request: NextRequest) {
       profileId,
       skipRag = false, // When true, skip document retrieval (e.g., learning mode)
       structuredOutputSchema,
+      openRouterApiKey, // User-provided API key (optional)
     } = body;
 
     if (!messages || messages.length === 0) {
@@ -202,7 +203,7 @@ ${context || "No relevant context found in the knowledge base."}`;
       structuredOutputSchema,
     };
 
-    const response = await chatCompletion(chatRequest, tools);
+    const response = await chatCompletion(chatRequest, tools, openRouterApiKey);
 
     if (!response.ok) {
       const errorText = await response.text();
@@ -287,7 +288,7 @@ ${context || "No relevant context found in the knowledge base."}`;
         };
 
         const followUpTools = iterations < maxIterations - 1 ? tools : undefined;
-        const followUpResponse = await chatCompletion(followUpRequest, followUpTools);
+        const followUpResponse = await chatCompletion(followUpRequest, followUpTools, openRouterApiKey);
 
         if (!followUpResponse.ok) {
           break;

@@ -21,6 +21,7 @@ import {
 import { ChevronDown, ChevronRight, Settings, FileText, Wrench, Braces, Check, AlertCircle } from "lucide-react";
 import { Textarea } from "@/components/ui/textarea";
 import { RetrievalStrategySelector } from "./embedding-strategy-selector";
+import { ApiKeyInput } from "@/components/shared/api-key-input";
 
 const EXAMPLE_SCHEMA = `{
   "name": "response",
@@ -123,6 +124,8 @@ interface SettingsPanelProps {
   onOpenToolsEditor: () => void;
   promptName: string | null;
   learningModeActive?: boolean;
+  openRouterApiKey?: string;
+  onApiKeyChange?: (key: string) => void;
 }
 
 export function SettingsPanel({
@@ -132,6 +135,8 @@ export function SettingsPanel({
   onOpenToolsEditor,
   promptName,
   learningModeActive = false,
+  openRouterApiKey = "",
+  onApiKeyChange,
 }: SettingsPanelProps) {
   const [isOpen, setIsOpen] = useState(true);
 
@@ -186,6 +191,14 @@ export function SettingsPanel({
             />
           </div>
         </div>
+
+        {/* API Key Input */}
+        {onApiKeyChange && (
+          <ApiKeyInput
+            value={openRouterApiKey}
+            onChange={onApiKeyChange}
+          />
+        )}
 
         {/* Reasoning & Top K - stacked to prevent overlap */}
         <div className="space-y-3">

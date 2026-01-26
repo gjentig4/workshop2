@@ -71,6 +71,57 @@ const TOOL_PRESETS: Record<string, ToolDefinition[]> = {
       },
     },
   ],
+  "Teamleader Sales": [
+    {
+      name: "searchCustomer",
+      description: "Search for customers (companies or contacts) in Teamleader Focus by name. Use this when the user mentions a customer, company, or contact name to find their details and ID for creating deals or quotations.",
+      parameters: {
+        type: "object",
+        properties: {
+          query: {
+            type: "string",
+            description: "The customer/company/contact name to search for. Supports partial and fuzzy matching.",
+          },
+        },
+        required: ["query"],
+      },
+    },
+    {
+      name: "createDeal",
+      description: "Create a new deal in Teamleader Focus. Use this when the user wants to create a deal after discussing a potential sale or project. The tool returns structured data that the UI uses to open a pre-filled deal creation dialog.",
+      parameters: {
+        type: "object",
+        properties: {
+          title: {
+            type: "string",
+            description: "The title/name of the deal, describing the work or sale (e.g., 'Solar Panel Installation', 'Website Redesign')",
+          },
+          customer_id: {
+            type: "string",
+            description: "The ID of the customer (from searchCustomer results)",
+          },
+          customer_name: {
+            type: "string",
+            description: "The name of the customer for display purposes",
+          },
+          amount: {
+            type: "number",
+            description: "The deal amount/value in the specified currency",
+          },
+          currency: {
+            type: "string",
+            enum: ["EUR", "USD", "GBP"],
+            description: "The currency for the deal amount (default: EUR)",
+          },
+          description: {
+            type: "string",
+            description: "Optional description or notes about the deal",
+          },
+        },
+        required: ["title", "customer_id", "customer_name"],
+      },
+    },
+  ],
 };
 
 export function ToolsEditorModal({

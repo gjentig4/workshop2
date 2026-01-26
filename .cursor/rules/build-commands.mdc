@@ -1,0 +1,10 @@
+---
+name: build-commands
+description: dont run build commands
+---
+
+# Build Commands
+
+Avoid running build commands unless truly necessary. They interfere with the dev environment.
+
+Type checking, linting, formatting, and tests are fine to run freely.

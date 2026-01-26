@@ -66,8 +66,8 @@ export async function POST(request: NextRequest) {
       body.stream = false;
     }
 
-    // Make the request to OpenRouter
-    const response = await chatCompletion(body, tools);
+    // Make the request to OpenRouter (use custom API key if provided)
+    const response = await chatCompletion(body, tools, body.openRouterApiKey);
 
     if (!response.ok) {
       const error = await response.text();
@@ -275,7 +275,7 @@ export async function POST(request: NextRequest) {
 
       // On follow-up, pass tools only if we haven't reached max iterations
       const followUpTools = iterations < maxIterations - 1 ? tools : undefined;
-      const followUpResponse = await chatCompletion(followUpRequest, followUpTools);
+      const followUpResponse = await chatCompletion(followUpRequest, followUpTools, body.openRouterApiKey);
       
       if (!followUpResponse.ok) {
         const errorText = await followUpResponse.text();

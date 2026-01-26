@@ -100,11 +100,13 @@ export function extractReasoningText(details?: ReasoningDetail[]): string {
 
 export async function chatCompletion(
   request: ChatRequest,
-  tools?: OpenRouterTool[]
+  tools?: OpenRouterTool[],
+  customApiKey?: string
 ): Promise<Response> {
-  const apiKey = process.env.OPENROUTER_API_KEY;
+  // Use custom API key if provided, otherwise fall back to environment variable
+  const apiKey = customApiKey || process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
-    throw new Error("OPENROUTER_API_KEY is not set");
+    throw new Error("OPENROUTER_API_KEY is not set and no custom API key was provided");
   }
 
   // Build base request with proper message formatting
