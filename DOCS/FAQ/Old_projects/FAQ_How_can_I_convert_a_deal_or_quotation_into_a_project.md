@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: How can I convert a deal or quotation into a project?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691235452817)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In Teamleader Focus, you have the option to convert a deal or a quotation into a project. Read this article to discover how.
 
@@ -20,9 +20,9 @@ You can either convert a quotation to a project, or a deal.
 
 ### Via your quotation detail page
 
-To convert your quotation, go to your quotation detail page and click on the arrow next to 'Convert to invoice'. Choose **Convert to project:****![](https://support.focus.teamleader.eu/hc/article_attachments/25691267873681)**
+To convert your quotation, go to your quotation detail page and click on the arrow next to 'Convert to invoice'. Choose **Convert to project:****![Converting a deal to a project or invoice in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691267873681)**
 
-Afterwards, you can find the linked project in the follow-up tab of your quotation page.![](https://support.focus.teamleader.eu/hc/article_attachments/25691295456145)
+Afterwards, you can find the linked project in the follow-up tab of your quotation page.![The follow-up tab of a quotation showing linked invoices and projects.](https://support.focus.teamleader.eu/hc/article_attachments/25691295456145)
 
 ### Via the deal page
 
@@ -34,7 +34,7 @@ Afterwards, you'll find the linked project in the Projects tab of your deal.
 
 The project and the deal/quotation will be linked, which means the project will be displayed within the deal and the quotation, and the deal and quotation will be displayed within the project.
 
-## Don't use one of my project templates![](https://support.focus.teamleader.eu/hc/article_attachments/25691235584913)
+## Don't use one of my project templates![The 'Add Project' dialog in Teamleader Focus with the 'Template' field highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691235584913)
 
 When creating a project out of a deal/quotation, you'll have the option to either [use one of your predefined project templates](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691280403089) or not. If you don't use a template, then:
 
@@ -42,7 +42,7 @@ When creating a project out of a deal/quotation, you'll have the option to eithe
 
 - The subtitles of your quotation are added as phases in the project. This means that, in case you want to convert your deal/quotation into a project, the workflow will already start when you create your quotation.
 
-**Example:****![](https://support.focus.teamleader.eu/hc/article_attachments/25691251495569)**
+**Example:****![The 'Items on the quotation' editor in Teamleader Focus showing line items and subtitles.](https://support.focus.teamleader.eu/hc/article_attachments/25691251495569)**
 
 - If this is your quotation, "Venue" and "Decoration" will be displayed as phases in your newly created project.
 

@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # FAQ: How can I merge two tickets?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692761477393)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

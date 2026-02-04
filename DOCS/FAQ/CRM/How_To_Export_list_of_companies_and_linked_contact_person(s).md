@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Export list of companies and linked contact person(s)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697899160465)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,17 +20,17 @@ Interested in a list of your companies together with their linked contact person
 
     1. [Create a segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) in **Companies** with the rule **"Name is filled out"**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697882676113)
+![The 'Add segment' dialog box in Teamleader Focus for creating filtered lists of companies.](https://support.focus.teamleader.eu/hc/article_attachments/25697882676113)
 
     2. Go to **Contacts** and [create another segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) with the rule **"Companies is in segment + name of the segment you made in step 1"**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697868308753)
+![The 'Add segment' dialog in Teamleader Focus showing how to create a segment with specific rules.](https://support.focus.teamleader.eu/hc/article_attachments/25697868308753)
 
  
 
     3. Select the segment from step 2 in Contacts and click on **E****xport** in the upper right corner. In Select, click on **"Create new template"**. There, you can put the columns you want in your Excel export, in this case **companies and first name + last name:**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697875931665)
+![The Excel Export Template configuration screen in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697875931665)
 
 Click on **Save**, then** Start export** and you will have the list of companies with their linked contact persons.
 

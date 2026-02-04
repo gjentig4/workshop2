@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Connecting my Octopus account to Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691297868049)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -60,7 +60,7 @@ If your Octopus account does not contain any data yet, you'll first need to arra
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691276091665)
+![The Management dropdown menu in the Teamleader Focus navigation bar with Fiscal years selected.](https://support.focus.teamleader.eu/hc/article_attachments/25691276091665)
 
  
 
@@ -70,7 +70,7 @@ If your Octopus account does not contain any data yet, you'll first need to arra
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691286871697)
+![Detailed view of a fiscal year configuration in the bookkeeping settings.](https://support.focus.teamleader.eu/hc/article_attachments/25691286871697)
 
  
 
@@ -82,7 +82,7 @@ If your Octopus account does not contain any data yet, you'll first need to arra
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691282549137)
+![The 'Journals' configuration screen showing settings for a Sales bookings journal.](https://support.focus.teamleader.eu/hc/article_attachments/25691282549137)
 
  
 
@@ -94,7 +94,7 @@ If your Octopus account does not contain any data yet, you'll first need to arra
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691282613265)
+![Overview of the Accounts list in the bookkeeping module showing VAT codes and deductibility.](https://support.focus.teamleader.eu/hc/article_attachments/25691282613265)
 
 ### 
 
@@ -160,7 +160,7 @@ Note: if everything went well, the '**Accounting package customer number'** fiel
  
 
 - Click '**Save'.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691320194449)**
+**![Configuration form for linking a dossier and setting up an accounting integration, likely Octopus.](https://support.focus.teamleader.eu/hc/article_attachments/25691320194449)**
 
  
 

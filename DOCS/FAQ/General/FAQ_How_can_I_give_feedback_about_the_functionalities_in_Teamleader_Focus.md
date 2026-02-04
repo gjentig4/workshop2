@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: How can I give feedback about the functionalities in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693557409681)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 As a team, we're always trying to improve our product and who better to give us feedback than the people who are using Teamleader Focus on a daily basis? By giving us feedback, you really help us grow and improve ourselves. That's why we really appreciate the valuable feedback of our customers.
 

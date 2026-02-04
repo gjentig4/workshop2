@@ -10,13 +10,13 @@ section: "Settings"
 
 # How To: Alternative email addresses in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697836088977)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
 Do you want to use more than one personal email address in your Teamleader Focus account? Then the alternative email addresses you can add via your personal profile are the solution for you! Discover how to add them in this article.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697851332753)
+![Email addresses settings page showing primary and outgoing email configuration.](https://support.focus.teamleader.eu/hc/article_attachments/25697851332753)
  
 
 ## Add alternative email address(es)
@@ -32,7 +32,7 @@ To add alternative email addresses, follow these steps:
 - 
 Give your email address a Name. This means that the sender appearing in the mailbox of your customer can be customised. 
 You can always edit this name afterwards.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697836207377)
+![The 'Add alternative email address' dialog box in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697836207377)
  
 
  
@@ -72,7 +72,7 @@ You are also able to indicate which of the alternative email addresses should be
 - Click on the **three ****dots **next to another one of your email addresses
 
 - Choose **Make default outgoing**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25697861733265)**
+**![Managing email addresses in Teamleader Focus settings, showing how to set a default outgoing email.](https://support.focus.teamleader.eu/hc/article_attachments/25697861733265)**
  
 
 This is handy when you send email from a different email address than your personal one. For example when all users in your company want to send emails from the same mailbox (and the alternative email address is shared). 

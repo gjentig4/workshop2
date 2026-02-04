@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # FAQ: Where can I find my Teamleader Focus invoices?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692647510289)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -22,7 +22,7 @@ The **admin(s)** of each account will be able to find Teamleader Focus invoices 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692681394577)
+![The Billing history section in Teamleader Focus showing a list of past subscription invoices.](https://support.focus.teamleader.eu/hc/article_attachments/25692681394577)
 
  
 

@@ -10,13 +10,13 @@ section: "Integrations"
 
 # Getting started: Where can I find my Client ID and Client Secret?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/36318091739921) 
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177) 
 
 To obtain your *Client ID *and the *Client Secret* you will need to go to our Marketplace, and [create a new test integration](https://marketplace.teamleader.eu/eu/en/build). In 'Oauth2 Credentials' you'll find the information you need in 'Client ID' and 'Client Secret'.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/36330969410833) 
+![The General information and OAuth2 Credentials setup page for a Teamleader Focus integration.](https://support.focus.teamleader.eu/hc/article_attachments/36330969410833) 
 
 Now copy the Client ID, Client Secret and Redirect URL in Insomnia OAuth2 or another API client.
 

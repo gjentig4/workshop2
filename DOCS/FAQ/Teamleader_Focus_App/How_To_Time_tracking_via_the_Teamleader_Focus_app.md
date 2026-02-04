@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # How To: Time tracking via the Teamleader Focus app
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692785324689)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 There are some interesting possibilities when it comes to tracking time via our Teamleader Focus app. You can add a time tracking manually or via the start/stop timer, or track time on an existing task. Read this article to learn more about these possibilities.
 
@@ -21,7 +21,7 @@ There are some interesting possibilities when it comes to tracking time via our 
 - Log in to the app
 
 - Click on **Timer > + > Time tracking **or click on the **+ **on the home screen > **Time tracking**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25692789164561)**
+**![The 'Add time tracking' form in the Teamleader Focus mobile app for logging work duration.](https://support.focus.teamleader.eu/hc/article_attachments/25692789164561)**
 
 - Choose to log time (duration) or to log specific hours
 

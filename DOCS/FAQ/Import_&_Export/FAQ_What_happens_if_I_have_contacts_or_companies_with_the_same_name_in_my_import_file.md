@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: What happens if I have contacts or companies with the same name in my import file?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691802382737)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When the name of the company or contact is twice or more in the import file, Teamleader Focus offers you the option to merge them when doing the import.
 

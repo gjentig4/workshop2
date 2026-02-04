@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: Where can I see a list of all my finished projects?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690982156561)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 If you want to get a good overview of all your ongoing and finished projects, you’ve come to the right page. Not sure how to close a project? Find out in [this article](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691015006097).
 
@@ -20,16 +20,16 @@ There are three ways to keep track of your finished projects:
 
 1. Go to 'Projects" and click the cogwheel in the bottom right corner, and double click or drag ‘status’ to move it to the right window.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690987917841)
+![Pagination controls and settings gear icon in a Teamleader Focus list view](https://support.focus.teamleader.eu/hc/article_attachments/25690987917841)
 
 2. Clicking ‘status’ will arrange the column according to type: Done, Active or Cancelled.
 
 ## Create a segment with all finished projects
 
-1. Add a new segment  in the project overview. Click the right box next to the search function and choose 'Create new segment'.![](https://support.focus.teamleader.eu/hc/article_attachments/25690982247185)
+1. Add a new segment  in the project overview. Click the right box next to the search function and choose 'Create new segment'.![The 'Add segment' dialog box in Teamleader Focus for creating filtered contact or company lists.](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
 
 2. Add the rule ‘status’ equals ‘done’, save, and that is that. Now every finished project will automatically be added to this segment.
 
 ## Filter on Status 'Done' in cross-projects timeline
 
-When navigating to your [cross-projects timeline](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25693534082449) in Teamleader Focus you can filter on the status of the project. Select 'Done' here and only your finished projects will be visible on your timeline.![](https://support.focus.teamleader.eu/hc/article_attachments/25690950613265)
+When navigating to your [cross-projects timeline](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25693534082449) in Teamleader Focus you can filter on the status of the project. Select 'Done' here and only your finished projects will be visible on your timeline.![Status filter dropdown menu in Teamleader Focus showing active and inactive project statuses](https://support.focus.teamleader.eu/hc/article_attachments/25690950613265)

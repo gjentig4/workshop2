@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Billing methods in a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695604685329)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -41,11 +41,11 @@ When adding a project to Teamleader Focus you can define how you want to bill it
 
 First of all, [admins ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)can decide which billing methods should be available in your account for certain project items, and set a default billing method for projects, groups, tasks, materials and meetings. Go to **Settings **> **Projects > Billing method preferences**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/30787130747921)
+![The Billing method preferences menu in Teamleader Focus project settings.](https://support.focus.teamleader.eu/hc/article_attachments/30787130747921)
  
 
 Click on the **pencil **next to one of the options, e.g. project billing methods:
-![](https://support.focus.teamleader.eu/hc/article_attachments/30787130756369)
+![The Project billing methods dialog in Teamleader Focus for selecting available and default methods.](https://support.focus.teamleader.eu/hc/article_attachments/30787130756369)
 
 - Check the boxes next to the billing methods you want to make available.
 *Editing this does not retroactively change or remove the billing method of existing project lines.*
@@ -59,7 +59,7 @@ Click on the **pencil **next to one of the options, e.g. project billing methods
  
 
 ## Billing method for a project
-![](https://support.focus.teamleader.eu/hc/article_attachments/37571096342801)
+![Project header in Teamleader Focus showing billing method selection and budget overview.](https://support.focus.teamleader.eu/hc/article_attachments/37571096342801)
 
 - 
 **Time and materials**: The default billing method for a project, based on all time and materials in a project. The ‘Price’ is based on the sum of all underlying prices and can't be edited by you. The '[Budget](https://support.focus.teamleader.eu/hc/en-150/articles/38494698372881-How-To-Manage-your-project-budget-in-Teamleader-Focus)' field however can be adapted. If you invoice the project, the invoice will show all billable time and material.
@@ -83,7 +83,7 @@ The groups you'll add later on will have the same billing method of the project 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695666354961)
+![The billing method dropdown menu within the Budget section of a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/25695666354961)
 
 - 
 **Time and materials:** The price is based on the sum of all underlying prices.
@@ -103,7 +103,7 @@ The groups you'll add later on will have the same billing method of the project 
 
 ### Tasks
 
-You can also specify the billing method for a specific task:![](https://support.focus.teamleader.eu/hc/article_attachments/25695666437137)
+You can also specify the billing method for a specific task:![Selecting a billing method in the Budget section of a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/25695666437137)
 
  
 
@@ -131,7 +131,7 @@ You can also specify the billing method for a specific task:![](https://support.
 
 You can also specify the billing method for a specific material:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695666510353)
+![The billing method dropdown menu within the Budget section of a project.](https://support.focus.teamleader.eu/hc/article_attachments/25695666510353)
 
 - 
 **Unit price**: Price is based on the unit price of a material and its quantity.

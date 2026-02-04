@@ -10,7 +10,7 @@ section: "Expenses"
 
 # How To: Add and scan expenses in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/34356986505489)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 With the new **Expense Management** feature in Teamleader Focus, keeping your finances in check has never been easier. From uploading receipts to approving incoming invoices, everything happens in one place—fast, smart, and seamlessly. Enjoy real-time insights, automation, and smooth collaboration with your bookkeeper. In this article, we’ll show you how to add and scan expenses in Teamleader Focus.
  
 
@@ -78,7 +78,7 @@ Expense management provides the following benefits:
 # Who
 
 You can easily enable access to expenses via **Settings > Users >** **the name of the user** > **'Permissions' > enable **the slider next to ‘Expenses’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/39637126938513)
+![The Expenses module toggle switch in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/39637126938513)
   
 
 # How
@@ -98,7 +98,7 @@ There are three ways to add expenses to your Teamleader Focus account:
 ! Important to know is that in all Teamleader Focus accounts, expenses will be scanned* *automatically *by default, that’s why we start explaining this option first. 
 **Scanning of your expenses will happen via OCR. OCR is short for ‘Optical character recognition’, which essentially means that all information will be fetched from your file and filled out automatically in Teamleader Focus.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34357001616401)
+![Preferences settings for automatic expense scanning and Teamleader Wallet usage.](https://support.focus.teamleader.eu/hc/article_attachments/34357001616401)
 
 You can turn off this setting via **Settings > Expenses > Preferences > Disable the slider** next to ‘Automatically scan all expenses’ .
  
@@ -106,7 +106,7 @@ You can turn off this setting via **Settings > Expenses > Preferences > Disable 
 Follow these steps to start adding expenses:
 
 - Navigate to **Expenses **via the navigation menu **> Upload,** or click on the **plus icon **in the top right-hand corner > **Expense**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/34357001619089)
+![The empty state of the Expenses module in Teamleader Focus with an upload area.](https://support.focus.teamleader.eu/hc/article_attachments/34357001619089)
 
 - Upload your files or drag and drop your file(s) here.
 
@@ -124,21 +124,21 @@ You can only upload 10 files in 1 go
 - There’s a maximum of 100 free scans every month. At the start of every month, the counter in the top right-hand corner of your expense overview resets to 100. Scans you haven’t used will be lost. 
 
 Once the free scan limit is reached, an admin can **enable the Teamleader Focus wallet** to continue scanning documents. Navigate to [**Settings > Expenses**](https://focus.teamleader.eu/settings/expenses) > Preferences > ‘Use Teamleader Wallet when free scans are used up’. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34356986522513)
+![Preferences menu showing toggles for automatic expense scanning and Teamleader Wallet usage.](https://support.focus.teamleader.eu/hc/article_attachments/34356986522513)
 
 Every scan will cost €0.10 and will be deducted from your wallet. [Top up your wallet here](https://focus.teamleader.eu/web/settings/wallet) or read all about it [in this article.](https://support.focus.teamleader.eu/hc/en-150/articles/25691506715921-FAQ-What-can-I-do-with-the-credits-in-my-Teamleader-Focus-wallet) 
  
 
 - After selecting your file(s), scanning of the document will start:
-![](https://support.focus.teamleader.eu/hc/article_attachments/34356986525713)
+![A document in the 'To review' section showing a 'Processing...' status during an OCR scan.](https://support.focus.teamleader.eu/hc/article_attachments/34356986525713)
  
 
-- The file is now scanned and ready for you to **review**. Click on **Review:![](https://support.focus.teamleader.eu/hc/article_attachments/34356986529169)**
+- The file is now scanned and ready for you to **review**. Click on **Review:![A document card in the 'To review' section of the Teamleader Focus document scanner.](https://support.focus.teamleader.eu/hc/article_attachments/34356986529169)**
 ** **
 
 - In the next screen you’ll find a visual representation of your file on the left, with the **document details** on the right of the screen. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34357001633297)
+![The 'Add expense' interface showing a side-by-side view of a scanned invoice and data entry fields.](https://support.focus.teamleader.eu/hc/article_attachments/34357001633297)
 
 Thanks to OCR, all fields will be filled out automatically (like amount, due date, payment reference or the document type - invoice, credit note or receipt), but you can of course always change the data manually here. 
 
@@ -148,12 +148,12 @@ Thanks to OCR, all fields will be filled out automatically (like amount, due dat
 - When you’ve reviewed everything, click on **Save **in the top right-hand corner. You’ll be redirected to the **detail page of the expense** where you’ll find:
 
 A **header **with all the information related to the expense. Here, you can still edit the expense via the pencil, download the PDF of your expense, customise the header or delete the expense.
-![](https://support.focus.teamleader.eu/hc/article_attachments/34357001636625)
+![Dropdown menu for expense actions in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/34357001636625)
  
 
 - 
 **Mark the expense as approved, pending or refused**: via this button you can keep track of which expenses are ready to be paid, which expenses you still need to check or which expenses aren’t correct. [Read all about it in this article.](https://support.focus.teamleader.eu/hc/en-150/articles/34357191325201-How-To-Approve-or-refuse-expenses-in-Teamleader-Focus)
-![](https://support.focus.teamleader.eu/hc/article_attachments/34357001646097)
+![Invoice header details in Teamleader Focus showing totals, origin, and bookkeeping status.](https://support.focus.teamleader.eu/hc/article_attachments/34357001646097)
  
 
 - 
@@ -177,19 +177,19 @@ There are two exceptions when a free scan will be subtracted anyway, so be cauti
 
 If you disable the automatic scanning of your expenses in your **Settings **> **Expenses**, then you can of course still upload your expenses and click on Scan manually (or when your free scans are used up, just fill out all the information manually).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34356986543889)
+![Preferences settings for automatic expense scanning and Teamleader Wallet usage.](https://support.focus.teamleader.eu/hc/article_attachments/34356986543889)
  
 
 - Navigate to **Expenses **and click on **Upload **to upload one or several files.
 
-- The file will be added to the ‘In review’ section with the label ‘New’ attached to it:![](https://support.focus.teamleader.eu/hc/article_attachments/34356986546193)
+- The file will be added to the ‘In review’ section with the label ‘New’ attached to it:![The 'To review' section in Teamleader Focus showing a document card for an invoice.](https://support.focus.teamleader.eu/hc/article_attachments/34356986546193)
  
 
 - Click on **Review **to review the document and fill out the remaining fields.
 
 You can still choose to scan this file by checking the box next to the expense in the expenses overview and choose ‘Scan’, or by clicking on Scan in the document details.
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/34356986548625)*
+*![The 'Scan' button in the Document details section for processing an incoming invoice.](https://support.focus.teamleader.eu/hc/article_attachments/34356986548625)*
 * *
 
 - When all the fields are filled out, **save **the file to add the expense to your overview.

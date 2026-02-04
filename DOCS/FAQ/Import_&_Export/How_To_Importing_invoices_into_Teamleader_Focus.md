@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Importing invoices into Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691658301585)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 If you're just starting out with Teamleader Focus, that doesn't necessarily mean you haven't used invoicing software before. It may come in handy to import your previous invoices in Teamleader Focus. Note that you can import invoices in Teamleader Focus regardless of the fact if they have been paid or not.
 
@@ -36,7 +36,7 @@ Once your file is structured properly, send it to [support](https://support.focu
 
 - In order to set a standard template, simply go to **Settings > Document layout** > choose the layout for invoices you would like to set as standard.
 
-- Then, click on "**Set as default invoice template**" to set it as standard layout. In case you work with several company entities, this needs to be done for every company entity. ![](https://support.focus.teamleader.eu/hc/article_attachments/25691645021841)
+- Then, click on "**Set as default invoice template**" to set it as standard layout. In case you work with several company entities, this needs to be done for every company entity. ![The 'Custom layout for Invoice' page showing the 'Set as default invoice template' button.](https://support.focus.teamleader.eu/hc/article_attachments/25691645021841)
 
  
 

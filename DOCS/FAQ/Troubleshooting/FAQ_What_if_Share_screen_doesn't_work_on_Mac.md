@@ -10,11 +10,11 @@ section: "Troubleshooting"
 
 # FAQ: What if Share screen doesn't work on Mac?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695189321617)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 What to do if you are in an online meeting on a Mac using Google Chrome and trying to share a full screen or an application window but nothing happens?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27924637959441)
+![Error message in Teamleader Focus meeting room: 'Your system does not allow sharing your screen.'](https://support.focus.teamleader.eu/hc/article_attachments/27924637959441)
 
 Then you probably haven't allowed your Chrome to use screen recording. Follow these steps to make share screen functional.
 
@@ -31,4 +31,4 @@ Then you probably haven't allowed your Chrome to use screen recording. Follow th
 - 
 Retry to share your full screen or application window.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27924648304401)
+![The screen sharing options within a Teamleader Focus video meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/27924648304401)

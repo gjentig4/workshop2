@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: Can I delete a quotation?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693701122833)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Did you make a mistake or want to get rid of a quotation? Read on to find out how you can easily delete quotations.
 
@@ -20,7 +20,7 @@ Did you make a mistake or want to get rid of a quotation? Read on to find out ho
 
 - Navigate to the quotation you want to delete and go to the detail page
 
-- Click on the **three dots **in the header section and select **Delete****![](https://support.focus.teamleader.eu/hc/article_attachments/25693745442449)**
+- Click on the **three dots **in the header section and select **Delete****![Quotation details view in Teamleader Focus showing the 'Delete' option in the actions menu.](https://support.focus.teamleader.eu/hc/article_attachments/25693745442449)**
 
 - Confirm you really want to delete the quotation by clicking **Delete **again in the next pop-up screen.
 
@@ -33,7 +33,7 @@ Navigate to your deal overview and select the deal for which you want to delete 
 
 - 
 Scroll down to the follow-up section, click the **three ****dots **next to your quotation and select **Delete**:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693722991249)
+![The actions menu for a quotation in a Teamleader Focus deal, highlighting the delete option.](https://support.focus.teamleader.eu/hc/article_attachments/25693722991249)
 
 - 
 Confirm you really want to delete the quotation by clicking **Delete **again in the next pop-up screen.

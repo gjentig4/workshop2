@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # How To: Receiving e-invoices via Peppol in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/28080424040849)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -50,17 +50,17 @@ You can **send invoices from multiple instances/tools if you want**. This means 
 
 Go to **Expenses. **Here you can find all your expenses. You can recognise the received documents sent by your suppliers via the document type 'Incoming invoice' or by adding the column 'Origin' (Peppol) to your column overview:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34361154841361)
+![A list of incoming invoices in Teamleader Focus showing the document origin column.](https://support.focus.teamleader.eu/hc/article_attachments/34361154841361)
 
 *Note*: If you receive an invoice via Peppol and the supplier is not yet in your CRM, we will automatically create it for you and link to it. This way all invoices will be linked to a supplier so you can have a better overview.
 
 **Click **on an invoice and you’ll see a **preview **of the PDF:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/30199908235793)
+![Preview of an incoming invoice document from Red Cross in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/30199908235793)
 
 In most cases, UBLs of e-invoices will have a PDF embedded, so we can preview the layout of the invoice. In case the provider of your supplier didn’t attach a PDF, we will show the UBL's data in a readable way in Teamleader Focus. Go to the tab **Details **to check that information. If there are additional invoice attachments, you'll also find these in the **Details** > 'Attachments' tab:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/40990177664273)
+![Detailed view of an expense in Teamleader Focus showing line items and attachments.](https://support.focus.teamleader.eu/hc/article_attachments/40990177664273)
 
 - There's a limit of 200 attachments for incoming invoices and the combined size cannot exceed 100 MB
 
@@ -68,7 +68,7 @@ In most cases, UBLs of e-invoices will have a PDF embedded, so we can preview th
  
 
 If you agree with the invoice, [you can approve it ](https://support.focus.teamleader.eu/hc/en-150/articles/34357191325201-How-To-Approve-or-refuse-expenses-in-Teamleader-Focus)and [send it to your bookkeeper](https://support.focus.teamleader.eu/hc/en-150/articles/34357221963409-How-To-Send-expenses-to-your-bookkeeping-in-Teamleader-Focus) via the buttons in the top right-hand corner of the expense:
-![](https://support.focus.teamleader.eu/hc/article_attachments/34361219023505)
+![Action buttons for 'Send to bookkeeper' and 'Mark as refused' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/34358787903889)
 
  
 
@@ -78,11 +78,11 @@ If you agree with the invoice, [you can approve it ](https://support.focus.teaml
 
 - 
 As the *first admin* of the account, you’ll receive a notification in Teamleader via the notification bell, via which you can click through to the invoice/credit note
-![](https://support.focus.teamleader.eu/hc/article_attachments/30199908239377)
+![Notification dropdown in Teamleader Focus showing a new incoming invoice via Peppol.](https://support.focus.teamleader.eu/hc/article_attachments/30199908239377)
 
 - 
 As the *first admin* of the account, you’ll also receive an email informing you about a newly received invoice/credit note.
-![](https://support.focus.teamleader.eu/hc/article_attachments/30199908242193)
+![Email notification for a new incoming invoice received via Peppol in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/30199908242193)
  
 
 # Q&A receiving invoices

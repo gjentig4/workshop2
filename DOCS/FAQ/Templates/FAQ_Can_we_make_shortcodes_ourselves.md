@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: Can we make shortcodes ourselves?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691124859153)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -26,7 +26,7 @@ When you create a custom field via Settings > Custom fields, a shortcode will au
 
  
 
-![Shortcodes for custom fields](https://support.focus.teamleader.eu/hc/article_attachments/25691124932369)
+![A list mapping internal custom field IDs to their labels in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691124932369)
 
  
 
@@ -45,7 +45,7 @@ A second way to make your own shortcodes in Teamleader Focus is via an extra opt
 - Click below the preview on **View shortcodes**
 
 - Scroll all the way down to **Create extra shortcode** and click on it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691117035281) 
+![The 'Create extra shortcode' dialog box in Teamleader Focus for adding custom document variables.](https://support.focus.teamleader.eu/hc/article_attachments/25691117035281) 
 
 - Give your shortcode a name and a default value.
 **! ****Be sure to add the NAME of the shortcode in capital letters, otherwise the shortcode won't work.**

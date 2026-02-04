@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: Can I add the unit prices and total price per line including VAT to my quotation/invoice in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691366407185)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -62,4 +62,4 @@ Beneath you see an example for a quotation template:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691350373777)
+![A Teamleader Focus document template showing shortcodes for quotations and sales documents.](https://support.focus.teamleader.eu/hc/article_attachments/25691350373777)

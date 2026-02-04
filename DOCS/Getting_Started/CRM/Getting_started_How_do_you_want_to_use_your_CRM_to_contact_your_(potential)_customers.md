@@ -10,7 +10,7 @@ section: "CRM"
 
 # Getting started: How do you want to use your CRM to contact your (potential) customers?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692278295825)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

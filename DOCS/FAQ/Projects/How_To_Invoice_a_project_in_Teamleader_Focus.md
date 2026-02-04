@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Invoice a project in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695669275537)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -41,13 +41,13 @@ You can invoice a project from the Invoices tab on the project detail page. 
 
 Go to ‘Invoices’ and click on **Add ****invoice **in the top right-hand corner or click on +Add invoice:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695658385553)**
+**![The Invoices tab within a Teamleader Focus project showing financial overview and add invoice buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25695658385553)**
 
  
 
 Now, you have three options: invoice project lines, create a blank invoice or create an advance invoice:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474372604177)
+![The 'Add invoice for project' dialog showing options to create from lines, blank, or advance.](https://support.focus.teamleader.eu/hc/article_attachments/33474372604177)
 
 Make a choice and click on **Add ****invoice**.
 
@@ -59,21 +59,21 @@ Make a choice and click on **Add ****invoice**.
  
 
 In the next screen you can select which groups, tasks or materials you want to invoice. Optionally you can also choose to only *invoice up until a certain date.* When filled out, only the time trackings up until the selected date will be selected.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695653878929)
+![Invoices tab in a project with a date filter for 'Invoice up until'.](https://support.focus.teamleader.eu/hc/article_attachments/25695653878929)
 
  
 
 Select the items you want to invoice by checking the box next to them. Then, click on **Create ****invoice**:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695674788881)**
+**![Project invoicing screen showing billable tasks and materials grouped for invoice creation.](https://support.focus.teamleader.eu/hc/article_attachments/25695674788881)**
 
 - If you haven’t filled out a customer yet for the project you can select a customer here. If you’ve added multiple customers to your project you’ll have to choose which one of them you’re creating the invoice for. 
 
 - 
 There's also the option **Bundle groups. **
-**![](https://support.focus.teamleader.eu/hc/article_attachments/30364945726225)**
+**![Project navigation tabs and invoice filtering options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/30364945726225)**
 Select this if you only want the group and not the work within a group to be shown on the invoice.
-![](https://support.focus.teamleader.eu/hc/article_attachments/30364945730961)
+![Filtering and selecting items to invoice in Teamleader Focus with the 'Bundle groups' option.](https://support.focus.teamleader.eu/hc/article_attachments/30364945730961)
 
 Note that project lines without group will be shown on the invoice as usual.
  
@@ -83,7 +83,7 @@ Now, a draft invoice will be created. The behaviour is as follows:
 - Groups become subtitles in the invoice, and task/materials become invoice items
 
 - If your group has the [billing method](https://support.focus.teamleader.eu/hc/en-150/articles/25695653109393-How-To-Billing-methods-in-a-project) fixed price, you can select which tasks and individual time trackings you want to mark as billed. Note that work that is part of a fixed price is not shown on the invoice, but you can add the time tracking report as an attachment to the related invoice.
-*![](https://support.focus.teamleader.eu/hc/article_attachments/30364986951953)*
+*![Tooltip explaining that tasks linked to a fixed price project are hidden from the invoice.](https://support.focus.teamleader.eu/hc/article_attachments/30364986951953)*
 
  
 
@@ -94,7 +94,7 @@ If the [billing method](https://support.focus.teamleader.eu/hc/en-150/articles/2
 When invoicing a fixed price, by default 100% will be filled out but you can easily adjust this percentage:
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695658599185)
+![The 'Invoices' tab in a Teamleader Focus project showing billable items and invoice creation.](https://support.focus.teamleader.eu/hc/article_attachments/25695658599185)
 
  
 
@@ -109,7 +109,7 @@ You can also add a blank invoice to your project. This means that you just add a
 
 Just fill out the fields like you would for a normal invoice:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474372607633)
+![The 'Add Invoice' dialog box in Teamleader Focus for creating a new project invoice.](https://support.focus.teamleader.eu/hc/article_attachments/33474372607633)
  
 
 ## Create advance invoice
@@ -125,29 +125,29 @@ You can deduct this advance invoice from later invoices linked to this project -
 - Click on **Add invoice.**
 
 - By default, the checkbox next to 'Mark as advance invoice' is checked:
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474389497233)
+![The 'Add Invoice' form header showing customer selection and advance invoice options.](https://support.focus.teamleader.eu/hc/article_attachments/33474389497233)
 
 - Fill out the items on your invoice
 
 - **Save and book**
 
 - You'll find the invoice in your overview with a label 'Advance invoice' next to it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474372616977)
+![The Invoices tab within a project view in Teamleader Focus, showing billing progress and status.](https://support.focus.teamleader.eu/hc/article_attachments/33474372616977)
  
 
 - In a later stage, you'll want to invoice the lines from your project as explained above. 
 First select which project lines you want to bill. Then, you'll be able to deduct your advance invoice(s) from this amount by checking the box next to the advance invoice:
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474372623505)
+![The project invoicing interface in Teamleader Focus showing how to deduct advance invoices.](https://support.focus.teamleader.eu/hc/article_attachments/33474372623505)
 
 Choose how much from your advance invoices you want to deduct from your new invoice. You can either adapt the amount or edit the percentage:
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474372629137)
+![Input fields for deducting a specific amount or percentage from a total.](https://support.focus.teamleader.eu/hc/article_attachments/33474372629137)
 
 Make sure the advance invoice is already booked before using it to deduct.
 
 - Total deduction from advance invoices can't be higher than total of billable amounts from selected project lines. Meaning that if the total billable amount from your project lines is €2000 already, then you can't deduct a higher advance invoice of e.g. €2500.
 
 - You'll find the 'Amount to bill' of the new invoice in the top right hand-corner. If you click on the question mark next to 'Deduct advance invoices' you'll find how this amount is calculated.
-![](https://support.focus.teamleader.eu/hc/article_attachments/33474389517713)
+![Tooltip explanation for deducting advance invoices in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/33474389517713)
  
 
 - When you've selected everything, click on **Create invoice.**
@@ -169,7 +169,7 @@ There are some other ways to make sure your invoice is linked to your project an
 
 In the projects overview page, you can create invoices for multiple projects at once by clicking on the check mark next to your projects to select the ones you want to invoice > **Invoice X projects:**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/29387519959057)
+![Bulk action to invoice multiple selected projects in the Teamleader Focus project overview.](https://support.focus.teamleader.eu/hc/article_attachments/29387139139601)
 
  
 
@@ -189,7 +189,7 @@ In the projects overview page, you can create invoices for multiple projects at 
 
 If you credit an invoice linked to a project, your credit note will also be visible in the project’s invoices tab:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32290038263953)
+![Invoices tab in a project showing financial summaries, invoices, and credit notes for a customer.](https://support.focus.teamleader.eu/hc/article_attachments/32290038263953)
 
 - Billed and unbilled amounts update automatically when crediting an invoice linked to a project. That means the budget is recalculated when you credit a project invoice.
 

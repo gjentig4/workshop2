@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: How is Amount unbilled calculated in the project overview?
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/41062050134161)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 The *amount unbilled *in the project overview is the total amount of all project work that is (partially) billable but has not yet been invoiced. Read all about it here.
  
 

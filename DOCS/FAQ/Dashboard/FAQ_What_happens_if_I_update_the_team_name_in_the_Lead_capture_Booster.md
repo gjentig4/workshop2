@@ -10,13 +10,13 @@ section: "Dashboard"
 
 # FAQ: What happens if I update the team name in the Lead capture Booster?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694912196753)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 If you change the team name in the Lead capture Booster, it will update your meeting room, waiting room and booking page links. 
 
 To change your team name, go to **Settings > Customization > **Team name. You'll see the following warning about the implications for the URL:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694895941521)
+![Customization settings for the Lead capture Booster in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694895941521)
 The link contains several parts:
 
 - The Teamleader Focus cloud domain

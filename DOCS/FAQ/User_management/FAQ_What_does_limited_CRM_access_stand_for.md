@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: What does limited CRM access stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692293508881)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -19,7 +19,7 @@ Imagine you have a user in your Teamleader Focus account that only needs access 
 Good news: you can restrict CRM access for this type of users. To do so, simply navigate to **Settings > Users **and click on the **name of a user. **You'll be redirected to the 'Permissions' page. 
 Do note that limited CRM access cannot be enabled for admin users.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37773180558737)
+![CRM user permission settings showing the 'Limited access to CRM' toggle enabled.](https://support.focus.teamleader.eu/hc/article_attachments/37773180558737)
 
 If this slider is enabled:
 

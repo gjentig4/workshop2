@@ -88,17 +88,17 @@ const TOOL_PRESETS: Record<string, ToolDefinition[]> = {
     },
     {
       name: "createDeal",
-      description: "Create a new deal in Teamleader Focus. Use this when the user wants to create a deal after discussing a potential sale or project. The tool returns structured data that the UI uses to open a pre-filled deal creation dialog.",
+      description: "Create a new deal in Teamleader Focus. Use this when the user wants to create a deal after discussing a potential sale or project. Can be used with or without an existing customer.",
       parameters: {
         type: "object",
         properties: {
           title: {
             type: "string",
-            description: "The title/name of the deal, describing the work or sale (e.g., 'Solar Panel Installation', 'Website Redesign')",
+            description: "The title/name of the deal (e.g., 'Solar Panel Installation')",
           },
           customer_id: {
             type: "string",
-            description: "The ID of the customer (from searchCustomer results)",
+            description: "The ID of the customer (optional - can create deal without customer)",
           },
           customer_name: {
             type: "string",
@@ -106,19 +106,61 @@ const TOOL_PRESETS: Record<string, ToolDefinition[]> = {
           },
           amount: {
             type: "number",
-            description: "The deal amount/value in the specified currency",
+            description: "The deal amount/value",
           },
           currency: {
             type: "string",
             enum: ["EUR", "USD", "GBP"],
-            description: "The currency for the deal amount (default: EUR)",
+            description: "Currency (default: EUR)",
           },
           description: {
             type: "string",
-            description: "Optional description or notes about the deal",
+            description: "Optional notes about the deal",
           },
         },
-        required: ["title", "customer_id", "customer_name"],
+        required: ["title"],
+      },
+    },
+    {
+      name: "createContact",
+      description: "Create a new contact (person) in Teamleader Focus. Use when customer is not found and user wants to create an individual.",
+      parameters: {
+        type: "object",
+        properties: {
+          first_name: { type: "string", description: "First name" },
+          surname: { type: "string", description: "Surname/last name (required)" },
+          email: { type: "string", description: "Email address" },
+          phone: { type: "string", description: "Phone number" },
+          mobile: { type: "string", description: "Mobile phone" },
+          language: { type: "string", description: "Preferred language" },
+          job_title: { type: "string", description: "Job title" },
+          remarks: { type: "string", description: "Additional notes" },
+        },
+        required: ["surname"],
+      },
+    },
+    {
+      name: "createCompany",
+      description: "Create a new company in Teamleader Focus. Use when customer is not found and user wants to create a business. VAT/KVK/SIRET triggers autofill in production.",
+      parameters: {
+        type: "object",
+        properties: {
+          company_name: { type: "string", description: "Company name (required)" },
+          vat_number: { type: "string", description: "VAT number - triggers autofill" },
+          kvk_number: { type: "string", description: "KVK number (NL)" },
+          siret_number: { type: "string", description: "SIRET number (FR)" },
+          email: { type: "string", description: "Company email" },
+          phone: { type: "string", description: "Company phone" },
+          website: { type: "string", description: "Website URL" },
+          country: { type: "string", description: "Country" },
+          street: { type: "string", description: "Street name" },
+          street_number: { type: "string", description: "Street number" },
+          zip_code: { type: "string", description: "Postal code" },
+          city: { type: "string", description: "City" },
+          language: { type: "string", description: "Preferred language" },
+          remarks: { type: "string", description: "Additional notes" },
+        },
+        required: ["company_name"],
       },
     },
   ],

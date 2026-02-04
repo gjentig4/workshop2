@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Using the (legacy) project planning in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692089160081)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 **Teamleader Focus' project planning module offers a high-level overview of all currently active projects. It allows you to schedule your co-workers' agenda and helps you deliver projects on time. Read on to find out how to use the project planning module. **
 
@@ -64,7 +64,7 @@ In this tab, when you click on a name of a co-worker, it shows you the projects 
 
 ### Project traffic lights
 
-### ![project codes](https://support.focus.teamleader.eu/hc/article_attachments/25692128345617)
+### ![A list of projects or tasks in Teamleader Focus with status indicators and client names.](https://support.focus.teamleader.eu/hc/article_attachments/25692128345617)
 
  
 
@@ -76,7 +76,7 @@ In this tab, when you click on a name of a co-worker, it shows you the projects 
 
 ### Project detail
 
-### ![project details](https://support.focus.teamleader.eu/hc/article_attachments/25692106433041)
+### ![A user's resource planning view showing scheduled hours in a timeline.](https://support.focus.teamleader.eu/hc/article_attachments/25692106433041)
 
  
 
@@ -88,7 +88,7 @@ In this tab, when you click on a name of a co-worker, it shows you the projects 
 
 ### Task list
 
-### ![task list](https://support.focus.teamleader.eu/hc/article_attachments/25692134320529)
+### ![The 'three dots' or 'more actions' menu icon highlighted in a list view.](https://support.focus.teamleader.eu/hc/article_attachments/25692134320529)
 
  
 

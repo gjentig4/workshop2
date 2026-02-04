@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Insights library on Meetings and Tasks in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/35450171494545)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

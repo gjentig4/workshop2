@@ -10,13 +10,13 @@ section: "Revenue"
 
 # How To: How can I copy an invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697940578833)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this article, we'll explain to you how you can copy an invoice in Teamleader Focus. This functionality can be very useful if you need to invoice the same products to the same costumer or if you had to create a credit note and need to create the invoice again.
 
  
 
-You can easily copy an invoice by selecting the invoice and clicking on the **three dots **next to 'Info'> **C****reate copy**.![](https://support.focus.teamleader.eu/hc/article_attachments/25697930696593)
+You can easily copy an invoice by selecting the invoice and clicking on the **three dots **next to 'Info'> **C****reate copy**.![The 'Info' section of an invoice in Teamleader Focus with the actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25697930696593)
 
 Teamleader Focus will automatically create a [draft invoice](https://support.focus.teamleader.eu/hc/en-150/articles/25697903206801-How-To-Draft-invoices-in-Teamleader-Focus) with the date of today and will copy the following items: 
 

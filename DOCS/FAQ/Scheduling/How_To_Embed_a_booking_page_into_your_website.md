@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Embed a booking page into your website
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694991312145)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Making it easy for customers to book a meeting can be a big time saver. By integrating your booking page or meeting type into your own website, Wordpress, Webflow or Wix, it's possible to achieve just that.
 
@@ -35,7 +35,7 @@ Making it easy for customers to book a meeting can be a big time saver. By integ
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017249599633)
+![Tutorial banner for Customer Meeting add-on: Custom Branding in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694720925585)
 
  
 
@@ -46,7 +46,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 After you've [created meeting types](https://support.focus.teamleader.eu/hc/en-150/articles/25694496632593-How-To-Create-a-meeting-type-for-your-personal-booking-page-as-a-team-admin), basically all you have to do is copy the code from the meeting type page and paste in the code base of your website on the right location.
 
 - Go to **Meeting types**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694964439185)
+![Meeting Types overview in Teamleader Focus showing booking link options and meeting cards.](https://support.focus.teamleader.eu/hc/article_attachments/25694448022289)
 
 If you want to copy the personal or team booking page, click on **Booking links **in the top right-hand corner and click on the preferred embedded HTML link (personal or team). 
 
@@ -101,7 +101,7 @@ Once you've copied the codeblock with the embedded booking page (see general), y
 - Open the page where you want to add the codeblock
 
 - Click on the **Plus** and select **Custom HTML**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25694991456529)**
+**![Adding a Custom HTML block in the Teamleader Focus content editor](https://support.focus.teamleader.eu/hc/article_attachments/25694991456529)**
 
 - Paste the iframe code in the custom HTML block
 **note: Depending on your layout, you might want to put the iframe in a paragraph.*
@@ -109,7 +109,7 @@ Once you've copied the codeblock with the embedded booking page (see general), y
 - Test and edit the height so the iframe displays perfectly on your website.
 
 - Publish your website
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694980038801)
+![Public meeting booking page showing a 60-minute online meeting option with a 'Schedule meeting' button.](https://support.focus.teamleader.eu/hc/article_attachments/25694980038801)
 
  
 
@@ -119,14 +119,14 @@ Copy and paste the embedded HTML iframe in your Webflow website.
 
 - Open the page where you want to add the codeblock
 
-- Click on the **Plus** and in Advanced select **Embed**, drag and drop the Embed box into your page**![](https://support.focus.teamleader.eu/hc/article_attachments/25694995436689)**
+- Click on the **Plus** and in Advanced select **Embed**, drag and drop the Embed box into your page**![Selecting the Embed element from the Add menu in a website builder to insert custom code.](https://support.focus.teamleader.eu/hc/article_attachments/25694995436689)**
 
 - Paste the iframe code in the custom HTML block.
 
 - Test and edit the height so the iframe displays perfectly on your website.
 
 - Publish your website
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694964649617)
+![Contact page for booking a 60-minute online meeting with a Teamleader Focus representative.](https://support.focus.teamleader.eu/hc/article_attachments/25694964649617)
 
 ###  
 
@@ -139,15 +139,15 @@ To embed a booking page in your Wix website, click on **Copy embedded HTML.**
 - Open the page where you want to add the codeblock
 
 - Click on the **Plus** and **Embed Code **-**Embed HTML**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694980230801)
+![Adding an HTML embed element to a page in the website editor.](https://support.focus.teamleader.eu/hc/article_attachments/25694980230801)
 
 - In the HTML settings, select Website address and paste the embedded booking page code in the field Website Address. Click on **Apply.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25694964747025)**
+**![HTML Settings dialog for adding a website address or code snippet in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694964747025)**
 
 - Edit the height so the iframe shows perfectly on your website.
 
 - Publish your website
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694950810001)
+![Teamleader Focus scheduling page for booking a 60-minute online meeting with John Doe.](https://support.focus.teamleader.eu/hc/article_attachments/25694950810001)
 
  
 
@@ -166,7 +166,7 @@ We recommend to remove the redirect URL for the meeting types which are shown o
 - In 'Powerful extensions', go to **Redirecting**
 
 - Remove the URL in the field below 'Redirect URL'
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694991861649)
+![Configuration settings for redirecting invitees to a custom URL in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694991861649)
 
 - Save the page
 
@@ -187,6 +187,6 @@ Go to [Contact widgets](https://meeting.teamleader.eu/contact-widgets/)
 
 - 
 In 'Link contact type' select Meeting type and choose your meeting type or booking page
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694964912145)
+![Configuration screen for creating a custom website contact widget button in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694964912145)
 
 - Hit **Save **and [embed the contact widget in your website](https://support.focus.teamleader.eu/hc/en-150/articles/25695420502545-How-To-Embed-the-contact-widget-in-your-website).

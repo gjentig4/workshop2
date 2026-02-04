@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # How To: 3 ways to create a ticket
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691498257937)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -38,7 +38,7 @@ As we mentioned in the beginning, if you have your shared inbox set up, emails f
 
 From there on, you can reply to the ticket directly or decide which user will do it. You can also use different templates to ensure the fastest possible response. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691524621457)
+![Shared inbox setup screen for configuring ticket email forwarding and reply addresses.](https://support.focus.teamleader.eu/hc/article_attachments/25691524621457)
 
  
 
@@ -56,7 +56,7 @@ This last option will save the email as a ticket in your shared inbox and will l
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691483490065)
+![Teamleader JIRA integration widget showing action buttons for tracking and conversion.](https://support.focus.teamleader.eu/hc/article_attachments/25691483490065)
 
  
 

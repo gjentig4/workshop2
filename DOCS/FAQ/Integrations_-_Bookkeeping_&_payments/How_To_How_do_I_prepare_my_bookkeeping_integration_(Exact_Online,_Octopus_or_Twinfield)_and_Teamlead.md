@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: How do I prepare my bookkeeping integration (Exact Online, Octopus or Twinfield) and Teamleader Focus account for connection?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691151873169)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ In Exact, this can be found by clicking on your company name at the top right an
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691196953745)
+![The Maintenance Journal settings page for configuring sales journal codes and translations.](https://support.focus.teamleader.eu/hc/article_attachments/25691196953745)
 
  
 
@@ -67,7 +67,7 @@ If you have a customer database in both Teamleader Focus and the tool, the impor
  
 
 After importing, it is likely you have many duplicates of customers in Teamleader Focus. As an admin, you can see which customers have an External ID via their contact/company page and which do not. This column can also be added to the columns of your invoices overview.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691168349329)
+![The 'Edit view of columns' dialog box for customizing list views in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691168349329)
 
  
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Replacing one user by another
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693013029009)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -39,7 +39,7 @@ When you deactivate the user, you will have the option to transfer open tasks or
 - Create your new user
 
 - Go to **Settings > Users > Deactivated > name of the user > Transfer data**
-![](https://support.focus.teamleader.eu/hc/article_attachments/37560517194129)
+![User profile view for a non-active user with the 'Transfer data' button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/37501213361425)
  
 
 - Indicate what needs to happen with the items of the deactivated user.

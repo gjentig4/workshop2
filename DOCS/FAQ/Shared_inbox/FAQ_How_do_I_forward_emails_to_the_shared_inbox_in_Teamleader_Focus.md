@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # FAQ: How do I forward emails to the shared inbox in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691357683857)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -30,13 +30,13 @@ In case you want to read more about the set-up of your shared inbox, click [here
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691331473297)
+![Gmail settings for Forwarding and POP/IMAP configuration](https://support.focus.teamleader.eu/hc/article_attachments/25691331473297)
 
  
 
 3. This brings you to the following screen, where you can add the unique email address of your shared inbox.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691331502609)
+![Dialog box to add a new email forwarding address in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691331502609)
 
  
 
@@ -50,7 +50,7 @@ In Gmail, you also have the option to create a filter so that you can decide whi
 
 2. Click on **Email** > **Forwarding**. This window gives you the option to fill in the unique email address you see when setting up the Shared inbox.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691348281617)
+![Email forwarding settings page in Teamleader Focus for redirecting emails to another account.](https://support.focus.teamleader.eu/hc/article_attachments/25691348281617)
 
  
 
@@ -64,7 +64,7 @@ You also have the option to keep a copy of all forwarded messages in Outlook.
 
 When [using Mail on iCloud.com](https://www.icloud.com/mail), you can have all your iCloud Mail messages forwarded automatically to another email account. You may find this helpful if you use the Teamleader Focus shared inbox.
 
-- Click the Action pop-up menu ![](https://support.focus.teamleader.eu/hc/article_attachments/25691348924817) in the iCloud sidebar, then choose **Preferences**.
+- Click the Action pop-up menu ![A simple gray gear icon representing the settings or configuration menu.](https://support.focus.teamleader.eu/hc/article_attachments/25691348924817) in the iCloud sidebar, then choose **Preferences**.
 
 - In the General pane, select “**Forward my email to**”, then type the forwarding address in the text field.
 

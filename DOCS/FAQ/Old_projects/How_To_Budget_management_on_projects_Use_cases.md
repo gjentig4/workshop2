@@ -27,7 +27,7 @@ Phase 1 = €3000 budget
 
 - Phase 2 = €2000 budget
 
-- Navigate to the tab **Project info **in the header of your project. You'll find the widget 'Budget' spent here.![](https://support.focus.teamleader.eu/hc/article_attachments/25697559570449)
+- Navigate to the tab **Project info **in the header of your project. You'll find the widget 'Budget' spent here.![Project budget and profit tracking dashboard showing budget spent and profit margins.](https://support.focus.teamleader.eu/hc/article_attachments/25697559570449)
 
 - The budget spent will be €0,00 / €5000 for the complete project. The profit will already be €5000 because you are working with a fixed price/billable amount of €5000.
 
@@ -38,7 +38,7 @@ Track time for 2 hours on the task.
 
 - Add an external cost of €3000 (sale price of the product) to the second phase.
 
-- The forecast bar and the tab ‘phase budgets’ will show the following:![](https://support.focus.teamleader.eu/hc/article_attachments/25697559631889)
+- The forecast bar and the tab ‘phase budgets’ will show the following:![Project phase budget forecast table showing spent vs. provided amounts and budget status.](https://support.focus.teamleader.eu/hc/article_attachments/25697559631889)
 
 - Forecast for Phase 1 displays €600 because task duration (3h) * external hourly rate user (€200)
 
@@ -49,7 +49,7 @@ Track time for 2 hours on the task.
 - 
 In total however you’ve only spent €3400 / €5000 budget, so the budget usage is on track.
 
-The profit will be €4860 because of the costs (€140) you’ve made (internal cost of the user (€70) that tracked 2 hours of time).![](https://support.focus.teamleader.eu/hc/article_attachments/25697559696785)
+The profit will be €4860 because of the costs (€140) you’ve made (internal cost of the user (€70) that tracked 2 hours of time).![Project financial overview showing budget spent, profit margin, and time tracked.](https://support.focus.teamleader.eu/hc/article_attachments/25697559696785)
 
 # Example 2: Billing method of phases is based on ‘time and material’
 
@@ -85,7 +85,7 @@ First phase: track 4 hours time of the provided 5 hours.
 - Third phase: track 20 hours of the provided 15 hours.
 
 - 
-You’ll find the following budget spent overview on your **Project info **page:![](https://support.focus.teamleader.eu/hc/article_attachments/25697611770385)
+You’ll find the following budget spent overview on your **Project info **page:![Project budget tracking dashboard showing budget spent, profit, and time tracked per phase.](https://support.focus.teamleader.eu/hc/article_attachments/25697611770385)
 
 - 
 Phase 1 is on track (green) because it won’t go over budget: 

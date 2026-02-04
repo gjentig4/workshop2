@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: Can I invoice in the past?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691309724689)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You can invoice in the past, but only on the date of your last invoice in the fiscal year or after this date. 
 

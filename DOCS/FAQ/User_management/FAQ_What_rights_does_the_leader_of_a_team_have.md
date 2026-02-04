@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: What rights does the leader of a team have?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697950363921)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When navigating to **Settings **> **Teams**, you'll have the possibility to create teams and you'll also be able to select a leader for every team. In this article we will give you more info about the rights of the leader. 
 
@@ -24,7 +24,7 @@ If you want to know more about how to create a team in Teamleader Focus, [please
 
 A leader will be able to hide their agenda from the team members. A user with [admin rights](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin) can deactivate the option 'Team members can see my agenda' via **Settings **> **Users** > click on the **name **of the leader > 'Permissions' > 'Calendar'. A leader will also have the possibility to have access to the calendar of the entire team.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37710186155665)
+![Calendar settings menu in Teamleader Focus showing access and visibility options.](https://support.focus.teamleader.eu/hc/article_attachments/37709833853713)
 
  
 
@@ -49,7 +49,7 @@ A leader will be able to hide their agenda from the team members. A user with [a
 ## Leave requests
 
 When adding a team, you'll also have the possibility to decide who will be in charge of[ approving leave requests](https://support.focus.teamleader.eu/hc/en-150/articles/25691095003153-How-To-Approving-leave-in-Teamleader-Focus). This can be the responsibility of the leader or another user: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697962976657)
+![The 'Edit team' dialog box in Teamleader Focus showing team settings and approval workflows.](https://support.focus.teamleader.eu/hc/article_attachments/25697962976657)
 
  
 

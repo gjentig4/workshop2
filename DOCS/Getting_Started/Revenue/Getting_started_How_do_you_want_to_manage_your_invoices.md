@@ -10,7 +10,7 @@ section: "Revenue"
 
 # Getting started: How do you want to manage your invoices?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692584967313)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 - *What information is needed for the invoice?*
 

@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: How can I open and save XLS files in protected view ?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692366523409)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 If you export a file from Teamleader Focus, this will be in an XLS format. The latest versions of Excel falsely regard XLS files downloaded from the internet as a “damaged file”. Therefore, it is impossible to edit or save this file.
 
@@ -20,11 +20,11 @@ In order to make it possible to edit and save this file, some changes need to ha
 
 2. Go to “**Trust Center Setting**”.
 
-![XLS trust center](https://support.focus.teamleader.eu/hc/article_attachments/25692366614161)
+![The Microsoft Excel Options dialog box showing the Trust Center settings tab.](https://support.focus.teamleader.eu/hc/article_attachments/25692366614161)
 
 3. Go to “**File Block Settings**”.
 
-![XLS 2](https://support.focus.teamleader.eu/hc/article_attachments/25692357365137)
+![Microsoft Excel Trust Center File Block Settings dialog for managing file opening permissions.](https://support.focus.teamleader.eu/hc/article_attachments/25692357365137)
 
 4. Check “**Open**” and “**Save**” for “Excel 2007 and later Workbooks and Templates” and for “Excel 97-2003 Workbooks and Templates” and make sure the “Open behaviour for selected file types” is “**Open selected file types in Protected View and allow editing**”.
 

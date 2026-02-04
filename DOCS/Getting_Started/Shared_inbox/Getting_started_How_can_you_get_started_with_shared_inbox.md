@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # Getting started: How can you get started with shared inbox?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692557219089)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

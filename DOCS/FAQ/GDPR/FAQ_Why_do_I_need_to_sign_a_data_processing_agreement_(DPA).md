@@ -10,13 +10,13 @@ section: "GDPR"
 
 # FAQ: Why do I need to sign a data processing agreement (DPA)?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692780707345)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When using Teamleader Focus, you enter personal data (e.g. name, telephone number, email address, etc.) of your company's or organization's customers, leads, business partners, etc. (“contacts”) into your account. You’ve collected their personal data for your own purposes, e.g. to provide your services. That makes you the **data controller**.
 
 We facilitate the management of your contacts’ data through our tool. By entering their personal data into your Teamleader Focus account, you are sharing this data with us. Our job is to keep this data available and safe on your behalf. We are the **data processor** here.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692780781969)
+![Diagram explaining GDPR roles: Data subject, Data controller, and Data processor in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692780781969)
 
 As a data controller, you have an obligation under the GDPR to enter into a DPA with all your data processors. To help you meet that legal obligation, we have made sure that there is a DPA in place. 
 

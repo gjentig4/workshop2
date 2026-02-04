@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: How can I set a lunch break?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691648934417)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 *! If the Planning Booster is part of your package you'll automatically have access to the lunch break functionality too.*
  
@@ -30,7 +30,7 @@ To set a lunch break, you can follow these steps:
  
 
 Example: This co-worker has been working on a task from 11 am to 3 pm and also took their lunch break of an hour. Whenever the co-worker tracks time on the task, they will have the option to take the latter into account when tracking the time. As a result, an hour less will be tracked.
-![](https://support.focus.teamleader.eu/hc/article_attachments/37778639665809)
+![The 'Add time tracking' dialog box in Teamleader Focus with duration and project details.](https://support.focus.teamleader.eu/hc/article_attachments/37778639665809)
 
  
 

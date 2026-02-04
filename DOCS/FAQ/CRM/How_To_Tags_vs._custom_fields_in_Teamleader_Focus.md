@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Tags vs. custom fields in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37676773258641)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 When working with data in Teamleader Focus, organising your contacts and companies effectively is key to getting the most out of the tool. Two common ways to structure and categorise your data are tags and custom fields. While they may appear similar at first, they serve different purposes. Choosing one over the other has consequences for segmentation, reporting, document display, and integrations. Read more here!
  
 

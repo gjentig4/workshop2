@@ -10,7 +10,7 @@ section: "Work orders"
 
 # How To: Invoice a work order out of a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693083709073)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -28,7 +28,7 @@ Add some extra products if needed
 
 - Go to the project and click on **Time tracked **on the work breakdown page. The work order will be registered like this:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693076549265)
+![Time tracking table showing user Eline's work hours, hourly rate, and invoiceable status.](https://support.focus.teamleader.eu/hc/article_attachments/25693076549265)
 
  
 
@@ -36,6 +36,6 @@ Add some extra products if needed
 [Invoice the phase](https://support.focus.teamleader.eu/hc/en-150/articles/25697730221841-How-To-Invoice-a-project-in-Teamleader-Focus)(= invoice the work order)
 Extra costs like extra products you added to the work order will be added to the invoice as a separate article line. You can see these extra costs when you invoice them.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693071691153)
+![A table showing line items for an invoice or quotation with descriptions, prices, and VAT rates.](https://support.focus.teamleader.eu/hc/article_attachments/25693071691153)
 
 [More info on the project module can be found here](https://support.focus.teamleader.eu/hc/en-150/articles/25692436076177-Getting-started-How-can-you-structure-a-project).

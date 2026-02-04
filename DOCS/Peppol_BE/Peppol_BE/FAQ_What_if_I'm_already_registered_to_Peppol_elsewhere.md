@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # FAQ: What if I'm already registered to Peppol elsewhere?
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/30082915866385)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 If you’re already registered to Peppol somewhere else, this means you will receive invoices, credit notes and messages there. If you want to keep it that way, that's fine, and we will give you the option to only send invoices via Teamleader Focus and not receive them. If you prefer to use our tool for both sending *and *receiving, that's even better! In that case you'll need to deregister your other registration before we can register you on our own Peppol access point. Read everything about it here.
 
  
@@ -23,7 +23,7 @@ Go to **Settings > Company information > Company entities**.
 
 When clicking **Enable Peppol** next to your entity, we’ll be able to detect if your KBO number or VAT number is already registered on Peppol elsewhere. If that’s the case, we’ll inform you of this.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41985197054737) 
+![Information dialog about Peppol registration status and instructions for switching providers.](https://support.focus.teamleader.eu/hc/article_attachments/41985057043089) 
  
 
 # Send and receive documents and status updates
@@ -38,7 +38,7 @@ Below you find a list of possible providers and their support email address.
 - 
 In your Peppol settings you’ll see ‘Enabled’ next to ‘Sending’, but ‘Disabled’ next to ‘Receiving. After deregistering you will be able to activate Peppol for receiving documents again by clicking on **Activate receiving documents.**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/30082880984465)
+![Company entities settings page showing Peppol integration status for different departments.](https://support.focus.teamleader.eu/hc/article_attachments/30082880984465)
 
 If something still went wrong during the registration process, please contact [peppol@teamleader.eu](mailto:peppol@teamleader.eu) for further assistance.
  

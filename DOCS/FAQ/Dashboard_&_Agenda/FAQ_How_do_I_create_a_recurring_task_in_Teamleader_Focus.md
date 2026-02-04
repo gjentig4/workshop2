@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How do I create a recurring task in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691536444817)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ In [this article](https://support.focus.teamleader.eu/hc/en-150/articles/2569195
 
 2. Enable the toggle next to "Repeat..."
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691550872465)
+![Recurrence settings for scheduling a repeating task or event in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691550872465)
 
 3. Afterwards, you set the occurrences, e.g. daily or weekly. You can also define the time frame and the end date.
 

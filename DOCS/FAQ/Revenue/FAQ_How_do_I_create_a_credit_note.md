@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: How do I create a credit note?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692410831121)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -24,7 +24,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25692373502993)
+          ![Tutorial banner for 'Creating credit notes' in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692373502993)
         
 
       
@@ -79,7 +79,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
 - You will now see different items as they are listed on the invoice. Credit the entire invoice or delete items by clicking on the bin on the right if you only want to credit part of the invoice.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692403367825)
+![The 'Add credit note' dialog box in Teamleader Focus for creating a new credit note.](https://support.focus.teamleader.eu/hc/article_attachments/25692403367825)
 
     4. Click "Save and book" to add the credit note to the invoice. 
   

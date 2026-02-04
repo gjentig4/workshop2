@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: What can partners expect from Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691139058321)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

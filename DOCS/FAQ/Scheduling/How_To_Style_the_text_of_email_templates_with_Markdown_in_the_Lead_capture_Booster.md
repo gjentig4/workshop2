@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Style the text of email templates with Markdown in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695490348305)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 The Lead capture Booster offers a lot of customising options for meeting rooms and scheduling. Next to advanced styling options, you can also customize the text in several places. But how do you style that text?
 
@@ -49,7 +49,7 @@ Below we will explain the basics of the Markdown language which you can use in t
 
 You can use headings by adding one or more hashtags (#) and a space before the text:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695490395153)
+![Markdown formatting preview for meeting notes or messages in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695490395153)
 
  
 
@@ -64,32 +64,32 @@ Use 2 asterisks or 2 underscores to use **bold** text.
 - 
 Use 3 asterisks or 3 underscores to use ***bold and italic*** text.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695438742033)
+![Markdown formatting guide and preview for meeting host messages in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695438742033)
 
  
 
 3. **Ordered and unordered lists**
 
 To add **an ordered list**, you add 1. item 2. item 3. item ... below each other with a dot and space after the numbers.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695466775953)
+![Editing the 'The meeting host is not present' notification message in Customer Meeting add-on](https://support.focus.teamleader.eu/hc/article_attachments/25695466775953)
 
  
 
 To add **an unordered list** you have multiple options. You can use - item, + item or * item below each other. Add a space after the symbol.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695477098769)
+![A text input field for 'The meeting host is not present' message with a live preview.](https://support.focus.teamleader.eu/hc/article_attachments/25695477098769)
 
  
 
 Add 3 spaces before the item to make an item indented:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695451480849)
+![A text input field and preview showing a numbered list for 'The meeting host is not present' message.](https://support.focus.teamleader.eu/hc/article_attachments/25695451480849)
 
  
 
 4. **Links**
 
 In order to add a link, enclose the link text in brackets [text] immediately followed by the URL in parentheses (URL). You can make the link bold or italic by adding the asterisks/underscores before the brackets and after the parentheses.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695490623889)
+![Markdown formatting for links in Teamleader Focus with a live preview](https://support.focus.teamleader.eu/hc/article_attachments/25695490623889)
 
  
 
@@ -97,7 +97,7 @@ In order to add a link, enclose the link text in brackets [text] immediately fol
 
 You can add a horizontal line by adding three asterisks, hyphens or underscores:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695490668305)
+![Configuration field for 'The meeting host is not present' notification message.](https://support.focus.teamleader.eu/hc/article_attachments/25695490668305)
 
 *Note: If you add three hyphens below the text, all the text will be displayed in bold. You must enter to prevent this or choose one of the other options to create a horizontal line.*
 
@@ -106,12 +106,12 @@ Use markdown in email templates - example
 
 Below you can find an example of how Markdown can be used for email templates.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695506186001)
+![Customizing the customer confirmation email template for meetings in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695506186001)
 
  
 
 This will result in the following email:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695477361041)
+![Email confirmation for a booked online meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695477361041)
 
  
 

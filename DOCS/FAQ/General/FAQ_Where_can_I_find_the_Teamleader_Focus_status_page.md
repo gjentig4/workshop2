@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: Where can I find the Teamleader Focus status page?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692012626449)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 We want to inform you about any performance issues or problems we are experiencing as quickly as possible. That’s why we created the [status page](http://status.teamleader.eu/). Don’t worry, you don’t have to check it all the time.
 
@@ -22,6 +22,6 @@ You can find the status page via your user icon in the top right-hand corner in 
 
 You can simply subscribe to the page and we’ll notify you by e-mail, text message, webhook or RSS-feed if there are any issues. Just go to the [status page](http://status.teamleader.eu/), click on **subscribe to updates** and choose via which channel you want to be informed:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692033642129)
+![Subscription dialog for Teamleader incident email notifications.](https://support.focus.teamleader.eu/hc/article_attachments/25692033642129)
 
 That’s it, now you’ll never have to miss a Teamleader Focus update again!

@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Using tags in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690868450577)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ Examples of tags can be ‘Customer’, ‘Supplier’, ‘Prospect’, but as w
 
 - Choose a company and click on the **pencil **next to “Company information”
 
-- In the pop up screen you can choose a tag from the drop down menu next to “Tags”![](https://support.focus.teamleader.eu/hc/article_attachments/25690853905681)
+- In the pop up screen you can choose a tag from the drop down menu next to “Tags”![The Tags dropdown menu within the Industry section of a contact or company form.](https://support.focus.teamleader.eu/hc/article_attachments/25690853905681)
 
 - 
 Click on **Save**
@@ -55,7 +55,7 @@ Click on **Save**
 
 - Click on the **pencil**
 
-- Delete the tag by clicking on the X next to the tag![](https://support.focus.teamleader.eu/hc/article_attachments/25690853934225)
+- Delete the tag by clicking on the X next to the tag![Form fields for Sector and Tags in Teamleader Focus with a tag removal action highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25690853934225)
 
 *Notes*:
 

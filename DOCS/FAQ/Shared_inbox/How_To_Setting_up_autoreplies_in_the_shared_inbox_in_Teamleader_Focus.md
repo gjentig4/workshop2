@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # How To: Setting up autoreplies in the shared inbox in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691030345361)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -24,6 +24,6 @@ Autoreplies are custom made replies that are automatically being sent to your cu
 
 - Click the **slider** next to **Default reply'** if the autoreply must be sent to all the incoming tickets.
 
-- Click '**Advanced options'**. If you select an email address, the ticket will be sent from the corresponding email address as soon as an email sent to this email address arrives. This will overwrite the default message. You can also opt for a '**Filter'**. In the filter you can enter certain words which will trigger the autoreply. This can be for example the word “Urgent”![](https://support.focus.teamleader.eu/hc/article_attachments/25691030387985)
+- Click '**Advanced options'**. If you select an email address, the ticket will be sent from the corresponding email address as soon as an email sent to this email address arrives. This will overwrite the default message. You can also opt for a '**Filter'**. In the filter you can enter certain words which will trigger the autoreply. This can be for example the word “Urgent”![The 'Add Autoreply' configuration window for the Teamleader Focus ticketing system.](https://support.focus.teamleader.eu/hc/article_attachments/25691030387985)
 
 - Enter your email content and click “**Save**”

@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: What’s the value of a unique and verified email address per user account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693461924881)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When [adding users to your Teamleader Focus account](https://support.focus.teamleader.eu/hc/en-150/articles/25690695274513-How-To-Adding-new-users-to-your-Teamleader-Focus-account), you'll notice each user account needs to have a unique and verified email address. During verification, the new user has to confirm he is the only one with access to that certain inbox. All important Teamleader Focus notifications end up there, also the ones about resetting your password.  
 

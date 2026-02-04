@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: How do I edit my file for importing contacts and companies?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691837470097)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -39,17 +39,17 @@ Below, we will explain how to fix most of the columns in your import file. You w
 
 This formula can be applied to fix columns with addresses, email addresses, phone numbers, account managers, related contacts (or all other columns with multiple values).
 
-- Insert on the right as many new columns as the max number of email addresses you have in the same cell, select your email address column > Go to **Data** > Select the option **Text to Columns**:**![](https://support.focus.teamleader.eu/hc/article_attachments/25691837512721)**
+- Insert on the right as many new columns as the max number of email addresses you have in the same cell, select your email address column > Go to **Data** > Select the option **Text to Columns**:**![Using the 'Text to Columns' feature in Excel to prepare data for Teamleader Focus import](https://support.focus.teamleader.eu/hc/article_attachments/25691837512721)**
 
 - Choose the option **Delimited.**
 
 -  Press **Next** > Choose your delimiting symbol from the list (e.g. comma, semicolon, etc.) or type your delimiting symbol next to Other.
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691814656657)**
+**![Step 2 of the Convert Text to Columns Wizard for importing data into Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691814656657)**
 
 4. Press **Next** to continue > Choose the option **General** for the column Data format and check the new columns that will be created in the Data preview section:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691805156753)**
+**![Step 3 of the Excel Convert Text to Columns Wizard for formatting data before importing to Teamleader](https://support.focus.teamleader.eu/hc/article_attachments/25691805156753)**
 
 5. Press **Finish**. Voilà, it’s done!
 
@@ -61,7 +61,7 @@ This formula can be applied to fix columns with addresses, email addresses, phon
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691814752273)**
+**![Step 3 of the Excel Convert Text to Columns Wizard, setting the data format to 'Text'.](https://support.focus.teamleader.eu/hc/article_attachments/25691814752273)**
 
 - Column phone number: If you have two or more telephone numbers in the same cell, you can separate them with the Text to Columns formula.
 
@@ -77,7 +77,7 @@ This formula can be applied to columns with countries, languages, payment terms,
 
 - Click on **sort and filter** and select **Filter**:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691841077009)**
+**![The Sort & Filter menu in Teamleader Focus with the Filter option highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691841077009)**
 
 3. You will see a dropdown button on the column you selected, click on it to get a list of all the different countries in the column.
 
@@ -85,9 +85,9 @@ This formula can be applied to columns with countries, languages, payment terms,
 
 5. Click on **Find and Select** and choose **Replace**:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691830810513)**
+**![Microsoft Excel 'Find & Select' menu with the 'Replace' option highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691830810513)**
 
-6. Enter the name of a country in **Find what** field, enter the corresponding ISO code in the Replace with field and then click on Replace all:![](https://support.focus.teamleader.eu/hc/article_attachments/25691848464273)
+6. Enter the name of a country in **Find what** field, enter the corresponding ISO code in the Replace with field and then click on Replace all:![Find and Replace dialog box showing a search for 'England' to be replaced with 'EN'.](https://support.focus.teamleader.eu/hc/article_attachments/25691848464273)
 
 7. Repeat step 6 for each country.
 
@@ -95,12 +95,12 @@ This formula can be applied to columns with countries, languages, payment terms,
 
 - Insert a new column on the right hand side.
 
-- Enter = in the first cell of your new column, select the first cell of the first tag column, type the string **&“,”&  **then select the second cell of the second tag column and press **Enter** to confirm. **![](https://support.focus.teamleader.eu/hc/article_attachments/25691837929489)**
+- Enter = in the first cell of your new column, select the first cell of the first tag column, type the string **&“,”&  **then select the second cell of the second tag column and press **Enter** to confirm. **![Excel formula example for combining multiple tag columns into one for Teamleader Focus import.](https://support.focus.teamleader.eu/hc/article_attachments/25691837929489)**
 
 - To apply the formula to the whole column, select the cell with the formula, place the mouse on the lower right corner until you see a black + symbol.
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691805545105)**
+**![Excel spreadsheet showing how to combine multiple tags into one column for Teamleader Focus import](https://support.focus.teamleader.eu/hc/article_attachments/25691805545105)**
 
 4. Click on the + symbol and drag it down. Your column will look like this below:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691831077009)**
+**![Spreadsheet example showing how to combine multiple tag columns for a Teamleader Focus import.](https://support.focus.teamleader.eu/hc/article_attachments/25691831077009)**

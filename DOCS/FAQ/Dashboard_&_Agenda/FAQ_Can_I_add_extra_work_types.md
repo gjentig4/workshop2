@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: Can I add extra work types?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691923971217)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -20,7 +20,7 @@ Your Teamleader Focus account has some default work types, but you can always ad
 
 First of all, custom work types can be added under **Settings **> **Calendar > Work types > +.**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691908021905)**
+**![The 'Add Work type' dialog box in Teamleader Focus for creating new billable activities.](https://support.focus.teamleader.eu/hc/article_attachments/25691908021905)**
 
 - Start with assigning a name to your work type.
 

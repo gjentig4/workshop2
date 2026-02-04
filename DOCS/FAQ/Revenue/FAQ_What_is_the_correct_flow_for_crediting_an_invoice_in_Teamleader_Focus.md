@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: What is the correct flow for crediting an invoice in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695390964113)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In Teamleader Focus, there is a specific flow that we propose for handling credit notes to ensure that you receive the correct amount, and your client doesn’t receive any invoice reminders.
 
@@ -30,7 +30,7 @@ Here’s how we propose you should handle credit notes.
 
 Take as an example an invoice for €100. For clarity’s sake, we won’t add VAT to this invoice.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695406075153)
+![The contents section of a document showing line items, prices, and VAT calculations.](https://support.focus.teamleader.eu/hc/article_attachments/25695406075153)
 
  
 
@@ -45,7 +45,7 @@ Adjust the amount 
 - 
 **Save and book**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695348752913)
+![The 'Items on the credit note' form in Teamleader Focus showing line items and the save button.](https://support.focus.teamleader.eu/hc/article_attachments/25695348752913)
 
  
 
@@ -64,7 +64,7 @@ Now if you go back to the invoice page, you’ll see that the invoice is still o
 - 
 Click on **Add payment**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695391108753)**
+**![The 'Add payment' dialog box in Teamleader Focus for recording invoice payments.](https://support.focus.teamleader.eu/hc/article_attachments/25695391108753)**
 
  
 

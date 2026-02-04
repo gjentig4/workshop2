@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Adding Targets
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691322416785)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In Teamleader Focus, it is possible to set targets on the basis of a number of parameters. Targets can be made for turnover, deals, calls, meetings, tasks and performance. Within each of these types, extra settings can be selected to make the target more specific.
 
@@ -64,7 +64,7 @@ In addition to these standard parameters, there are a few optional filters that 
 
  
 
-![adding targets - optional](https://support.focus.teamleader.eu/hc/article_attachments/25691322462609)
+![A sales target widget in Teamleader Focus showing progress for a specific user.](https://support.focus.teamleader.eu/hc/article_attachments/25691322462609)
 
 We will select the person filter "Samuel Van Daele" and ignore the filter for origin. If we click save, we can see under "Sales phases" that a new target has been created for Samuel Van Daele. 
 
@@ -74,7 +74,7 @@ Currently, Samuel's target is red, which means that he does not have enough acce
 
  
 
-![adding targets](https://support.focus.teamleader.eu/hc/article_attachments/25691300549521)
+![A dashboard widget showing a bar chart for deals in the 'Aanvaard' phase for a specific user.](https://support.focus.teamleader.eu/hc/article_attachments/25691300549521)
 
  
 
@@ -93,7 +93,7 @@ If we click the target, a window showing a graph will open up. To the right of t
  
 
 Compare different periods by clicking the arrows next to the dates in the box next to the graph. Click on **Actions** >**Refresh current period**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691284533009)
+![The 'Actions' dropdown menu for targets in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691284533009)
 This way, we can quickly see how good (or bad) we are doing compared to the same time a week/month/year earlier.
 
 Now that you know how to get started, it's time to set those targets and measure your growth!
@@ -113,7 +113,7 @@ The amount shown in' Revenue target for quarter corresponds' to the total excl. 
 You can also calculate it yourself by checking the following segments:
 
 - Invoices:
-![](https://support.focus.teamleader.eu/hc/article_attachments/28417102986513)
+![The 'Edit segment' dialog box showing general information and rule configuration for a segment.](https://support.focus.teamleader.eu/hc/article_attachments/28417102986513)
 
 - Credit notes:
-![](https://support.focus.teamleader.eu/hc/article_attachments/28417134095633)
+![The 'Edit segment' dialog box for creating or modifying contact segments with specific rules.](https://support.focus.teamleader.eu/hc/article_attachments/28417134095633)

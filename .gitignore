@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+DOCS/_downloaded_images/
+.agents/
+.cursor/
+.opencode/
+knowledge-base-transformation/

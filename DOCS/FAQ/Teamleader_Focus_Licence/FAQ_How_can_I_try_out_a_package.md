@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # FAQ: How can I try out a package?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693646400913)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -39,7 +39,7 @@ Click on your **user ****icon **in the top right-hand corner in Teamleader Foc
 Click on **Manage license**. Keep in mind, only [admins ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)can access this page.*However: once the trial is activated the trial is open for the entire account and every user!*
 
 - 
-In ‘Your yearly package’, click on the button **Try 14 days for free**.![](https://support.focus.teamleader.eu/hc/article_attachments/25693614329233)
+In ‘Your yearly package’, click on the button **Try 14 days for free**.![Billing settings page showing the current GROW package details and user management options.](https://support.focus.teamleader.eu/hc/article_attachments/25693614329233)
 
 If you're on a GO package, you can trial the higher MOVE or BOOST packages.
 
@@ -62,7 +62,7 @@ Satisfied by everything you saw and tested? Click on the button ‘**Upgrade now
 
 - Every package can be tried once every 30 days.
 
-- Once activated, you can cancel the trial by clicking on 'Cancel trial':![](https://support.focus.teamleader.eu/hc/article_attachments/25693623477649)
+- Once activated, you can cancel the trial by clicking on 'Cancel trial':![Trial status banner for the GROW plan showing 14 days left with upgrade and cancel options.](https://support.focus.teamleader.eu/hc/article_attachments/25693623477649)
 If you didn't cancel, the trial will automatically end in 14 days. When the trial ends the license reverts automatically to the original package.
 
 - Within 7 days after the end of the trial, the data from the tried package is deleted and will not be available if the package is tried again in the future.

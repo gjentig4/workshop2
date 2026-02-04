@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Connect your Exchange calendar with the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694404698769)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Planning meetings can sometimes take more time than the meeting itself. Use the Scheduler to have your clients easily plan meetings with you!
 
@@ -34,7 +34,7 @@ Once you're connected you can also send calendar events to Teamleader Focus. Rea
 
 To set up your booking pages you will have to follow a few steps, which can easily be done in our scheduling flow.
 
-Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.![](https://support.focus.teamleader.eu/hc/article_attachments/25694364528017)
+Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.![The 'Get started with scheduling' screen in the Lead capture Booster, prompting calendar connection.](https://support.focus.teamleader.eu/hc/article_attachments/25694264050065)
 
  
 
@@ -44,11 +44,11 @@ If it's the first time that you will connect your calendar you will get an onboa
 
 ## 1.1  Connect your Exchange calendar
 
-After clicking on connect the onboarding flow will open. In the first step select Exchange to log in with your Exchange calendar account.![](https://support.focus.teamleader.eu/hc/article_attachments/25694392355345)
+After clicking on connect the onboarding flow will open. In the first step select Exchange to log in with your Exchange calendar account.![Step 1 of the booking page setup: connecting a calendar provider.](https://support.focus.teamleader.eu/hc/article_attachments/25694269451537)
 
  
 
-Now select Exchange as the provider of your calendar. Fill in the login and server details of the account to which your calendar is linked. Then, agree to the Terms of Use and Privacy Policy.![](https://support.focus.teamleader.eu/hc/article_attachments/25694392465681)
+Now select Exchange as the provider of your calendar. Fill in the login and server details of the account to which your calendar is linked. Then, agree to the Terms of Use and Privacy Policy.![Teamleader Focus Exchange calendar integration login form powered by Cronofy.](https://support.focus.teamleader.eu/hc/article_attachments/25694392465681)
 
  
 
@@ -63,24 +63,24 @@ Continue the steps until you're logged in.
 *Important note:* Make sure that the events in your external calendar have the status 'Busy' instead of 'Free'. Only then will those time slots be blocked from your availability, and clients won't be able to book a meeting during your 'busy' time slots.
 
 - Select the '**Calendar to write events in**' to show in which calendar new meetings should be booked in.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694364795281)
+![Step 2 of the booking page setup showing calendar availability and event creation settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694284585105)
 
  
 
 ## 1.3 Add meeting types
 
-To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.![](https://support.focus.teamleader.eu/hc/article_attachments/25694406989457)
+To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.![Step 3 of the booking page setup in Teamleader Focus for adding meeting type templates.](https://support.focus.teamleader.eu/hc/article_attachments/25694269703313)
 
  
 
 ## 1.4 Check your booking page or finish the setup
 
-Click on **Check ****your ****booking ****page** to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.![](https://support.focus.teamleader.eu/hc/article_attachments/25694407079441)
+Click on **Check ****your ****booking ****page** to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.![Final step of the booking page setup wizard showing a success message.](https://support.focus.teamleader.eu/hc/article_attachments/25694278205585)
 
 # 2. Scheduling settings
 
 - 
-Go to [scheduling settings ](https://meeting.teamleader.eu/scheduling/social-accounts/connect/)or click on Scheduling on the left side of the page:![](https://support.focus.teamleader.eu/hc/article_attachments/25694407178129)
+Go to [scheduling settings ](https://meeting.teamleader.eu/scheduling/social-accounts/connect/)or click on Scheduling on the left side of the page:![Calendar connection screen for creating a personal booking page in Lead capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25694407178129)
 
  
 
@@ -96,7 +96,7 @@ Go to [scheduling settings ](https://meeting.teamleader.eu/scheduling/social-ac
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694424165137)
+![Teamleader Focus Exchange calendar integration login form powered by Cronofy.](https://support.focus.teamleader.eu/hc/article_attachments/25694392465681)
 
  
 
@@ -119,7 +119,7 @@ Now that you've connected your Exchange Calendar to the Lead capture Booster, yo
 - In the Lead capture Booster, go to **[Settings > Integrations > Teamleader.](https://meeting.teamleader.eu/integrations/teamleader/)**
 
 - In these settings, check the box next to "Create a calendar event through Teamleader Focus":
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694405632657)
+![Settings page for syncing booked meetings with Teamleader Focus calendar events.](https://support.focus.teamleader.eu/hc/article_attachments/25694254512401)
 
 - When enabled, a calendar event is created in Teamleader Focus and written through to the online calendar that is configured in Teamleader Focus. To make sure these events are still visible in your online calendars (Google, Microsoft, ...), you need to set up the calendar synchronisation in [the Teamleader Focus marketplace.](https://marketplace.focus.teamleader.eu/eu/en/category/calendar)
 

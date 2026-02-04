@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: How can I test my API V2 integration?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693111007633)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 
@@ -23,7 +23,7 @@ To test API calls for your API V2 integration, we recommend using [Insomnia](htt
  
 
 - 
-Create a new request by clicking the arrow next to the plus sign and fill in the request you’ll find in the [API V2 documentation](https://developer.teamleader.eu/#/reference/crm/companies/companies.list). In our example, we’ll take ‘companies.list’![](https://support.focus.teamleader.eu/hc/article_attachments/25693118702737)
+Create a new request by clicking the arrow next to the plus sign and fill in the request you’ll find in the [API V2 documentation](https://developer.teamleader.eu/#/reference/crm/companies/companies.list). In our example, we’ll take ‘companies.list’![API request interface showing a GET call to the companies.list endpoint in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693118702737)
 
  
 
@@ -33,11 +33,11 @@ Create a new request by clicking the arrow next to the plus sign and fill in the
 
  
 
-2.  Select ‘**OAuth 2.0**’ below the header ‘**Auth**’.![](https://support.focus.teamleader.eu/hc/article_attachments/25693118772369)
+2.  Select ‘**OAuth 2.0**’ below the header ‘**Auth**’.![Selecting OAuth 2.0 authentication for a Teamleader Focus API request in a debug tool.](https://support.focus.teamleader.eu/hc/article_attachments/25693118772369)
 
  
 
-3. The screenshots below shows what value to fill in where:![](https://support.focus.teamleader.eu/hc/article_attachments/25693133762321)
+3. The screenshots below shows what value to fill in where:![API debug interface showing OAuth 2 authentication settings for Teamleader Focus companies list](https://support.focus.teamleader.eu/hc/article_attachments/25693133762321)
 
  
 
@@ -51,13 +51,13 @@ Create a new request by clicking the arrow next to the plus sign and fill in the
 
 **Access tokens**: These expire 1 hour after they are issued for security reasons. If your integration needs to communicate with the API beyond the access token lifespan, you will need to request a new access token using the refresh token which was issued along with the access token. Note that refresh tokens can only be used once in order to get a new access token and refresh token.
 
-**Refresh tokens**: will continue functioning until the user revokes them or uninstalls the integration, but Insomnia will take care of this for you.![](https://support.focus.teamleader.eu/hc/article_attachments/25693118862225)
+**Refresh tokens**: will continue functioning until the user revokes them or uninstalls the integration, but Insomnia will take care of this for you.![Advanced options for API authentication showing refresh, identity, and access tokens.](https://support.focus.teamleader.eu/hc/article_attachments/25693118862225)
 
 6. Now it’s time to call up your Teamleader Focus API V2 [endpoints](https://developer.teamleader.eu).
 
  
 
-7. If all goes well, you will see the results in JSON in the right-hand side of your screen.![](https://support.focus.teamleader.eu/hc/article_attachments/25693133862545)
+7. If all goes well, you will see the results in JSON in the right-hand side of your screen.![JSON API response showing company details like name, status, and website in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693133862545)
 
  
 
@@ -69,10 +69,10 @@ Use [Beeceptor](https://beeceptor.com/) to test your Teamleader Focus webhooks. 
 
  
 
-Webhooks are registered via the API. To register, list or unregister Webhooks for API V2. Go to the API V2 [documentation](https://developer.teamleader.eu/#/reference/other/webhooks/webhooks.register) under ‘**Other**’.![](https://support.focus.teamleader.eu/hc/article_attachments/25693133905169)
+Webhooks are registered via the API. To register, list or unregister Webhooks for API V2. Go to the API V2 [documentation](https://developer.teamleader.eu/#/reference/other/webhooks/webhooks.register) under ‘**Other**’.![Teamleader Focus API documentation showing webhook registration endpoints and request attributes.](https://support.focus.teamleader.eu/hc/article_attachments/25693133905169)
 
  
 
  
 
-Finally, use Beeceptor to check if the triggers come through correctly.![](https://support.focus.teamleader.eu/hc/article_attachments/25693119026065)
+Finally, use Beeceptor to check if the triggers come through correctly.![Beeceptor interface showing a successful POST request for a webhook test.](https://support.focus.teamleader.eu/hc/article_attachments/25693119026065)

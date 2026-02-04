@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Use contact salutations in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697763419281)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -29,13 +29,13 @@ Examples are: “Sir”, “Dear”, “Hi”…
 - Go to **Settings > CRM > Preferences > Manage contact salutations. **
 Here you can add, remove or change the order of the contact salutations.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697720311569)
+![The 'Manage contact salutations' dialog box in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697720311569)
 
  
 
 - Now go to **Contacts **> Select a contact > click on the **pencil **next to “Contact information” >** **choose the contact salutation you want and save the changes:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697734732689)
+![The 'Add contact' form in Teamleader Focus showing the Title dropdown menu.](https://support.focus.teamleader.eu/hc/article_attachments/25697734732689)
  
 
 ## Add contact salutations to your templates
@@ -102,11 +102,11 @@ Tip: if you don't want to refer to contact salutations but just want to display 
 
 - Go to **Settings > Email > Template for regular mails**. The hashtag for the contacts salutations is **#SALUTATION**. Make sure to put the hashtag where you want the salutations to be displayed in the email and save the changes.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697749986449)
+![Interface for creating or editing a regular email template with placeholders.](https://support.focus.teamleader.eu/hc/article_attachments/25697749986449)
 
 - Now click on the email address of the contact you want to send an email to. Select the template containing the salutation hashtag. The hashtag will be replaced by the info you wanted, including the salutation:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697734863633)
+![The 'Send email' dialog in Teamleader Focus showing a template and rich text editor.](https://support.focus.teamleader.eu/hc/article_attachments/25697734863633)
 
  
 

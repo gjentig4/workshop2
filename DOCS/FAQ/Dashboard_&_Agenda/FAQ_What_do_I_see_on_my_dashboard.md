@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: What do I see on my dashboard?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691561866641)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The dashboard is the first thing you see when logging into Teamleader Focus. Here you find out what values you actually get presented at this moment.
 

@@ -10,11 +10,11 @@ section: "Revenue"
 
 # How To: Sending invoices via Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/30081650549905) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Sending invoices with Teamleader Focus is simple and flexible. We offer four ways to send invoices: digitally via Peppol, by email, by post, or by downloading a PDF for manual sending. This article will guide you through each option to help streamline your invoicing process. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/30081623183249)
+![The 'Send invoice' dialog box showing four different delivery methods in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/30081623183249)
 
  
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: What are the rights of an admin?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691923012369)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Every Teamleader Focus account has at least one administrator. For more information on how to grant admin rights to colleagues, click [here](https://support.focus.teamleader.eu/hc/en-150/articles/25690956768913-FAQ-How-can-I-grant-or-remove-administrator-rights). This article will tell you more about admin users and their rights.
 
@@ -22,7 +22,7 @@ Every Teamleader Focus account has at least one administrator. For more informat
 
 - Admins have more options regarding bulk actions in the CRM overview.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691949916049)
+![The 'Actions' dropdown menu and bulk action buttons in the Teamleader Focus CRM company overview.](https://support.focus.teamleader.eu/hc/article_attachments/25691949916049)
 
  
 
@@ -40,7 +40,7 @@ Only admins can remove a tag from the list within the settings.
 
 - Admins have more options regarding bulk actions in the deal overview.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691942575377)
+![The bulk actions menu in the Teamleader Focus deals overview list.](https://support.focus.teamleader.eu/hc/article_attachments/25691942575377)
 
 As a non admin user, you only have the option to create calls and tasks.
 
@@ -57,7 +57,7 @@ As a non admin user, you only have the option to create calls and tasks.
 - Admins have some options regarding bulk actions in the task overview.
 
 - Via **Settings > Users **> **name of a user > **'Permissions' > Calendar > **Team members can see my agenda,** admin users that are also [leader of a team](https://support.focus.teamleader.eu/hc/en-150/articles/25697980641681-FAQ-What-rights-does-the-leader-of-a-team-have) can decide whether their agenda and timesheets should be visible or not.
-![](https://support.focus.teamleader.eu/hc/article_attachments/37784727872785)
+![General calendar settings in Teamleader Focus for managing tasks, meetings, and access permissions.](https://support.focus.teamleader.eu/hc/article_attachments/37784727872785)
  
 
 ## Lead capture Booster

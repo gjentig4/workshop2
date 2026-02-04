@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Filling out your company information in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694840140689)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 After you’ve created a company entity, it’s important to fill out all the relevant information, as this information will be used throughout your account. Read this article to learn more.
 
@@ -24,7 +24,7 @@ A new company entity can be created by navigating to **Settings **> **Company i
 
 Edit the company information of your company entity by clicking on it > **Edit.**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/40216123502097) 
+![Company information settings page showing active company entities and the edit button.](https://support.focus.teamleader.eu/hc/article_attachments/40216123502097) 
 
 ## Company details
 
@@ -41,7 +41,7 @@ The company details in Teamleader Focus are used on your quotations, invoices an
 
 *Tip*: If you’ve entered all recommended fields there’ll be a check mark next to the Company details field on the left. We advise you to fill out all these fields in order to make use of all functionalities within Teamleader Focus.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694854734225)
+![Onboarding checklist for filling in company information in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694854734225)
 
  
 

@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Set up cobrowsing with the Lead capture Booster
 
-# ![](https://support.focus.teamleader.eu/hc/article_attachments/25694260922129)
+# ![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 # What is cobrowsing?
 
@@ -22,18 +22,18 @@ Cobrowsing means you share a browser tab with a meeting participant(s), where bo
 
 Cobrowsing is directly available from within the meeting room. You can find it at the top on the right side:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694274846353)
+![The Teamleader Focus video meeting interface highlighting the 'Cobrowse' feature.](https://support.focus.teamleader.eu/hc/article_attachments/25694274846353)
 
 When you click on **Cobrowse **for the first time, you're prompted to install the Chrome extension:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694261011089)
+![A dialog box stating that a Chrome extension is required to start cobrowsing.](https://support.focus.teamleader.eu/hc/article_attachments/25694261011089)
 
 After you've installed the extension, you can return to the meeting room. You'll see the pop-up has been updated as you've installed the Chrome extension:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694235833233)
+![Confirmation dialog showing that the Teamleader Focus Chrome extension has been installed.](https://support.focus.teamleader.eu/hc/article_attachments/25694235833233)
 
 You only have to perform the steps above once.
 
 As soon as this is done, you can select the screen you want to cobrowse on and choose whether you want to share audio:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694247539985)
+![Chrome browser dialog for sharing a tab during a Teamleader Focus meeting via Vectera Helper.](https://support.focus.teamleader.eu/hc/article_attachments/25694247539985)
 
 # How do you use cobrowsing?
 
@@ -43,11 +43,11 @@ You'll see that you'll remain in the meeting room. As you're sharing control of 
 
 Host view:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27925741447697)
+![The Teamleader Focus Customer Meeting add-on interface showing a shared PDF document and video call.](https://support.focus.teamleader.eu/hc/article_attachments/27925741447697)
 
 Guest view:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27925741449361)
+![Warning message in Teamleader Focus indicating a resource conflict for a specific time slot.](https://support.focus.teamleader.eu/hc/article_attachments/25692241813905)
 
 Now the big difference between screen share and co-browsing: **you can control the tab in the meeting room itself - and the same goes for your participants**!
 

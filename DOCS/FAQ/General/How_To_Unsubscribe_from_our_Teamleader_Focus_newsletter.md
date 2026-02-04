@@ -10,19 +10,19 @@ section: "General"
 
 # How To: Unsubscribe from our Teamleader Focus newsletter
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693804230673)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When you subscribe to our emails, our Teamleader Focus newsletter will be sent to you monthly. Read here how to manage your email preferences and how to unsubscribe from our newsletter.
 
 At the end of each newsletter, you’ll find the following footer:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693789768465)
+![Footer of a Teamleader email with unsubscribe and preference links.](https://support.focus.teamleader.eu/hc/article_attachments/25693789768465)
 
 ## Manage preferences
 
 If you click on **Manage ****preferences**, you’ll be redirected to the following page where you can set your preferences:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693765168657)
+![Email preference management page for Teamleader Focus marketing communications.](https://support.focus.teamleader.eu/hc/article_attachments/25693765168657)
 
 Update the emails you want to receive or unsubscribe from them by checking or unchecking the boxes next to the topics. 
 
@@ -32,4 +32,4 @@ You can also choose to unsubscribe yourself from **all **emails.
 
 Click on **Unsubscribe **if you want to directly unsubscribe from the newsletter alone.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693776035985)
+![Email footer from Teamleader Focus showing 'Manage preferences' and 'Unsubscribe' links.](https://support.focus.teamleader.eu/hc/article_attachments/25693776035985)

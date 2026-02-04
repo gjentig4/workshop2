@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # What are e-invoicing and Peppol all about?
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/38947218517393)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 E-invoicing is set to become mandatory in all European countries by 2030. For Belgium, e-invoicing already became mandatory on 01/01/2026. This article covers the essentials e-invoicing is, what the implementation is for each country and what Peppol means.
 
  

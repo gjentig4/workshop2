@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # Frequently Asked Questions E-invoicing and Peppol
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/30083675831057)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 This FAQ answers common questions about how Peppol works and about enabling Peppol in Teamleader Focus, whilst also answering questions about sending and receiving invoices through Peppol in Teamleader Focus. 
 

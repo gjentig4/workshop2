@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Customise your contact form
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696010156433)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -61,7 +61,7 @@ In the left section called General, you will find a set of customizable elements
 First option on the left side is adding images like your logo and favicon. You can add your logo by clicking on ‘Upload logo’ and choosing an image (supported type: JPG or PNG).
 
 *Note*: if you have already uploaded a logo in [the settings of the Lead capture Booster](https://meeting.teamleader.eu/team/customization/), you will see the notification like the example below. You can change the uploaded logo by clicking on the **team ****settings **which will redirect you to the correct location. Change the logo or Favicon by uploading a new image.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695963448337)
+![General settings section for contact form images with a link to team settings.](https://support.focus.teamleader.eu/hc/article_attachments/25695963448337)
 
  
 
@@ -70,13 +70,13 @@ First option on the left side is adding images like your logo and favicon. You c
 In the general section, you can also adjust the font for both the title and the text. You can pick different styles, sizes, and colours for the font.
 
 - There are different font types in the dropdown menu. You can either choose a type from the list or type to search the desired font. e.g. Pixelify Sans doesn't show in the list, when I type 'Pix' it will appear.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695996122001)
+![Font settings menu in Teamleader Focus showing title font, size, and color options.](https://support.focus.teamleader.eu/hc/article_attachments/25695996122001)
 
 - You have two options for choosing the text colour:
 
 Use a **hex code**: simply enter the hex code for your chosen colour. For example #000000 is black. 
 
-- Click the **coloured ****square**: select a colour directly from the palette. If you want to match a colour on your website precisely, use the eyedropper tool (pin) to pick that exact colour. ![](https://support.focus.teamleader.eu/hc/article_attachments/25696010286737)
+- Click the **coloured ****square**: select a colour directly from the palette. If you want to match a colour on your website precisely, use the eyedropper tool (pin) to pick that exact colour. ![Font and color customization settings with an active color picker for Title and Body text.](https://support.focus.teamleader.eu/hc/article_attachments/25696010286737)
 
 *Note**: *The chosen font, size, and colour will also apply to the success page. You can preview this by clicking on '**Success ****Page**' on the right side instead of 'Form Page'.
 
@@ -87,7 +87,7 @@ Use a **hex code**: simply enter the hex code for your chosen colour. For exampl
 You have the option to choose colours for both the page and the form itself. 
 
 - The example below illustrates that both the form and the page have the same colour.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695996222481)
+![The color picker and styling options for a form or document in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695996222481)
 
  
 
@@ -99,13 +99,13 @@ You have the option to choose colours for both the page and the form itself. 
 
 The last element in the general column is the button colour where you can change both the button colour as well as the button text colour.  
 
-- For example, a black button with white text. ![](https://support.focus.teamleader.eu/hc/article_attachments/25695972086289)
+- For example, a black button with white text. ![Configuration settings for button and text colors using hex codes.](https://support.focus.teamleader.eu/hc/article_attachments/25695972086289)
 
 This is what the customisation of your form could look like: 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695957250705)
+![The 'Customize your form' interface in Teamleader Focus for styling lead capture forms.](https://support.focus.teamleader.eu/hc/article_attachments/25695957250705)
 
  
 
@@ -142,13 +142,13 @@ In the right-hand column, you will find elements related to the page specifics. 
 In some cases you want to share a file with leads provided that they submit data first (e.g. a name and an email address). You can do this with a contact form that has a downloadable file. This has 2 options:
 
 - Add a link (e.g. of your own website) where they can download the file
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695957307665)
+![The 'Add downloadable file' dialog in Teamleader Focus showing the option to add a link.](https://support.focus.teamleader.eu/hc/article_attachments/25695957307665)
 
-- Add a file that can be downloaded after submitting the contact form (max. 10MB)![](https://support.focus.teamleader.eu/hc/article_attachments/25695996496785)
+- Add a file that can be downloaded after submitting the contact form (max. 10MB)![The 'Add downloadable file' dialog in Teamleader Focus for lead capture forms.](https://support.focus.teamleader.eu/hc/article_attachments/25695996496785)
 
  
 
-You can also customize the button text to make it more clear, as in the example above. The preview could look like this:![](https://support.focus.teamleader.eu/hc/article_attachments/25695957424273)
+You can also customize the button text to make it more clear, as in the example above. The preview could look like this:![A preview of a Teamleader Focus landing page for downloading a whitepaper.](https://support.focus.teamleader.eu/hc/article_attachments/25695957424273)
 
  
 
@@ -164,7 +164,7 @@ You can embed this customised form in your website so it looks like it’s a fix
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695963966353)
+![A public contact form powered by Teamleader Focus for lead generation.](https://support.focus.teamleader.eu/hc/article_attachments/25695767176465)
 
  
 

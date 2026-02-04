@@ -10,7 +10,7 @@ section: "Projects"
 
 # Getting started: How can you structure a project?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692409132177)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

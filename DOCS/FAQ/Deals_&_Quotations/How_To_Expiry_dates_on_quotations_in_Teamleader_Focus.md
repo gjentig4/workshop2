@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Expiry dates on quotations in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695484122385)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -66,7 +66,7 @@ When creating a new quotation or adapting an existing one, you’ll see the fiel
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695496097297)
+![The 'Create quotation' form in Teamleader Focus with fields for customer, entity, and validity date.](https://support.focus.teamleader.eu/hc/article_attachments/25695496097297)
 
  
 
@@ -80,7 +80,7 @@ Know that you can also set a default expiry date that will be filled out automat
 
 - Go to **Settings > Deals and Quotations**
 
-- In 'Preferences', **enable **the slider next to 'Set the expiry date to X days'![](https://support.focus.teamleader.eu/hc/article_attachments/26462409953425)
+- In 'Preferences', **enable **the slider next to 'Set the expiry date to X days'![Preferences menu in Teamleader Focus for quotation and deal settings with toggle switches.](https://support.focus.teamleader.eu/hc/article_attachments/26462409953425)
 
 - From now on, every quotation created in the account will have a default expiry date filled out x days from today's date.
 *Note: *The number you fill out must be a whole number, and it's not possible to fill out 0 or a negative value here.
@@ -90,7 +90,7 @@ Know that you can also set a default expiry date that will be filled out automat
 ## Lock on CloudSign
 
 After you’ve filled out a date, a slider **Lock on CloudSign** appears.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695541183761)
+![Form fields for creating or editing a quotation in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695541183761)
 
  
 
@@ -105,10 +105,10 @@ If you enable this slider, customers won’t be able to sign the quotation on [C
 ## What you see: banners and reminders
 
 - When you edit a locked quotation you’ll receive the following warning. So keep in mind that the changes you make can be seen by the customer but they won’t be able to sign the quotation:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695512348433)Either change the ‘Valid until’ date of your quotation or unlock it on CloudSign if you want your customer to still sign.
+![A warning dialog in Teamleader Focus stating that a quotation has expired.](https://support.focus.teamleader.eu/hc/article_attachments/25695512348433)Either change the ‘Valid until’ date of your quotation or unlock it on CloudSign if you want your customer to still sign.
 
 -  **7 days** before a quotation is about to expire, a **warning banner** will show on your quotation detail page and on your deal detail page:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695541315601)
+![Notification banner in Teamleader Focus reminding a user to send a quotation reminder.](https://support.focus.teamleader.eu/hc/article_attachments/25695541315601)
 
 The banner is dismissible: you can either click on the cross to remove it, or update the ‘Valid until’ field of your quotation to a later date
 
@@ -117,7 +117,7 @@ The banner is dismissible: you can either click on the cross to remove it, or up
 ### Send your customer a reminder
 
 The banner above contains a clickable link to send your customer a **reminder **via email. The following dialog will open:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695525897873)
+![The 'Send quotation' dialog box in Teamleader Focus for emailing a quote to a customer.](https://support.focus.teamleader.eu/hc/article_attachments/25695525897873)
 
  
 
@@ -152,7 +152,7 @@ When the **quotation has eventually expired**, you’ll also receive an in-app n
 
 First of all, **7 days before a quotation is about to expire**, a notification banner is shown on CloudSign to warn your customer about the upcoming expiration.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695525990417)
+![Customer view of a quotation in Teamleader Focus with a 'Sign quotation' button and expiry warning.](https://support.focus.teamleader.eu/hc/article_attachments/25695525990417)
 
  
 
@@ -163,7 +163,7 @@ When a **quotation is expired and locked**, the following things happen on Cloud
 - The 'Refuse' button will be greyed out/disabled making it impossible for your customer to [refuse the quotation.](https://support.focus.teamleader.eu/hc/en-150/articles/25696076910737-How-To-Mark-a-quotation-as-refused)
 
 - A banner appears informing your customer that the quotation has expired with a possibility to ‘Request a new quotation’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695500341009)
+![The CloudSign view for an expired quotation with a 'Request new quotation' feedback sidebar.](https://support.focus.teamleader.eu/hc/article_attachments/25695500341009)
 
 Your customer can now fill out the form to ask for an extension on the quotation. [Read more information here on where the feedback of the cloud platforms is sent to.](https://support.focus.teamleader.eu/hc/en-150/articles/25691170524817-FAQ-Where-is-the-feedback-of-the-cloud-platforms-sent-to)
 
@@ -174,7 +174,7 @@ Your customer can now fill out the form to ask for an extension on the quotation
 ## Quotation overview
 
 - You can add the column ‘**Valid until**’ to your quotation overview, in order to keep track of the expiry dates of your quotations. Click on it to sort on it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695500399889)
+![The quotations overview list in Teamleader Focus, highlighting the 'Valid until' column.](https://support.focus.teamleader.eu/hc/article_attachments/25695500399889)
 
 - You can also add the column ‘**Quotation status**’ to your overview to sort on the label ‘Expired’. However, a quotation will only receive the label ‘Expired’ if it hasn't been accepted yet. Accepted quotations, even though expired, will not lose their status to ‘Expired’ and remain ‘Accepted’.
 
@@ -183,7 +183,7 @@ Your customer can now fill out the form to ask for an extension on the quotation
 ## Activity log
 
 - In the ‘Activities’ of both your quotation and the linked deal, the status ‘Expired’ will be logged when a quotation is expired:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695500485009)
+![The Activities timeline in Teamleader Focus showing quotation history and expiration updates.](https://support.focus.teamleader.eu/hc/article_attachments/25695500485009)
 
  
 
@@ -210,12 +210,12 @@ You can of course also place the specific expiry date of a quotation on your doc
 - Go to **Settings > Document layout > Quotations > View shortcodes.**
 
 - You’ll find the shortcode **VALID_UNTIL_DATE.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695500546705)**
+**![List of shortcodes for document templates in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695500546705)**
 
 - Download your current template in Word and add the shortcode between dollar signs anywhere you want on your document: $VALID_UNTIL_DATE$
 
 - Check the preview of your quotation:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695496635921)
+![A signed quotation document in Teamleader Focus showing the signature and date.](https://support.focus.teamleader.eu/hc/article_attachments/25695496635921)
 
  
 

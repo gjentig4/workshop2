@@ -10,11 +10,11 @@ section: "Dashboard & Agenda"
 
 # FAQ: What locations can I choose when creating a meeting?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692145312913)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
-When creating a meeting, you have several options to choose from:![](https://support.focus.teamleader.eu/hc/article_attachments/25692139437073)
+When creating a meeting, you have several options to choose from:![Dropdown menu for selecting a meeting location in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692139437073)
 
  
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: Which user fields can be edited by an admin?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697581811729)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -25,7 +25,7 @@ We take security very seriously and are committed to protecting the data of all 
 
 The primary email address can be changed by clicking on your user icon in the top right-hand corner > My profile. Click on the three dots next to the email address that you want to use as your primary email address in 'Alternative email addresses'. Choose **Turn into primary.**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25697596323217)**
+**![Context menu showing 'Turn into primary' and 'Delete' options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697596323217)**
 
  
 
@@ -41,7 +41,7 @@ Additionally, we use other tools to provide services that exchange data with Tea
 
 Admins cannot change the name or phone number of another user. Users have to do this themselves via their **user icon **in the top right-hand corner > **My profile **> click on the **pencil **next to 'Details'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37706864821265)
+![The 'Edit profile' dialog box in Teamleader Focus for updating user account details.](https://support.focus.teamleader.eu/hc/article_attachments/37706864821265)
 
  
 

@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: What is the difference between contacts and companies?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691146599569)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

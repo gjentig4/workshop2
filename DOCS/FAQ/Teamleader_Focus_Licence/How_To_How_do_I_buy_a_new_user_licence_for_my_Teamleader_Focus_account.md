@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # How To: How do I buy a new user licence for my Teamleader Focus account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692209856273)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -26,7 +26,7 @@ This article tells you how to buy those user licences, to actually add and set u
 
 - You'll see the details of your Teamleader Focus subscription.
 
-- Below 'Your yearly/quarterly package', click on **Manage users >** **Add users**.![](https://support.focus.teamleader.eu/hc/article_attachments/25692186700945)
+- Below 'Your yearly/quarterly package', click on **Manage users >** **Add users**.![The 'Manage users' dropdown menu in Teamleader Focus with options to add or remove users.](https://support.focus.teamleader.eu/hc/article_attachments/25692186700945)
 
 - The amount you’ll have to pay depends on your subscription. The price will be calculated pro rata, meaning that you will only have to pay the remaining amount due until the next renewal of your subscription. When you select your number of user licences, the amount will be calculated.
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: How can I set a week schedule in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017486963601)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 *! If the Planning Booster is part of your package you'll automatically have access to the week schedule functionality too.*
  
@@ -47,7 +47,7 @@ In order to define the start and end hour of your working days or those of your 
 
 Note: We advise you only use this option if that co-worker has a fixed day off. If this person works part-time with flexible hours, we advise you to still set normal working hours for all business days. You can then create a special type of leave, e.g. "Part-time", for this employee.
 
-![edit week schedule](https://support.focus.teamleader.eu/hc/article_attachments/25691860907665)
+![The 'Edit schedule' dialog in Teamleader Focus for configuring a user's weekly working hours.](https://support.focus.teamleader.eu/hc/article_attachments/25691860907665)
 
  
 
@@ -60,7 +60,7 @@ If you're on a smaller package such as SMART or GROW but bought the Planning Boo
 - Click on the **name of the user.**
 
 - On the next page, click on **the three dots.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/37703704792081)**
+**![User management actions in Teamleader Focus showing the 'Edit week schedule' option.](https://support.focus.teamleader.eu/hc/article_attachments/37703704792081)**
 
 - Choose **Edit week schedule**.
 
@@ -74,7 +74,7 @@ We display your tracked time in comparison to your working hours, both on this t
 
  
 
-[![](https://support.focus.teamleader.eu/hc/article_attachments/25691853498129)](https://s3-eu-central-1.amazonaws.com/euc-cdn.freshdesk.com/data/helpdesk/attachments/production/7067219653/original/4OUpXXlKkGFQq0BwzUTeorC8VtA28EAKcw.png?1629983215)
+[![Tooltip in the calendar view showing overtime tracked compared to the weekly schedule.](https://support.focus.teamleader.eu/hc/article_attachments/25691853498129)](https://s3-eu-central-1.amazonaws.com/euc-cdn.freshdesk.com/data/helpdesk/attachments/production/7067219653/original/4OUpXXlKkGFQq0BwzUTeorC8VtA28EAKcw.png?1629983215)
  
 
 ## Calendar

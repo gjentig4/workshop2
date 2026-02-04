@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: What do the colors in my Teamleader Focus calendar stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691071424145)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -34,7 +34,7 @@ Navigate to “**Settings**” and click on “**Calendar**”
 
 - Give your new work type a name
 
-- Click on “**Advanced options**” and choose a color![](https://support.focus.teamleader.eu/hc/article_attachments/25691060527377)
+- Click on “**Advanced options**” and choose a color![Form for adding or editing a work type with a color picker and price field.](https://support.focus.teamleader.eu/hc/article_attachments/25691060527377)
 
 - 
 **Save** your new work type.

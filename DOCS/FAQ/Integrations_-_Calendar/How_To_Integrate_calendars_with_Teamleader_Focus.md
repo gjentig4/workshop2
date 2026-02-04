@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: Integrate calendars with Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690943222929)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -23,7 +23,7 @@ Before you set up the integration, you need to know some general information whi
 - These three services ensure that your calendar always synchronises in **two directions**. This means that both meetings from your personal calendar and those from your Teamleader Focus agenda will be exchanged.
 
 - Of course we respect your privacy and therefore personal meetings are shown as [grey blocks](https://support.focus.teamleader.eu/hc/en-150/articles/25691415928721-FAQ-Why-do-I-only-see-grey-blocks-in-the-agenda-of-my-colleague) in your Teamleader Focus agenda. Only you can see the contents of those meetings. If you want to make these visible to colleagues as well, you can right click on them and select whether to convert the meeting into a visible task or meeting:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690957110289)
+![Context menu in the calendar showing options to convert an entry to a meeting or a task.](https://support.focus.teamleader.eu/hc/article_attachments/25690957110289)
 
 - We advise **using Teamleader Focus as your central calendar**: all your work meetings will therefore also be pushed to your personal diary and you will remain completely up-to-date with your day-to-day planning.
 

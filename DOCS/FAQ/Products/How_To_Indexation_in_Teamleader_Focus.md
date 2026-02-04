@@ -10,7 +10,7 @@ section: "Products"
 
 # How To: Indexation in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693930233745)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -143,7 +143,7 @@ Update the prices in your Excel file.
 - If the above steps are executed, [admins ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)can go to **Subscriptions **and select the segment for which they want to perform the indexation. 
 
 - Click on **Actions** in the top right-hand corner and choose **Update product prices**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/38885039203857)**
+**![The subscriptions overview table in Teamleader Focus with the Actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/38885039203857)**
  
 
 - 

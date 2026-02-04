@@ -10,12 +10,12 @@ section: "Becoming a customer"
 
 # Getting started: How can I upgrade my trial version to a paying account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691165465361)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 Go to your trial account and click on the banner **Upgrade Now **in the top right-hand corner.
 
 - You'll then see the following page with your recommended package: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691194475537)
+![The 'Choose your package' screen in Teamleader Focus showing Smart, Grow, and Flow pricing plans.](https://support.focus.teamleader.eu/hc/article_attachments/25691194475537)
 
 - Choose extra users if you need them. Each package will have 2 users by default already.
 

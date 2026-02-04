@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: How do I publish my integration on the Teamleader Focus Marketplace?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692203594769)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

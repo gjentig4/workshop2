@@ -10,7 +10,7 @@ section: "Advanced Insights"
 
 # FAQ: What are the key features of the Advanced insights Booster?
 
-![juDjmMnxxmh7pmjeR-zyUe89KC7QAelFIg.png](https://support.focus.teamleader.eu/hc/article_attachments/34776567355409) 
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089) 
 
 Unlock the full potential of your Insights module with our powerful advanced insights Booster! Share valuable reports with colleagues, apply conditional formatting to highlight data and draw conclusions. Add formulas to perform calculations and unlock deeper insights. Compare your data across time to track changes and identify trends over specific periods. Discover the key features of the Booster here.
  
@@ -50,7 +50,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
 - Express values as percentages
  
 
-## Share your reports internally amongst colleagues ![](https://support.focus.teamleader.eu/hc/article_attachments/34776404899601)
+## Share your reports internally amongst colleagues ![The 'Share with a colleague' dialog box in Teamleader Focus for internal collaboration.](https://support.focus.teamleader.eu/hc/article_attachments/34776404899601)
 
 - Share your data and work together on reports
 
@@ -63,7 +63,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
  
 
 ## Visualise your data with conditional formatting
-![](https://support.focus.teamleader.eu/hc/article_attachments/34776396232977) 
+![Conditional formatting rules for a table in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/34776396232977) 
 
 - Create multiple rules that spot trends and outliers
 
@@ -76,7 +76,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
  
 
 ## Customise your metrics by adding formulas to your reports
-**![](https://support.focus.teamleader.eu/hc/article_attachments/34776404899857)** 
+**![The 'Add formula' dialog box in Teamleader Focus for creating custom calculated fields.](https://support.focus.teamleader.eu/hc/article_attachments/34776404899857)** 
 
 - Let your reports do the math for you
 
@@ -88,7 +88,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
 [Read more](https://support.focus.teamleader.eu/hc/en-150/articles/34775166155281-How-To-Add-formulas-to-your-Insights-reports-in-Teamleader-Focus)
  
 
-## Compare your data across time and track performance![](https://support.focus.teamleader.eu/hc/article_attachments/34776396233361)
+## Compare your data across time and track performance![A line chart and data table showing business performance metrics over time.](https://support.focus.teamleader.eu/hc/article_attachments/34776396233361)
 
 - Customise your own reports and add groups to compare your data
 
@@ -101,7 +101,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
  
 
 ## Express values as percentages
-![](https://support.focus.teamleader.eu/hc/article_attachments/38769859066257)
+![Table showing total expenses excluding VAT and their percentage distribution.](https://support.focus.teamleader.eu/hc/article_attachments/38769859066257)
 
 - Instantly compare how each value contributes to the total by adding a percentage column to any number-based column. 
 
@@ -113,7 +113,7 @@ With the Booster you gain advanced reporting capabilities that boost your effici
 
 - 
 Click on **Add as percentage column**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/38830306905361)
+![Column settings menu in a Teamleader Focus table showing the 'Add as percentage column' option.](https://support.focus.teamleader.eu/hc/article_attachments/38830306905361)
 
 In the example of the '[Revenue report](https://focus.teamleader.eu/insights/library-reports/805e40ff-7238-43b5-915c-5d57b09dfe8f)' you'll be able to see how much revenue each month provided relatively by adding the percentage column above.
 
@@ -135,7 +135,7 @@ Follow these steps to add the Insights Booster to your account:
 
 - Click on **Manage license**
 
-- In ‘Your Boosters’ you’ll find the ‘Advanced insights’ Booster:![](https://support.focus.teamleader.eu/hc/article_attachments/34776396233489)
+- In ‘Your Boosters’ you’ll find the ‘Advanced insights’ Booster:![The 'Advanced insights' booster card in the Teamleader Focus subscription settings.](https://support.focus.teamleader.eu/hc/article_attachments/34776396233489)
  
 
 **Try for free:** You can try out the Booster for free*. 

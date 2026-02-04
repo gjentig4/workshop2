@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Insights library on Projects
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/30998640431633) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Managing projects requires actionable insights into key metrics like profit margin, time spent on projects and overdue invoices. Our project reports centralise this data, helping you identify trends, optimise resources, and improve decision-making. In this article, we explore how these reports boost efficiency and profitability.
 

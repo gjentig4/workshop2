@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: Smartphone notifications or reminders for calendar items
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693059302033)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -24,15 +24,15 @@ As you might know, you can link your Teamleader Focus calendar to your external 
 
 The notifications work on all levels: meetings, tasks and calls. To receive these reminders, follow these steps:
 
-- Create a meeting in Teamleader Focus ![](https://support.focus.teamleader.eu/hc/article_attachments/25693074448657) 
+- Create a meeting in Teamleader Focus ![A daily calendar view in Teamleader Focus showing a Google Calendar notification.](https://support.focus.teamleader.eu/hc/article_attachments/25693074448657) 
 
-- Click on the arrows in the top right corner to synchronize these items manually to Google Calendar, or wait for the automatic synchronization. ![](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
+- Click on the arrows in the top right corner to synchronize these items manually to Google Calendar, or wait for the automatic synchronization. ![A grey circular sync or refresh icon with two arrows.](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
 
 - When the Teamleader Focus calendar items are synced to Google Calendar, you can define some settings here to choose when to receive a reminder for these items on your phone. For Android, [follow the steps described in this article](https://support.google.com/calendar/answer/37242?hl=en&co=GENIE.Platform%3DAndroid&oco=1). Click here for [iPhone & iPad](https://support.google.com/calendar/answer/37242?hl=en&co=GENIE.Platform%3DiOS&oco=1).
 
  
 
-The smartphone notification looks like this (*Android example)*: ![](https://support.focus.teamleader.eu/hc/article_attachments/28017650231569)
+The smartphone notification looks like this (*Android example)*: ![Mobile notification for a Google Calendar event synced with Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/28017650231569)
 
  
 
@@ -42,7 +42,7 @@ In Outlook there's a slightly different approach as by default there'll be no re
 
 - Create a meeting in Teamleader Focus
 
-- Click on the arrows in the top right corner to synchronize these items manually to Outlook Calendar, or wait for the automatic synchronization.![](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
+- Click on the arrows in the top right corner to synchronize these items manually to Outlook Calendar, or wait for the automatic synchronization.![A grey circular sync or refresh icon with two arrows.](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
 
 - When the Teamleader Focus calendar items are synced to Outlook, you'll need to [set up a reminder manually](https://support.microsoft.com/en-us/office/set-or-remove-reminders-7a992377-ca93-4ddd-a711-851ef3597925?ui=en-us&rs=en-us&ad=us) for each item. If you have the Outlook Calendar app on your phone, you’ll receive the same notifications.
 
@@ -52,6 +52,6 @@ In Outlook there's a slightly different approach as by default there'll be no re
 
 - Create a meeting in Teamleader Focus
 
-- Click on the arrows in the top right corner to synchronize these items manually to iCloud Calendar, or wait for the automatic synchronization.![](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
+- Click on the arrows in the top right corner to synchronize these items manually to iCloud Calendar, or wait for the automatic synchronization.![A grey circular sync or refresh icon with two arrows.](https://support.focus.teamleader.eu/hc/article_attachments/25693043698065)
 
 - When the Teamleader Focus calendar items are synced to iCloud, you can [define some settings here to choose when to receive alerts for these items on your phone](https://support.apple.com/en-gb/guide/calendar/set-event-alerts-and-receive-notifications-icl1012/mac).

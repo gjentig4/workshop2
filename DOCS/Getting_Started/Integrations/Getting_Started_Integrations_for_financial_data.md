@@ -11,7 +11,7 @@ section: "Integrations"
 # Getting Started: Integrations for financial data
 
 ## 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695286920337)What exactly is the Marketplace?
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)What exactly is the Marketplace?
 
 The [Teamleader Focus Marketplace](https://marketplace.teamleader.eu/be/en) is a central platform that allows you to browse through all available integrations with Teamleader Focus. A connected business is a smart business. Integrating your business systems enables a better customer experience and improves your internal workflow.
 

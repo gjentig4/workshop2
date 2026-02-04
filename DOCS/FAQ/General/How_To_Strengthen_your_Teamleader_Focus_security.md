@@ -10,7 +10,7 @@ section: "General"
 
 # How To: Strengthen your Teamleader Focus security
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696082490897)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -121,7 +121,7 @@ The ‘from’ address clearly corresponds to our teamleader.eu domain: 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696066885649)
+![Email notification from Teamleader Focus showing the sender address and contact options menu.](https://support.focus.teamleader.eu/hc/article_attachments/25696066885649)
 
  
 
@@ -131,7 +131,7 @@ The domain is misspelled (‘teamsleader’ instead of ‘teamleader’), as wel
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696058266769)
+![Example of a phishing email pretending to be a Teamleader Focus security breach notification.](https://support.focus.teamleader.eu/hc/article_attachments/25696058266769)
 
  
 

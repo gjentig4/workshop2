@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Export reports from Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691725037841)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -59,7 +59,7 @@ The invoices module also contains some extra statistics. To download this report
 
 If you open these, you can use the PDF icon to generate a document with invoice statistics. These contain some core figures such as turnover, the number of paid or due invoices and the total amount paid per customer.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691725084305)
+![The Invoices overview table in Teamleader Focus showing invoice statuses and the Mini-stats tab.](https://support.focus.teamleader.eu/hc/article_attachments/25691725084305)
  
 
 ## Agenda
@@ -120,7 +120,7 @@ In turn, a popup menu allows you to define:
  
 
 You can also download a PDF report of your project by clicking on the header > **Download PDF report. **Choose which groups you want to download a report of, and what to include in the report, like time tracking or** **budgeting. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41482196059921)
+![The 'Generate report' dialog box in Teamleader Focus for project reporting.](https://support.focus.teamleader.eu/hc/article_attachments/41482196059921)
 
  
 
@@ -140,7 +140,7 @@ If you would like to export a global report that contains the time tracking of a
 
     You can export a report to Excel within
     a certain date range. You can choose the columns you wish to export as well.
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25691714884241)
+    ![The Users management page in Teamleader Focus settings showing export and add user options.](https://support.focus.teamleader.eu/hc/article_attachments/25691697988113)
   
 
   
@@ -205,7 +205,7 @@ The time tracking report in PDF contains the following items:
 In **Settings **> **Users**, you have the option to choose between a PDF or an Excel file within a certain date range. If you choose the latter, you can define which columns you wish to export as well. If you chose PDF then the report will be generated in the background. We will send you an email notification when it is done.
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691697988113)
+![The Users management page in Teamleader Focus settings showing export and add user options.](https://support.focus.teamleader.eu/hc/article_attachments/25691697988113)
 *Note: *Time trackings of deactivated users will also be included in the HR report.
 
  
@@ -216,7 +216,7 @@ If you've set individual [targets ](https://support.focus.teamleader.eu/hc/en-1
 
 Go to **Settings > Users > **click on the **name **of a user > click on the **three dots **in the top right-hand corner > click on **View report. **Define the time period and then you can access the report:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691698036241)
+![An HR accomplishments report for a user named Eline showing targets and billable hours progress.](https://support.focus.teamleader.eu/hc/article_attachments/25691698036241)
 
  
 
@@ -226,7 +226,7 @@ As team leader or administrator, you have the option to receive HR reports on a 
 
 In order to receive daily HR reports, navigate to **Settings **> **Time Tracking **> activate the slider ‘Send daily HR report'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32615392033937)
+![Preferences settings for time tracking, HR reports, and billable defaults in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/32615392033937)
 
 You can also select when you wish to receive the report. If you select a time before 12.00 PM, the report will contain all information from the previous day. If you select a time after 12.00 PM, you will receive a report containing all information up until that moment.
 

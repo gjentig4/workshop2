@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Setting different types of hourly rates
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691970934417)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -54,7 +54,7 @@ The option you choose here will be your default invoicing preference for your Te
 
 In Teamleader Focus you can set the price and cost per user in **Settings **> **Users **> **click on the name of the user.**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37498557702673)
+![User profile settings in Teamleader Focus showing internal cost and external price fields.](https://support.focus.teamleader.eu/hc/article_attachments/37498557702673)
 
  
 
@@ -232,7 +232,7 @@ This way for other customers the default hourly rate will apply, but for this sp
  
 
 For a contact or company, click on the three dots next to ‘**Company information**’ > **Invoicing preferences > Next step**, where you will see the following options:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691979171729)
+![Pricing configuration dialog in Teamleader Focus showing three billing method options.](https://support.focus.teamleader.eu/hc/article_attachments/25691979171729)
 Therefore, at customer level there are three options:
 
  

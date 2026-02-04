@@ -10,7 +10,7 @@ section: "General"
 
 # How To: Log a support ticket and keep track of your tickets in the support centre
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693689586065)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Scoured the support centre but still have burning questions? Don’t worry, we won’t leave you hanging! Read this article to learn how to contact our support team and keep track of your question via the Teamleader Focus support portal.
 
@@ -33,7 +33,7 @@ Fill out your Teamleader Focus credentials; they’ll be remembered next time yo
 Have a question you can’t find the answer to in our support centre? Follow these steps:
 
 - 
-Navigate to the button **Contact ****us **at the bottom of the support centre and click on it.![](https://support.focus.teamleader.eu/hc/article_attachments/25693671870865)
+Navigate to the button **Contact ****us **at the bottom of the support centre and click on it.![Teamleader Focus support footer with links to help resources and a 'Contact us' button.](https://support.focus.teamleader.eu/hc/article_attachments/25693671870865)
 
 - 
 Fill out the form
@@ -94,6 +94,6 @@ Clicking on the ticket shows you an overview of the conversation. Instead of fro
 Instead of contacting us from the support centre, it’s also possible to **contact us in-app in Teamleader Focus** as well!
 
 Just navigate to the **question ****mark **in the top right-hand corner of your account.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693664300049)
+![The top navigation bar in Teamleader Focus with the help icon highlighted in a red box.](https://support.focus.teamleader.eu/hc/article_attachments/25693664300049)
 
 Further questions about our support service? [Be sure to check out our support step-by-step guide!](https://www.teamleader.eu/focus/support-step-by-step)

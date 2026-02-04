@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # FAQ: What if my Peppol invoice was sent but not received?
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/38090009225745)##  
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)##  
 
 When you send an invoice via Peppol but the recipient claims they haven’t received it, there are several things you can check to identify the cause and resolve the issue.
  
@@ -31,7 +31,7 @@ On the invoice page, look for the Peppol status. Possible statuses include:
  
 
 Also check if there is an error message or reason displayed under "Peppol status." 
-![](https://support.focus.teamleader.eu/hc/article_attachments/38096021119121)
+![The Info widget of an invoice in Teamleader Focus showing Peppol status and payment actions.](https://support.focus.teamleader.eu/hc/article_attachments/30085139628433)
 
  
 

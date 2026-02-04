@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Sign the identification document for Verifactu
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41000705030161)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 If you have a Spanish company entity in Teamleader Focus you need to comply with Verifactu, Spain’s anti-fraud law, by digitally signing an identification document for your company. Once signed and uploaded, Verifactu is enabled. In this article, you can read all about Verifactu and how to sign the identification document.
  
 
@@ -71,7 +71,7 @@ Follow these steps to enable Verifactu:
 - Go to **Settings > Company information **
 
 - Click on **Enable Verifactu** next to your company entity
-![](https://support.focus.teamleader.eu/hc/article_attachments/41000705032081)
+![The 'Enable Verifactu' button for a Spanish company in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41000705032081)
  
 
 - Fill out your NIF number and ZIP code if you haven’t already, or check if the information is correct. We will show the corresponding province as visual confirmation.
@@ -80,7 +80,7 @@ Follow these steps to enable Verifactu:
 Your registration status will now be checked and the identification process will follow.
 
 - In the next screen, you have to click on **Download to **download the identification document:
-![](https://support.focus.teamleader.eu/hc/article_attachments/41000676984465)
+![Verification modal for Verifactu showing steps to download, sign, and upload identification documents](https://support.focus.teamleader.eu/hc/article_attachments/41000676984465)
 
 - Now you need to sign the document to get you verified. 
  
@@ -114,10 +114,10 @@ In Spain, the most common tools are:
 - Install AutoFirma (if you haven’t already) and open it. 
 
 - Select the document you want to sign (e.g. PDF).
-![](https://support.focus.teamleader.eu/hc/article_attachments/41000676985745)
+![The Autofirma v1.9 desktop application interface for electronically signing documents.](https://support.focus.teamleader.eu/hc/article_attachments/41000676985745)
 
 - Choose your **personal certificate** (you’ll get a list of the certificates installed on your computer).
-![](https://support.focus.teamleader.eu/hc/article_attachments/41000676988945)
+![AutoFirma certificate selection dialog for electronic document signing](https://support.focus.teamleader.eu/hc/article_attachments/41000676988945)
 
 - AutoFirma creates a new file with your digital signature (usually ending with _signed.pdf or .xsig).
  

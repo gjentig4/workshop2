@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: The meeting rooms page overview
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694049493521)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -22,7 +22,7 @@ On the [meeting rooms overview page](https://meeting.teamleader.eu/meeting-rooms
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694074131857)
+![Overview of the Meeting rooms feature within the Lead capture Booster in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694074131857)
 
  
 
@@ -54,7 +54,7 @@ Waiting rooms make it possible for guests to knock in a general room without hav
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694060257809)
+![The Meeting rooms overview in Teamleader Focus showing active waiting room requests.](https://support.focus.teamleader.eu/hc/article_attachments/25694060257809)
 
  
 
@@ -80,7 +80,7 @@ If a user or team has more than 24 meeting rooms, pagination will apply.
 
  
 
-Most users will have 3 filter options: Personal, Team and All.![](https://support.focus.teamleader.eu/hc/article_attachments/25694049730321)
+Most users will have 3 filter options: Personal, Team and All.![A segmented toggle switch with options for Personal, Team, and All views.](https://support.focus.teamleader.eu/hc/article_attachments/25694049730321)
 
 - 
 Personal: These are all the meeting rooms where you are the owner of the meeting room.
@@ -105,7 +105,7 @@ If you have restrictive [team access levels](https://support.focus.teamleader.eu
 
 If you’re looking for a specific meeting room, you can use the search bar to limit results. Type the name of the meeting room you’re looking for and hit enter.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694074319633)
+![Grid view of available meeting rooms with search functionality and activity status.](https://support.focus.teamleader.eu/hc/article_attachments/25694074319633)
 
 ### 2.3 Card view or list view
 
@@ -130,7 +130,7 @@ Active or opened status
 Current hosts/customers in the meeting room
 
 - 
-Active whiteboard + name of the whiteboard![](https://support.focus.teamleader.eu/hc/article_attachments/25694074350481)
+Active whiteboard + name of the whiteboard![Meeting room card in Teamleader Focus showing status, participants, and management icons.](https://support.focus.teamleader.eu/hc/article_attachments/25694074350481)
 
 #### 2.3.2 List view
 
@@ -151,7 +151,7 @@ Size of the meeting room
 - 
 Three dots, consisting of 'Copy link’ and ‘Delete meeting room’ options
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694074376465)
+![Meeting rooms list view in Teamleader Focus showing meeting keys, hosts, and activity.](https://support.focus.teamleader.eu/hc/article_attachments/25694074376465)
 
  
 
@@ -166,7 +166,7 @@ Active meeting rooms* - most recent shows first
 Opened meeting rooms** - most recent shows first
 
 - 
-Date of last activity = either last opened or last created![](https://support.focus.teamleader.eu/hc/article_attachments/25694060496785)
+Date of last activity = either last opened or last created![The Meeting Rooms overview page in Teamleader Focus showing personal meeting room cards.](https://support.focus.teamleader.eu/hc/article_attachments/25694060496785)
 
  
 

@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: How can I close a project?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691001072017)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When a project is over and done with, you'll want to classify it as such. Not sure how to close a project? You’ve come to the right page. The ways to close a project in Teamleader Focus will be described here. 
 
@@ -36,7 +36,7 @@ The second way to close a project is by closing all phases of your project:
 
 - Regardless of any open task that is linked to the project, when the phases linked to a project are marked as done, the project will be marked as ‘done’ as well. 
 
-- Navigate to the [work breakdown](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25697800978065) page of your project, hover over a phase and choose **Close phase: ****![](https://support.focus.teamleader.eu/hc/article_attachments/25691013880849)**
+- Navigate to the [work breakdown](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25697800978065) page of your project, hover over a phase and choose **Close phase: ****![The project planning interface showing how to close a phase and add tasks.](https://support.focus.teamleader.eu/hc/article_attachments/25691013880849)**
 
 - When every phase in a project is set to ‘Closed’, the project will be considered completed.
 
@@ -50,7 +50,7 @@ You can close a project via your [cross-projects timeline](https://support.focus
 
 - Click on the **arrow **next to 'Hide on timeline'
 
-- Click on **Close project **![](https://support.focus.teamleader.eu/hc/article_attachments/25691003348497)
+- Click on **Close project **![Project action menu in Teamleader Focus showing 'Close project' and 'Hide on timeline' options.](https://support.focus.teamleader.eu/hc/article_attachments/25691003348497)
 
 ## Via the project planning
 
@@ -62,9 +62,9 @@ You can also close a project via the [project planning](https://support.focus.pr
 
 - Look for your project in the list
 
-- Click on the grey line next to the corresponding project:![](https://support.focus.teamleader.eu/hc/article_attachments/25691001192337)
+- Click on the grey line next to the corresponding project:![The project planning view in Teamleader Focus showing a timeline and project list.](https://support.focus.teamleader.eu/hc/article_attachments/25691001192337)
 
-- Next, click on **Mark project as completed**:![](https://support.focus.teamleader.eu/hc/article_attachments/25690990502801)
+- Next, click on **Mark project as completed**:![The project roadmap view showing the 'Mark project as completed' action link.](https://support.focus.teamleader.eu/hc/article_attachments/25690990502801)
 
 - This will close all phases and related tasks.
 

@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Activities on the contact/company page
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693920367505)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 You can always follow up on the latest information regarding your contact or company in Teamleader Focus. Read this article to learn all about the ‘Activities’ on your contact/company page.
 
@@ -64,10 +64,10 @@ Ticket interaction
 Imagine you have a lot of interaction for a certain company and you’re only looking for the invoice activity, then you can easily select this type of activity and exclude the others. 
 
 - Click on the **arrow **next to ‘Show all’ and choose your type:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693931270161)
+![The Activities section in Teamleader Focus with an 'Add note' button and filter dropdown.](https://support.focus.teamleader.eu/hc/article_attachments/25693931270161)
 
 - Click the **three ****dots **next to a certain type of activity and choose **Only show this type of activity:**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25693939453713)**
+**![Activity log in Teamleader Focus showing deal updates and a filtering option.](https://support.focus.teamleader.eu/hc/article_attachments/25693939453713)**
 
  
 

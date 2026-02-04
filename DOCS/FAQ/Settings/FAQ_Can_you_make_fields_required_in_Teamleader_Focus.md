@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can you make fields required in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691587522577)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In Teamleader Focus, there is a distinction between standard fields and custom fields that you create yourself. Whereas standard fields cannot be made mandatory, it is no problem for custom fields.
 

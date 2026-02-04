@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How can I manage common locations in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692263983249)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -26,19 +26,19 @@ To manage meeting rooms in Teamleader Focus, simply follow these steps:
 
 - Go to '**Integrations/Marketplace' **in Teamleader Focus and select 'Google Resources'. At the bottom, you'll find a toggle asking you to activate Google Resources. Click on the toggle to synchronise your rooms with Teamleader Focus.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692254613009)
+![Google integration settings in Teamleader Focus for syncing tasks, resources, Drive, and contacts.](https://support.focus.teamleader.eu/hc/article_attachments/25692254613009)
 
 - Next, create a new meeting in Teamleader Focus. 
 
 - In the location dropdown menu, you'll be able to choose **Resources**. If you click on this, you'll get a new menu that shows your own meeting rooms as resources.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692241776145)
+![The 'Add meeting' dialog in Teamleader Focus for scheduling appointments and meetings.](https://support.focus.teamleader.eu/hc/article_attachments/25692241776145)
 *Note: if you've also activated the *[*Lead capture Booster*](https://support.focus.teamleader.eu/hc/en-150/articles/25694859794577-How-To-Activate-and-use-the-Lead-capture-Booster)* and selected an online meeting room, the ‘Location’ of your meeting will be ‘Virtual meeting’ by default. If you do want to add a resource, please remove the online meeting room first.*
 
 - Complete the process by entering your meeting details and clicking Save. There you go, you've now successfully booked your meeting room
 
 - Whenever someone attempts to book a meeting room that has already been booked, they will receive an error message and will be unable to save that meeting.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692241813905)
+![Warning message in Teamleader Focus indicating a resource conflict for a specific time slot.](https://support.focus.teamleader.eu/hc/article_attachments/25692241813905)
 
 **Note:** If Teamleader Focus cannot retrieve your meeting rooms, go to admin.google.com > Security > API reference and make sure that "Enable API Access" is checked. Read [this article](https://support.google.com/a/answer/60757?hl=en) for more information.

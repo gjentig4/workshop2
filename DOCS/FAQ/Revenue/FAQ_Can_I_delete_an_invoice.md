@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: Can I delete an invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691484947601)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -38,7 +38,7 @@ For this same reason, the same applies to credit notes.
 
  
 
-You can delete the invoice by clicking on the three dots on top and clicking '**Delete**'.*Note*: When deleting an invoice this info is **irretrievably lost**.![](https://support.focus.teamleader.eu/hc/article_attachments/25691485047953)
+You can delete the invoice by clicking on the three dots on top and clicking '**Delete**'.*Note*: When deleting an invoice this info is **irretrievably lost**.![The 'Info' panel of an invoice in Teamleader Focus with the actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25691485047953)
 
 It is not possible to delete booked invoices in bulk, but there is, nevertheless, a small trick that you can still do: 
 

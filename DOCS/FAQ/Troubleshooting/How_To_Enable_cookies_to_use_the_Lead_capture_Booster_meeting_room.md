@@ -10,11 +10,11 @@ section: "Troubleshooting"
 
 # How To: Enable cookies to use the Lead capture Booster meeting room
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694746247697)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 If you're visiting this help article, you've probably encountered a 'your session has expired' or a CSRF error in your Lead capture Booster meeting room.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694769401489)
+![Teamleader Focus session expired and CSRF token error messages](https://support.focus.teamleader.eu/hc/article_attachments/25694769401489)
 
  
 

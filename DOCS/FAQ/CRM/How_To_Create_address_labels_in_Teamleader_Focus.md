@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Create address labels in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25698009377937)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In Teamleader Focus, it's possible to easily download address labels that you can use to send out a letter or a card for example.
 

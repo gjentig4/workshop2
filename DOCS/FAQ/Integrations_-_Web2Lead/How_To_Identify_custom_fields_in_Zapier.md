@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Identify custom fields in Zapier
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693158846353)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -36,7 +36,7 @@ The *Authorization URL* and *Access token URL* can be copy pasted to the corresp
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693167322257)
+![OAuth 2 configuration screen for Teamleader Focus API integration](https://support.focus.teamleader.eu/hc/article_attachments/25693167322257)
 
  
 
@@ -64,13 +64,13 @@ After authenticating yourself (and thus connecting your Teamleader Focus account
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693173887889)
+![API request and JSON response showing custom field definitions in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693173887889)
 
  
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693159029777)
+![Mapping custom fields using IDs and values in a Teamleader Focus integration form.](https://support.focus.teamleader.eu/hc/article_attachments/25693159029777)
 
  
 
@@ -93,7 +93,7 @@ Multiple selection (enter these values in the following way: ["value1", "value2"
 
 For multiple selection: if the outcome of the trigger app is formatted with a **comma **and the values are between **quotation marks**: perfect!
 If not: you will need to change the format to be compatible with the Teamleader Focus API with an extra Zap-step: [the Zapier formatter](https://zapier.com/apps/formatter/help)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693174080785)
+![Configuration screen for Formatter by Zapier showing the Split Text transform setup.](https://support.focus.teamleader.eu/hc/article_attachments/25693174080785)
 
  
 
@@ -129,7 +129,7 @@ If not: you will need to change the format to be compatible with the Teamleader 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693129601297)
+![An API POST request to list custom field definitions in Teamleader Focus using JSON.](https://support.focus.teamleader.eu/hc/article_attachments/25693129601297)
 
  
 

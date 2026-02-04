@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: Why can't I see my uploaded layout in my quotation/invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691170803089)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You have just uploaded a new document layout of your quotation, invoice or other document type but you can’t find your new layout on your existing documents? This article tells you where to look!
 

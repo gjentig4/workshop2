@@ -10,7 +10,7 @@ section: "Templates"
 
 # Welcome to our Template Gallery
 
-# ![](https://support.focus.teamleader.eu/hc/article_attachments/25693218294545)
+# ![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 # Introduction
 
@@ -52,7 +52,7 @@ This is the standard Teamleader Focus template with an introduction text, a clea
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39416832678161)
+![Example of a generated quotation PDF document in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/39416832678161)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007300113)
 
 **Variation 1B:  basic template without “both parties agree”**
@@ -63,7 +63,7 @@ This is the standard Teamleader Focus template with an introduction text, a clea
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417061550609)
+![A sample quotation document generated in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39417061550609)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985801745)
 
 **Variation 2: hidden quotation text**
@@ -74,7 +74,7 @@ This is the basic Teamleader Focus template, but without an introduction text. Y
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417393825425)
+![A sample quotation document in Teamleader Focus showing layout, line items, and totals.](https://support.focus.teamleader.eu/hc/article_attachments/39417393825425)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007270929)
 
 **Variation 3: header number + date**
@@ -85,7 +85,7 @@ This template shows the quotation number and date in the header so that it can b
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417393827985)
+![A sample quotation document in Teamleader Focus showing layout, line items, and totals.](https://support.focus.teamleader.eu/hc/article_attachments/39417393825425)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985761297)
 
 **Variation 4: without VAT (only excl VAT)**
@@ -98,7 +98,7 @@ As a B2B company, you have the option in this template to show all prices withou
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417518188945)
+![A sample quotation document generated in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39417518188945)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985780753)
 
 **Variation 5A: no subtitles**
@@ -109,7 +109,7 @@ Leave out the subtitles on your quotation.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417518191761)
+![Example of a generated quotation PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39417518191761)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007256465)
 
 **Variation 5B: subtitles total**
@@ -118,7 +118,7 @@ Leave out the subtitles on your quotation.
 
 This variation displays a total amount for each subtitle.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417764627857)
+![Example of a generated quotation PDF document in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/39417764627857)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985815057)
 
 **Variation 6: without units**
@@ -129,7 +129,7 @@ This variation has no 'units'.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417921756305)
+![Example of a generated quotation PDF document in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/39416832678161)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007293713)
 
 **Variation 7: position number**
@@ -144,7 +144,7 @@ Give each article a position number automatically, to make it easier for custome
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417921758737)
+![Example of a generated quotation PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39417518191761)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985828241)
 
 **Variation 8: contract**
@@ -155,14 +155,14 @@ By default, Teamleader Focus doesn't have a contract module. However, some of ou
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418021989009)
+![Example of a document template in Teamleader Focus using custom field shortcodes.](https://support.focus.teamleader.eu/hc/article_attachments/39418021989009)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985818641)
 
 **Variation 9: add quotation name**
 
 By adding the shortcode $QUOTATION_NAME$ to your template you can also, next to the deal name or number, add [your quotation name](https://support.focus.teamleader.eu/hc/en-150/articles/25693511139089) to your document.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39417984989841)
+![Example of a generated quotation PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39417518191761)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416283965329)
 
  
@@ -179,7 +179,7 @@ This is the standard Teamleader Focus template with a clear table for your artic
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
+![Example of a generated invoice PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
 
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985770897) 
 
@@ -189,7 +189,7 @@ This is the standard Teamleader Focus template with a clear table for your artic
 
 If you are using subscriptions, this will be the template variation you need! It clearly shows the license period and next renewal date. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418687881489)
+![Example of a generated invoice PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007290769)
 
 **Variation 3: header number + date**
@@ -200,7 +200,7 @@ This template shows the invoice number and date in the header so that it can be 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418692107665)
+![Example of a generated invoice PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985758225)
 
 **Variation 4: no subtitles **
@@ -211,7 +211,7 @@ Leave out the subtitles on your invoice.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418687886865)
+![Example of a generated invoice PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007305105)
 
 **Variation 5: units in a separate column**
@@ -222,7 +222,7 @@ This variation has a different column for units.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418692112017)
+![Example of a generated invoice PDF in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418481251601)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985777425)
 
 **Variation 6: company details in the footer**
@@ -235,7 +235,7 @@ This template shows you company details in the footer so that it can be shown on
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418837774993)
+![Sample invoice document generated in Teamleader Focus showing layout and data fields.](https://support.focus.teamleader.eu/hc/article_attachments/39418837774993)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985795729)
 
 **Variation 7: position number**
@@ -246,7 +246,7 @@ Give each article a position number automatically, to make it easier for custome
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418866884753)
+![Example of a generated invoice document in Teamleader Focus showing layout and line items.](https://support.focus.teamleader.eu/hc/article_attachments/39418866884753)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39416007277585)
 
 **Variation 8: QR code**
@@ -255,7 +255,7 @@ Give each article a position number automatically, to make it easier for custome
 
 Get paid even faster by putting a SEPA QR code on your invoice. Read everything about it [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695246134545).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39418837786129)
+![Example of a generated PDF invoice in Teamleader Focus showing layout and branding.](https://support.focus.teamleader.eu/hc/article_attachments/39418837786129)
 [**Download template**](https://support.focus.teamleader.eu/hc/en-150/article_attachments/39415985823761)
 
  

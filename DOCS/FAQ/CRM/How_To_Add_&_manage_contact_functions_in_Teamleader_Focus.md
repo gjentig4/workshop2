@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Add & manage contact functions in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691126108817)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Do you have several contacts in your CRM with functions that don’t exist in your Teamleader Focus account yet? In this article you can read how to add and manage these functions.
 
@@ -32,7 +32,7 @@ To add a new function to a specific contact linked to a company, follow these st
 
 - Choose '**Edit**'
 
-- Add a new contact function by clicking on ‘**Other’** in the drop-down menu![](https://support.focus.teamleader.eu/hc/article_attachments/25691107281681)
+- Add a new contact function by clicking on ‘**Other’** in the drop-down menu![The 'Edit contact at company' dialog box in Teamleader Focus showing contact role details.](https://support.focus.teamleader.eu/hc/article_attachments/25691051402385)
 
 - 
 Note: The contact functions you manually add here won't end up in your settings (cf. title 2).
@@ -61,12 +61,12 @@ You can define fixed contacts functions so the long list of functions is just li
 
 - **Number of contact functions**
 
-- Click on the **pencil **on the right.![](https://support.focus.teamleader.eu/hc/article_attachments/25691142439057)
+- Click on the **pencil **on the right.![Preferences card in Teamleader Focus for contact functions and salutations.](https://support.focus.teamleader.eu/hc/article_attachments/25691142439057)
 
 - In this menu you can add, edit or delete contact functions. 
 
 - You can also choose the order in which they appear.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691117990673)
+![The 'Edit Contact functions' dialog box for managing job title options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691117990673)
 
 - 
 Note: when creating a segment, you will still see all functions in the database, because you still need to be able to select those. (Including the functions of deleted contacts)

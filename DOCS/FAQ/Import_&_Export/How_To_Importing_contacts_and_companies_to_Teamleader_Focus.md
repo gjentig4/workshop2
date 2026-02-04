@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Importing contacts and companies to Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691809761041)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,7 +20,7 @@ Teamleader Focus offers you several ways of adding contacts and companies to Tea
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691809950993)
+![Tutorial title slide for 'Registering timetracking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
 
  
 
@@ -59,7 +59,7 @@ Note: You can only upload XLS, XLSX or CSV files.
 
 - Match the columns with the right fields.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691799808145)
+![Field mapping screen for importing contacts into Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691799808145)
 
 Notes:
  

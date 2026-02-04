@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: Can I choose the numbering of my invoices in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691362000017)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -37,7 +37,7 @@ By default, the fiscal year is set as the prefix. Therefore, you can alter the p
 - Click on the pencil next to the fiscal year
 
 - In the pop-up that follows you can adjust the name of the fiscal year.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42399072296465)
+![The 'Edit Fiscal year' dialog box in Teamleader Focus for configuring accounting periods.](https://support.focus.teamleader.eu/hc/article_attachments/42399072296465)
 
 Be aware that this is still a fixed name, you cannot use a date or the name of a customer. This value will be the same for every invoice of that fiscal year.
 
@@ -51,7 +51,7 @@ Regarding the suffix, the first invoice or credit note will automatically start 
 
 You have the possibility though to choose the number of your very first invoice of each fiscal year. This option appears in 'Start number' upon creation of the fiscal year (see above) or when adding the first invoice of that fiscal year. The following invoices will automatically count upwards from this number.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691316631697)
+![The header section of the 'Add Invoice' form in Teamleader Focus, highlighting the Start number field.](https://support.focus.teamleader.eu/hc/article_attachments/25691316631697)
 
  
 

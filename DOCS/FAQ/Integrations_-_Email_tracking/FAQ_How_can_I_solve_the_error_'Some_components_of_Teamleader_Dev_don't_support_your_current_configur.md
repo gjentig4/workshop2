@@ -10,7 +10,7 @@ section: "Integrations - Email tracking"
 
 # FAQ: How can I solve the error 'Some components of Teamleader Dev don't support your current configuration of Microsoft Outlook'?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693607842705)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You can solve the error 'Some components of Teamleader Dev don't support your current configuration of Microsoft Outlook. Please contact the software vendor for more information' of our Outlook plugin by following these steps:
 
@@ -22,7 +22,7 @@ You can solve the error 'Some components of Teamleader Dev don't support your cu
 
 - Go to **General**
 
-- Activate the second option called 'Optimize for compatibility'![](https://support.focus.teamleader.eu/hc/article_attachments/25693607907729)
+- Activate the second option called 'Optimize for compatibility'![Microsoft Outlook General settings showing User Interface options for multiple displays.](https://support.focus.teamleader.eu/hc/article_attachments/25693607907729)
 
 - Click on **OK**
 

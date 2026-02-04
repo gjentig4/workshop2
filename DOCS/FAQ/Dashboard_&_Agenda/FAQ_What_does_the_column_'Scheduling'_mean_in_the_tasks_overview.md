@@ -10,11 +10,11 @@ section: "Dashboard & Agenda"
 
 # FAQ: What does the column 'Scheduling' mean in the tasks overview?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693645492881)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Do you have a big to-do list of tasks and you can't see the wood for the trees anymore? No worries, the column 'Scheduling' in the task overview will help you set priorities.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693636539537)
+![A table view in Teamleader Focus showing 'Due date' and 'Scheduling' status for tasks or projects.](https://support.focus.teamleader.eu/hc/article_attachments/25693636539537)
 
 In this column you'll see two different colors depending on the due date of the task:
 

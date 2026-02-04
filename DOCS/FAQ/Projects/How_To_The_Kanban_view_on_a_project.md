@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: The Kanban view on a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696033614865)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -18,7 +18,7 @@ section: "Projects"
 
 The Kanban method is a method with an emphasis on visualising work, allowing you to easily follow-up on your project. Read all about the Kanban view on a project here.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696036067217)
+![Kanban board view for a project titled 'Rebranding marketing campaign' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696036067217)
 
 ## 
 

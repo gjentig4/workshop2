@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Insights library on Revenue, Invoices & Subscriptions
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/29832468427025) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Teamleader Focus offers a range of pre-made reports in our Insights Library, designed to provide clear insights into your financial performance. Use these reports to for example monitor revenue trends, look at overdue or unpaid invoices, or consult your recurring revenue from subscriptions.
 

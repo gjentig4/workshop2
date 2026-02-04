@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Project financials in Teamleader Focus explained
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/36803451981329) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 ***This article describes functionality of our new project module. This module is being rolled out gradually, so it is possible you do not have access to the features described here yet. If that is the case, *[*you can still find documentation on the previous project module here.*](https://support.focus.teamleader.eu/hc/en-150/sections/25690691571089) 
 

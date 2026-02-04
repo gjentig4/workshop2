@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # How To: Add and manage outgoing invoices on the Teamleader Focus app
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692737209489)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Renaming a quotation in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693507471121)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When creating a quotation in Teamleader Focus, you’ll be able to give it a different name than the default Teamleader Focus naming of the word ‘Quotation’ + the deal number. Read this article to discover why this feature is important, how to change the name of your quotation and which variables and shortcodes to use in order to display your quotation’s name in your customer communication.
 
@@ -67,7 +67,7 @@ What if you change the language of your customer after creating the quotation? 
 - Create a quotation and fill out the items on the quotation
 
 - In the field ‘Quotation name’, you can replace the default Teamleader Focus naming of ‘Quotation + deal number’ and choose your own quotation name.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693507535249)
+![The initial setup form for creating a new quotation in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693507535249)
  
 
 ### Rename your existing quotation
@@ -81,7 +81,7 @@ Via the quotation page:
 - Click on the **3 dots **in the header of your quotation
 
 - Choose **Rename quotation**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25693519097873)**
+**![The header of a quotation detail page in Teamleader Focus with the actions menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25693519097873)**
  
 
 - Rename the quotation and click on **Save**
@@ -93,7 +93,7 @@ Via the [deal page:](https://support.focus.teamleader.eu/hc/en-150/articles/256
 - Go to ‘Follow up on your deal’
 
 - Click on the **3 ****dots** next to your quotation > **Rename**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693475600913)
+![The quotation actions menu in a deal overview, highlighting the 'Rename' option.](https://support.focus.teamleader.eu/hc/article_attachments/25693475600913)
  
 
 - Rename** **the quotation and click on **Save**
@@ -112,7 +112,7 @@ Via the [deal page:](https://support.focus.teamleader.eu/hc/en-150/articles/256
 
 When you have [multiple quotations](https://support.focus.teamleader.eu/hc/en-150/articles/25693685516433-How-To-Multiple-quotations-in-Teamleader-Focus), you can't have the same file name for different quotations in the same deal, so by default Teamleader Focus will create name variations on your original quotation by adding -1, -2:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693526393745)
+![A list of quotations in Teamleader Focus showing titles, amounts, CloudSign activity, and status.](https://support.focus.teamleader.eu/hc/article_attachments/25693526393745)
 
  
 
@@ -130,7 +130,7 @@ Go to **Settings **> **Deals and Quotations **to find these templates and clic
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693475701009)
+![Shortcodes for quotation name and deal title in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25693475701009)
 
  
 
@@ -140,7 +140,7 @@ In **Settings **> **Document ****layout **> **Quotations **you can find the 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693493488401)
+![Shortcodes for document templates in Teamleader Focus, highlighting sale and quotation variables.](https://support.focus.teamleader.eu/hc/article_attachments/25693493488401)
 
  
 

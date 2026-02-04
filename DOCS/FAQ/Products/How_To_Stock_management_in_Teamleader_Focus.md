@@ -10,7 +10,7 @@ section: "Products"
 
 # How To: Stock management in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691732167057)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -30,7 +30,7 @@ Before you can start using the stock feature, you need to activate it in your ac
 
 - In 'Preferences', activate the slider next to **Manage product stock**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691732193297)**
+**![Product preferences settings in Teamleader Focus showing toggles for product IDs and stock management](https://support.focus.teamleader.eu/hc/article_attachments/25691732193297)**
 
  
 
@@ -38,7 +38,7 @@ Before you can start using the stock feature, you need to activate it in your ac
 
 Go to Products and add or edit a product. You’ll see two new fields, ‘stock’ and ‘min. Stock’.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691727054865)
+![The 'Add Product' dialog in Teamleader Focus showing product info and pricing fields.](https://support.focus.teamleader.eu/hc/article_attachments/25691727054865)
 
  
 
@@ -49,7 +49,7 @@ Let’s say I have 500 screws currently in stock. But I want to be notified if I
 
 Now, when I create and book an invoice using more than 50 screws, since the stock will fall under 450, Teamleader Focus will send me a notification on the bell and an email to say that I just went below my minimal stock.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691699773073)
+![The Teamleader Focus top navigation bar showing a stock level notification.](https://support.focus.teamleader.eu/hc/article_attachments/25691699773073)
 
  
 
@@ -73,7 +73,7 @@ If you are working with products, you probably also have a supplier. Well, Teaml
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691727130769)
+![Status bar for an order showing progress from New to Order sent, with an Actions dropdown menu.](https://support.focus.teamleader.eu/hc/article_attachments/25690996180241)
 
  
 
@@ -81,7 +81,7 @@ When your supplier has completely fulfilled your order, you can state so on the 
 
 *Note: Make sure there was a value filled out next to 'Stock' on your product (even if it's zero), otherwise the stock management feature won't work. *
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25691699834897)*
+*![The Activities timeline in Teamleader Focus showing a stock update log.](https://support.focus.teamleader.eu/hc/article_attachments/25691699834897)*
 
  
 

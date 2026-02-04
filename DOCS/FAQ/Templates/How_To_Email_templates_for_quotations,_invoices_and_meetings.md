@@ -10,7 +10,7 @@ section: "Templates"
 
 # How To: Email templates for quotations, invoices and meetings
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691202468369)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
  
 
 # Why use templates?
@@ -24,7 +24,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25691192958097)
+          ![Introductory banner for Email Templates in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691192958097)
         
 
       
@@ -38,7 +38,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
 For every template email in Teamleader Focus, there are some variables you can use to personalize your message. For example, the variable #FORENAME will always be replaced by the forename of the contact you are sending an email to, given that this information is available in the CRM. If you're sending an email to Jeroen De Wit, the variable #FORENAME will be replaced with "Jeroen".  
 
-![Email template: variables](https://support.focus.teamleader.eu/hc/article_attachments/25691226130449)
+![A list of available variables for document or email templates in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691226130449)
 
  
 
@@ -99,7 +99,7 @@ To create these email templates, navigate to Settings > "Email". Click the "**+*
 
  
 
-![Email template: generic](https://support.focus.teamleader.eu/hc/article_attachments/25691193058577)
+![The 'Template for regular mails' form in Teamleader Focus for creating email templates.](https://support.focus.teamleader.eu/hc/article_attachments/25691193058577)
 
  
 
@@ -111,7 +111,7 @@ Note: When you're composing the emails, you might want to use new alinea's. To s
 
  
 
-![Email templates: general](https://support.focus.teamleader.eu/hc/article_attachments/25691226282513)
+![The 'Send email' dialog in Teamleader Focus showing the email template selection dropdown.](https://support.focus.teamleader.eu/hc/article_attachments/25691226282513)
  
 
  
@@ -126,7 +126,7 @@ Do you want to send the default message to a meeting? Create a meeting in Teamle
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691226370193)
+![The 'Add contact to meeting' dialog box in Teamleader Focus showing invitation options.](https://support.focus.teamleader.eu/hc/article_attachments/25691226370193)
 
  
 

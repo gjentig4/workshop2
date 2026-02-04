@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Insights in Teamleader Focus
 
-![rAgO9CxaPTzv0NSiB6COy_L5FWqn_nV68Q.png](https://support.focus.teamleader.eu/hc/article_attachments/28006154329105)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -47,7 +47,7 @@ For a full overview of the power of Insights module and the benefits this module
 # Library
 
 Clicking on **Insights **in the navigation bar on the left directs you to our Insights overview page with the Insights **Library**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28212647445649)
+![The Insights library in Teamleader Focus showing various sales and deal report categories.](https://support.focus.teamleader.eu/hc/article_attachments/28212647445649)
 
  
 
@@ -81,7 +81,7 @@ Of course you’ll also be interested in creating and customising your own repor
 
 - 
 **Open a report **by clicking on it in the library e.g. ‘Deals across Phases’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/32451998503569)
+![The 'Deals across Phases' report showing a bar chart of deal volume and revenue by sales stage.](https://support.focus.teamleader.eu/hc/article_attachments/32451998503569)
 
 You’ll immediately see a chart and the accompanying data in the grid. At the top of the page you’ll find the name of the report, its description and its tags.
 
@@ -106,22 +106,22 @@ A chart and table
 - Only a chart
 
 - Only a table
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006154338961)
+![Dropdown menu for selecting data visualization display options](https://support.focus.teamleader.eu/hc/article_attachments/28006154338961)
 
 - Next, it’s up to you to choose what data you want to see by selecting the right **group**. Grouping gives you the ability to organise and slice the data through various perspectives e.g group by deal phase or by assignee.
 Know that you can also add a second group to further refine your data. In the Deals across Phases report for example, you could group both on deal phase and assignee and even switch the groups, the possibilities are endless.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31517620630545)
+![Grouping options for the 'Deals across Phases' sales pipeline report in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31517620630545)
 
 - Next to grouping you can also define to **sort** in ascending or descending order, e.g. to sort within a group.
-![](https://support.focus.teamleader.eu/hc/article_attachments/36110172753169)
+![Sorting and grouping options for quotations in Teamleader Focus reports or lists.](https://support.focus.teamleader.eu/hc/article_attachments/36110172753169)
 
 - 
 Further refine your report by **adding extra filters**.
 
 In this example, we see a chart and table, grouped by deal phase and filtered on ‘Sales Pipeline’. You could now add an additional filter on e.g. ‘Date added in last year’ and your data is instantaneously adjusted. We visualise the numbers on the chart itself, however hovering over the charts will give you extra information about the numbers:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31517940227217)
+![A bar chart in Teamleader Focus showing deal count and amount per deal phase.](https://support.focus.teamleader.eu/hc/article_attachments/31517940227217)
  
 
 **! PRO TIP: Personalised data via **[**custom fields**](https://support.focus.teamleader.eu/hc/en-150/articles/25692628832017-How-To-Creating-a-custom-field-in-Teamleader-Focus): in terms of grouping, filtering and visualisation, you can create even more meaningful reports by adding your own custom fields to the reporting. 
@@ -132,21 +132,21 @@ Note that custom fields of the types Multiline text and Multiple selection aren'
  
 
 - In the top right-hand corner of the report, you can select the **type of chart** you want to see:
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006154355089)
+![Navigation bar with icons for bar charts, line graphs, time tracking, and numerical data.](https://support.focus.teamleader.eu/hc/article_attachments/28006154355089)
 
 Bar chart
 
 - Line chart
 
 - Pie chart
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006164379025)
+![A pie chart visualization in Teamleader Focus with view toggle buttons.](https://support.focus.teamleader.eu/hc/article_attachments/28006164379025)
 
 - Numeric
 
 - If you’ve chosen to display a **table **in your report, then here are some tips and tricks on how to customise the table further and to specify the information you want to see in the table.
 
 **Drag and drop** certain columns more to the left or the right by clicking and dragging columns elsewhere or go to the **three dots **next to a column name **> Move left/Move right**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/28006164380945)**
+**![Context menu for managing columns in a Teamleader Focus list view.](https://support.focus.teamleader.eu/hc/article_attachments/28006164380945)**
 
 - 
 **Sort **on a specific column and choose to do this in ascending or descending order.
@@ -155,37 +155,37 @@ Do this by hovering over the title of the column and clicking on the up or down 
 - 
 **Pin **columns if you want them to take priority on the left-hand side by clicking on the **three dots **next to a column title > **Pin**
 Unpin a column by clicking on the pin icon again.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006154385681)
+![How to unpin a column in a Teamleader Focus list view](https://support.focus.teamleader.eu/hc/article_attachments/28006154385681)
 
 - By clicking the **cogwheel on the right** you can choose which information you want to display or hide in the table by enabling or disabling the slider(s).
-*![](https://support.focus.teamleader.eu/hc/article_attachments/28006164383505)*
+*![Column selection menu in Teamleader Focus to customize table views using toggle switches.](https://support.focus.teamleader.eu/hc/article_attachments/28006164383505)*
 
 You can also add **measurable fields** like ‘Amount excl.VAT, meaning **totals **will be shown at the top of the column, or in this example showing you the total amount of the group namely Amount excl.VAT in the deal phase ‘Accepted’ or ‘Quotation sent’.
-*![](https://support.focus.teamleader.eu/hc/article_attachments/28006164385041)*
+*![A table view showing deal phases and the total sum of amounts excluding VAT for each phase.](https://support.focus.teamleader.eu/hc/article_attachments/28006164385041)*
 
 For these fields, you can change the calculation method to either Sum/Average.
-![](https://support.focus.teamleader.eu/hc/article_attachments/30356483012241)
+![Column header menu in Teamleader Focus showing sorting, moving, pinning, and calculation options.](https://support.focus.teamleader.eu/hc/article_attachments/30356483012241)
 
 Tip: you can also add a ‘Count’ column to your overview, making it possible to see totals per group e.g. how many deals are in a certain deal phase.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006164386833)
+![A table showing deal statistics grouped by deal phase in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/28006164386833)
 
 Tip 2: If you also use a table in combination with a bar chart or pie chart and drag ‘Count’ to the left of the table, this influences the view in the chart as well. Instead of e.g. deal amounts in a certain phase, the number of deals in a certain phase is shown.
- ![](https://support.focus.teamleader.eu/hc/article_attachments/28006154418321)
+ ![A pie chart and table showing deal distribution by phase in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/28006154418321)
 
  
 
 - 
 **Expand **or **collapse **your group to view the information that’s relevant to you by clicking on the arrow in front of the group.
-*![](https://support.focus.teamleader.eu/hc/article_attachments/28006154423569)*
+*![A list of deals in Teamleader Focus grouped by Deal phase with an expanded 'Contacted' section.](https://support.focus.teamleader.eu/hc/article_attachments/28006154423569)*
 
  
 
 - 
-**Clickthroughs**: tables have hyperlinks (in blue) that connect everything e.g. in a deal context you could click through to the specific deal page by clicking on the title of the deal. ![](https://support.focus.teamleader.eu/hc/article_attachments/28006164393105)
+**Clickthroughs**: tables have hyperlinks (in blue) that connect everything e.g. in a deal context you could click through to the specific deal page by clicking on the title of the deal. ![A table view in Teamleader Focus showing a 'Refused' category with financial totals and a clickable link.](https://support.focus.teamleader.eu/hc/article_attachments/28006164393105)
 
 - 
 **Adjustable column width**: easily change the width of your insights columns by dragging the column borders left or right.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28212647454353)
+![Resizing columns in a Teamleader Focus list view to reveal hidden data like Cycle time.](https://support.focus.teamleader.eu/hc/article_attachments/28212647454353)
 
  
 
@@ -198,18 +198,18 @@ Tip 2: If you also use a table in combination with a bar chart or pie chart and 
 - This way you can easily consult it again whenever the need arises.
 
 - As stated above, you can adapt the title, description and tags, and you can choose to add the report to your favourites.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006154428049)
+![The 'Save report' dialog box in Teamleader Focus for naming and tagging a custom report.](https://support.focus.teamleader.eu/hc/article_attachments/28006154428049)
  
 
 4. In the top right-hand corner of a report there's also an 'Export' option to export your report to Excel, CSV or PDF or to copy the link to a report and share it with your colleagues. [Read all about exporting reports here.](https://support.focus.teamleader.eu/hc/en-150/articles/32423405276945-FAQ-Can-I-export-the-reports-in-Insights)
-![](https://support.focus.teamleader.eu/hc/article_attachments/32452037423249)
+![Export and save options for reports in Teamleader Focus, including Excel, CSV, and PDF formats.](https://support.focus.teamleader.eu/hc/article_attachments/32452037423249)
  
 
 # My reports
 
 The report will show up in **Insights **> **By me **(or if you’ve added it to your favourites, also in ‘Favourites).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28006154431249)
+![Navigation menu for Insights showing My Reports with Favourites and By me options.](https://support.focus.teamleader.eu/hc/article_attachments/28006154431249)
 
  
 

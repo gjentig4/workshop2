@@ -10,9 +10,9 @@ section: "CRM"
 
 # FAQ: How can I link a contact to a company?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691185727377)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
-To link a contact to a company, we advise you to first create the contact in the Contacts module. Afterwards you can click on the **three dots **next to ‘Contact information’ and choose ‘Link to company’. Then you can link the contact to the desired company.![](https://support.focus.teamleader.eu/hc/article_attachments/25691205912977)
+To link a contact to a company, we advise you to first create the contact in the Contacts module. Afterwards you can click on the **three dots **next to ‘Contact information’ and choose ‘Link to company’. Then you can link the contact to the desired company.![The Contact information card in Teamleader Focus showing the actions menu for a contact.](https://support.focus.teamleader.eu/hc/article_attachments/25691205912977)
 
 You'll be able to link a department to the contact, add a function and sub function and decide if this person should be a decision maker or not.
 

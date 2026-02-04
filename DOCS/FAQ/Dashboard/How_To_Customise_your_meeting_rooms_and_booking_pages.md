@@ -10,7 +10,7 @@ section: "Dashboard"
 
 # How To: Customise your meeting rooms and booking pages
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694699698961)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In Settings > [Customization](https://meeting.teamleader.eu/team/customization/), you can customise your meeting rooms and booking pages for your brand. The settings from this tab count for all the team members. 
 
@@ -52,7 +52,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694720925585)
+![Tutorial banner for Customer Meeting add-on: Custom Branding in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694720925585)
 
  
 
@@ -76,7 +76,7 @@ The optimal size for the favicon has a 1:1 ratio. 
  
 
 You can **add your logo in the left top corner** **of new whiteboards**. Select the checkbox 'auto-add your logo to the whiteboard pages' to activate this.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694743358225)
+![Logo settings for whiteboard pages in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694743358225)
 
  
 
@@ -89,7 +89,7 @@ Homepage is linked to the company logo. If someone clicks on your logo they can 
 ## Brand colour
 
 You can easily add a brand colour so all the main buttons in your meeting rooms or your booking pages will have the same colour. Fill in the Hex code of the colour your prefer. You can check the colour in the preview in combination with white text.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694743415185)
+![The brand color setting field with a hex code input and a preview button.](https://support.focus.teamleader.eu/hc/article_attachments/25694743415185)
 
  
 
@@ -109,7 +109,7 @@ We recommend an image of 1920x1080px.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694699993489)
+![Customization settings for the Customer Meeting add-on in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694699993489)
 
  
 
@@ -119,7 +119,7 @@ You can set up a camera background image for all your team members. The camera b
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694716866321)
+![A video call interface mockup showing a person with camera, microphone, and end call controls.](https://support.focus.teamleader.eu/hc/article_attachments/25694093357329)
  
 
  
@@ -132,7 +132,7 @@ The advanced branding settings allow you to fully customise your meeting rooms a
 
 ## Powered by Teamleader
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/29118166733201)The option 'Show Powered by Teamleader' is checked by default. 
+![Advanced branding setting to show or hide the 'Powered by Teamleader' label.](https://support.focus.teamleader.eu/hc/article_attachments/29118166733201)The option 'Show Powered by Teamleader' is checked by default. 
 If enabled, then the label 'Powered by Teamleader' will be shown at the bottom of your booking pages, contact forms and meeting rooms. 
 If disabled, then the label won't be visible.
 
@@ -161,7 +161,7 @@ In this part, you can change the text which shows on the waiting screen when a g
 
 If you're not satisfied with the changes, you can reset the text to default by clicking on the button 'Reset to default'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694743608721)
+![Settings page for customizing text strings for meeting host waiting rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25694743608721)
  
 
  
@@ -179,7 +179,7 @@ The terms and conditions will be shown next to a checkbox on your booking pages 
  
 
 By default, the Teamleader privacy policy will be linked and will be displayed in the language of your account. For guests, the privacy policy will be in the language of their browser.
-![](https://support.focus.teamleader.eu/hc/article_attachments/27757187121041)
+![Legal settings for Scheduling and Contact Forms in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/27757187121041)
 
 **Custom privacy policy**
 

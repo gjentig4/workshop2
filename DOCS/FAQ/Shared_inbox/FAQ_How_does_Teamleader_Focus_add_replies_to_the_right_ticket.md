@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # FAQ: How does Teamleader Focus add replies to the right ticket?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693302465809)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -20,11 +20,11 @@ When a [ticket is created](https://support.focus.teamleader.eu/hc/en-150/article
 
 At the bottom of every reply sent from your shared inbox, a **ticket reference **is added. This is the reference used by Teamleader Focus to make sure a customer's answer to your response is added to the right ticket.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693293122449)
+![Email notification from Teamleader Focus showing a ticket reference code at the bottom.](https://support.focus.teamleader.eu/hc/article_attachments/25693293122449)
 
  
 
-This is both a safe and reliable way to make sure the right reply is added to the right ticket! However, don't confuse the ticket reference with the ticket ID.![](https://support.focus.teamleader.eu/hc/article_attachments/25693293158673)
+This is both a safe and reliable way to make sure the right reply is added to the right ticket! However, don't confuse the ticket reference with the ticket ID.![Header view of a new support ticket in Teamleader Focus showing contact and company details.](https://support.focus.teamleader.eu/hc/article_attachments/25693293158673)
 
  
 
@@ -33,7 +33,7 @@ If you add the variable for the ticket ID to your [autoreply ](https://support.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693302645649)
+![The 'Add Autoreply' form in Teamleader Focus for setting up automated ticket responses.](https://support.focus.teamleader.eu/hc/article_attachments/25693302645649)
 
  
 

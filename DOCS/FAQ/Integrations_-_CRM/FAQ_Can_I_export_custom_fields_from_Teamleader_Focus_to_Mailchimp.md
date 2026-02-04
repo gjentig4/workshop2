@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # FAQ: Can I export custom fields from Teamleader Focus to Mailchimp?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692167605649)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -28,7 +28,7 @@ You can export (all types of) custom fields from Teamleader Focus to MailChimp. 
 
 Next, create a '**text' field**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692162235281)
+![Configuration row for Mailchimp merge tags in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692162235281)
 
  
 
@@ -43,7 +43,7 @@ This also works for some dedicated fields, like salutations.
 ### **Note:**
 
 - Custom fields of the **type 'Email address**' sync to Mailchimp automatically without merge tags. The company or contact will be as many times in Mailchimp as there are email addresses for that company or contact.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692146208017)
+![Mailchimp Audience dashboard showing a list of contacts with email addresses and first names.](https://support.focus.teamleader.eu/hc/article_attachments/25692146208017)
 
 - The merge text cannot be longer than **10 characters**.
 

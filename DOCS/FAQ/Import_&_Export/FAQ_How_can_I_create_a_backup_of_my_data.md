@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: How can I create a backup of my data?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690938597521)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ There are two ways to create a backup of your data:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690907933073)
+![The Overview section in Teamleader Focus with a Back button and a link to My backups.](https://support.focus.teamleader.eu/hc/article_attachments/25690907933073)
 
  
 
@@ -34,7 +34,7 @@ There are two ways to create a backup of your data:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690928788625)
+![The 'My backups' section in Teamleader Focus showing a successful backup and download button.](https://support.focus.teamleader.eu/hc/article_attachments/25690928788625)
 
  
 

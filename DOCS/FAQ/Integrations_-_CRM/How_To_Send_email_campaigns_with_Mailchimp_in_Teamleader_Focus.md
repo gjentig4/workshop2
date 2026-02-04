@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: Send email campaigns with Mailchimp in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690755851665)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -55,17 +55,17 @@ Do you prefer to watch our instructive video first? You can do so right here:
 - In order to connect to Teamleader Focus though, your audience needs to be empty. There are now two options:
 
 If you're on the Free plan, you can only have 1 audience in your account. As the audience needs to be empty, you'll need to archive yourself as a contact from the audience:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690772294673)
+![The Audience management view in Teamleader Focus showing contact actions like Archive and Unsubscribe.](https://support.focus.teamleader.eu/hc/article_attachments/25690772294673)
 
 - If you're on a paying planyou need to create a new empty audience in Mailchimp: 
 
 Go to “**Audience**” > Audience dashboard.
 
 - Click on **Current audience** and choose **View audiences:**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25690758558993)**
+**![Dropdown menu for selecting a 'Current audience' in a marketing or contact integration.](https://support.focus.teamleader.eu/hc/article_attachments/25690758558993)**
 
 - Click **Create audience**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25690744477073)**
+**![The 'Create Audience' button in Teamleader Focus with a mouse cursor hovering over it.](https://support.focus.teamleader.eu/hc/article_attachments/25690744477073)**
 Fill in the requested info. Note that this is what your recipients will get to see when they receive the mail.
 
 - Go back to your Teamleader Focus account. Click on your **user icon** in the upper right hand corner.
@@ -79,7 +79,7 @@ Fill in the requested info. Note that this is what your recipients will get to s
 - Enter your Mailchimp account name and password
 
 - A new window opens that asks you to select an audience in Mailchimp. Choose your newly created empty audience.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690756030865)
+![MailChimp integration setup screen in Teamleader Focus for syncing CRM contacts.](https://support.focus.teamleader.eu/hc/article_attachments/25690756030865)
 
 - Click on “**Save**”
 
@@ -90,11 +90,11 @@ Congratulations! Mailchimp and Teamleader Focus are now integrated. Please note 
  
 
 In order to sync your contacts to Mailchimp, the checkbox ['Opt-in marketing mails' needs to be enabled](https://support.focus.teamleader.eu/hc/en-150/articles/25692799115281-FAQ-What-does-the-checkbox-Opt-in-marketing-mails-mean) for each contact in Teamleader Focus.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690756063889)After this, you can choose to divide your contact audience in Mailchimp into separate marketing permissions/opt-ins. You can organize your audience in Mailchimp with a segment for each [marketing permission](https://kb.mailchimp.com/accounts/management/collect-consent-with-gdpr-forms) (email, direct mail, customized online marketing):
+![Form fields for business details including bank info, VAT liability, and marketing opt-in.](https://support.focus.teamleader.eu/hc/article_attachments/25690742971921)After this, you can choose to divide your contact audience in Mailchimp into separate marketing permissions/opt-ins. You can organize your audience in Mailchimp with a segment for each [marketing permission](https://kb.mailchimp.com/accounts/management/collect-consent-with-gdpr-forms) (email, direct mail, customized online marketing):
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25690758736657)**
+**![Editing a contact segment for marketing permissions with specific conditions.](https://support.focus.teamleader.eu/hc/article_attachments/25690758736657)**
 
  
 
@@ -111,7 +111,7 @@ For example:
 - 
 [Create a segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) in Teamleader Focus based on email address.
 
-- Choose to make this segment available in Mailchimp. Teamleader Focus will then synchronize this segment![](https://support.focus.teamleader.eu/hc/article_attachments/25690738199185)
+- Choose to make this segment available in Mailchimp. Teamleader Focus will then synchronize this segment![The 'Edit segment' dialog in Teamleader Focus showing general info, rules, and Mailchimp export.](https://support.focus.teamleader.eu/hc/article_attachments/25690738199185)
 
  
 
@@ -119,7 +119,7 @@ For example:
 
 **1. **To synchronize your segments for the first time, you can click the rotation symbol on top of the screen (remember: you have to be in the CRM module to do this!)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690772626705)
+![The top navigation bar in Teamleader Focus featuring search, quick add, and sync options.](https://support.focus.teamleader.eu/hc/article_attachments/25690772626705)
  
 
 Notes: 
@@ -151,12 +151,12 @@ Notes: 
 
 **5.** At the right side, you can click on “view groups”. There you can find all segments you’ve made in Teamleader Focus.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690756269073)
+![The contact groups management interface in the Teamleader Focus integration with Mailchimp.](https://support.focus.teamleader.eu/hc/article_attachments/25690756269073)
 
  
 
 **6. **Now you can also use your groups within your marketing permission segments. Like this, you can send your future marketing campaigns only to your contacts who gave consent.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690738343441)
+![The 'Create a new segment' interface in Teamleader Focus showing contact filtering conditions.](https://support.focus.teamleader.eu/hc/article_attachments/25690738343441)
 
 ### Which info will be synced to Mailchimp?
 
@@ -189,12 +189,12 @@ Now it’s just about selecting the right segments in Mailchimp to send your ema
 - Click on “**Create campaign**”.
 
 - You will be asked to choose the type of campaign. You can only use campaigns of the type “**Regular**”. If you use “A/B testing”, the statistics will be empty and you will only see the bounces for example.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690758994705)
+![Marketing selection screen to create a regular email, automation journey, or landing page.](https://support.focus.teamleader.eu/hc/article_attachments/25690758994705)
 
 - Now you’ll be asked to define your recipients. Choose “**Group or new segment**” and then pick “**Teamleader.contacts**” or “**Teamleader.companies**” in the list
 
 - Choose your segment from the dropdown menu.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690756411409)
+![The 'To' section of a campaign setup showing audience segmentation and recipient selection.](https://support.focus.teamleader.eu/hc/article_attachments/25690756411409)
 
 - To send to multiple segments, add another rule by clicking “**Add**” and repeat the same steps as described above.
 
@@ -232,7 +232,7 @@ In a Mailchimp Audience, you can also find archived contacts. Click on your link
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690738476945)
+![Audience management screen showing the 'Manage contacts' dropdown menu with 'View archived contacts'.](https://support.focus.teamleader.eu/hc/article_attachments/25690738476945)
 
  
 

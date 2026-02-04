@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: User permissions in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695498150545)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -26,7 +26,7 @@ First of all: only [admins ](https://support.focus.teamleader.eu/hc/en-150/arti
 
 - On the next page, you can find general information about the user at the top of the page, with the tabs 'Permissions' and 'Work info' below.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37783209347985)
+![User profile management view in Teamleader Focus showing user details and admin actions.](https://support.focus.teamleader.eu/hc/article_attachments/37783209347985)
 
  
 
@@ -44,7 +44,7 @@ At the top of the page you can define the function of a user, their [internal co
 
 Depending on the [package and Boosters ](https://support.focus.teamleader.eu/hc/en-150/articles/25696098299537-Features-per-package-SMART-GROW-FLOW)you have you can switch on/off the different modules or features in this menu:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37783209351057)
+![User permission settings for General, CRM, Deals and Quotations, and Invoices in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/37783209351057)
  
 
 - General

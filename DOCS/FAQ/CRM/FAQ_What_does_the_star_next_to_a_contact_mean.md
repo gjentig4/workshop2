@@ -10,13 +10,13 @@ section: "CRM"
 
 # FAQ: What does the star next to a contact mean?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692657926033)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
 When you navigate to Companies > Related contacts, you'll see a star icon next to your contact's name.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692671733393)
+![The 'Related contacts' section on a company page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692671733393)
 
  
 

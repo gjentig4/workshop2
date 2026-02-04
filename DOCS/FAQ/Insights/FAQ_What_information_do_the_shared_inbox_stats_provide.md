@@ -10,7 +10,7 @@ section: "Insights"
 
 # FAQ: What information do the shared inbox stats provide?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692229089169)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The shared inbox is a handy tool that helps you keep an overview of all incoming emails from (potential) customers. Would you like to know how to set up shared inbox statistics? Click [here](https://support.focus.teamleader.eu/hc/en-150/articles/25691088759057-How-To-Using-tickets-in-Teamleader-Focus).
 
@@ -22,13 +22,13 @@ This article will tell you more about the statistics of shared inbox, available 
 
 - At the top of your screen, you always have the option to choose a certain date range:
 
-![ticket stats - date range](https://support.focus.teamleader.eu/hc/article_attachments/25692229154961)
+![The date range picker dropdown in Teamleader Focus showing preset options and custom date fields.](https://support.focus.teamleader.eu/hc/article_attachments/25692229154961)
 
  
 
 - When you click the funnel icon at the right-hand side, you can define additional parameters such as users, segments on ticket level and the inbox.
 
-![ticket stats - define parameters](https://support.focus.teamleader.eu/hc/article_attachments/25692206951441)
+![Teamleader Focus dashboard filters for users, segments, and inboxes with ticket statistics.](https://support.focus.teamleader.eu/hc/article_attachments/25692206951441)
 
  
 

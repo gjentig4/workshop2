@@ -3,10 +3,131 @@
 import { useState, ReactNode } from "react";
 import ReactMarkdown from "react-markdown";
 import { cn } from "@/lib/utils";
-import { Message } from "@/types";
+import { Message, ToolCall } from "@/types";
 import * as LucideIcons from "lucide-react";
 
-const { User, Bot, Wrench, Settings, Brain, ChevronDown, ChevronRight } = LucideIcons;
+const { User, Bot, Wrench, Settings, Brain, ChevronDown, ChevronRight, Search, Building2, UserPlus, Handshake } = LucideIcons;
+
+// Tool categories for color coding
+const BACKGROUND_TOOLS = ["searchCustomer", "get_current_datetime", "get_weather"];
+const ACTION_TOOLS = ["createDeal", "createCompany", "createContact"];
+
+// Tool-specific styling
+function getToolStyle(toolName: string): { 
+  bgClass: string; 
+  borderClass: string; 
+  textClass: string; 
+  icon: LucideIcons.LucideIcon;
+  label: string;
+} {
+  switch (toolName) {
+    case "searchCustomer":
+      return { 
+        bgClass: "bg-zinc-800/50", 
+        borderClass: "border-zinc-700", 
+        textClass: "text-zinc-400",
+        icon: Search,
+        label: "Search Customer"
+      };
+    case "createDeal":
+      return { 
+        bgClass: "bg-emerald-950/30", 
+        borderClass: "border-emerald-800/50", 
+        textClass: "text-emerald-400",
+        icon: Handshake,
+        label: "+ Create Deal"
+      };
+    case "createCompany":
+      return { 
+        bgClass: "bg-blue-950/30", 
+        borderClass: "border-blue-800/50", 
+        textClass: "text-blue-400",
+        icon: Building2,
+        label: "+ Create Company"
+      };
+    case "createContact":
+      return { 
+        bgClass: "bg-violet-950/30", 
+        borderClass: "border-violet-800/50", 
+        textClass: "text-violet-400",
+        icon: UserPlus,
+        label: "+ Create Contact"
+      };
+    default:
+      return { 
+        bgClass: "bg-purple-950/30", 
+        borderClass: "border-purple-800/50", 
+        textClass: "text-purple-400",
+        icon: Wrench,
+        label: toolName
+      };
+  }
+}
+
+// Collapsible tool call display
+function ToolCallDisplay({ tool }: { tool: ToolCall }) {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const style = getToolStyle(tool.name);
+  const isBackgroundTool = BACKGROUND_TOOLS.includes(tool.name);
+  const isActionTool = ACTION_TOOLS.includes(tool.name);
+  const IconComponent = style.icon;
+
+  return (
+    <div className={cn(
+      "rounded-lg border text-sm font-mono overflow-hidden",
+      style.bgClass,
+      style.borderClass
+    )}>
+      {/* Tool Header - Always visible, clickable */}
+      <button
+        onClick={() => setIsExpanded(!isExpanded)}
+        className={cn(
+          "w-full flex items-center gap-2 p-2 hover:bg-white/5 transition-colors",
+          style.textClass
+        )}
+      >
+        {isExpanded ? (
+          <ChevronDown className="w-3 h-3 shrink-0" />
+        ) : (
+          <ChevronRight className="w-3 h-3 shrink-0" />
+        )}
+        <IconComponent className="w-4 h-4 shrink-0" />
+        <span className={cn(
+          "font-semibold",
+          isActionTool && "text-sm"
+        )}>
+          {style.label}
+        </span>
+        {isBackgroundTool && (
+          <span className="text-xs text-zinc-500 ml-auto">(background)</span>
+        )}
+        {isActionTool && (
+          <span className="text-xs opacity-60 ml-auto">click to expand</span>
+        )}
+      </button>
+
+      {/* Expandable Content */}
+      {isExpanded && (
+        <div className="px-3 pb-3 space-y-2 border-t border-white/5">
+          <div className="pt-2">
+            <span className="text-zinc-500 text-xs uppercase tracking-wide">Input:</span>
+            <pre className="text-zinc-400 text-xs mt-1 overflow-auto max-h-32 bg-zinc-900/50 p-2 rounded">
+              {JSON.stringify(tool.arguments, null, 2)}
+            </pre>
+          </div>
+          {tool.result !== undefined && (
+            <div>
+              <span className="text-green-500 text-xs uppercase tracking-wide">Result:</span>
+              <pre className="text-green-400/80 text-xs mt-1 overflow-auto max-h-48 bg-green-950/20 p-2 rounded border border-green-900/30">
+                {JSON.stringify(tool.result, null, 2)}
+              </pre>
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
 
 // Icon map for commonly used icons in learning mode responses
 const ICON_MAP: Record<string, LucideIcons.LucideIcon> = {
@@ -305,31 +426,7 @@ export function MessageBubble({ message, showMetadata = false }: MessageBubblePr
         {message.metadata?.toolCalls && message.metadata.toolCalls.length > 0 && (
           <div className="mt-3 space-y-2">
             {message.metadata.toolCalls.map((tool) => (
-              <div
-                key={tool.id}
-                className="bg-zinc-800/50 rounded-lg p-3 text-sm font-mono"
-              >
-                <div className="flex items-center gap-2 text-purple-400 mb-2">
-                  <Wrench className="w-3 h-3" />
-                  <span className="font-semibold">{tool.name}</span>
-                </div>
-                <div className="space-y-2">
-                  <div>
-                    <span className="text-zinc-500 text-xs uppercase tracking-wide">Input:</span>
-                    <pre className="text-zinc-400 text-xs mt-1 overflow-auto max-h-32 bg-zinc-900/50 p-2 rounded">
-                      {JSON.stringify(tool.arguments, null, 2)}
-                    </pre>
-                  </div>
-                  {tool.result !== undefined && (
-                    <div>
-                      <span className="text-green-500 text-xs uppercase tracking-wide">Result:</span>
-                      <pre className="text-green-400/80 text-xs mt-1 overflow-auto max-h-48 bg-green-950/20 p-2 rounded border border-green-900/30">
-                        {JSON.stringify(tool.result, null, 2)}
-                      </pre>
-                    </div>
-                  )}
-                </div>
-              </div>
+              <ToolCallDisplay key={tool.id} tool={tool} />
             ))}
           </div>
         )}

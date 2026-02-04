@@ -10,11 +10,11 @@ section: "Troubleshooting"
 
 # FAQ: How can I unblock my device in the browser settings?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694747724305)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When you click on ‘Cam off ' and/or 'Mic off' to start sharing your video and audio, a notification appears in the top left or right corner of the browser.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694755966353)
+![Error banner indicating a camera connection failure due to browser permission settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694755966353)
 
 If you closed the notification, follow the following step to allow the Lead capture Booster to use your camera and microphone:
 
@@ -25,4 +25,4 @@ If you closed the notification, follow the following step to allow the Lead capt
 - 
 Refresh the page
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694771168913)
+![Browser permission settings for camera and microphone access in Teamleader Focus meeting rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25694771168913)

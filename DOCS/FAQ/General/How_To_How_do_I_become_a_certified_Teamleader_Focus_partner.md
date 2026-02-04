@@ -10,7 +10,7 @@ section: "General"
 
 # How To: How do I become a certified Teamleader Focus partner?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691104046481)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

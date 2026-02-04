@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Creating Gantt charts in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693025771793)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 ****
 
@@ -26,7 +26,7 @@ To create a Gantt chart:
 
 - Go to 'Progress'
 
-- Click on **Gantt chart ****![](https://support.focus.teamleader.eu/hc/article_attachments/25693013968273)**
+- Click on **Gantt chart ****![A project timeline visualization showing 'Phase 1' and a link to the Gantt chart.](https://support.focus.teamleader.eu/hc/article_attachments/25693013968273)**
 
 - A .png file will be generated showing you an overview of:
 
@@ -46,7 +46,7 @@ the start date of the project 
 
 - green bar = finished tasks
 
-- red bar = open but overdue tasks![](https://support.focus.teamleader.eu/hc/article_attachments/25693034304273)
+- red bar = open but overdue tasks![A project timeline view in Teamleader Focus showing phases, tasks, and milestones.](https://support.focus.teamleader.eu/hc/article_attachments/25693034304273)
 
 If you’d like to know more about the remaining time and how much time you should still have in an ideal scenario, you can always have a look at a burndown.
 

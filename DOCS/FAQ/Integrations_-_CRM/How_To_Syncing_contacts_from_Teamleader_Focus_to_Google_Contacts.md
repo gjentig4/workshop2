@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: Syncing contacts from Teamleader Focus to Google Contacts
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690895401489)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ To be able to use the synchronisation, you have to have export rights activated 
 
 - Log in with your Google account and authorize access to the services which are required
 
-- Now click on the **slider** next to “Google Contacts”![](https://support.focus.teamleader.eu/hc/article_attachments/25690863046929)
+- Now click on the **slider** next to “Google Contacts”![Google integration settings in Teamleader Focus showing Google Contacts sync enabled.](https://support.focus.teamleader.eu/hc/article_attachments/25690863046929)
 Note that you also get the opportunity to synchronise “Google Agenda".
  
 
@@ -47,4 +47,4 @@ Note that you also get the opportunity to synchronise “Google Agenda".
 
 - It's not possible to initiate the synchronisation of contacts. This synchronisation will automatically take place every hour.
 
-- During the initial synchronisation only 10 000 contacts can be synced. If you want to synchronise more contacts, you'll first have to[ create a segment ](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus)of less than 10 000 contacts and indicate that segment to be synced first.![](https://support.focus.teamleader.eu/hc/article_attachments/25690886653841)After the first sync you can change the sync to 'all contacts'.
+- During the initial synchronisation only 10 000 contacts can be synced. If you want to synchronise more contacts, you'll first have to[ create a segment ](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus)of less than 10 000 contacts and indicate that segment to be synced first.![Google Contacts synchronization settings showing segment selection](https://support.focus.teamleader.eu/hc/article_attachments/25690886653841)After the first sync you can change the sync to 'all contacts'.

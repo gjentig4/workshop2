@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: How can I reinvite my employee to Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697824290833)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 What if you’ve invited users to your Teamleader Focus account but they did not accept the invitation in time and the link expired? Or what if your employee did not receive his or her invite? Follow the steps below to discover how to send your user invite again.
 
@@ -25,4 +25,4 @@ The invite link will be **valid for seven days**. If the link expires, an admin 
 - Change the view to ‘Invited’ users.
 
 - Click on the envelope next to the trash bin to resend the invitation to your employee. This invite link will remain valid for seven days as well.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697810907153)
+![The Users management overview in Teamleader Focus showing the 'Invited' users tab.](https://support.focus.teamleader.eu/hc/article_attachments/25690665216273)

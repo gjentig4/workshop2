@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # FAQ: What if my meeting room doesn't work at all?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695188113809)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 - Are you using Chrome? You can clear your cache in Chrome following [these steps](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en).
 

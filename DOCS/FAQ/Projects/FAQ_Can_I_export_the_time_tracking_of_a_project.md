@@ -10,7 +10,7 @@ section: "Projects"
 
 # FAQ: Can I export the time tracking of a project?
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/37214393391889) 
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089) 
 
 ***This article describes functionality of our new project module. This module is being rolled out gradually, so it is possible you do not have access to the features described here yet. If that is the case, *[*you can still find documentation on the previous project module here.*](https://support.focus.teamleader.eu/hc/en-150/sections/25690691571089) 
 
@@ -24,7 +24,7 @@ There are **five ways** to export the time tracking of a project:
 # 1. **Export timesheet (PDF and Excel)**
 
 Click on the **three dots **in the header of your project and choose **Export timesheet:**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/37214384329233)**
+**![Project actions dropdown menu with 'Export timesheet' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/37214384329233)**
 
  
 
@@ -53,7 +53,7 @@ Click on the **three dots **in the header of your project and choose **Download 
 
 Choose the group (or all groups) you want to download a report of, and what to include in the report. Make sure 'Time tracking details' is enabled:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37214393393937)
+![The 'Generate report' dialog box in Teamleader Focus for project or time tracking reporting.](https://support.focus.teamleader.eu/hc/article_attachments/37214393393937)
 This PDF report contains both the title of the task and the description of the time tracking. 
 
  

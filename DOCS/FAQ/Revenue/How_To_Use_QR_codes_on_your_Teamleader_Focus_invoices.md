@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Use QR codes on your Teamleader Focus invoices
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695260068881)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -26,7 +26,7 @@ Teamleader Focus supports SEPA QR codes meaning that this is a QR code you can p
 
 An example of a QR code:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695288807057)
+![QR code with a lightning bolt logo in the center for mobile app pairing or authentication.](https://support.focus.teamleader.eu/hc/article_attachments/25695288807057)
 
  
 
@@ -57,7 +57,7 @@ The QR code will be generated with the (financial) information we got from you:
 - The bank account number you filled out in** Settings > Company information > Payment information**:
 *Note: if your payment information isn't filled out, we won't be able to generate a QR code.*
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695226362129)**
+**![The Payment information step in the 'Fill in company information' setup wizard in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695226362129)**
 
 - The amount incl. VAT that your customer has to pay
 
@@ -84,7 +84,7 @@ To put a SEPA QR code on your invoice, follow these steps:
     - 
       You can choose between the following shortcodes, depending on if you
       want to have a QR code with or without instructions:
-      ![](https://support.focus.teamleader.eu/hc/article_attachments/25695260203281)
+      ![Shortcodes for adding SEPA payment QR codes to document templates in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695260203281)
     
 
     - 
@@ -106,7 +106,7 @@ To put a SEPA QR code on your invoice, follow these steps:
     - 
       Depending on the shortcode you chose and where you placed it, the final
       document will look something like this:
-      ![](https://support.focus.teamleader.eu/hc/article_attachments/25695260244113)
+      ![Example of a Teamleader Focus invoice document showing line items, VAT calculation, and a QR code.](https://support.focus.teamleader.eu/hc/article_attachments/25695260244113)
     
 
     - That’s it, now go and get paid!

@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Project templates in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/27877954246929)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -54,7 +54,7 @@ First of all, to be able to *create *project templates you need to:
 - Be an [admin user](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin) or;
 
 - As a non-admin, have admin access to projects
-![](https://support.focus.teamleader.eu/hc/article_attachments/27888629750801)
+![Project access level settings in Teamleader Focus user permissions](https://support.focus.teamleader.eu/hc/article_attachments/27888629750801)
 
  
 
@@ -72,16 +72,16 @@ To create a project template, follow these steps:
 **Close **it
 
 - Go to the **three dots **in the project header and choose **Mark as template**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27888632837777)**
+**![The project actions dropdown menu in Teamleader Focus with 'Mark as template' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/27888632837777)**
 
  
 
 - Specify what should be taken over from the template
-![](https://support.focus.teamleader.eu/hc/article_attachments/27888632840977)
+![The 'Mark as template' dialog box for creating project templates in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27888632840977)
 Notes
 
 **Budgets**: if you choose to take over budgets as well, know that if you create a new project out of a template and you then increase or decrease the budget of the project/group, you’ll receive a warning like this one where you can choose to proportionally increase or decrease the budgets in your project lines, or choose to keep the current values:
-![](https://support.focus.teamleader.eu/hc/article_attachments/27888632848017)
+![A dialog box to update budgets of project lines proportionally after a project budget increase.](https://support.focus.teamleader.eu/hc/article_attachments/27888632848017)
 
 - 
 **Meetings**: only the meeting placeholder will be copied, and not the meeting itself.
@@ -97,10 +97,10 @@ Notes
 - 
 **Save **the template.
 
-There’ll be a label ‘Template’ next to the project title ![](https://support.focus.teamleader.eu/hc/article_attachments/27888629768721)
+There’ll be a label ‘Template’ next to the project title ![Project template header showing owners and auto-assigned assignees](https://support.focus.teamleader.eu/hc/article_attachments/27888629768721)
 
 - Also in the project overview you’ll see the above label, and admin users + users with admin access to projects can find their templates back by going to the project overview and filtering on Project status > ’Template':
-![](https://support.focus.teamleader.eu/hc/article_attachments/33173617472785) 
+![The filtering interface in Teamleader Focus showing a project status filter set to 'Template'.](https://support.focus.teamleader.eu/hc/article_attachments/33173617472785) 
 
 - All templates can also be found in **Settings** > **Projects** > Project templates.
 
@@ -109,7 +109,7 @@ There’ll be a label ‘Template’ next to the project title ![](https://suppo
 # Editing a template
 
 When a project is marked as a template, any changes made to it will be applied to future projects created with this template.
-![](https://support.focus.teamleader.eu/hc/article_attachments/27888629775761)
+![Project template header in Teamleader Focus showing template status and auto-assigned users.](https://support.focus.teamleader.eu/hc/article_attachments/27888629775761)
 
  
 
@@ -142,7 +142,7 @@ You can also add lines from a quotation to a project generated from a template. 
 - In the top right-hand corner, click on the **arrow **next to ‘Create new project’
 
 - Choose **Create from template**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27888629779217)**
+**![The action menu for creating a project from selected quotation lines in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27888629779217)**
 
 - Choose a project template
 

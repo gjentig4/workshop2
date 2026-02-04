@@ -10,7 +10,7 @@ section: "Insights"
 
 # FAQ: Can I export the reports in Insights?
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/32423391701649)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 Teamleader Focus makes it very easy for you to export an Insights report to either Excel, CSV or PDF. Read all about it in this article.
 
  
@@ -40,7 +40,7 @@ Who 
 To be able to export reports, [users must have certain toggles enabled in their user settings:](https://support.focus.teamleader.eu/hc/en-150/articles/25691605666193-FAQ-Why-do-I-not-have-the-same-features-in-my-Teamleader-Focus-account-as-my-colleague)
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37494410202897)![](https://support.focus.teamleader.eu/hc/article_attachments/37494382126225)
+![The Insights module access toggle in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/37494410202897)![General user permissions settings in Teamleader Focus showing calendar and export toggles.](https://support.focus.teamleader.eu/hc/article_attachments/37494382126225)
 
 - Access to Insights via Settings > Users > name of the user
 
@@ -63,7 +63,7 @@ Know that the groups and filters you apply to a report, as well as the columns t
 - 
 Click on **Export to Excel **or if you want to **export to CSV or PDF**, click on the **arrow **next to the button and select the right option:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32449491053329)
+![Export options for the Sales Performance by deal owners report in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/32449491053329)
  
 
 You can also choose **Copy link **if, instead of exporting, you just want to share the URL of this report with another colleague.
@@ -75,7 +75,7 @@ Your choice will be remembered and preselected as the default when exporting ano
 - 
 Your export will be generated and you’ll receive a notification in the bottom of your screen to tell you when the export is ready:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32423844027025)
+![Notification banner stating 'Your export is ready!' with a Download link.](https://support.focus.teamleader.eu/hc/article_attachments/32423844027025)
  
 
 - 

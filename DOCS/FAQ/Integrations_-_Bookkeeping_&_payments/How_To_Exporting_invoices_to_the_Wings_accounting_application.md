@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Exporting invoices to the Wings accounting application
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692475998737)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -41,7 +41,7 @@ Location of the file is "**Wings.ini**":
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692492149137)
+![Settings window in Wings Boekhouding for configuring dossier details and VAT information.](https://support.focus.teamleader.eu/hc/article_attachments/25692492149137)
 
  
 
@@ -49,7 +49,7 @@ The country codes in Teamleader Focus and Wings are often different. For example
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692524164497)
+![Country search dialog in the Wings Boekhouding accounting software integration](https://support.focus.teamleader.eu/hc/article_attachments/25692524164497)
 
  
 
@@ -58,7 +58,7 @@ The country codes in Teamleader Focus and Wings are often different. For example
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692514957713)
+![Payment terms selection window in Wings Boekhouding for Teamleader Focus integration](https://support.focus.teamleader.eu/hc/article_attachments/25692514957713)
 
  
 

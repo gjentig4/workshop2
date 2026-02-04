@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # How To: Benefits of receiving e-invoices in Teamleader Focus instead of your bookkeeping tool
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/32281038466193)*This article explains the benefits of receiving e-invoices in Teamleader Focus, currently available to our Belgian or Luxembourg customers.*
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)*This article explains the benefits of receiving e-invoices in Teamleader Focus, currently available to our Belgian or Luxembourg customers.*
  
 
 The shift to mandatory e-invoicing in the EU is changing how businesses manage their invoices. Instead of using separate bookkeeping software for incoming invoices, managing everything directly in Teamleader Focus is a smarter and more efficient choice. 

@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: How do I link Dropbox to Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692143990673)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -62,7 +62,7 @@ In Teamleader Focus, you will see the widget ‘Files’ in the bottom right han
  
 
 On company and contact pages, you will see a button related to Dropbox 'Sync to Dropbox'. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/36315150555537)
+![The Files widget in Teamleader Focus showing a PDF and a Sync to Dropbox button.](https://support.focus.teamleader.eu/hc/article_attachments/36315150555537)
 By clicking this button, you will sync all folders and files to your Dropbox account, in the Dropbox folder ‘Apps’ > ‘Teamleader CRM’. Here a folder is created for your customer where you can find the files. Note that the sync can take up to one hour.
 
  
@@ -74,7 +74,7 @@ If you do not have any files in a company or contact page but you still click on
 ### Sync files in bulk
 
 It's also possible to sync files in bulk. You can do this by [creating a segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) > selecting it > **actions **> **Sync with Dropbox.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/36315150559249)**
+**![Bulk actions menu in a Teamleader Focus list view, highlighting the 'Sync with Dropbox' option.](https://support.focus.teamleader.eu/hc/article_attachments/36315150559249)**
 
  
 

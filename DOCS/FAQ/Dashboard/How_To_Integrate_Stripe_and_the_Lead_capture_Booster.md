@@ -10,7 +10,7 @@ section: "Dashboard"
 
 # How To: Integrate Stripe and the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694955212945)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 It's possible to add payment options to your meeting types in the Lead capture Booster. This means that customers will have to pay for the meeting before the meeting is booked.
 
@@ -24,7 +24,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311056529)
+![Tutorial banner for Customer Meeting add-ons: Paid Bookings in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27921311056529)
 
  
 
@@ -32,12 +32,12 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
 Go to [**Integrations**](https://meeting.teamleader.eu/integrations/)** **in the Lead capture Booster menu under settings and click on **Stripe**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694985840913)
+![Integrations settings page in the Lead capture Booster showing active and inactive connections.](https://support.focus.teamleader.eu/hc/article_attachments/25694985840913)
 
  
 
 Click on connect. Now a pop-up will open and you will have to log in to your Stripe account or create a new one.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694971563921)
+![The Stripe authorization page for connecting a Stripe account to Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694971563921)
 
  
 
@@ -68,7 +68,7 @@ Add payment terms or a link to your own payment terms page
 
 Click on **Save**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694985907857)
+![Configuration settings for collecting payments when booking a meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694985907857)
 
  
 

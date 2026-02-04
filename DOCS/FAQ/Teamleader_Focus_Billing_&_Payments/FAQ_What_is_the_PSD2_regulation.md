@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # FAQ: What is the PSD2 regulation?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693473585809)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 From September 14th, 2019 onwards there’s a new EU regulation concerning online payments with your credit card. It goes by the name of Payment Services Directive 2 (PSD2). 
 
@@ -73,7 +73,7 @@ What if my payment keeps failing? 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693480849681)
+![Error message dialog stating 'We are unable to authenticate your payment method.'](https://support.focus.teamleader.eu/hc/article_attachments/25693480849681)
 
 If the extra authentication fails then the payment gets declined. You can try it again or use a different credit card or another payment method like SEPA. In the meantime we advise you to contact your bank.
 

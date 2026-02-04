@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Adding new users to your Teamleader Focus account
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690711179921)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -34,7 +34,7 @@ If all three conditions are fulfilled, you can add users by following the next s
 - Click on **Add user **in the top right-hand corner.
 
 - Now you can start adding contact data of your users in the pop-up screen.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690694445073)
+![The 'Invite User' dialog box in Teamleader Focus for adding new team members.](https://support.focus.teamleader.eu/hc/article_attachments/25690694445073)
 **Notes**:
 
 Make sure to use an email for the users that has not yet been used for another user or invitee in your account
@@ -45,7 +45,7 @@ Make sure to use an email for the users that has not yet been used for another u
 
 - Your user will have received an email with the request to accept the invitation.
 The invite link will be valid for seven days. If the link would expire, an admin can always resend the invitation to the invitee. [Read this article for more information on resending your invite.](https://support.focus.teamleader.eu/hc/en-150/articles/25697824849809-FAQ-How-can-I-reinvite-my-employee-to-Teamleader-Focus)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690665216273)
+![The Users management overview in Teamleader Focus showing the 'Invited' users tab.](https://support.focus.teamleader.eu/hc/article_attachments/25690665216273)
 
 - After the invitation has been accepted, the admin who sent the invite will receive a notification email. By default immediately after accepting the invite, the new user will only be able to see certain modules like contacts and companies or the calendar and dashboard ([depending on your Teamleader Focus package](https://support.focus.teamleader.eu/hc/en-150/articles/25697618837009-Features-per-package-GO-MOVE-BOOST)). If access to more modules needs to be granted, an admin of the account should enable the sliders of the modules respectively under **Settings **> **Users **> click on the **user's name** > 'Permissions'.
 

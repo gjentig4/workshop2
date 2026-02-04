@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Connect Formstack with Teamleader Focus (Web2Lead)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691744743185)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ When you create a new form you will see the different fields available on the le
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691768390801)
+![The form builder interface in Teamleader Focus showing a contact form being designed.](https://support.focus.teamleader.eu/hc/article_attachments/25691768390801)
  
 
  

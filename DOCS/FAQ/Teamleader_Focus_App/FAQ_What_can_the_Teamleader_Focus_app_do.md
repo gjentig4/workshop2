@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # FAQ: What can the Teamleader Focus app do?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691087072657)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -116,4 +116,4 @@ Access both your upcoming and your past work orders
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691066906897)
+![Overview of the Teamleader Focus mobile app showing contact details, home agenda, and time tracking.](https://support.focus.teamleader.eu/hc/article_attachments/25691066906897)

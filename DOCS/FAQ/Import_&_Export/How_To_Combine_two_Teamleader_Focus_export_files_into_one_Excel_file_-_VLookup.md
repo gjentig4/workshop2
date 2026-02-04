@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Combine two Teamleader Focus export files into one Excel file - VLookup
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693172475281)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Do you want to combine exports of two different Teamleader Focus modules in one Excel file? If you have** a common column** in both exports, you can put information from the one file into the other one. This requires some magic with the [VLookup function in Excel](https://support.office.com/en-us/article/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1). In this article we will discuss some use cases, the procedure and possible challenges.
 
@@ -56,7 +56,7 @@ You should put your **two Excel files in one Excel work book**.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693180006417)
+![An Excel spreadsheet example for importing company and contact data into Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693180006417)
 
  
 
@@ -64,36 +64,36 @@ You should put your **two Excel files in one Excel work book**.
 
 Go to the contact file or the *first tab*, name a new column after the information of the other tab you want to put there and start typing *=**VLookup. *You will get a drop-down menu, where you need to choose the corresponding function.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693192013585)
+![Excel spreadsheet showing the VLOOKUP (VERT.ZOEKEN) formula being used for company address data.](https://support.focus.teamleader.eu/hc/article_attachments/25693192013585)
 
 Now you will see a formula where you will need to indicate the corresponding values:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693165189265)
+![Spreadsheet view showing the syntax for the Dutch VLOOKUP function (VERT.ZOEKEN).](https://support.focus.teamleader.eu/hc/article_attachments/25693165189265)
 
 - The **lookup value** will be the value of the common column 'Company name' in *tab one* on the same row as where you put your formula. Select the cell and put a dollar sign before the value of the cell, so B2 will become $B2. After selecting this cell, insert a semicolon or colon, as indicated in the formula, to get to the next part.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693192095889)
+![Excel spreadsheet showing a VLOOKUP (VERT.ZOEKEN) formula for data preparation before import.](https://support.focus.teamleader.eu/hc/article_attachments/25693192095889)
 
-- We want to search this value in our *second tab* to be able to fetch the corresponding street and number of that company. This is why we select the whole table of the second tab as the **range containing the return value**. Ctrl+SHIFT+![](https://support.focus.teamleader.eu/hc/article_attachments/25693165386641)+![](https://support.focus.teamleader.eu/hc/article_attachments/25693184986129) on Windows and Cmd+SHIFT+![](https://support.focus.teamleader.eu/hc/article_attachments/25693165386641)+![](https://support.focus.teamleader.eu/hc/article_attachments/25693184986129) on Mac selects your entire table right away if you want to save time.
+- We want to search this value in our *second tab* to be able to fetch the corresponding street and number of that company. This is why we select the whole table of the second tab as the **range containing the return value**. Ctrl+SHIFT+![A purple downward-pointing arrow icon.](https://support.focus.teamleader.eu/hc/article_attachments/25693165386641)+![A right-pointing arrow icon indicating a transition or next step in a process.](https://support.focus.teamleader.eu/hc/article_attachments/25693184986129) on Windows and Cmd+SHIFT+![A purple downward-pointing arrow icon.](https://support.focus.teamleader.eu/hc/article_attachments/25693165386641)+![A right-pointing arrow icon indicating a transition or next step in a process.](https://support.focus.teamleader.eu/hc/article_attachments/25693184986129) on Mac selects your entire table right away if you want to save time.
 
 - Now we return to the *first tab*. You will see that in your formula, the name of the second tab has changed to the name of the first tab. We will have to change 'Contacts' back to 'Companies' manually in this case. Moreover, we will have to put a dollar sign before the column and the row of the table range. This means, A1:F2243 will become $A$1:$F$2243. After selecting the lookup range, insert a semicolon or colon, as indicated in the formula, to get to the next part.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693199033105)
+![Excel VLOOKUP (VERT.ZOEKEN) formula used to link contact and company data for import.](https://support.focus.teamleader.eu/hc/article_attachments/25693199033105)
 
 - To select the return value, we go to our *second tab*, and have a look at in which column the needed information has been put. If the information needed is put in column B, the column number in our formula will be 2. If it is in column c, the number will be 3, and so on. One column number per formula can be put. If you want to fetch information from several columns, you will have to repeat this formula in your first tab. After selecting the **column number with the return value**, insert a semicolon or colon, as indicated in the formula, to get to the next part.
 
 - Specify TRUE for approximate match or FALSE for an **exact match**; normally use cases related to Teamleader Focus will require 'FALSE'. Now you can close the brackets and let the magic work.
 
 Example of what your formula will look like more or less in the end:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693180506257)
+![Excel VLOOKUP (VERT.ZOEKEN) formula example for linking data between sheets during import preparation.](https://support.focus.teamleader.eu/hc/article_attachments/25693180506257)
 
 - To apply this formula to all the other rows, double click on the tiny square of your formula cell:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693172941585)
+![Excel VLOOKUP formula used to link company data for import into Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25693172941585)
 
 - 
 **Optional **
 If you want the return values of more than one column, you can drag the formula to the adjacent cells by clicking the tiny square and releasing it until you have selected as many columns as you want the return values of.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693192507665)
+![Close-up of dragging the fill handle in a spreadsheet to duplicate cell values for data import.](https://support.focus.teamleader.eu/hc/article_attachments/25693192507665)
 You will see however, that all cells now have the same return value. Click on the cell of the second column with a formula and change the column number as described in step 4. Repeat this respectively according to how many columns you want to retrieve information from.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693185216657)
+![Excel VLOOKUP (VERT.ZOEKEN) formula used for data preparation before importing into Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25693185216657)
 
  
 
@@ -107,7 +107,7 @@ If all went well, you can get 3 types of output:
 
 - #N/B: the lookup value (company) has not been found in tab 2
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693180767889)
+![Excel spreadsheet showing a VLOOKUP formula used to link contact data with company addresses.](https://support.focus.teamleader.eu/hc/article_attachments/25693180767889)
 
  
 

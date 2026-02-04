@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # FAQ: Can I copy time tracking?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693874199569)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -37,7 +37,7 @@ To copy a time tracking, follow these steps:
 - Click on the three dots next to a time tracking in your time tracking overview
 
 - Choose **Copy**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693836261521)
+![Time tracking entry in Teamleader Focus with the actions menu open to copy or edit the entry.](https://support.focus.teamleader.eu/hc/article_attachments/25693836261521)
 
 - Change the info of the time tracking where needed
 

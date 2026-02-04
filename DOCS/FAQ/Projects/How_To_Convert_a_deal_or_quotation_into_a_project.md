@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Convert a deal or quotation into a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695664426897)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ To convert your quotation, go to your quotation detail page and click on the arr
 
  
 
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25695680713489)
+    ![Converting a deal to a project or invoice in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691267873681)
   
 
  
@@ -40,7 +40,7 @@ To convert your quotation, go to your quotation detail page and click on the arr
     You get redirected to the following screen in which you can select which
     lines you want to convert to a project:
     
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25695726367249)
+    ![The 'Convert quotation to project' interface showing line item selection and conversion options.](https://support.focus.teamleader.eu/hc/article_attachments/25695726367249)
   
 
  
@@ -50,13 +50,13 @@ To convert your quotation, go to your quotation detail page and click on the arr
 - By default, all articles of your quotation will be tasks in the project, but you can bulk change them to materials here or click on the arrow next to the article.
 *Note: if you selected a product from your product database in your account, or a *[*custom price unit*](https://support.focus.teamleader.eu/hc/en-150/articles/25691458413201-FAQ-How-can-I-add-units-to-my-products)* was selected, automatically it will be suggested to convert the article to a material in the project.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695664589329)
+![Interface for converting a quotation to a project, showing options to change items to tasks or materials.](https://support.focus.teamleader.eu/hc/article_attachments/25695664589329)
 
 - When converting a quotation to a project, **negative lines** on the quotation are carried over as negative materials or groups in the project, following the same rules as positive lines. This ensures that e.g. discounts remain consistent when moving between quotations and projects.
  
 
 Next, click on **Convert to project. **Here, you need to decide if you want to:
-![](https://support.focus.teamleader.eu/hc/article_attachments/34153183112593)
+![The 'Convert to project' dialog box with options to create a new project or use a template.](https://support.focus.teamleader.eu/hc/article_attachments/34153183112593)
  
 
 - **Create new project**
@@ -83,7 +83,7 @@ Choose the second option if you're already working on a project but need to add 
 - First, you choose the project
 
 - Secondly, you’ll be redirected to the following screen in which you need to decide what happens to the project budget:
-**![](https://support.focus.teamleader.eu/hc/article_attachments/29568169170321)**
+**![The 'Add to existing project' dialog box for linking a quotation to a project budget.](https://support.focus.teamleader.eu/hc/article_attachments/29568169170321)**
 
 Based on:
 
@@ -123,7 +123,7 @@ After conversion the following things happened to your project:
 
 - The products of your quotation become tasks/materials (according to what you selected)
 Materials: if defined in the quotation lines, [custom price units of products](https://support.focus.teamleader.eu/hc/en-150/articles/25691458413201-FAQ-How-can-I-add-units-to-my-products) are also taken over
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695726502161)
+![Project planning overview in Teamleader Focus showing the work breakdown structure.](https://support.focus.teamleader.eu/hc/article_attachments/25695726502161)
  
 
 - The project and the deal/quotation will be linked, which means the project will be displayed within the deal and the quotation, and the deal and quotation will be displayed within the project.
@@ -152,7 +152,7 @@ Afterwards, you can find the linked project in the follow-up tab of your quotati
 
  
 
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25695693467409)
+    ![The follow-up tab of a quotation showing linked invoices and projects.](https://support.focus.teamleader.eu/hc/article_attachments/25691295456145)
   
 
  
@@ -188,7 +188,7 @@ As stated above, your deal and your project will be linked when you've created a
 ## Unlink a deal from a project
 
 Easily **unlink** a deal or a quotation from your project by navigating to your project and clicking on the little cross next to the deal or quotation.
-![](https://support.focus.teamleader.eu/hc/article_attachments/41857261283985)
+![Project or task details panel showing owners, assignees, customers, and linked deals.](https://support.focus.teamleader.eu/hc/article_attachments/41857261283985)
 
  
 

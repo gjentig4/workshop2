@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Using the contact widget in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695380730385)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When you have your own website, you want your leads or customers to get in touch with you as smoothly as possible. With the contact widget in the Lead capture Booster you can let your visitors schedule a time in your calendar that suits them best, fill in a contact form or direct them to your waiting room.
 
@@ -38,7 +38,7 @@ It's not needed to embed an entire booking page, contact form or hyperlink in yo
 
 # 1. Create a new contact widget
 
-To create a contact widget, go to[ Contact widgets](https://meeting.teamleader.eu/contact-widgets/) in the sidebar. When it's the first time you create a contact widget, you will arrive on the information page. Click on **Get started** to continue.![](https://support.focus.teamleader.eu/hc/article_attachments/25695392825489)
+To create a contact widget, go to[ Contact widgets](https://meeting.teamleader.eu/contact-widgets/) in the sidebar. When it's the first time you create a contact widget, you will arrive on the information page. Click on **Get started** to continue.![Onboarding screen for creating contact widgets in the Lead Capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25695392825489)
 
  
 
@@ -50,7 +50,7 @@ The creation of a contact widget consists of 4 parts:
 
 - Link the contact type
 
-- Save the contact widget![](https://support.focus.teamleader.eu/hc/article_attachments/25695407891345)
+- Save the contact widget![Configuration screen for creating a custom contact widget button for a website.](https://support.focus.teamleader.eu/hc/article_attachments/25695407891345)
 
  
 
@@ -63,30 +63,30 @@ By default the contact widget will have the standard Lead capture Booster colour
 
 You can change both the** Button color and Button** **text color** by filling in a hex color code or by clicking the box and selecting a colour manually.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695380923281)
+![Customizing the appearance of a 'Book a meeting' button with a color picker.](https://support.focus.teamleader.eu/hc/article_attachments/25695380923281)
 
  
 
 You can change the **Button text** to a custom text of max 30 characters. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695366350993)
+![A form field for entering button text with a character counter.](https://support.focus.teamleader.eu/hc/article_attachments/25695366350993)
 
 Next to colours and text, every contact widget can consist of an **Icon**. You can choose to deactivate the icon, use the default icon or upload a custom icon.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695366390673)
+![The icon upload setting in Teamleader Focus with a toggle switch and upload button.](https://support.focus.teamleader.eu/hc/article_attachments/25695366390673)
 
 - Click on the slider to deactivate the icon, click again to activate the icon.
 
-- Click on '**Upload icon ...**' and select your own logo or icon to customise it. The file must be JPG or PNG!  ![](https://support.focus.teamleader.eu/hc/article_attachments/25695350908177)
+- Click on '**Upload icon ...**' and select your own logo or icon to customise it. The file must be JPG or PNG!  ![The icon settings section in Teamleader Focus with a toggle switch and image upload option.](https://support.focus.teamleader.eu/hc/article_attachments/25695350908177)
 
 - Click on **Clear icon** to remove the custom icon.
 
  
 
 All the changes are immediately visible in the preview on the right side:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695366513681)
+![Interface for designing a custom button with color, text, and icon options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695366513681)
 
 * *
 
@@ -98,7 +98,7 @@ When setting the button behaviour, you define what needs to happen when a client
 
 - Open in a new browser tab
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695379264017)
+![Configuration options for 'Set button behaviour' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695379264017)
 
 ## 1.3 Link contact type
 
@@ -106,19 +106,19 @@ When setting the button behaviour, you define what needs to happen when a client
 
 In this step you select which contact type will be behind the button. This can be a **meeting type, a contact form or a waiting room.**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695366650769)
+![Selection screen to link a contact type, showing options for Meeting type, Contact form, or Waiting room.](https://support.focus.teamleader.eu/hc/article_attachments/25695366650769)
 
 ### Meeting type
 
 You can select which booking page or meeting type is linked to the specific widget. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695379360657)
+![Selection screen to link a contact type, showing options for Meeting type, Contact form, or Waiting room.](https://support.focus.teamleader.eu/hc/article_attachments/25695366650769)
 
  
 
 In order to make this possible, your calendar needs to be connected. If your calendar is not connected, you will see a button '**Connect your calendar**'. Click on it and connect your calendar to continue.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695381273617)
+![Warning message in Teamleader Focus indicating a calendar must be connected to use booking pages.](https://support.focus.teamleader.eu/hc/article_attachments/25695381273617)
 
  
 
@@ -130,13 +130,13 @@ If your calendar is connected you’re able to select: 
 
 - Team and personal meeting types
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695381325969)
+![A list of booking pages in Teamleader Focus including team and individual options.](https://support.focus.teamleader.eu/hc/article_attachments/25695381325969)
 
  
 
 Click on the booking page or meeting type that you want the contact widget to link to. This will be visible in the field.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695408459665)
+![The 'Link booking page' dropdown menu in Teamleader Focus with 'John Doe's booking page' selected.](https://support.focus.teamleader.eu/hc/article_attachments/25695408459665)
 
 ###  
 
@@ -148,13 +148,13 @@ Select it here or create one if you haven't already. If you [create a new contac
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695379553169)
+![The 'Link contact type' selection screen in Teamleader Focus showing the 'Contact form' option selected.](https://support.focus.teamleader.eu/hc/article_attachments/25695379553169)
 
 ### Waiting room
 
 When you select Waiting room you can choose to send leads/clients to your team waiting room (if active in [the team settings](https://meeting.teamleader.eu/team/settings/)) or a personal waiting room of one your team members.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695366960657)
+![Selection interface for linking a contact type, with 'Waiting room' selected.](https://support.focus.teamleader.eu/hc/article_attachments/25695366960657)
 
  
 
@@ -170,12 +170,12 @@ On the contact widget page, you'll now see an overview of all your contact widge
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695351494417)
+![Header for the Contact widgets section with a 'Create a widget' button](https://support.focus.teamleader.eu/hc/article_attachments/25695351494417)
 
  
 
 When you have created a second widget, all the Widgets will be shown below each other:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695351568273)
+![Overview of the Contact widgets page in Teamleader Focus showing created widgets and embed codes.](https://support.focus.teamleader.eu/hc/article_attachments/25695351568273)
 
  
 
@@ -184,12 +184,12 @@ You are now able to **Delete** and **Edit the widgets.** Or **Copy the code **a
  
 
 To **delete a widget,** click on the bin icon in the top right-hand corner of a widget. Confirm by clicking on **Delete** in the pop-up.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695379742225)
+![Preview of a 'Contact us' web2lead form configuration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695379742225)
 
  
 
 Click on the pencil icon to **edit** a contact widget. Once you have made the changes, click on Update to save all the changes. The changes will be visible in the overview page.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695379807249)
+![Preview of a 'Contact us' web2lead form configuration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695379742225)
 
  
 
@@ -199,7 +199,7 @@ Click on the pencil icon to **edit** a contact widget. Once you have made the ch
 
 Now it's time to embed the widget in your website. For every widget you can see the code, which you can either **send to your webmaster or copy and embed it in your website yourself**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695351789969)
+![Teamleader Focus website footer and call-to-action section for more information.](https://support.focus.teamleader.eu/hc/article_attachments/25695351789969)
 
  
 

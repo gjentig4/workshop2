@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Manage your project budget in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/38499801835665)*This article describes functionality of our new project module. This module is being rolled out gradually, so it is possible you do not have access to the features described here yet. If that is the case, *[*you can still find documentation on the previous project module here.*](https://support.focus.teamleader.eu/hc/en-150/sections/25690691571089)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)*This article describes functionality of our new project module. This module is being rolled out gradually, so it is possible you do not have access to the features described here yet. If that is the case, *[*you can still find documentation on the previous project module here.*](https://support.focus.teamleader.eu/hc/en-150/sections/25690691571089)
 Managing project budgets can be complex, but with the right tools you gain more visibility, flexibility, and control. From tracking what’s left in your budget to monitoring project health and preventing overspending, you’ll always know where your finances stand. Read all about managing your project budget in Teamleader Focus here.
 
  
@@ -64,7 +64,7 @@ Simply navigate to a project and click on the tab ‘Project info’. 
 In ‘Project health’, you’ll find an overview of the following financial & time indicators:
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/38499801836817)
+![Project health dashboard showing budget, time, unbilled amounts, margin, and pending work metrics.](https://support.focus.teamleader.eu/hc/article_attachments/38499801836817)
 
 - Budget remaining
 
@@ -101,7 +101,7 @@ Top-down budget management lets you decide whether group budgets or item (tasks/
 ## **Example**
 
 Let’s say your project budget is €1000, and the budget of your first group is €500. Now you add a task to this group with a budget of €1500. At this point, you’ll see the following message:
-![](https://support.focus.teamleader.eu/hc/article_attachments/39286687207441)
+![A dialog box titled 'Update the budget' for managing project and group budget preferences.](https://support.focus.teamleader.eu/hc/article_attachments/39286687207441)
  
 
 *“We noticed some budgets are not set yet. Do you want to update them?”*
@@ -123,7 +123,7 @@ If you save your choice, it will also apply to future changes. You can always ad
  
 
 Going back to our example: if you check both boxes, the project budget and the group budget will both increase to €1500. If you then add another task in the same group for €200, both budgets will again increase to €1700. You’ll be notified each time this happens.
-![](https://support.focus.teamleader.eu/hc/article_attachments/38499801840657)
+![Financials section in Teamleader Focus with billing method set to User rate and a €200 budget.](https://support.focus.teamleader.eu/hc/article_attachments/38499801840657)
 
  
 

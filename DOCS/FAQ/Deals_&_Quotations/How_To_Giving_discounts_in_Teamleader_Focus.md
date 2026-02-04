@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Giving discounts in Teamleader Focus
 
-# ![](https://support.focus.teamleader.eu/hc/article_attachments/25690787146897)
+# ![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -74,10 +74,10 @@ If a discount occurs more often, Teamleader Focus has the option to specify a di
 - Click on the item line in question.
 
 - The option **+Add discount **will appear under the line
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690749259281)
+![Line item editor in Teamleader Focus showing description, price, quantity, and margin fields.](https://support.focus.teamleader.eu/hc/article_attachments/25690749259281)
 
 - If you click on **+Add discount** a new window will open in which you can define the discount (percentage), as can be seen below. It's also possible to fill out the discounted price immediately and then the discount (percentage) will be calculated automatically.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690776450705)
+![Calculation of a discounted price for a line item showing price, discount percentage, and total.](https://support.focus.teamleader.eu/hc/article_attachments/25690776450705)
 
 - Click “**Confirm**" and you will notice that your discount has been added under the item line. In your quotation or invoice editor the discount will be deducted immediately from the values 'Total excl. VAT', 'VAT %' and 'Total incl. VAT'.
 
@@ -90,7 +90,7 @@ If a discount occurs more often, Teamleader Focus has the option to specify a di
 In addition to the general discount and the percentage line, it might also happen that you do not want to give a percentage discount but a fixed amount of money. You can do this by adding a negative line to the invoice and specifying the discount in the description. The negative line isn’t a percentage, but equals the amount of the discount.
 *! Don't forget to also apply the same VAT rate you used on the product line to the negative line.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690749318673)
+![Adding line items and discounts to a quotation in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690749318673)
 
 # [Price lists](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691973505809)
 

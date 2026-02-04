@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: Can I plan over multiple days in the project planning?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692142092433)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 **When you create a task for a project in Teamleader Focus, you can plan this task right away using drag and drop in the project planning module. But what if a task takes longer than one day to complete? This article explains it.**
 
@@ -20,7 +20,7 @@ section: "Old projects"
 
 3. You will now see a task list of all tasks linked to this project on the right-hand side
 
-![project planning - plan task](https://support.focus.teamleader.eu/hc/article_attachments/25692123949201)
+![Project planning timeline view in Teamleader Focus showing task scheduling and resource allocation.](https://support.focus.teamleader.eu/hc/article_attachments/25692123949201)
 
 If you then click on the task and drag it to the planning overview, you'll see several green frames for each available time slot per person.
 
@@ -28,7 +28,7 @@ If you then click on the task and drag it to the planning overview, you'll see s
 
 5. Next, drop the task in one of those blocks and you'll see the following screen:
 
-![project planning multiple days](https://support.focus.teamleader.eu/hc/article_attachments/25692091281041)
+![The 'Plan task' pop-up window in the Teamleader Focus Planning module.](https://support.focus.teamleader.eu/hc/article_attachments/25692091281041)
 
 As you can see on the screenshot, 12h still need to be planned in for this task, but there are only 8 hours available that day. In this case, Teamleader Focus will plan the extra hours in the next available slot of your / your co-worker's schedule.
 

@@ -10,7 +10,7 @@ section: "Dashboard"
 
 # FAQ: Can I change the layout of my meeting and invite emails?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694962614929)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The Lead capture Booster offers customizing options for meeting rooms and scheduling. To customize the layout of your emails, you will need to write custom HTML code that will be used as a template for all your emails. The Lead capture Booster provides a preview so you can check whether the layout shows well.
 
@@ -56,7 +56,7 @@ The HTML template must contain **a body and the {content}** **tag**. This tag wi
 
 If the body or the {content} tag is not present, you won't be able to save the page and see an error message.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694962661265)
+![Validation error for a custom email HTML template field in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694962661265)
 
 ## Important remarks
 
@@ -68,8 +68,8 @@ If the body or the {content} tag is not present, you won't be able to save the p
 
 By default, all emails sent by the Lead capture Booster look similar. Below you can find an example of the confirmation mail that a host receives when a guest books a meeting:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694962716049)
+![Email confirmation for a booked meeting via the Teamleader Focus scheduling tool.](https://support.focus.teamleader.eu/hc/article_attachments/25694962716049)
 
 Customizing the email template can give a very different result, for example:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694978131985)
+![Email notification for a booked meeting via Teamleader Focus Lead Capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25694978131985)

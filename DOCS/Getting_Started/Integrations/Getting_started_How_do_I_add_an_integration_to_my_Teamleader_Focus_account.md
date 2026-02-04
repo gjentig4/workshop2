@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: How do I add an integration to my Teamleader Focus account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 
@@ -56,7 +56,7 @@ Some types of integrations require **admin rights** in Teamleader Focus in order
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691002102033)
+![Exact Online integration page showing an administrator rights error message.](https://support.focus.teamleader.eu/hc/article_attachments/25691002102033)
 
 These are the types of integrations that require admin rights:
 

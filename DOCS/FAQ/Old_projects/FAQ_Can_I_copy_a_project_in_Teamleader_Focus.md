@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: Can I copy a project in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691234055697)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You cannot directly copy a project but you can save a project as template.
 
@@ -34,13 +34,13 @@ Important notes:
 
 ## How can I use a project template?
 
-When you start a new project, you can now select the template you've created.![](https://support.focus.teamleader.eu/hc/article_attachments/25691250347921)
+When you start a new project, you can now select the template you've created.![The 'Add Project' dialog box in Teamleader Focus showing project details and template selection.](https://support.focus.teamleader.eu/hc/article_attachments/25691250347921)
 
 ### What will be copied from the template to the new project?
 
 - The names of the phases
 
-- The time frame of the phases. That means that the time in between and corresponding dependencies will be copied. After you've chosen a start date or an end-date, the phases will be created accordingly.![](https://support.focus.teamleader.eu/hc/article_attachments/25691234177041)
+- The time frame of the phases. That means that the time in between and corresponding dependencies will be copied. After you've chosen a start date or an end-date, the phases will be created accordingly.![The 'Add Project' dialog in Teamleader Focus showing project template and planning options.](https://support.focus.teamleader.eu/hc/article_attachments/25691234177041)
 
 - Budget distribution on the different phases
 Imagine the total budget of your project is €1000, with the budget of the first phase €400 and the second phase €600. If you create a template of this project and use it to create a new project of for example €400 total budget, the budget distribution on the different phases will also be 40-60. It will be distributed to €160 and €240 in this case.

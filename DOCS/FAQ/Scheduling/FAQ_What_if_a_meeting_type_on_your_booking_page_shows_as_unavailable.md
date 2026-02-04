@@ -10,11 +10,11 @@ section: "Scheduling"
 
 # FAQ: What if a meeting type on your booking page shows as unavailable?
 
-![nnhja8IN0TUJMTH7JHXn2SYqRXo2WMosww.png](https://support.focus.teamleader.eu/hc/article_attachments/36255393368081) 
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089) 
 
 When people visit your booking page but the meeting type is not bookable you will have to check a few things to see what is going wrong. On a personal booking page the meeting type will not be clickable, and on a team meeting type your host card will not be clickable. 
 
-![image (1749).png](https://support.focus.teamleader.eu/hc/article_attachments/34085790917521)# How to fix this issue?
+![Error messages in Teamleader Focus when a meeting type or team member is unavailable for booking.](https://support.focus.teamleader.eu/hc/article_attachments/34085790917521)# How to fix this issue?
 
 There are a few reasons why a booking page is not working:
 

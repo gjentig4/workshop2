@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # FAQ: Why is the number of my contacts in Teamleader Focus not the same as in MailChimp?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Setting an invoicing email in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691077367953)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -24,7 +24,7 @@ Here is how to set or change it:
 
 - Click on your **company** **entity** to expand it and choose **Edit**
 
-- In 'Company details', fill out the field 'Invoicing email'![](https://support.focus.teamleader.eu/hc/article_attachments/25691045009937)
+- In 'Company details', fill out the field 'Invoicing email'![The 'Fill in company information' setup wizard showing the Company details section.](https://support.focus.teamleader.eu/hc/article_attachments/25691045009937)
 
 - Click on **Save and close**
 

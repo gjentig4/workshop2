@@ -10,7 +10,7 @@ section: "Marketeers"
 
 # Teamleader Focus for Marketeers
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692956355345) 
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441) 
 
 This article contains tips, useful links and a potential workflow for working with Teamleader Focus as a marketeer. If you have other questions on how to further align your Teamleader Focus account with your marketing processes, let us know by sending an email to [our support team](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065).
 
@@ -74,7 +74,7 @@ E-mail marketing is still a vital part in most marketing plans. Teamleader Focus
 
 How does this work? In Teamleader Focus, you can easily [segment ](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus)your contacts or companies according to any number of parameters. Whether it be geographical, by deal phase they are in, or by age; these segments can be pushed to your marketing tool for you to send your campaigns. Just activate the slider in the segment settings.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692953711505)
+![The 'Edit segment' dialog in Teamleader Focus showing general info, rules, and Mailchimp export.](https://support.focus.teamleader.eu/hc/article_attachments/25690738199185)
 
  
 
@@ -84,7 +84,7 @@ Afterwards, you can check mailing data such as bounced email addresses, or when 
 
 When a recipient opts out, they are automatically scratched from the list and will no longer receive mails. You can exclude contacts from a segment / mailing list yourself by making sure the ‘Opt-in marketing mails’ is unchecked.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692980997009)
+![The 'Edit contact' form in Teamleader Focus highlighting the 'Opt-in marketing mails' toggle.](https://support.focus.teamleader.eu/hc/article_attachments/25692980997009)
 
 Find more info the Mailchimp and Campaign Monitor integrations via these links:
 
@@ -118,7 +118,7 @@ A tag might be ‘Hot lead’, for example, or when you’ve organised an event,
 
 If you need to add tags in bulk to entire segment in your CRM, you can do so via the ‘Actions’ button, which will appear as soon as a segment is created. Do note you need [admin rights](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin) for this.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692942615697)
+![The 'Actions' dropdown menu in the Teamleader Focus contacts list view.](https://support.focus.teamleader.eu/hc/article_attachments/25692942615697)
 
  
 
@@ -136,7 +136,7 @@ When adding deals, the standard fields you can fill in might not suffice for you
 
 In a production company, for example, deals may require a different focus according to the type of product. Create a dropdown list, add all products so you can select these when creating a deal.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692953853073)
+![The 'Add Deal' dialog in Teamleader Focus with a dropdown menu open for 'Type of product'.](https://support.focus.teamleader.eu/hc/article_attachments/25692953853073)
  
 
 **Do you have special tips you'd like to share with us? Just send a mail to **[**our support team**](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065)**.**

@@ -10,7 +10,7 @@ section: "Customer Service"
 
 # Teamleader Focus for Customer Service
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692894020625)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -60,7 +60,7 @@ In short, your CRM contains all the information you need about a customer.
 
 Your activities show all previous contact moments with a person, but if you have questions for a colleague, just involve them by using the @-sign in the notifications box and typing their name. They'll receive a mail with the question you fill in here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692862605329)
+![Adding a note in Teamleader Focus activities using the @mention feature to tag a colleague.](https://support.focus.teamleader.eu/hc/article_attachments/25692862605329)
 
  
 
@@ -113,7 +113,7 @@ Other things that you can do with this module are:
 
 - Write **internal notes** within the tickets to communicate something to a colleague. If needed, you can set ‘Internal note’ as default rather than the direct answer:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692930628497)
+![The Activity section in a Teamleader Focus ticket showing the Internal Note tab.](https://support.focus.teamleader.eu/hc/article_attachments/25692930628497)
 
 - If you want someone external to reply to the ticket, enable the ‘[third party](https://support.focus.teamleader.eu/hc/en-150/articles/25691629558801-How-To-Forwarding-a-ticket-to-a-third-party)’ feature. This will allow you to forward the ticket to a third party in your CRM.
 
@@ -139,7 +139,7 @@ If you plan on invoicing your support efforts, you may want to track time on tic
 
 You'll have to [Create a task](https://support.focus.teamleader.eu/hc/en-150/articles/25691951764497-FAQ-How-do-I-add-a-task-in-Teamleader-Focus) linked to the tickets. At the bottom of the ticket page you will find a + button that allows you to create a task for a colleague or yourself. You can track time by finishing these tasks. The registered time will appear on top of the ticket page.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692901622417)
+![Header of a support ticket in Teamleader Focus showing status, client, and timetracking.](https://support.focus.teamleader.eu/hc/article_attachments/25692901622417)
 
  
 
@@ -148,7 +148,7 @@ You'll have to [Create a task](https://support.focus.teamleader.eu/hc/en-150/art
  
 
 Under [Insights > Shared inbox](https://support.focus.teamleader.eu/hc/en-150/articles/25692224156305-FAQ-What-information-do-the-shared-inbox-stats-provide), you will find a wide range of ticket stats that will help you fully understand what the customer service performance of your company is.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692901655441)
+![The ticketing statistics navigation menu and the 'Created vs closed' report view in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692901655441)
 
  
 

@@ -10,26 +10,26 @@ section: "Expenses"
 
 # How To: Filter, search and overview in expenses
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/34357262266257)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 After expenses were added to your Teamleader Focus account, you can easily search the information you need or create filters to find the expenses right when you need them. Find out all about it in this article.
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34359581770001)
+![The Expenses module overview showing documents to review and a list of approved incoming invoices.](https://support.focus.teamleader.eu/hc/article_attachments/34359581770001)
 
 After adding your expenses to your account you can scan the files to fetch all information or review the expenses manually. [Find more information about that here.](https://support.focus.teamleader.eu/hc/en-150/articles/34057221210001-How-To-Add-scan-expenses-in-Teamleader-Focus) 
  
 
 [If you have admin rights, ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)you can always delete the expenses from your review queue in bulk, by selecting the box next to the expense and choosing ‘Delete’.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34359581774097)
+![Bulk actions for scanned documents showing 'Scan' and 'Delete' buttons with two items selected.](https://support.focus.teamleader.eu/hc/article_attachments/34359581774097)
 
 In the top right-hand corner of your expenses overview you’ll find a counter displaying [how many free scans there are remaining.](https://support.focus.teamleader.eu/hc/en-150/articles/34057221210001-How-To-Add-scan-expenses-in-Teamleader-Focus)
 
- ![](https://support.focus.teamleader.eu/hc/article_attachments/34359581776657)
+ ![The upload button and free scan counter for business card scanning in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/34359581776657)
 
 There are some **bulk actions on expenses** you can execute, like changing the status of your expenses in bulk, send your expenses to the bookkeeper, mark them as paid or delete them. Select the boxes next to your expenses in your overview and you'll see these options:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/40185879131025)
+![Bulk actions menu for managing multiple incoming invoices and receipts in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/40185879131025)
  
 
 - Mark as approved

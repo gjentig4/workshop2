@@ -10,11 +10,11 @@ section: "Troubleshooting"
 
 # FAQ: What if Share screen isn't working in Safari?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695008865681)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 If you want to share your screen in Safari and get a message like 'You haven't given permission to share a screen. Get help' you can follow the steps in this help article to make it work again!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695033230481)
+![Error message in Teamleader Focus meeting interface regarding screen sharing permissions.](https://support.focus.teamleader.eu/hc/article_attachments/25695033230481)
 
 - Click on Safari and select preferences
 

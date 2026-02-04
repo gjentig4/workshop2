@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Defining custom activity types in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694869173137)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -38,19 +38,19 @@ Add or manage your own custom activity types by following these steps.
 - 
 Click on the **+** to add your own activity types
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694844262033)
+![Activity tracking settings page showing custom activity types like Whatsapp and Virtual meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25694844262033)
 
  
 
 The activity types you create are shown with a new activity type label:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694822449553)
+![The Activities timeline in Teamleader Focus showing notes and communication history.](https://support.focus.teamleader.eu/hc/article_attachments/25694822449553)
 
  
 
 You can also filter on this activity type:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694885610129)
+![The Activities section in Teamleader Focus showing a filtered view of virtual meetings.](https://support.focus.teamleader.eu/hc/article_attachments/25694885610129)
 
  
 

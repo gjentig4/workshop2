@@ -10,7 +10,7 @@ section: "Real Estate Agents"
 
 # Teamleader Focus for Real Estate Agents
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692940263569)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -113,7 +113,7 @@ Learn more about how [integrations for email marketing](https://support.focus.te
  
 
 If tenants are linked to a company in your CRM, just link them by clicking the three dots on top of the contact page of the tenant and click ‘Link to company’.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692966560529)
+![Contact information header in Teamleader Focus with the actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25692966560529)
 
  
 
@@ -150,7 +150,7 @@ Schedule meetings in Teamleader Focus by:
 - Fill in a customer, a title, a date and a location.
 
 - When the meeting is created, you can add contacts by clicking the plus sign next to ‘Contacts attending’.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692940367633)
+![The 'Colleagues attending' and 'Contacts attending' sections in a Teamleader Focus meeting view.](https://support.focus.teamleader.eu/hc/article_attachments/25692940367633)
  
 
 If you have multiple meetings on the same day, Teamleader Focus can also [show you the route](https://support.focus.teamleader.eu/hc/en-150/articles/25692375873553-Getting-started-How-do-you-want-to-structure-your-calendar) you need to take from one to another. This way you will never get lost between meetings!
@@ -183,7 +183,7 @@ If your agency has several services or has different teams or company entities, 
 
 Personalise your phases via **Settings **> **Deals and Quotations **> Pipelines **> Add phase **or edit the phases
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692966656529)
+![Deal pipeline progress bar in Teamleader Focus showing the 'Quotation sent' stage.](https://support.focus.teamleader.eu/hc/article_attachments/25692852446865)
  
 
  
@@ -198,7 +198,7 @@ The exchanging of documents and images are an important part of the real estate 
 
 To add documents to a contact or company just click the ‘Files’ button in the lower right-hand corner of the page. A banner will appear on your screen containing all documents linked to the customer. Subdivide them into categories by creating maps. Click the folder sign to do so.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692966687249)
+![The Documents widget in Teamleader Focus showing an uploaded file and Dropbox integration.](https://support.focus.teamleader.eu/hc/article_attachments/25692966687249)
 
  
 
@@ -237,7 +237,7 @@ If you work with projects, you can send your customers or other parties a timesh
 - Click on **Export timesheet**
 
 - Choose if you want to export the report to PDF or to Excel, and choose the language.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692951479825)
+![The 'Export timesheet' dialog window in Teamleader Focus showing PDF and Excel export options.](https://support.focus.teamleader.eu/hc/article_attachments/25692951479825)
 
  
 

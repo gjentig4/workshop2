@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # FAQ: Can I add extra statuses to the shared inbox in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691049018769)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -40,4 +40,4 @@ You can add extra statuses that apply better to your way of working:
 
 You will now see your new status appear in the drop-down list next to 'Status' when you edit a ticket.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691082273681)
+![The 'Edit Ticket' dialog in Teamleader Focus showing the status dropdown menu.](https://support.focus.teamleader.eu/hc/article_attachments/25691082273681)

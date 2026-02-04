@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: Can I also import the related company when importing contacts into Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691224923025)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -21,7 +21,7 @@ Yes, when importing contacts, you can also import the company the contact is rel
 When you also want to import the type of business of the company, two things are important:
 
 - Select this column in Teamleader Focus while importing: *Company X: Name + Type of business*
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691224990481)
+![Dropdown menu showing available fields for related companies in document templates.](https://support.focus.teamleader.eu/hc/article_attachments/25691224990481)
 
 - Make sure that in your Excel file the Name of the company and the type of business are next to each other in the same column, don't use separate columns.
 

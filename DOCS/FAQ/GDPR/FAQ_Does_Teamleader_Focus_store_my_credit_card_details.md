@@ -10,7 +10,7 @@ section: "GDPR"
 
 # FAQ: Does Teamleader Focus store my credit card details?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693006165265)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

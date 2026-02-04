@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: How can I add a second email address to a contact or company?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691929358225)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -23,7 +23,7 @@ Teamleader has the option to add one email address for every contact and company
  
 
 2. Click on the plus sign to add a new custom field and complete as follows:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691904849297)
+![The 'Add Custom field' dialog box in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25691904849297)
 
 In the example above we created a field on contact level, but you can also select for 'Company' to create a field on company level. 
 
@@ -31,7 +31,7 @@ In the example above we created a field on contact level, but you can also selec
 
 3. Click **S****ave **and add a new contact. You will see that Teamleader Focus added a second email field under the first one:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691904881425)
+![The 'Add contact' form in Teamleader Focus showing basic contact information fields.](https://support.focus.teamleader.eu/hc/article_attachments/25691904881425)
 
  
 

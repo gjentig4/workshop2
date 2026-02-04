@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Importing products into Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692577862545)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -85,7 +85,7 @@ Note: You can only upload XLS, XLSX or CSV files.
 
 - Choose the right file from your storage.
 
-- Match the columns with the right fields.![importing products - add via import](https://support.focus.teamleader.eu/hc/article_attachments/25692630364817)Notes:
+- Match the columns with the right fields.![Field mapping screen for importing data into Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692630364817)Notes:
 
 Teamleader Focus does match some columns automatically. However, you should still check every column and match it accordingly.
 
@@ -113,7 +113,7 @@ If you imported products and realise that something went wrong, you still have t
 
 **Note:** In general we advise not to click on 'OK, dismiss' in order to keep the undo option available.
 
-![import products - undo](https://support.focus.teamleader.eu/hc/article_attachments/25692617134993)
+![Confirmation dialog showing the results of a product import with an option to undo.](https://support.focus.teamleader.eu/hc/article_attachments/25692617134993)
 
 ## Updating your products
 

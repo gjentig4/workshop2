@@ -10,7 +10,7 @@ section: "Administrative Users"
 
 # Teamleader Focus for Administrative Users
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692861448593)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -74,7 +74,7 @@ You can use the [segments](https://support.focus.teamleader.eu/hc/en-150/article
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692861492753)
+![The CRM actions menu for companies, showing options to export, import, add, and bulk create tasks.](https://support.focus.teamleader.eu/hc/article_attachments/25692861492753)
 
  
 

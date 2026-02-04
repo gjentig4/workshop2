@@ -10,7 +10,7 @@ section: "Trade Fairs"
 
 # Teamleader Focus for Trade Fairs
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693287226001)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 

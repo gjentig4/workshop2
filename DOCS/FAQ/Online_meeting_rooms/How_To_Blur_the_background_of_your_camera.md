@@ -10,13 +10,13 @@ section: "Online meeting rooms"
 
 # How To: Blur the background of your camera
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695091738001)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When having video meetings you sometimes prefer not to show everything in the room behind you. In the Lead capture Booster you can blur your background or [upload a background image for your camera.](https://support.focus.teamleader.eu/hc/en-150/articles/25694122123025-FAQ-How-to-set-up-an-image-background-for-your-camera)
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017318984593)
+![A video call interface mockup showing a person with camera, microphone, and end call controls.](https://support.focus.teamleader.eu/hc/article_attachments/25694093357329)
 
 *This feature can be used in Google Chrome, Edge and Opera browser.*
 
@@ -38,4 +38,4 @@ Click on No background below your camera and select Blur background
 - 
 Your camera will focus on you and will blur the background.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017292886801)
+![Join a Teamleader meeting with options for audio + video, audio only, or without audio/video.](https://support.focus.teamleader.eu/hc/article_attachments/25694093482513)

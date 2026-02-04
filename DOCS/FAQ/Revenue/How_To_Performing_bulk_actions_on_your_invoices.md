@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Performing bulk actions on your invoices
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693418524305)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Handling your invoices has never been easier than with Teamleader Focus' invoicing functionality. We wrote this article to shed light on one of the most time-saving aspects of this functionality: bulk actions.
 
@@ -30,11 +30,11 @@ For the purposes of this article, we assume you have [already created draft invo
 
 Notice the little boxes on the left side of the invoice overview? Click those to perform bulk actions on those specific invoices. The box in the upper left corner of the overview will select all invoices on that page. That means you can select a maximum of 50 invoices at a time.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693380411025)
+![The Invoices overview table showing how to select multiple invoices using checkboxes.](https://support.focus.teamleader.eu/hc/article_attachments/25693380411025)
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693418731025)
+![Pagination and mini-stats controls at the bottom of a list view in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693418731025)
 
  
 
@@ -42,7 +42,7 @@ When you do so, you’ll have 4 options: Book, Send, Mark as paid or Delete with
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693387094289)
+![Bulk actions toolbar for invoices with multiple statuses selected in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693387094289)
 
  
 
@@ -63,7 +63,7 @@ This one is a bit more tricky. After all, you want to send your invoices using t
  
 
 Once you click the ‘**Send**’ button, a screen will appear. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41235567529361)
+![The 'Send invoices' dialog in Teamleader Focus for bulk sending invoices via email or Peppol.](https://support.focus.teamleader.eu/hc/article_attachments/41235567529361)
 
 At a glance, you'll see the Peppol symbol next to the invoices that will be sent through the Peppol network. Teamleader Focus will group invoices per language of the customer. You’ll still be able to make a selection here. The mail template you select will be used for every invoice you select and send, so make sure you are sending mails in the right language. If necessary, you can make changes to the template and add variables. To make this even easier on yourself, you can make [segments ](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus)according to language.
 As you can see, you can also link your timesheets in attachment, either in PDF or in Excel.
@@ -72,13 +72,13 @@ As you can see, you can also link your timesheets in attachment, either in PDF o
 
 Draft invoices will be booked and sent in the same action. You’ll be notified if this is the case:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693387213841)
+![Information banner stating that draft invoices will be booked when sent.](https://support.focus.teamleader.eu/hc/article_attachments/25693387213841)
 
  
 
 Important to note is that a [mail address](https://support.focus.teamleader.eu/hc/en-150/articles/25692222317201-How-To-How-can-I-set-whom-the-invoices-are-emailed-to) will need to be added to the customer to make sure the invoices will get sent. You can add the column ‘**mail address**’ to the invoices overview by clicking the cogwheel in the lower right corner to see if they’ve been added. If a mail address was not found for either a customer or your own company, you’ll be notified. Click the ‘**Retry send**’ button to see where it went wrong.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693380653713)
+![Warning banner in the Invoices module showing failed invoice delivery with a retry option.](https://support.focus.teamleader.eu/hc/article_attachments/25693380653713)
 
  
 
@@ -88,7 +88,7 @@ Marking as paid will only be possible for unpaid booked invoices. If draft invoi
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693357743377)
+![Confirmation dialog for marking multiple invoices as paid in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693357743377)
 
  
 

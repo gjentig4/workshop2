@@ -10,11 +10,11 @@ section: "Old projects"
 
 # FAQ: What does the little flag in the project planning feature stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692107702545)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When you navigate to **Projects **> **P****lanning**, there's a little flag directly under the planning within different projects.
 
-![project planning feature: flag](https://support.focus.teamleader.eu/hc/article_attachments/25692114344849)
+![A project planning timeline view in Teamleader Focus showing a two-week schedule.](https://support.focus.teamleader.eu/hc/article_attachments/25692114344849)
 
 - Those flags mark the deadline of the respective phases. When you hover over them, you'll see the full name and the according health status.
 

@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # FAQ: How can I reduce my Teamleader Focus user licences?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692828126225)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Only Teamleader Focus [administrators ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)can fill in a form to reduce user licences in your Teamleader Focus account. To fill in the form, follow these steps:
 
@@ -18,7 +18,7 @@ Only Teamleader Focus [administrators ](https://support.focus.teamleader.eu/hc/
 
 - Go to **Manage licence**.
 
-- Below 'Your yearly/quarterly package', click on **Manage users > ****Remove users:****![](https://support.focus.teamleader.eu/hc/article_attachments/25692828174481) **
+- Below 'Your yearly/quarterly package', click on **Manage users > ****Remove users:****![Subscription management buttons for changing packages and managing users.](https://support.focus.teamleader.eu/hc/article_attachments/25692828174481) **
 
 - Select here how many user licences you want to remove.
 

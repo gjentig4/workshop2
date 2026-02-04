@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Approving leave in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691063290897)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -37,7 +37,7 @@ Follow these steps to appoint a person:
 
 - Click on the **pencil** next to the name of a team
 
-- Choose the right person from the dropdown menu next to “Approval by”![](https://support.focus.teamleader.eu/hc/article_attachments/25691079479697)
+- Choose the right person from the dropdown menu next to “Approval by”![The 'Edit team' dialog box in Teamleader Focus for managing team settings and approvals.](https://support.focus.teamleader.eu/hc/article_attachments/25690726562193)
 
 - Click “**Save**”
  
@@ -50,14 +50,14 @@ Follow these steps to appoint a person:
 
 - The request, plus the type and duration of the leave asked for, will appear in a new window.
 
-- Here you can accept or, if applicable, refuse the request.![](https://support.focus.teamleader.eu/hc/article_attachments/25691093804689)
+- Here you can accept or, if applicable, refuse the request.![A dialog box in Teamleader Focus for managing time off requests from a specific user.](https://support.focus.teamleader.eu/hc/article_attachments/25691093804689)
 
 - When you click "**Save" **your colleague will immediately receive an email that his or her leave has or has not been approved.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691046844305)
+![Notification showing an accepted time off request for overhours in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691046844305)
 
 **Note**: An admin will only receive a notification to approve a leave request when no teams were created. When teams are created, and the admin is not in charge of approving leave requests, an admin can still accept or refuse the request by clicking on **Settings** >** ****Users **> **name of the user **that requested leave >** Work info **tab > **Days off** > **Evaluate reques****t** :
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691093887121)
+![Yearly calendar view for 'Days off' in Teamleader Focus showing leave balances and requests.](https://support.focus.teamleader.eu/hc/article_attachments/25691093887121)

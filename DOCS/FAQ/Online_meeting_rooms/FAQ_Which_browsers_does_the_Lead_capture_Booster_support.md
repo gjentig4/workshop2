@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: Which browsers does the Lead capture Booster support?
 
-# ![](https://support.focus.teamleader.eu/hc/article_attachments/25695108684945)
+# ![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In this article:
 
@@ -41,7 +41,7 @@ The Lead capture Booster supports the following browsers and versions. For scree
 - For co browsing, "viewing only" means you can not cobrowse a tab from your browser. You can browse on a tab that another participant is cobrowsing.
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32796033482897) 
+![Browser compatibility table for Teamleader Focus video meeting features.](https://support.focus.teamleader.eu/hc/article_attachments/32796033482897) 
 To update your browser, please visit the support page for your browser:
 
 - 
@@ -61,7 +61,7 @@ To update your browser, please visit the support page for your browser:
 - 
 [**Edge**](https://www.microsoft.com/en-us/edge)     Only the new Edge version is supported, the logo looks like the left one on the image below.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695155478161)
+![Comparison showing the supported Microsoft Edge Chromium logo vs the unsupported legacy Edge logo.](https://support.focus.teamleader.eu/hc/article_attachments/25695155478161)
  
 
 # Mobile browsers
@@ -72,21 +72,21 @@ To update your browser, please visit the support page for your browser:
 
 To use Vectera on iOS devices (iPhone, iPad, etc.), we recommend using version 15.6 or higher.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32796079326609)
+![Compatibility table for iOS browsers showing support for audio, video, screensharing, and recording.](https://support.focus.teamleader.eu/hc/article_attachments/32796079326609)
 
 ## 
 
 All other mobile Operating Systems
 
 It's possible to participate in an audio+video meeting and to watch uploaded whiteboards and shared screens. As mobile is view-only, you're not able to upload whiteboards and share screens.
-![](https://support.focus.teamleader.eu/hc/article_attachments/32796033488145)
+![Browser compatibility table for Teamleader Focus features on Android smartphones.](https://support.focus.teamleader.eu/hc/article_attachments/32796033488145)
 
  
 If you have a tablet that works on Android you will have the same functionalities as Android smartphones but can also view recordings that have been made and uploaded in the cloud. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32796033491217)
+![Browser compatibility table for Teamleader Focus features on Android tablets.](https://support.focus.teamleader.eu/hc/article_attachments/32796033491217)
 
  
 ## Microsoft Surface
 
 The only tablet that has the same functionality as a desktop is Microsoft Surface. Microsoft Surface has the same operating system as desktop computers that use Windows so everything will work as on desktop. You can install the Customer Meetings extension to use co-browsing and recording.
-![](https://support.focus.teamleader.eu/hc/article_attachments/32796079331217)
+![Compatibility table for Microsoft Surface browsers and Teamleader Focus meeting features.](https://support.focus.teamleader.eu/hc/article_attachments/32796079331217)

@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Creating forms in Wordpress using the Teamleader Focus plug-in
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692658684817)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -44,7 +44,7 @@ Option 2: Install the zip. file downloaded from the Teamleader Focus [Marketplac
 
 2. Go to the Wordpress Dashboard > Click "**Settings**" > **Teamleader**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25692688756113)**
+**![WordPress plugin settings page for connecting a form to Teamleader Focus via Webhook URL.](https://support.focus.teamleader.eu/hc/article_attachments/25692688756113)**
  
 
  
@@ -57,7 +57,7 @@ Option 2: Install the zip. file downloaded from the Teamleader Focus [Marketplac
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692672621329)
+![Success message and Webhook URL for linking a custom WordPress webform to Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692672621329)
  
 
  
@@ -70,13 +70,13 @@ Option 2: Install the zip. file downloaded from the Teamleader Focus [Marketplac
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692695841809)
+![Step 3 of a webform setup showing the Webhook URL field and Save button.](https://support.focus.teamleader.eu/hc/article_attachments/25692695841809)
 
  
 
 7. Create one or several forms in Wordpress according to your needs.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692695904657)
+![The 'Create Form' interface in Teamleader Focus for building custom contact forms.](https://support.focus.teamleader.eu/hc/article_attachments/25692695904657)
 
  
 
@@ -84,7 +84,7 @@ Option 2: Install the zip. file downloaded from the Teamleader Focus [Marketplac
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692658890001)
+![List of Teamleader Focus web2lead forms with their corresponding WordPress shortcodes.](https://support.focus.teamleader.eu/hc/article_attachments/25692658890001)
 
 ##  
 
@@ -94,7 +94,7 @@ Option 2: Install the zip. file downloaded from the Teamleader Focus [Marketplac
 
 Add a Teamleader Focus referral token to your form and earn extra money with recommendations. See [here](https://support.focus.teamleader.eu/hc/en-150/articles/25691714515857-How-To-How-do-I-recommend-Teamleader-Focus-to-someone) for more information.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692672860433)
+![Referral settings for the Teamleader Focus plugin including logo display and referral token field.](https://support.focus.teamleader.eu/hc/article_attachments/25692672860433)
 
 ###  
 
@@ -104,8 +104,8 @@ You have the option to enable invisible reCaptchas to protect your forms*.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692696104721) 
+![The Recaptcha Settings configuration page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692696104721) 
 
  
 
-**This only works with reCaptcha v2: *![](https://support.focus.teamleader.eu/hc/article_attachments/25692653385105)
+**This only works with reCaptcha v2: *![Google reCAPTCHA registration form for setting up website security keys.](https://support.focus.teamleader.eu/hc/article_attachments/25692653385105)

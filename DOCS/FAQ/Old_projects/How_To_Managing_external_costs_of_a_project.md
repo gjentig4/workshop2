@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Managing external costs of a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691667089041)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 *This article is only relevant for users of our old project module, which we will soon phase out. Please consult *[*these articles*](https://support.focus.teamleader.eu/hc/en-150/sections/25540902870545-Projects)* as a user of our new project module. *
 *! Users in SMART won't be able to add external costs.*
@@ -33,7 +33,7 @@ External costs are linked to external materials or expenses needed in order to c
 - Navigate to **Projects** and click on a project.
 
 - Click on the **three dots **next to the project > **Add external cost **or go to the tab Project info and scroll down to the **+ **next to 'External costs'.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691673171217)
+![The 'External costs' section in a Teamleader Focus project with no costs linked.](https://support.focus.teamleader.eu/hc/article_attachments/25691673171217)
 
 - Fill in the product(s) you need. Either choose one of the products you saved in Teamleader Focus or fill in an article manually. If you choose to use existing products and a purchase price has already been added to the product page, it will appear automatically.
 

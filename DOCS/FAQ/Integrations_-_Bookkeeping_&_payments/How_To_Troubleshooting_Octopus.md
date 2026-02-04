@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Troubleshooting Octopus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697689686673)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this article we'll give you an overview of the more common errors you can encounter in the integration between Octopus and Teamleader Focus.
 
@@ -56,7 +56,7 @@ Solution:
 
 Notification in Teamleader Focus:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25697667960977)**
+**![Notification showing an Octopus synchronization error in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25697667960977)**
 
 'Journal V1' in Octopus has the wrong type. This should be 'Sales bookings' but is 'Invoices' instead.
 
@@ -66,7 +66,7 @@ Solution:
 
 - In Octopus, go to **Management Journals**
 
-- Change the entry type of the journal to "Sales bookings". More information can be found [here](https://login.octopus.be/manual/NL/management_journals.htm).![](https://support.focus.teamleader.eu/hc/article_attachments/25697641918865)
+- Change the entry type of the journal to "Sales bookings". More information can be found [here](https://login.octopus.be/manual/NL/management_journals.htm).![Configuration screen for invoice journal settings in an accounting integration.](https://support.focus.teamleader.eu/hc/article_attachments/25697641918865)
 
  
 
@@ -81,7 +81,7 @@ Cause:
 Solution:
 
 - In Octopus you can click on **File** (top left corner, make sure the correct account is active) and select 'Synchronise'.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697668120721)
+![File menu in a bookkeeping tool showing Open file, Notes, Synchronise, and Backup/Restore options.](https://support.focus.teamleader.eu/hc/article_attachments/25697668120721)
 
 - This will make the journals available for the API.
 
@@ -102,6 +102,6 @@ Cause:
 Solutions: 
 
 - Go to your invoice overview and open the corresponding invoice. Click on the** pencil** next to 'content' to add the correct ledger account (it shouldn't be unknown):
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697668223633)
+![The 'Items on the invoice' section in Teamleader Focus showing line item details and ledger accounts.](https://support.focus.teamleader.eu/hc/article_attachments/25697668223633)
 
 - If your ledger accounts are related to your VAT rates, you can do this in bulk via settings invoices ledger accounts Auto-suggest accounts at certain VAT-tariffs.

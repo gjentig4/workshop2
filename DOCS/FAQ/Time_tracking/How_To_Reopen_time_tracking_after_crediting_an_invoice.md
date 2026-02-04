@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Reopen time tracking after crediting an invoice
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695374786065)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -25,7 +25,7 @@ First, you need to make sure that the invoice with the time tracking in question
  
 
 After the invoice has been fully credited, the time tracking will have the label ‘Credited’ next to it in the timesheets overview, and only then will you be able to reopen the time tracking.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695329477777)
+![A time tracking entry in Teamleader Focus with a 'Credited' status badge.](https://support.focus.teamleader.eu/hc/article_attachments/25695329477777)
 
  
 
@@ -46,7 +46,7 @@ Click on **Reopen**
 ![](https://support.focus.teamleader.eu/hc/article_attachments/25695360002833)** **
 
 - After you’ve reopened the time tracking you can edit it if needed. The [time tracking can now be invoiced again](https://support.focus.teamleader.eu/hc/en-150/articles/25691017896081-How-To-Invoicing-time-tracking-in-Teamleader-Focus) and will reappear in the 'Invoice unbilled time' overview in Invoices:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695388851985)
+![Header of the Invoices module in Teamleader Focus with search, filter, and action buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25691053614353)
 
  
 

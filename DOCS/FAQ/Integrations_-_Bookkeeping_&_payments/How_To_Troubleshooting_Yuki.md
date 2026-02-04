@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Troubleshooting Yuki
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693803460369)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this article, we'll give you an overview of the more common errors you can encounter in the integration between Yuki and Teamleader Focus:
 
@@ -45,7 +45,7 @@ In this article, we'll give you an overview of the more common errors you can en
  
 
 To **load the current error messages** in your account, click on the bell icon and delete the notifications. Then, click on the double arrows to start the synchronisation again. You'll then see the latest error(s).
-![](https://support.focus.teamleader.eu/hc/article_attachments/35271406285201)
+![Top navigation bar icons in Teamleader Focus highlighting the sync and notification buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25697914743185)
 
  
 
@@ -61,7 +61,7 @@ Open the invoice links one by one
 
 - 
 **Save**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693775071249)
+![The 'Items on the invoice' section in Teamleader Focus showing line item details and ledger accounts.](https://support.focus.teamleader.eu/hc/article_attachments/25693775071249)
 
 - If your ledger accounts are related to your VAT rates, you can do this in bulk via **Settings > Revenue > ****Ledger ****accounts** > Auto-suggest accounts at certain VAT-tariffs.
 

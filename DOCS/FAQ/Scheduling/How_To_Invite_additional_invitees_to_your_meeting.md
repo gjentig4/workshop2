@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Invite additional invitees to your meeting
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696114537489)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In the Lead capture Booster you can have meetings with multiple guests. Your guest can book a meeting via your booking page, but how can they invite additional invitees to the meeting? Read this article to learn how.
 
@@ -28,13 +28,13 @@ You can allow guests to invite additional guests, e.g. colleagues, by setting up
 - Enable 'Show advanced settings'.
 
 - Now you will see the 'Additional invitees' option. Fill in the maximum number of additional invitees that the guest can invite. This must be a number between 1 and 6 (e.g. 4*).
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696114604049)**In this example, you will have a meeting with maximum 6 participants: you, the host and 4 additional invitees.**
+![Setting the number of additional invitees for a guest in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696114604049)**In this example, you will have a meeting with maximum 6 participants: you, the host and 4 additional invitees.**
 *
 
 - Finish up the other meeting type settings and availability.
 
 - Go to Customize email templates in the Powerful extensions. You can customize the email that the additional invitees will receive (= Additional invitee confirmation mail) when they are invited by the main guest.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696114668561)
+![Configuration form for the 'Additional invitee confirmation email' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696114668561)
 
 - Edit other Powerful extensions and save the meeting type.
 
@@ -50,14 +50,14 @@ When a guest visits the booking page of this meeting type, they will choose a da
 
 - Mark Doe
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696114736529)
+![A booking confirmation form for an online meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696114736529)
 
  
 
 Every time John starts typing in the invite email field, a new email field will appear.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696143739281)
+![Form to invite up to 4 team members to Teamleader Focus via email.](https://support.focus.teamleader.eu/hc/article_attachments/25696143739281)
 
 When John has entered the 3 email addresses, the fourth email field can remain empty. John can confirm the booking with you and a confirmation email will be sent to all the 6 participants.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696129111697)
+![Meeting booking form in Teamleader Focus with fields for contact details and additional invitees.](https://support.focus.teamleader.eu/hc/article_attachments/25696129111697)

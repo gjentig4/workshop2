@@ -10,10 +10,10 @@ section: "CRM"
 
 # FAQ: How can I unlink a related contact from a company?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691647171857)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Did your contact stop working for a certain company? You can unlink the contact very easily. To do so, go to **Companies** > open the company > scroll down to the related contact > click on the **three ****dots **> **Unlink**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691613137425)
+![The 'Related contacts' list in Teamleader Focus showing contact details and action menu.](https://support.focus.teamleader.eu/hc/article_attachments/25691613137425)
 
 Deleting this contact does not mean that you delete it from your CRM, it only means that you delete the link between the contact and the company.

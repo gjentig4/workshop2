@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: How can I become a Teamleader Focus ambassador?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693902615441)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Become a Teamleader Focus ambassador, help us improve our software, and share your insights with others.
 

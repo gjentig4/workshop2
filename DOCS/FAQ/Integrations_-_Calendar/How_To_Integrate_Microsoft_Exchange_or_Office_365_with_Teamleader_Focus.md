@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: Integrate Microsoft Exchange or Office 365 with Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690960322321)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ If you enable the **agenda synchronisation**, you can select :
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690946452753)
+![Agenda synchronization settings for calendar integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690946452753)
 
  
 
@@ -55,7 +55,7 @@ Remarks
 - Naturally we respect your privacy and therefore calendar items which are imported from your Exchange Calendar appear as [grey blocks](https://support.focus.teamleader.eu/hc/en-150/articles/25691415928721-FAQ-Why-do-I-only-see-grey-blocks-in-the-agenda-of-my-colleague) in your Teamleader Focus agenda. If you do want to make these visible to other users in Teamleader Focus, then you can click on them and select whether to convert the meeting into a visible task or meeting.
 
 - Because the link works in both directions, adjustments in your Teamleader Focus or Exchange agenda will always be synchronized. The synchronization runs in the background every half an hour. However, for good measure, we recommend you start the sync manually when it is the first time you make the connection. You can do this by going to Agenda and clicking on the synchronisation symbol on the right.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690933561105) 
+![Grey sync or recurring icon with two arrows in a circular loop.](https://support.focus.teamleader.eu/hc/article_attachments/25690932443793) 
 
 - There's also the possibility to limit access to a user's calendar. Read all about it [here](https://support.focus.teamleader.eu/hc/en-150/articles/25691555792401-FAQ-Why-can-t-I-see-the-calendar-of-my-colleagues).
 

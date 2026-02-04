@@ -10,7 +10,7 @@ section: "Revenue"
 
 # Getting started: What are the different ways to create an invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692442901777)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -46,7 +46,7 @@ Do you prefer to watch our instructive video? You can do so right here:
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25692470937617)
+          ![Introductory banner for CloudSign by Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690874828305)
         
 
       
@@ -61,7 +61,7 @@ Do you prefer to watch our instructive video? You can do so right here:
 ### Invoice via your quotation
 
 Navigate to your accepted quotation in the **Quotations **module and click on the **Convert to invoice **button in the header.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692458969745)
+![The header and action bar of a sent quotation in Teamleader Focus with a 'Convert to invoice' button.](https://support.focus.teamleader.eu/hc/article_attachments/25692458969745)
  
 
 ### Invoice via your deal
@@ -73,7 +73,7 @@ The advantage? You'll now have the link between the deal and the invoice. #WorkS
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25692443063057)
+          ![Tutorial title slide for 'Registering timetracking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
         
 
       
@@ -127,7 +127,7 @@ You can also [track time](https://support.focus.teamleader.eu/hc/en-150/articles
 You can find an overview of the total amount to be invoiced per contact or company by navigating to the contacts or companies overview and adding the column 'Total to be invoiced' to the overview via the cogwheel in the bottom right-hand corner.
 
 - You can also navigate to the invoice overview and click on **Invoice unbilled time **in the top right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692486133905)
+![Action buttons for Invoices: Export, Invoice unbilled time, and Add Invoice.](https://support.focus.teamleader.eu/hc/article_attachments/25692486133905)
 
 You can then still edit that invoice and add products, etc. The positions on the invoice are merged based on the type of time tracking: calls, meetings, tasks based on work types. As soon as you create an invoice based on time tracking, a [time tracking report](https://support.focus.teamleader.eu/hc/en-150/articles/25691716494225-How-To-Exporting-reports-from-Teamleader-Focus) will be created automatically. This report gives you a more detailed overview - that you can also add to your invoice as you send it to a customer.
 

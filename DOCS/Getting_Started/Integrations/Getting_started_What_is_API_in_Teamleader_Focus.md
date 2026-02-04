@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: What is API in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692822264721)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 The Teamleader Focus API is designed for developers, engineers, or anyone else who’s comfortable creating custom-coded solutions or integrating with APIs. 
 

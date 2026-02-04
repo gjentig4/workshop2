@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Embed a contact form in your website
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695826072081)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 After you've created a contact form you might want to embed it in your website. By integrating your contact form into your own website, Wordpress, Webflow or Wix, it's possible to achieve just that.
 
@@ -39,7 +39,7 @@ If you've set up a custom logo for your contact form or team, the logo won't sho
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695763592337)
+![Tutorial title slide for 'Registering timetracking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
 
 ## General
 
@@ -47,7 +47,7 @@ After you've created a contact form, basically all you have to do is copy the co
 
 - Go to the **[Contact forms](https://meeting.teamleader.eu/contact-forms/?scope=personal) **page
 
-- Click on the **share icon**** **and choose** Copy embedded HTML**![](https://support.focus.teamleader.eu/hc/article_attachments/25695811238545)
+- Click on the **share icon**** **and choose** Copy embedded HTML**![The 'Share: Contact Form' dialog window showing options to share or embed a Teamleader Focus form.](https://support.focus.teamleader.eu/hc/article_attachments/25695811238545)
 
 - Paste the embedded HTML code in your own website, Wordpress or Webflow. For WIX, you'll only need the link so you'll need to cut this one from the HTML code (cf. below).
 
@@ -89,15 +89,15 @@ Once you've created the codeblock with the embedded contact form link (see gener
 
 - Open the page where you want to add the codeblock
 
-- Click on the **Plus** and select **Custom HTML****![](https://support.focus.teamleader.eu/hc/article_attachments/25695779877265)**
+- Click on the **Plus** and select **Custom HTML****![Adding a Custom HTML block in the Teamleader Focus content editor](https://support.focus.teamleader.eu/hc/article_attachments/25694991456529)**
 
-- Paste the iframe code in the custom HTML block![](https://support.focus.teamleader.eu/hc/article_attachments/25695795581841)**note: Depending on your layout, you might want to put the iframe in a paragraph.*
+- Paste the iframe code in the custom HTML block![Code snippet for embedding a Teamleader Focus contact form using an iframe.](https://support.focus.teamleader.eu/hc/article_attachments/25695795581841)**note: Depending on your layout, you might want to put the iframe in a paragraph.*
 
 - Test and edit the height so the iframe displays perfectly on your website.
 
 - Publish your website
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695779970321)
+![A published Teamleader Focus web2lead contact form embedded on a website.](https://support.focus.teamleader.eu/hc/article_attachments/25695779970321)
 
  
 
@@ -107,13 +107,13 @@ Copy and paste the embedded HTML iframe in your Webflow website.
 
 - Open the page where you want to add the codeblock
 
-- Click on the **Plus** and in Advanced select **Embed**, drag and drop the Embed box into your page**![](https://support.focus.teamleader.eu/hc/article_attachments/25695763826705)**
+- Click on the **Plus** and in Advanced select **Embed**, drag and drop the Embed box into your page**![Selecting the Embed element from the Add menu in a website builder to insert custom code.](https://support.focus.teamleader.eu/hc/article_attachments/25694995436689)**
 
-- Paste the iframe code in the custom HTML block*![](https://support.focus.teamleader.eu/hc/article_attachments/25695780050705)*
+- Paste the iframe code in the custom HTML block*![The HTML Embed Code Editor dialog showing an iframe snippet for a Teamleader Focus contact form.](https://support.focus.teamleader.eu/hc/article_attachments/25695780050705)*
 
 - Test and edit the height so the iframe displays perfectly on your website.
 
-- Publish your website![](https://support.focus.teamleader.eu/hc/article_attachments/25695763930513)
+- Publish your website![A Teamleader Focus contact form for capturing lead information.](https://support.focus.teamleader.eu/hc/article_attachments/25695763930513)
 
  
 
@@ -123,13 +123,13 @@ To embed a contact form in your Wix website, you'll only need the link. When you
 
 - Open the page where you want to add the codeblock
 
-- Click on the **Plus** and **Embed Code **-**Embed HTML**![](https://support.focus.teamleader.eu/hc/article_attachments/25695811672209)
+- Click on the **Plus** and **Embed Code **-**Embed HTML**![Adding an HTML embed element to a page in the website editor.](https://support.focus.teamleader.eu/hc/article_attachments/25694980230801)
 
-- In the HTML settings, select Website address and paste the embedded contact form code in the Website address box. Click on **Apply.**![](https://support.focus.teamleader.eu/hc/article_attachments/25695842700177)
+- In the HTML settings, select Website address and paste the embedded contact form code in the Website address box. Click on **Apply.**![HTML Settings dialog for adding a website address or code to a Teamleader Focus form.](https://support.focus.teamleader.eu/hc/article_attachments/25695842700177)
 
 - Edit the height so the iframe shows perfectly on your website.
 
-- Publish your website![](https://support.focus.teamleader.eu/hc/article_attachments/25695811811089)
+- Publish your website![An example of a Teamleader Focus public contact form integrated on a website.](https://support.focus.teamleader.eu/hc/article_attachments/25695811811089)
 
  
 
@@ -147,6 +147,6 @@ Go to [Contact widgets](https://meeting.teamleader.eu/contact-widgets/)
 - Select whether the contact form should open in a new tab or on the same page
 
 - 
-In 'Link contact type' select Contact form and choose which contact form should show.![](https://support.focus.teamleader.eu/hc/article_attachments/25695826634001)
+In 'Link contact type' select Contact form and choose which contact form should show.![Configuration screen to create and customize a website contact button in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695826634001)
 
 - Hit **Save **and [embed the contact widget in your website](https://support.focus.teamleader.eu/hc/en-150/articles/25695420502545-How-To-Embed-the-contact-widget-in-your-website).

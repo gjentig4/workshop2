@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # How To: Add and manage expenses via the mobile app
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/37807665774609) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Managing expenses is easier than ever with the Teamleader Focus mobile app. From uploading receipts to editing and reviewing expense details, the app offers a fast and efficient way to stay on top of your financial administration, right from your phone. Read more in this article. 
 
@@ -26,7 +26,7 @@ Easily add new expenses by following these steps:
 - Click on the **plus icon **in the bottom right-hand corner > **Expenses **or click on **Menu > Expenses > plus icon **in the bottom right-hand corner
 
 - Choose if you want to take a picture of your receipt, select an image from your gallery or upload a file. If your expense consists of multiple pages, all images will be merged into a single expense entry for clarity and convenience.
-![](https://support.focus.teamleader.eu/hc/article_attachments/37811329766929)
+![Mobile view of the Expenses list in Teamleader Focus with an 'Add expense' menu overlay.](https://support.focus.teamleader.eu/hc/article_attachments/37811329766929)
 
 *Notes:*
 
@@ -42,7 +42,7 @@ You can only upload 10 files in 1 go.
 After adding your expenses, you can find them in the ‘To review’ tab in your expenses. 
 
 - Tap on an expense to review it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/37811355835153)
+![Mobile view of the Expenses module showing the 'To review' tab with uploaded receipts.](https://support.focus.teamleader.eu/hc/article_attachments/37811355835153)
  
 
 - When automatic scanning is enabled, the app uses optical character recognition (OCR) to extract relevant details from your uploaded documents. This reduces manual input and ensures faster processing. Enable or disable automatic scanning via your desktop. [Read more about that here.](https://support.focus.teamleader.eu/hc/en-150/articles/34057221210001-How-To-Add-and-scan-expenses-in-Teamleader-Focus#h_01JRSN28K09QBCW7934NWRQRMP)
@@ -59,7 +59,7 @@ After adding your expenses, you can edit existing expenses directly in the app. 
 
 To streamline your workflow even further, the Expenses module can be added to the Quick access section on your mobile dashboard. This provides immediate access to your expenses.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37811355837841)
+![The Teamleader Focus mobile app dashboard showing the Quick access menu with the Expenses shortcut.](https://support.focus.teamleader.eu/hc/article_attachments/37811355837841)
 
 *Note*: do you want to approve or refuse your expenses or send them to the bookkeeper? Then you need to do this on your desktop. Read more here:
 

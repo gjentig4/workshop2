@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: Structuring the description for your Marketplace integration
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692724433041)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 
@@ -82,7 +82,7 @@ Add the short tagline in the "Short description".
 
 - Add the other three parts in the "Long description".
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34093242356369)
+![The Marketplace configuration form for setting up an integration's public listing details.](https://support.focus.teamleader.eu/hc/article_attachments/34093242356369)
 
  
 
@@ -92,4 +92,4 @@ Here you find a sample structure.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692724514705)
+![PrestaShop integration page in the Teamleader Focus Marketplace showing features and pricing.](https://support.focus.teamleader.eu/hc/article_attachments/25692724514705)

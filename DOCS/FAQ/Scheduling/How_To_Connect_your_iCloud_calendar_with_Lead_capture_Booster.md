@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Connect your iCloud calendar with Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694358082321)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Planning meetings can sometimes take more time than the meeting itself. Use the Scheduler to have your clients easily plan meetings with you!
 
@@ -35,7 +35,7 @@ Once you're connected you can also send calendar events to Teamleader Focus. Rea
 To set up your booking pages you will have to follow a few steps, which can easily be done in our scheduling flow.
 
 Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694382075921)
+![The 'Get started with scheduling' screen in the Lead capture Booster, prompting calendar connection.](https://support.focus.teamleader.eu/hc/article_attachments/25694264050065)
 
  
 
@@ -47,7 +47,7 @@ If it's the first time that you will connect your calendar you will get an onboa
 
 After clicking on connect the onboarding flow will open. In the first step select iCloud to log in with your iCloud calendar account.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694333309073)
+![Step 1 of the booking page setup: connecting a calendar provider.](https://support.focus.teamleader.eu/hc/article_attachments/25694269451537)
 
  
 
@@ -63,7 +63,7 @@ After clicking on connect the onboarding flow will open. In the first step selec
 - At 'Sign-in and security' you will see 'App-Specific Passwords'. Click on it and click on the '+' to generate a new password. Fill in the Lead capture Booster and click continue.
 
 - Copy the app-specific password and paste it in the Pop-up in your Lead capture Booster.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694371891857)
+![The iCloud calendar integration form for Teamleader Focus via Cronofy.](https://support.focus.teamleader.eu/hc/article_attachments/25694371891857)
 
  
 
@@ -77,13 +77,13 @@ Continue the steps until you're logged in.
 
 - Select the '**Calendar to write events in**' to show in which calendar new meetings should be booked in.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694371992977)
+![Step 2 of the booking page setup showing calendar availability and event creation settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694284585105)
 
 ## 1.3 Add meeting types
 
 To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694372069137)
+![Step 3 of the booking page setup in Teamleader Focus for adding meeting type templates.](https://support.focus.teamleader.eu/hc/article_attachments/25694269703313)
 
  
 
@@ -91,7 +91,7 @@ To have an easy start with creating meeting types, you can select 1 to 3 meeting
 
 Click on **Check ****your ****booking ****page** to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694372135441)
+![Final step of the booking page setup wizard showing a success message.](https://support.focus.teamleader.eu/hc/article_attachments/25694278205585)
 
 # 2. Scheduling settings
 
@@ -116,11 +116,11 @@ Follow these steps to create an app-specific password:
 - At 'Sign-in and security' you will see 'App-Specific Passwords'. Click on it and click on the '+' to generate a new password. Fill in Lead capture Booster and click continue.
 
 - Copy the app-specific password and paste it in the Pop-up in your Lead capture Booster.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694382631185)
+![The iCloud calendar integration form for Teamleader Focus via Cronofy.](https://support.focus.teamleader.eu/hc/article_attachments/25694371891857)
 
  
 
-2.4 Configure your calendar settings. Select from which calendar the Lead capture Booster can check for your availability:![](https://support.focus.teamleader.eu/hc/article_attachments/25694372374673)
+2.4 Configure your calendar settings. Select from which calendar the Lead capture Booster can check for your availability:![Calendar settings page in Lead Capture Booster for syncing external calendars and availability.](https://support.focus.teamleader.eu/hc/article_attachments/25694372374673)
 
  
 
@@ -135,7 +135,7 @@ Now that you've connected your iCloud Calendar to the Lead capture Booster, you 
 - In the Lead capture Booster, go to [**Settings > Integrations > Teamleader.**](https://meeting.teamleader.eu/integrations/teamleader/)
 
 - In these settings, check the box next to "Create a calendar event through Teamleader Focus":
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694372437265)
+![Settings page for syncing booked meetings with Teamleader Focus calendar events.](https://support.focus.teamleader.eu/hc/article_attachments/25694254512401)
 
 - When enabled, a calendar event is created in Teamleader Focus and written through to the online calendar that is configured in Teamleader Focus. To make sure these events are still visible in your online calendars (Google, Microsoft, ...), you need to set up the calendar synchronisation in [the Teamleader Focus marketplace.](https://marketplace.focus.teamleader.eu/eu/en/category/calendar)
 

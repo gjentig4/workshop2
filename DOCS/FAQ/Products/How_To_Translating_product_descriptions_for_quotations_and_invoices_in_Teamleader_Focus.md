@@ -10,7 +10,7 @@ section: "Products"
 
 # How To: Translating product descriptions for quotations and invoices in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690896476177)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -30,7 +30,7 @@ You don’t want to create all your item descriptions two, three or more times w
 
 - Type “Description [LANGUAGE CODE]” in the field next to “Name”. Make sure to fill in the [two letter language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code correctly
 
-- Choose “Multiline text” as a type and select “Product” next to “For”![](https://support.focus.teamleader.eu/hc/article_attachments/25690864203921)
+- Choose “Multiline text” as a type and select “Product” next to “For”![The 'Add Custom field' dialog box in Teamleader Focus for creating a new product field.](https://support.focus.teamleader.eu/hc/article_attachments/25690864203921)
 
 - Click on “**Advanced options**” and make a “Group” called “Translation” by clicking on “**Other**”
 
@@ -48,7 +48,7 @@ You don’t want to create all your item descriptions two, three or more times w
 
 - On the detail page of the product, add the translation in the field “Description [LANGUAGE CODE]”. E.g. “Description ES Ordenador”
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690887771409)
+![The 'Edit Description ES' dialog box with a rich text editor for product or item descriptions.](https://support.focus.teamleader.eu/hc/article_attachments/25690887771409)
 
 - Click on “**Save**”
 

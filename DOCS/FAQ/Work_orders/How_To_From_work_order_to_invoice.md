@@ -10,7 +10,7 @@ section: "Work orders"
 
 # How To: From work order to invoice
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690913486993)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -58,7 +58,7 @@ Start by going to the home screen in the app and click on + > **Work order. **F
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690866949777)
+![The 'Add work order' form in the Teamleader Focus mobile app for entering general information.](https://support.focus.teamleader.eu/hc/article_attachments/25690866949777)
 
  
 
@@ -92,16 +92,16 @@ In order to review the work order, you will need to add Working hours (which are
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690902990737)
+![Draft work order details in the Teamleader Focus mobile app showing customer and address info.](https://support.focus.teamleader.eu/hc/article_attachments/25690902990737)
 
 Enter your start and end time to define how long you’ve been working and add a description if you want. Taking a lunch break? No problem, just add a couple of hours after you started working again. If you[ set a week schedule in Teamleader Focus, your lunch break ](https://support.focus.teamleader.eu/hc/en-150/articles/25691604826257-FAQ-How-can-I-set-a-lunch-break)can also automatically be subtracted from your working hours like in this example:
-![](https://support.focus.teamleader.eu/hc/article_attachments/32291976864529)
+![The 'Add work hour' form in the Teamleader Focus mobile app for time tracking.](https://support.focus.teamleader.eu/hc/article_attachments/32291976864529)
 
 Working solo can be tedious. That’s why, if you’re hitting the road with co-workers, you can add them to the same work order. All combined hours will be added to the total amount of the invoice.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690917388049)
+![The 'Add work hour' form in the Teamleader Focus mobile app for tracking time on a work order.](https://support.focus.teamleader.eu/hc/article_attachments/25690917388049)
 
  
 
@@ -117,7 +117,7 @@ Similar to adding work hours you can add products that are already available in 
 
 It's also possible to add new products here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690890668433)
+![Adding a new product to a work order in the Teamleader Focus mobile app.](https://support.focus.teamleader.eu/hc/article_attachments/25690890668433)
 
  
 
@@ -131,7 +131,7 @@ You can also add some additional items to the work order, such as a description,
 
 Completely finished? Tap on **Review work order** to collect all the data in a PDF file. You can change the document layout here too. Let the customer sign on the spot by choosing 'Finalise with signing'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690899764113)
+![Draft summary of a work order in the Teamleader Focus mobile app with finalisation options.](https://support.focus.teamleader.eu/hc/article_attachments/25690899764113)
 
  
 
@@ -146,7 +146,7 @@ Completely finished? Tap on **Review work order** to collect all the data in a P
 - In the web version it will look like this:
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690899818385)
+![The Work Orders overview table in Teamleader Focus showing status and customer details.](https://support.focus.teamleader.eu/hc/article_attachments/25690899818385)
  
 
 When a work order has the status ‘Final’, it means it’s finalised. When it has the status ‘Sent’ though, it means it is both sent and finalised.
@@ -164,7 +164,7 @@ As the office staff, you can create a meeting in Teamleader Focus so your techni
 
 On the web version you can prepare your work order by clicking on **Add work order **in the top right-hand corner. You’ll get two options: either you partially fill out the work order based on an existing quotation, or you can choose to manually add some data. You can add a description of the tasks to be performed or the required materials. That way, your technician will know what to expect!  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690890771857)
+![Meeting details view in Teamleader Focus showing the 'Add work order' action button.](https://support.focus.teamleader.eu/hc/article_attachments/25690890771857)
 
 You'll be able to edit this draft work order later as well by returning to the meeting and clicking on **Edit work order. **You'll also find this draft version of the work order (not in pdf though) in your work order overview *(cf. 'Work order overview' later on in this article). *
 
@@ -186,7 +186,7 @@ Both on the web version and on the mobile app you'll find an overview of your pa
 
 In the web version of Teamleader Focus, you can see an overview of your work orders by navigating to **Work orders **in the menu on the left.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690899906449)
+![List view of work orders in Teamleader Focus showing titles, employees, customers, and statuses.](https://support.focus.teamleader.eu/hc/article_attachments/25690899906449)
 
  
 
@@ -200,7 +200,7 @@ Moreover, you can use the search bar in the top left-hand corner if you are look
 
 Clicking on a work order opens the detail page of that work order.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690899951249)
+![Detailed view of a Work Order in Teamleader Focus showing work hours, products, and photos.](https://support.focus.teamleader.eu/hc/article_attachments/25690899951249)
 You'll find:
 
  
@@ -255,7 +255,7 @@ Create an invoice
 - Move
 
 - Export (if all time trackings are selected)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690883438097)
+![Unbilled Time Trackings list in Teamleader Focus with bulk actions for invoicing and management.](https://support.focus.teamleader.eu/hc/article_attachments/25690883438097)
 
  
 

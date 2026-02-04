@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: Why can't I see the export button?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691574314769)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -19,4 +19,4 @@ If you can't see the "Export" button in your account, this means you don't have 
  
 
 To grant someone export rights, the administrator will need to navigate to **Settings** > **Users **> click on **the name** of a colleague > 'Permissions' > 'General' > Enable the toggle 'Export'.
-![](https://support.focus.teamleader.eu/hc/article_attachments/37496006738065)
+![General user permissions settings in Teamleader Focus showing calendar and export toggles.](https://support.focus.teamleader.eu/hc/article_attachments/37494382126225)

@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Connect Jotform with Teamleader Focus (Web2Lead)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691808086801)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -38,17 +38,17 @@ In the toolbar on the left, there are available fields you can drag and drop in 
 
  
 
-![Jotform](https://support.focus.teamleader.eu/hc/article_attachments/25691783973905)
+![The JotForm form builder interface showing a 'Contact us' form being created.](https://support.focus.teamleader.eu/hc/article_attachments/25691783973905)
 
 Once you have used all the fields you want, define your field types. This is important, otherwise Teamleader Focus will not know which value belongs to which field. Let's take 'Name' as an example. Make sure not to use the default Jotform element 'Full name' because you need to have separate fields to connect with Teamleader Focus. Use the element 'Short text' to add both 'First name' and 'Last Name':
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691779622929)
+![The drag-and-drop form builder interface for creating custom web forms in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691779622929)
  
 
 For each field, you can click on the cog and select **Properties **> Advanced. Scroll down to 'Field details'. You can leave the ‘ID’ field as it is, but be sure to complete the field according to the parameters that Teamleader Focus recognizes. For 'Last name' for example you use 'last_name':
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691779657105)
+![The Field Details section in a form builder showing the Unique Name property for a field.](https://support.focus.teamleader.eu/hc/article_attachments/25691779657105)
 
  
 
@@ -72,7 +72,7 @@ Save your form in order to view the Webhook URL that connects Teamleader Focus w
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691797059089)
+![How to find WebHooks in the form integration settings.](https://support.focus.teamleader.eu/hc/article_attachments/25691797059089)
 
  
 

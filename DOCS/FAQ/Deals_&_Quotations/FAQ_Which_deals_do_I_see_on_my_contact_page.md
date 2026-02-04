@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: Which deals do I see on my contact page?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697687288465)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -32,9 +32,9 @@ Create a deal and fill out the company in the ‘Customer’ field. Although the
 
 Create a deal and fill out the company in the ‘Customer’ field and your contact person in the ‘Contact’ field:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697658051729)
+![The 'Add Deal' form in Teamleader Focus showing Title, Customer, and Contact fields.](https://support.focus.teamleader.eu/hc/article_attachments/25697658051729)
 
-The deal will be visible in the 'Deals' section both on the contact page and on the company page. [On the deal page itself](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page), a link to both the company and the contact will be established like this:![](https://support.focus.teamleader.eu/hc/article_attachments/25697687370129)
+The deal will be visible in the 'Deals' section both on the contact page and on the company page. [On the deal page itself](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page), a link to both the company and the contact will be established like this:![Details panel of a deal in Teamleader Focus showing financial info and customer contact data.](https://support.focus.teamleader.eu/hc/article_attachments/25697687370129)
 
 ## 3. Customer = Contact
 

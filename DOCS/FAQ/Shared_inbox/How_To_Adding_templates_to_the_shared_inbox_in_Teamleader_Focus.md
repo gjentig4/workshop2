@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # How To: Adding templates to the shared inbox in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691055219473)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,7 +20,7 @@ There are support questions that will keep coming up. In that case it might be u
 
 - Click on the “**+**” symbol next to “**Reply templates**”
 
-- Give your template a name and write your email content. Note that you can enter variables.![](https://support.focus.teamleader.eu/hc/article_attachments/25691007696145)
+- Give your template a name and write your email content. Note that you can enter variables.![The 'Generic reply to ticket' form for creating email templates in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691007696145)
 
 - Click '**Save'.**
 

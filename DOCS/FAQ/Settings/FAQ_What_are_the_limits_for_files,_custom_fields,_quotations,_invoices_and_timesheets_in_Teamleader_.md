@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: What are the limits for files, custom fields, quotations, invoices and timesheets in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691223085201)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

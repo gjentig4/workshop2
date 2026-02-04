@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Creating a team in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690733150737)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -21,7 +21,7 @@ Combine all the talents of your employees in a team to tackle the most challengi
 - Click the “**+**” symbol.
 
 - Choose a name for your team.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690726562193)
+![The 'Edit team' dialog box in Teamleader Focus for managing team settings and approvals.](https://support.focus.teamleader.eu/hc/article_attachments/25690726562193)
 
 - Select the team leader from the dropdown menu
 

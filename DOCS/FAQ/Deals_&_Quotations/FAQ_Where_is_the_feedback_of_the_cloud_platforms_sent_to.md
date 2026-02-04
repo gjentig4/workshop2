@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: Where is the feedback of the cloud platforms sent to?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691108698129)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -19,7 +19,7 @@ When your customer receives your quotation or invoice, he or she has the option 
  
 
 In [CloudSign](https://support.focus.teamleader.eu/hc/en-150/articles/25690878232593-How-To-Digital-signing-of-your-quotations-with-CloudSign) and [InvoiceCloud](https://support.focus.teamleader.eu/hc/en-150/articles/25692202362257-How-To-Set-up-InvoiceCloud), the button ‘Send feedback’ can be found in the top right-hand corner:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691144702993)
+![Action buttons for a quotation: Send feedback, Sign quotation, and download icon.](https://support.focus.teamleader.eu/hc/article_attachments/25691144702993)
  
 
 ## CloudSign
@@ -40,7 +40,7 @@ Next to an email, also an in-app notification about the feedback will be visible
 
 - The feedback you receive from a customer will appear in the activities of your deal on your [deal page](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page):
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691161019281)
+![The Activities section in Teamleader Focus showing CloudSign feedback on a quotation.](https://support.focus.teamleader.eu/hc/article_attachments/25691161019281)
 
 ## InvoiceCloud
 
@@ -48,6 +48,6 @@ Next to an email, also an in-app notification about the feedback will be visible
 
 -  The feedback you receive from a customer will also appear in the tracking of the invoice:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691108799121)
+![Activity log entry showing client feedback added to an invoice in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691108799121)
 
 - Clients can add feedback multiple times.

@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How do I add a task in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691951164177)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -129,7 +129,7 @@ Lastly Teamleader Focus also allows you to create tasks in bulk. 
 
 - Select a specific segment in Contacts or Companies.
 
-- Click on **Actions **in the top right-hand corner. Here you select **Create ****tasks **to add tasks to several customers at once:![](https://support.focus.teamleader.eu/hc/article_attachments/25691938901521)
+- Click on **Actions **in the top right-hand corner. Here you select **Create ****tasks **to add tasks to several customers at once:![Bulk actions menu in the Companies list view with 'Create tasks' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691938901521)
 
  
 

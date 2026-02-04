@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # How To: Forwarding a ticket to a third party
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691633089169)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: My domain verification is pending or invalid, what could be wrong?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695195110545)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -20,7 +20,7 @@ If you ended up on this article, you probably tried to validate your email domai
 
 If your CNAME records show a ‘Verification failed’ or 'Pending' state, please check the following common causes.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695177438609)
+![Warning message stating 'Some records are not matching' during email domain setup.](https://support.focus.teamleader.eu/hc/article_attachments/25695177438609)
  
 
 ## 1. Did you add the CNAMEs to the DNS settings of your domain provider?
@@ -33,7 +33,7 @@ If not, [here’s a guide](https://support.focus.teamleader.eu/hc/en-150/article
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695181557009)
+![Table showing CNAME DNS records for email domain verification with a 'Copy all' button.](https://support.focus.teamleader.eu/hc/article_attachments/25695181557009)
 
  
 
@@ -49,7 +49,7 @@ Note that it can take up to **48 hours** for the CNAMEs to be registered publicl
 
 In order to avoid this, we highly recommend copy pasting the CNAME name(s) and value(s).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695195306001)
+![Table showing CNAME DNS records for domain verification with copy buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25695195306001)
 
  
 
@@ -61,7 +61,7 @@ Some hosting providers automatically add your domain name to any CNAME record yo
 
 To avoid this from happening, only add the first part of the CNAME name in the 'name' or 'alias' field of the CNAME record.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695177668241)
+![Table showing CNAME record names for email domain verification in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695177668241)
 
  
 
@@ -81,7 +81,7 @@ You simply paste (one of) the 3 CNAMEs in the search bar, and you will immediate
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695208359313)
+![A table showing a successful DNS record verification test in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695208359313)
 
  
 
@@ -92,7 +92,7 @@ If the CNAME cannot be found publicly, your domain cannot be verified by Teamlea
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695181781905)
+![A table row showing a failed DNS record test result in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695181781905)
 
  
 

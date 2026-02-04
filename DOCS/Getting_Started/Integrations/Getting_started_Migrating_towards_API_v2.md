@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: Migrating towards API v2
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695956466321)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 *The following article provides additional background information about the final migration to our current API version, referred to as 'API v2' in this article. This information is primarily relevant for customers who are still using older integrations relying on the previous API version, referred to as 'API v1' here.*
 

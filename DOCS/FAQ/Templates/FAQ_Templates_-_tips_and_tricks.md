@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: Templates - tips and tricks
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692036797585)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -76,7 +76,7 @@ Solution: You need to extend the size of the header. To do so, use the ruler at 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692023655441)
+![Microsoft Word interface for editing custom document templates for Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692023655441)
 
  
 

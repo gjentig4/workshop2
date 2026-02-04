@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # FAQ: Can I track time on a task, call or meeting which hasn't been scheduled yet?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691878466193)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

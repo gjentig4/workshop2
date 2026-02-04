@@ -10,7 +10,7 @@ section: "Products"
 
 # How To: Translating product names in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690707058961)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -30,7 +30,7 @@ When setting up Teamleader Focus, you get the opportunity to insert the differen
 
 - Click on “**Advanced options**” and make a “Group” called “Translation” by clicking on “**Other**”
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690734093841)
+![The 'Add Custom field' dialog box in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25690734093841)
 
 6. Click on “**Save**”
 
@@ -47,7 +47,7 @@ When setting up Teamleader Focus, you get the opportunity to insert the differen
 - Complete the form with all the necessary data
 
 - Add the translation in the field next to “Name LANGUAGE CODE”. E.g. “Name FR” or "Name NL"
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690767797777)
+![The 'Add Product' dialog box in Teamleader Focus showing fields for product info and pricing.](https://support.focus.teamleader.eu/hc/article_attachments/25690767797777)
 
 - Click on “**Save**”
 

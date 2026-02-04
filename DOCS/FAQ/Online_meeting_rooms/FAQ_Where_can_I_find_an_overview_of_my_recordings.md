@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: Where can I find an overview of my recordings?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694169763729)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 With the it's possible[ to record your meetings](https://support.focus.teamleader.eu/hc/en-150/articles/25694190319377-How-To-Record-your-meetings-via-the-Lead-Capture-Booster) and share the recording with your guests. The only thing you need is Google Chrome, Edge or Opera and the [Helper extension](https://chrome.google.com/webstore/detail/vectera-helper/nllnakkoanoloffpgpglbkijkdmiohmi). But where can you find an overview of all your recordings?
 
@@ -37,9 +37,9 @@ In every meeting room, you can find the recordings that you created in that spec
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694169809169)
+![The recordings management dialog in a Teamleader Focus video meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25694169809169)
 
-If you would like to watch or share a recording without having to go to that specific room, you can visit [Recordings](https://meeting.teamleader.eu/recordings/) in the dashboard!![](https://support.focus.teamleader.eu/hc/article_attachments/25694191029265)
+If you would like to watch or share a recording without having to go to that specific room, you can visit [Recordings](https://meeting.teamleader.eu/recordings/) in the dashboard!![The Recordings overview page in Teamleader Focus showing temporary local and cloud recordings.](https://support.focus.teamleader.eu/hc/article_attachments/25694191029265)
 
 # Temporary local recordings vs Cloud recordings
 
@@ -61,7 +61,7 @@ Downloaded on your local desktop
 - 
 Deleted
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694169906577)
+![The temporary local recordings list in Teamleader Focus showing meeting room video files.](https://support.focus.teamleader.eu/hc/article_attachments/25694169906577)
 
  
 
@@ -81,7 +81,7 @@ Downloaded on your local desktop
 - 
 Deleted
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694169966225)
+![The Cloud recordings table in Teamleader Focus showing meeting room recordings and management options.](https://support.focus.teamleader.eu/hc/article_attachments/25694169966225)
 
 # Personal and team recordings
 
@@ -98,19 +98,19 @@ Recordings in meeting rooms outside of your team
 
  
 
-For every recording, you will see the date of creation, name of the meeting room, name of the creator, duration and size.![](https://support.focus.teamleader.eu/hc/article_attachments/25694180035857)
+For every recording, you will see the date of creation, name of the meeting room, name of the creator, duration and size.![Cloud recordings list view showing meeting room recordings categorized by ownership.](https://support.focus.teamleader.eu/hc/article_attachments/25694180035857)
 
 ## Recordings in your meeting rooms
 
 Every recording created in one of your meeting rooms will show here. The recording can be created by you or someone else with host rights for the meeting room.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694206149393)
+![A list of meeting room recordings in Teamleader Focus showing date, room name, user, and file size.](https://support.focus.teamleader.eu/hc/article_attachments/25694206149393)
 
 ## Recordings in meeting rooms of your team
 
 If the [Team settings](https://www.vectera.com/team/settings/) [allow your team to have host rights in each other's meeting rooms](https://support.focus.teamleader.eu/hc/en-150/articles/25694722380433-How-To-Customise-your-meeting-rooms-and-booking-pages), you will see the recordings in the meeting rooms of other team members as well. The recordings can be created by you or someone else with host rights for the meeting rooms.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694180119057)
+![A list view showing recordings in meeting rooms of your team in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694180119057)
 
 ## Recordings in meeting rooms outside of your team
 
@@ -120,7 +120,7 @@ If you have host rights to a meeting room outside of your team you will see the 
 
 In the example below My Name and Team member name have both created a recording in the meeting room of Meeting owner name. Meeting owner name is a member of another team but invited My Name and Team member name to have host rights to the meeting room eileen-thompson.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694191360913)
+![List of meeting recordings in rooms outside the user's team in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694191360913)
 
 # Recordings in a deleted meeting room
 
@@ -128,7 +128,7 @@ It's possible that you have recorded a meeting in a meeting room that is current
 
  
 
-A recording that is saved in your local browser from a deleted meeting room, will show in your Temporary local recordings in the category 'No meeting room info'. You can Preview, Download or Delete the recording.![](https://support.focus.teamleader.eu/hc/article_attachments/25694191420817)
+A recording that is saved in your local browser from a deleted meeting room, will show in your Temporary local recordings in the category 'No meeting room info'. You can Preview, Download or Delete the recording.![A list view showing a recorded meeting entry with the status 'Deleted meeting'.](https://support.focus.teamleader.eu/hc/article_attachments/25694191420817)
 
  
 

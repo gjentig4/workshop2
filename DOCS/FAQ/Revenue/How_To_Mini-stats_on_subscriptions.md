@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Mini-stats on subscriptions
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697602159249)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,7 +20,7 @@ When you use subscriptions in Teamleader Focus you might wonder after a while ho
 
 When navigating to **Revenue** > **Subscriptions **you'll find the 'Mini-stats' button in the bottom-right corner in Teamleader Focus. Clicking on it displays the following overview:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697664353297)
+![Statistics widget for Subscriptions in Teamleader Focus showing counts and turnover values.](https://support.focus.teamleader.eu/hc/article_attachments/25697664353297)
 
  
 
@@ -60,7 +60,7 @@ Number in blue = amount of subscriptions that will be renewed next month
 - 
 The sum of all invoices that will be generated from subscriptions, excluding VAT
 
-Next to **Statistics**, you can find the following icon: ![](https://support.focus.teamleader.eu/hc/article_attachments/25697651388561)
+Next to **Statistics**, you can find the following icon: ![The Statistics menu item in the Teamleader Focus sidebar navigation.](https://support.focus.teamleader.eu/hc/article_attachments/25697651388561)
 Clicking on it will present you with some graphs containing the following info:
 
 - 

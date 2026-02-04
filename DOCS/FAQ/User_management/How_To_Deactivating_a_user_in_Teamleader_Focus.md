@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Deactivating a user in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690696951313)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -27,20 +27,20 @@ Follow the next steps to deactivate an employee:
 - The pop-up screen asks you what you want to do with all the outstanding tasks, deals, calls etc. of this employee:
 
 - You can opt to have each item transferred to one of your current employees. Then, for example, they are assigned all the outstanding tasks or calls.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690690655761)
+![The 'Deactivate user' dialog in Teamleader Focus for reassigning data when removing an employee.](https://support.focus.teamleader.eu/hc/article_attachments/25690690655761)
 
 - If you opt to do nothing, then all outstanding items are either saved under the name of the employee whom you wish to deactivate, or they'll be on 'None' until you decide to do something with them later.
 
 - Note that if you don't transfer the data right now, you can always do this later by navigating to your list of deactivated users, clicking on the user and choosing **Transfer data **in the top right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/37501213361425)
+![User profile view for a non-active user with the 'Transfer data' button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/37501213361425)
 
 - It's not possible to transfer meetings: the owner of the meeting will remain the deactivated user. You can sort on these meetings by navigating to Meetings and selecting 'Inactive users'.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690713787537)
+![The Meetings overview in Teamleader Focus with a dropdown menu to filter by inactive users.](https://support.focus.teamleader.eu/hc/article_attachments/25690713787537)
 
  
 
 5. Click on “**Deactivate**” and the account of this employee is cancelled. Now they can no longer log in and they will also no longer be visible in the selection menus within Teamleader Focus. The account of the deactivated person remains visible under “Deactivated” in case you want to reactivate it later.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690713845265)![](https://support.focus.teamleader.eu/hc/article_attachments/25690704206609)
+![The User management settings page in Teamleader Focus showing active, invited, and deactivated tabs.](https://support.focus.teamleader.eu/hc/article_attachments/25690713845265)![A segmented control button group for filtering user status with 'Deactivated' selected.](https://support.focus.teamleader.eu/hc/article_attachments/25690704206609)
 
  
 

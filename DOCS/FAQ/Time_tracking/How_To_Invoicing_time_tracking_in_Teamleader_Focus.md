@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Invoicing time tracking in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691016328081)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25691021212177)
+          ![Tutorial banner for 'Creating invoices from timetracking' in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691021212177)
         
 
       
@@ -47,7 +47,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 - Go to “**Contacts**” or “**Companies**”
 
 - On the detail page of every contact or company you tracked time for, you will find “Unbilled time spent”. Click on “**Actions**” and choose “**Create invoice**”
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691026644241)
+![The 'Unbilled time spent' table in Teamleader Focus with the 'Actions' dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25691026644241)
 
 - Click “**Go**”. You’ve now invoiced your time trackings
 
@@ -57,7 +57,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
 
 You can find an overview of the total amount to be invoiced per contact or company by navigating to the contacts or companies overview and adding the column 'Total to be invoiced' to the overview via the cogwheel in the bottom right-hand corner.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691053528721)
+![The Companies overview list in Teamleader Focus, sorted by the 'Total to be invoiced' column.](https://support.focus.teamleader.eu/hc/article_attachments/25691053528721)
  
 
 - This amount is the sum of the value of the tracked time and the value of the linked products.  
@@ -66,7 +66,7 @@ You can find an overview of the total amount to be invoiced per contact or compa
 
 - You can sort on this column as well as create segments. An example of a segment could be to only show the contacts/companies that have an amount to be invoiced larger than €0:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691016536721)
+![The 'Edit segment' dialog in Teamleader Focus showing general information and segment rules.](https://support.focus.teamleader.eu/hc/article_attachments/25691016536721)
  
 
 ## Via the time tracking overview - invoice unbilled time
@@ -74,7 +74,7 @@ You can find an overview of the total amount to be invoiced per contact or compa
 - Navigate to **Revenue **> **Invoices**
 
 - Click on the **Invoice unbilled time **in the top right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691053614353)
+![Header of the Invoices module in Teamleader Focus with search, filter, and action buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25691053614353)
 
 - Now you see an overview of all unbilled hours per customer, where you can specify which time trackings you want to invoice. Confirm the action by clicking on the** toggles**. You can click on multiple toggles.
 

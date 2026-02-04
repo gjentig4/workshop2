@@ -10,7 +10,7 @@ section: "Products"
 
 # FAQ: When are products added to or removed from my stock?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690962332945)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -20,4 +20,4 @@ If you are using our [stock management](https://support.focus.teamleader.eu/hc/e
 
 - Teamleader Focus has an option to create [orders](https://support.focus.teamleader.eu/hc/en-150/articles/25691460255505-FAQ-What-is-the-workflow-of-order-confirmations-orders-and-delivery-notes) to send to your suppliers*.* On these orders you can add the products you need to replenish your stock and send the order in pdf. When your supplier has delivered the order, confirming this delivery will increase your stock.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690996180241)
+![Status bar for an order showing progress from New to Order sent, with an Actions dropdown menu.](https://support.focus.teamleader.eu/hc/article_attachments/25690996180241)

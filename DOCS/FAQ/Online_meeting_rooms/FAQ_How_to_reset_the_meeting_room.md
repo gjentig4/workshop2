@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: How to reset the meeting room?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694873875217)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Every now and then it's important to start off with a clean slate. So we made it easy to reset your meeting room after every meeting or to manually clear all recordings, content, chat history and invited people.
 
@@ -40,7 +40,7 @@ If one of the participants uploads or edits a whiteboard or file or sends a chat
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25694873923857)**
+**![Information banner about saving meeting room content like whiteboards and chat history.](https://support.focus.teamleader.eu/hc/article_attachments/25694873923857)**
 
 The meeting host has 3 options:
 
@@ -72,7 +72,7 @@ When you select 'Leave' or 'End call for everyone' a pop-up will appear asking i
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694855935377)
+![A confirmation dialog asking to clear meeting room content before leaving.](https://support.focus.teamleader.eu/hc/article_attachments/25694855935377)
 
  
 
@@ -110,7 +110,7 @@ Make sure that the checkbox 'Meeting activity' is checked and click on reset
 - 
 The room will reset and you will leave the room automatically
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694874067217)
+![Interface for the Whiteboard feature in Teamleader Focus meeting tool](https://support.focus.teamleader.eu/hc/article_attachments/25694874067217)
 
 ## 
 
@@ -133,6 +133,6 @@ It's also possible to reset certain parts of the meeting room. You can follow th
 - 
 **Specific user access**: delete all the email addresses that are invited in the sharing settings.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694890364945)
+![The 'Reset meeting room' dialog box with options to clear meeting data.](https://support.focus.teamleader.eu/hc/article_attachments/25694890364945)
 
 In this example, you would only delete the chat history and the whiteboards/uploaded files.

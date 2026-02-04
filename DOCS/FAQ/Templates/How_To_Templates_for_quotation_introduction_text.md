@@ -10,7 +10,7 @@ section: "Templates"
 
 # How To: Templates for quotation introduction text
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/31592155327249)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 If you often send quotations to your customers, it can be useful to have some standard messages ready to add to your quotation. That's where the templates for the quotation introduction text come in.
 
 To create a default message for a quotation, follow these steps:
@@ -25,7 +25,7 @@ To create a default message for a quotation, follow these steps:
 
 - Define your message. There are some variables you can use to personalise your message. For example, the variable #CONTACT_FIRST_NAME will always be replaced by the first name of the contact you are sending a quotation to, given that this information is available in the CRM. If you're sending an email to Jeroen De Wit, the variable #CONTACT_FIRST_NAME will be replaced with "Jeroen". 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31600375997457)
+![The creation form for a quotation introduction text template in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31600375997457)
 
 You can use different variables to personalise your message. Through the #NAME personalisation, for example, you can always start the accompanying text of your quotation with your customer’s name, regardless of the customer to whom you are sending the offer. You can set up different default emails depending on the nature of the offer.
 
@@ -34,7 +34,7 @@ You can use different variables to personalise your message. Through the #NAME p
 
 - Create a quotation and select your template in 'Introduction text'. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31600376003089)
+![The introduction text editor and VAT settings for a quotation in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31600376003089)
  
 
 - Save your quotation and then this template will be used on the first page of the quotation, unless otherwise defined in your quotation template layout (by the placement of the shortcode $QUOTATION_TEXT$).

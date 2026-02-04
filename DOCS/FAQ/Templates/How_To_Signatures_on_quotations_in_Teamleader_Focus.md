@@ -10,7 +10,7 @@ section: "Templates"
 
 # How To: Signatures on quotations in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/33646023920913)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 Want to set or change your signature in Teamleader Focus? Whether you're adjusting the size for a better fit or adding a new one, it’s easy to update. This guide will show you how to upload your signature and add it to your quotation template, as well as your customer's signature.
 
  
@@ -40,4 +40,4 @@ If you want to add signatures to your quotations - both your own signature and t
 - $CLIENT_SIGNATURE$: This will only add the signature of the customer to your quotation.
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/33645976471313)
+![Table of document signature shortcodes and their descriptions in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25690883767953)

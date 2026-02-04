@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Disable editing of booked invoices and credit notes in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693825818641)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 If you want to prevent anyone from making changes to an invoice or a credit note once it’s booked, you can enable a setting in your account. Read on to find out more about this feature!
 
@@ -27,7 +27,7 @@ Go to **Settings **> **Revenue**
 At the top you find ‘Preferences’
 
 - 
-Enable the slider **Booked invoices and credit notes can’t be edited**![](https://support.focus.teamleader.eu/hc/article_attachments/25693857351441)
+Enable the slider **Booked invoices and credit notes can’t be edited**![Toggle switches for invoice currency conversion and editing booked invoices in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693857351441)
 
 Note that this is an **account setting**: when enabled no user in the account can edit booked invoices/credit notes.
 

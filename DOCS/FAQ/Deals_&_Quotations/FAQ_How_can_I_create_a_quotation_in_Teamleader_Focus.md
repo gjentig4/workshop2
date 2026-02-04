@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: How can I create a quotation in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693594115345)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Did you meet some new leads and are you ready for the next step? Let's start creating some quotations.
 
@@ -18,7 +18,7 @@ Did you meet some new leads and are you ready for the next step? Let's start cre
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693591433745)
+![Tutorial title slide for 'Registering timetracking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
 
  
 
@@ -30,12 +30,12 @@ There are two ways to create a quotation in Teamleader Focus. Either from scratc
 
 To create a quotation from scratch, you just go to your **Quotations **module, and click on **Add quotation **in the top right-hand corner. Or you click on the **+ **at the top of your Teamleader Focus account and choose **Quotation**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693608979601)
+![The 'plus' button dropdown menu in Teamleader Focus for creating new items.](https://support.focus.teamleader.eu/hc/article_attachments/25693608979601)
 
  
 
 - Fill out the required fields, like the name of your quotation and the customer. The name of your quotation will be prefilled as 'Quotation' already, but you can of course still change the name:
-![](https://support.focus.teamleader.eu/hc/article_attachments/31535496217745)
+![The 'Create quotation' interface in Teamleader Focus showing header details, text editor, and items.](https://support.focus.teamleader.eu/hc/article_attachments/31535496217745)
 *Note that you can also *[*base your quotation on an existing one by clicking on Use existing quotation*](https://support.focus.teamleader.eu/hc/en-150/articles/25693606511889-FAQ-Can-I-copy-a-quotation-in-Teamleader-Focus)*** **in the top right-hand corner.*
 
 - In the field '**Valid until**', you can set an expiry date for your quotation so you don't lose track of quotations that still need to be signed. [Read everything about this functionality here.](https://support.focus.teamleader.eu/hc/en-150/articles/25695533505553-How-To-Expiry-dates-on-quotations-in-Teamleader-Focus)
@@ -47,7 +47,7 @@ If you leave the field empty, we'll automatically create a new deal for you
 - You can also select an already existing deal
 
 - It's also possible to click on **+New deal**, which gives you the opportunity to immediately fill out the name of your deal
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693618789777)
+![Selecting or creating a deal from a dropdown menu in a Teamleader Focus document form.](https://support.focus.teamleader.eu/hc/article_attachments/25693618789777)
  
 
 - 
@@ -57,7 +57,7 @@ Fill out an introduction text for your quotation. You can either leave this fiel
 - Fill out the items on your quotation, either by selecting products from your product database or by typing them manually.
 
 - Click on **Save and preview **and you'll immediately see what your quotation looks like. In 'Display customisation' you can choose to hide certain items on your quotation like unit prices, subtotals or VAT:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693618834705)*Notes:*
+![Preview quotation screen with display customization options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693618834705)*Notes:*
 
 You could also just Save the quotation without previewing it, by clicking on the arrow next to 'Save and preview' > **Save.
 **
@@ -67,11 +67,11 @@ You could also just Save the quotation without previewing it, by clicking on the
 - Apply the changes or click on 'Done', and you're now redirected to the detail page of the quotation:
 
 In the quotation **header**, you can edit, [rename](https://support.focus.teamleader.eu/hc/en-150/articles/25693511139089-How-To-Renaming-a-quotation-in-Teamleader-Focus), [copy ](https://support.focus.teamleader.eu/hc/en-150/articles/25693606511889-FAQ-Can-I-copy-a-quotation-in-Teamleader-Focus)or [delete ](https://support.focus.teamleader.eu/hc/en-150/articles/25693746481937-FAQ-Can-I-delete-a-quotation)the quotation by clicking on the **three dots. **It's also possible to **customise** the header here to decide which fields you'd like to display.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693618885777)
+![The quotation details header in Teamleader Focus showing the actions menu for a draft quotation.](https://support.focus.teamleader.eu/hc/article_attachments/25693618885777)
  
 
 - To send the quotation, click on **Send quotation **in the top right-hand corner. You can also mark the quotation as sent, accepted or [refused](https://support.focus.teamleader.eu/hc/en-150/articles/25696076910737-How-To-Mark-a-quotation-as-refused), [make it available/remove it on CloudSign](https://support.focus.teamleader.eu/hc/en-150/articles/25693770369937-FAQ-Can-I-make-a-quotation-un-available-on-CloudSign), [preview it on CloudSign](https://support.focus.teamleader.eu/hc/en-150/articles/25693807353233-FAQ-Can-I-see-a-preview-of-my-quotation-in-CloudSign), copy the link, download the PDF, or print the document.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693594596625)
+![The 'Send quotation' action menu in Teamleader Focus with various quotation management options.](https://support.focus.teamleader.eu/hc/article_attachments/25693594596625)
 
 - In the **detail **section you have the option to add background information to your quotation, access the quotation contents, view the files attached to your quotation and access the quotation activity.
 
@@ -90,7 +90,7 @@ In the quotation **header**, you can edit, [rename](https://support.focus.teamle
 - Click on **Add deal**
 
 - Fill in the fields
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693591796241)*Note*: when selecting a [template](https://support.focus.teamleader.eu/hc/en-150/articles/25691231613713-How-To-Saving-a-quotation-as-a-template), a quotation will automatically be created
+![The 'Add Deal' dialog box in Teamleader Focus with fields for title, customer, and amount.](https://support.focus.teamleader.eu/hc/article_attachments/25693591796241)*Note*: when selecting a [template](https://support.focus.teamleader.eu/hc/en-150/articles/25691231613713-How-To-Saving-a-quotation-as-a-template), a quotation will automatically be created
 
  
 
@@ -120,4 +120,4 @@ If you want, you can also move an article to another place in the quotation by h
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693619056273)
+![The 'Items on the quotation' table in Teamleader Focus for adding products and services.](https://support.focus.teamleader.eu/hc/article_attachments/25693619056273)

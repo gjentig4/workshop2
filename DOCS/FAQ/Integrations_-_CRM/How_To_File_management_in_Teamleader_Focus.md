@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: File management in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697932415377)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -34,12 +34,12 @@ In this article we'll give you more info about the following topics related to f
 
 To add a file to a specific item (Companies, Contacts, Projects, Invoices, Tickets, Products, Meetings), just click on the** files tab** at the bottom right-hand corner of the page:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697959372817)
+![Overview page of a company in Teamleader Focus with the 'Files' tab highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25697959372817)
 
 You'll have two options to add a file: 
 
 - You can click on **+ **next to 'Documents' and select the file you want to upload
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697959421201)
+![The Documents section header with the plus icon to add a new document.](https://support.focus.teamleader.eu/hc/article_attachments/25697959421201)
 
 - You can drag the file into the Files tab. 
 
@@ -47,12 +47,12 @@ You'll have two options to add a file: 
 
 If you want to add a file to a deal, just click on the **+** next to 'Files' or drag and drop your file in the 'Files' field.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697942797969)
+![The 'Scheduled actions' and 'Files' widgets on a deal detail page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697942797969)
 
  
 
 If you want to add a file to a quotation, go to the quotation page and in the 'Detail' tab, go to 'Files' > **+ **
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25697959536401)**
+**![The Files widget in Teamleader Focus showing a list of uploaded documents and an add button.](https://support.focus.teamleader.eu/hc/article_attachments/25697959536401)**
 
  
 
@@ -60,7 +60,7 @@ If you want to add a file to a quotation, go to the quotation page and in the 'D
 
 When adding a file, Teamleader Focus will give you the option to choose a folder to link it to. You'll also have the option to create a new folder by clicking on **More **> **Add new folder**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697959620753)
+![The 'Add file to contact' dialog showing the folder selection dropdown with 'Add new folder' option.](https://support.focus.teamleader.eu/hc/article_attachments/25697959620753)
  
 
 ## Integrations
@@ -73,12 +73,12 @@ If you often manage large files and you don’t only want to keep them in Teamle
 
 You can easily delete a file by clicking on the** Files tab **and hovering over the file that you want to delete > right-click > **D****elete file**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697959675921)
+![The file management menu in Teamleader Focus showing options to download, email, or delete a file.](https://support.focus.teamleader.eu/hc/article_attachments/25697959675921)
 
  
 
 On your deal detail or quotation detail page, you can delete a file by clicking on the **three dots** next to the file > **Delete file**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25697917952145)**
+**![Dropdown menu for file actions in Teamleader Focus showing the Delete file option.](https://support.focus.teamleader.eu/hc/article_attachments/25697917952145)**
 
  
 
@@ -93,7 +93,7 @@ Notes:
 - However, when there are more than 10 files added to a Files tab, you'll need to click on the **Folder icon **to access all files.
  
 
-- ![](https://support.focus.teamleader.eu/hc/article_attachments/25697959804561)
+- ![The Files section in Teamleader Focus showing uploaded PDF documents and action icons.](https://support.focus.teamleader.eu/hc/article_attachments/25697959804561)
 
 - Navigate to the file you'd like to delete, open the preview and then click on the **bin **to delete the file. If you want to delete a file that isn't a .pdf though (no preview can be generated), this workaround is not possible. Please [contact our support team](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065) in this case.
 

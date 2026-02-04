@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: How does Presenter Mode work?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694086528145)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The Lead capture Booster allows participants to actively interact during the meeting: they can upload documents, share their screen, make annotations.
 
@@ -21,23 +21,23 @@ For certain meetings, it can be important to disable those features for the part
 1. Head over to the meeting room where you want to use Presenter Mode
 
 2. In the top right-hand corner, you will see the Presenter mode button:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694109278609)
+![The interactive whiteboard interface within a Teamleader Focus video meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25694109278609)
 
 3. Toggle Presenter mode so the button turns blue:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694086685969)
+![Top navigation bar icons including presentation mode, focus mode, statistics, and user profile.](https://support.focus.teamleader.eu/hc/article_attachments/25694086685969)
 
 ## The presenter's view
 
 Nothing changes - you can just continue presenting as you were!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694122797457)
+![The interactive whiteboard interface within a Teamleader Focus video meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25694109278609)
 
 ## The participant's view
 
 The participant gets a stripped view, seeing only the shared content in the center of the screen.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694095195665)
+![Interface of the Teamleader Focus video meeting tool with a shared whiteboard and control bar.](https://support.focus.teamleader.eu/hc/article_attachments/25694095195665)
 
 * *note: the images above are examples where the camera/microphone was deactivated.*
 

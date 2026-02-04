@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can I set a bcc for all outgoing email?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693945522321)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -22,7 +22,7 @@ When you or your colleagues are sending emails from within Teamleader Focus, it 
 
 To set this up, you first of all need access to ‘Settings’. Then, follow these steps:
 
-- Go to **Settings **> **Email > ****Preferences**![](https://support.focus.teamleader.eu/hc/article_attachments/25693945588753)
+- Go to **Settings **> **Email > ****Preferences**![Email preferences in Teamleader Focus showing logo, thumbnail, and BCC options.](https://support.focus.teamleader.eu/hc/article_attachments/25693945588753)
 
 - Click on **Add bcc for all outgoing email**
 

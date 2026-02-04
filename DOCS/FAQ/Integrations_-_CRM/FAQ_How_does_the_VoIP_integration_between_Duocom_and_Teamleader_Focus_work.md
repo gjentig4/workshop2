@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # FAQ: How does the VoIP integration between Duocom and Teamleader Focus work?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693379784465)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Calling via VoIP has a good number of advantages. It allows you making and receiving calls from anywhere in the world by just being connected to the Internet, calls are cheaper and it even allows you tracking those calls in the right customer in your CRM. Just like Teamleader Focus does.
 

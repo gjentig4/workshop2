@@ -10,7 +10,7 @@ section: "Expenses"
 
 # How To: Send expenses to your bookkeeping in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/34357237105425)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 Managing business expenses doesn’t have to be a time-consuming hassle in Teamleader Focus. Add your expenses, approve them and finally send your approved expenses to your bookkeeping automatically or in just one click. Read all about setting a bookkeeping email address and (automatically) sending your expenses here.
 
  
@@ -38,13 +38,13 @@ Follow these steps to send your expenses to your bookkeeper or your bookkeeping 
 [Add your expenses to Teamleader Focus](https://support.focus.teamleader.eu/hc/en-150/articles/34057221210001-How-To-Add-scan-expenses-in-Teamleader-Focus) and make sure you [approve them first](https://support.focus.teamleader.eu/hc/en-150/articles/34357191325201-How-To-Approve-or-refuse-expenses-in-Teamleader-Focus).
 
 - In your expense, click on **Enable sending to bookkeeping tool.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/41138371202449)**
+**![Detailed view of an approved and paid expense for 'Parking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41138371202449)**
  
 
 - You’ll be redirected to **Settings > Expenses **where you can set up a bookkeeping tool email for syncing your expenses.
 
 - Click on the **+ Icon.**
-![](https://support.focus.teamleader.eu/hc/article_attachments/42322219100049)
+![The 'Add bookkeeping tool email' dialog box in Teamleader Focus for expense synchronization.](https://support.focus.teamleader.eu/hc/article_attachments/42322219100049)
 
 Fill out a bookkeeping tool email address and select a company entity. Know that you can pick [multiple company entities](https://support.focus.teamleader.eu/hc/en-150/articles/25697681388177-How-To-Multiple-company-entities-in-Teamleader-Focus) for the same email address.
 Note: if there's an expense 
@@ -57,11 +57,11 @@ Note: if there's an expense 
 - Click on **Save.**
 
 - After you’ve added an email address, you’ll receive the following message stating that your expenses will be sent from this ‘from’ email address. Add this address as an allowed sender in your bookkeeping tool, as lots of bookkeeping tools block external email addresses.
-![](https://support.focus.teamleader.eu/hc/article_attachments/41138371206545)
+![Setting the bookkeeping tool email for syncing expenses in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41138371206545)
  
 
 - If you haven't auto synced your expenses to your bookkeeping tool, return to the expense you want to send and click on the button **Send to bookkeeper.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/34358787903889)**
+**![Action buttons for 'Send to bookkeeper' and 'Mark as refused' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/34358787903889)**
 
 Review the email address and click on **Send.**
  

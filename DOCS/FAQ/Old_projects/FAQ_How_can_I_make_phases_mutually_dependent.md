@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: How can I make phases mutually dependent?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691921995537)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -26,7 +26,7 @@ Whenever you add a second (or third, ...) phase to a project, you'll have the op
 
 - Click on **+ Dependency **and select one of your existing phases
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691922036369)
+![The 'Add phase' form in Teamleader Focus project management, highlighting the dependency feature.](https://support.focus.teamleader.eu/hc/article_attachments/25691922036369)
 
  
 
@@ -34,7 +34,7 @@ Whenever you add a second (or third, ...) phase to a project, you'll have the op
 
 If you afterwards move the due date of a phase that is linked to another phase, you'll have the option to apply this change to tasks and dependencies as well:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691922088081)
+![Selecting a due date in Teamleader Focus with the 'Apply to tasks and dependencies' toggle enabled.](https://support.focus.teamleader.eu/hc/article_attachments/25691922088081)
  
 
 ### Enabling the toggle

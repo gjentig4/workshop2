@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: How can I add account managers in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691369234833)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

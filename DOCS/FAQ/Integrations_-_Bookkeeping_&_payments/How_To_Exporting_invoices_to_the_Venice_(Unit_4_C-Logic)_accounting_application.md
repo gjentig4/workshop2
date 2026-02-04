@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Exporting invoices to the Venice (Unit 4 C-Logic) accounting application
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692473598225)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ For example, for quarter 4 of 2013 (1/10/2013 to 31/12/2013), this is "31/12/201
 
 Go to the customer screen by selecting **Basic data** - **Customers**. Next, select **Extra **- **Import**. For the data file, select "**Output customers.txt**" and, for the descriptive file, "**Output customers.cli**". At Actions, indicate "**Formal testing**" and "**Add**", and at "**From item**", enter **1**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692521082001)
+![Import dialog for customer data in Venice (Teamleader Focus integration)](https://support.focus.teamleader.eu/hc/article_attachments/25692521082001)
 
  
 

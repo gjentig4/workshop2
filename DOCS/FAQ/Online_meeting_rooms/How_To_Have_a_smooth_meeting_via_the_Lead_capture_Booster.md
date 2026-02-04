@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Have a smooth meeting via the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693993313425)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this article you can read a few** tips to optimize your meeting experience**. It's always good to check whether everything is fine before you start the meeting!
 
@@ -46,7 +46,7 @@ The Lead capture Booster works on the latest versions of most browsers. If you h
 
  If you have opened a lot of browser tabs while having an online meeting, it can affect your connection. Try to **limit the amount of opened tabs** to the ones you need for the meeting.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693985843729)
+![The Teamleader Focus meeting room interface showing collaboration tools like whiteboard and screen sharing.](https://support.focus.teamleader.eu/hc/article_attachments/25693985843729)
 
  
 
@@ -78,7 +78,7 @@ To improve your meetings, you can **[enable the noise suppression feature](https
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693986007057)
+![The Audio/video settings dialog in a Teamleader Focus meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/25693986007057)
 
  
 

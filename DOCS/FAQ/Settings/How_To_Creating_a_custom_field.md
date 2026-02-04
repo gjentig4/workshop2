@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Creating a custom field
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692615173521)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -39,7 +39,7 @@ By default, Teamleader Focus offers a variety of fields to enter information on 
 By clicking “Advanced options” you get three extra options to choose from.
 
 - If you have a lot of custom fields of one type, **grouping **them isn’t an unnecessary luxury. That’s why you can create different groups for custom fields. Select a group from the drop down menu or create a new one by clicking “other”. For example, if you have a lot of fields to enter more marketing information about a deal, create a group ‘Marketing information’ and assign those custom fields to it. They’ll be grouped like this:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692594611729)
+![The Marketing Information section in a Teamleader Focus contact or company form.](https://support.focus.teamleader.eu/hc/article_attachments/25692072992529)
 
 - Click on the slider to make a certain custom field **obligatory**.
 

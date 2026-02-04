@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: Sending email campaign with Campaign Monitor in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690730208657)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -43,7 +43,7 @@ The integration between Campaign Monitor and Teamleader Focus is easy: Teamleade
 *Note: *
 
 In order to sync your contacts to Campaign Monitor, the [checkbox 'Opt-in marketing mails'](https://support.focus.teamleader.eu/hc/en-150/articles/25692799115281-FAQ-What-does-the-checkbox-Opt-in-marketing-mails-mean) needs to be enabled for each contact in Teamleader Focus.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690742971921)
+![Form fields for business details including bank info, VAT liability, and marketing opt-in.](https://support.focus.teamleader.eu/hc/article_attachments/25690742971921)
 
  
 
@@ -56,14 +56,14 @@ For example, you want to send a campaign specifically to your customers in Germa
 - 
 [Create a segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) in Teamleader Focus based on a country
 
-- Choose to make this segment available in Campaign Monitor. Teamleader Focus will then synchronize this segment![](https://support.focus.teamleader.eu/hc/article_attachments/25690743019793)
+- Choose to make this segment available in Campaign Monitor. Teamleader Focus will then synchronize this segment![The 'Add segment' dialog box in Teamleader Focus for creating a filtered list of contacts.](https://support.focus.teamleader.eu/hc/article_attachments/25690743019793)
  
 
 - To synchronize your segments for the first time, you can click the rotation symbol on top of the screen (remember: you have to be in the CRM module to do this!)
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690723676561)
+![Teamleader Focus top navigation bar icons for quick actions and support.](https://support.focus.teamleader.eu/hc/article_attachments/25690723676561)
 
  
 

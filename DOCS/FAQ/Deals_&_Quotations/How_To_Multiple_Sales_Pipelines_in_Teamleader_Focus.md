@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Multiple Sales Pipelines in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696013973905)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -110,7 +110,7 @@ To add a new pipeline, follow these steps:
 - Click on **Deals and Quotations**
 
 - In ‘Pipelines’, click on the **+** in the top right-hand corner
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696000759825)
+![The 'Add new pipeline' dialog box in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696000759825)
 
 - Fill out a **name **for your pipeline
 
@@ -148,7 +148,7 @@ Delete a pipeline by clicking on the **three ****dots **next to it and choosin
 - 
 *It’s not possible to delete your default pipeline.*
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/26074486260369)*
+*![Dialog box for deleting a deal pipeline and remapping existing deals to a new pipeline.](https://support.focus.teamleader.eu/hc/article_attachments/26074486260369)*
  
 
 After clicking on this button, you’ll see an overview screen stating that this pipeline has X number of deals. View the list of deals by clicking on the hyperlink.
@@ -188,7 +188,7 @@ When editing a deal, users can also change the pipeline for that deal. If a pipe
 ### Moving multiple deals to another pipeline
 
 When changing the status of a deal phase in bulk (via Deals > Select a segment or a pipeline > Actions > Change deal phase), it's possible to move multiple deals to another pipeline by selecting one of the phases of the destination pipeline.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696028360849)
+![Bulk action dialog in Teamleader Focus to change the deal phase for multiple deals at once.](https://support.focus.teamleader.eu/hc/article_attachments/25696028360849)
 
  
 
@@ -198,14 +198,14 @@ When changing the status of a deal phase in bulk (via Deals > Select a segment o
 
 You can switch seamlessly between different pipelines on the Kanban Board. The pipeline selected here is the one that’s suggested when adding a deal (cf. above).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695984973073)
+![The Deals overview page in Teamleader Focus showing the pipeline selection dropdown menu.](https://support.focus.teamleader.eu/hc/article_attachments/25695984973073)
 
  
 
 ### List view
 
 On your deal list view, you can filter deals by pipeline, including selecting ‘All pipelines’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696028464785)
+![Deals overview in Teamleader Focus with the pipeline selection dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25696028464785)
 
  
 
@@ -216,7 +216,7 @@ On your deal list view, you can filter deals by pipeline, including selecting �
 - Add the column ‘Pipeline’ to the Deal overview page via the cogwheel in the bottom right-hand corner
 
 - Execute bulk actions by selecting a segment, a pipeline or a status:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696014335377)
+![Bulk actions menu in the Teamleader Focus deal overview list.](https://support.focus.teamleader.eu/hc/article_attachments/25696014335377)
 
  
 
@@ -226,7 +226,7 @@ Check out the forecast per pipeline or for a combination of pipelines using a mu
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696028527505)
+![Sales forecasting view in Teamleader Focus with pipeline selection dropdown](https://support.focus.teamleader.eu/hc/article_attachments/25696028527505)
 
 ## 
 
@@ -241,7 +241,7 @@ Under Insights, you’ll find extensive reports on deals such as deal cycle leng
 - You can add deal [segments ](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus)based on pipelines and/or phases
 
 - While exporting your deals to Excel, you can choose whether to export all pipelines or export only a specific pipeline
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695985267729)
+![The 'Export to Excel' dialog box in Teamleader Focus for exporting data segments.](https://support.focus.teamleader.eu/hc/article_attachments/25695985267729)
 
  
 

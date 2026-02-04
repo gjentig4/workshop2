@@ -38,7 +38,7 @@ Do you prefer to watch our instructive video? You can do so right here:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696020155665)
+![Empty state of the Deals module in Teamleader Focus with an 'Add deal' button.](https://support.focus.teamleader.eu/hc/article_attachments/25696020155665)
 
  
 
@@ -88,10 +88,10 @@ Ready to start using the new projects? Let’s go through the migration flow tog
 - Go to **projects**.
 
 - Once you are in the project overview, you will see a **toggle **that allows you to preview your projects in the new view. By clicking this, you don’t migrate to the new projects yet. You can perform some actions in this preview mode like customising the header, but most aren't possible.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696020215697)
+![Overview of the Projects module in Teamleader Focus showing a list of active projects.](https://support.focus.teamleader.eu/hc/article_attachments/25696020215697)
 
 - Once you’ve visualised your projects in the new view, click the button **“Request switch”.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/38877579697041)**
+**![Top navigation bar and project action buttons in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/38877579697041)**
 
 - This will open a pop-up. Once your request is sent, customer support will contact you to guide you with your switch. Notice that the switch cannot be reversed!
 

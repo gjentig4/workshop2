@@ -10,9 +10,9 @@ section: "CRM"
 
 # How To: Customise contact and company pages
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695928549265)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
-In Teamleader Focus, every user can customise their contact and company page just the way they want to. They can reorder the page or show and hide certain items. Read all about it here.![](https://support.focus.teamleader.eu/hc/article_attachments/25695916029457)
+In Teamleader Focus, every user can customise their contact and company page just the way they want to. They can reorder the page or show and hide certain items. Read all about it here.![Customizing the layout of the Company overview page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695916029457)
 
 Every user in Teamleader Focus with access to 'Contacts' and 'Companies' can customise those contact and company pages. Keep in mind that this is a **customisation on user level; **meaning if one user changes this in their account this customisation is not visible to other users. This allows each user to focus better by hiding what's irrelevant to them, and prioritise information they want to see first.
 
@@ -20,14 +20,14 @@ Every user in Teamleader Focus with access to 'Contacts' and 'Companies' can cus
 
 To customise your contact or company page, go to a contact or a company and click on **Customise page **in the top right-hand corner:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695900458385)
+![Overview of a company record in Teamleader Focus showing company and background information widgets.](https://support.focus.teamleader.eu/hc/article_attachments/25695900458385)
 
  
 
 In the next view, you can **drag **and **drop** items over the page to customise it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695866129041)
+![Customizing the layout of a company or contact detail page by hiding or reordering widgets.](https://support.focus.teamleader.eu/hc/article_attachments/25695866129041)
 
-Or you can click on the icon with the **eye **to hide certain items. Click on it again to display the item again.![](https://support.focus.teamleader.eu/hc/article_attachments/25695882325137)
+Or you can click on the icon with the **eye **to hide certain items. Click on it again to display the item again.![The Quotations widget in a detail view with the visibility icon highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25695882325137)
 
  
 
@@ -35,8 +35,8 @@ Or you can click on the icon with the **eye **to hide certain items. Click on i
 
 - The customisation settings are applied for all your contact and company pages.
 
-- As the customisation options of the page are primarily linked to items of other modules rather than the contact/company information itself, the Company information (e.g. company name, VAT number, address, payment terms, price lists, ...), the Background information and the Activities at the bottom of the page are fixed. You can't drag and drop or hide these items.*Note: if you customise the 'Company information' to Full width, then it is possible to** hide the 'Background information'.**![](https://support.focus.teamleader.eu/hc/article_attachments/25695928786705)*
+- As the customisation options of the page are primarily linked to items of other modules rather than the contact/company information itself, the Company information (e.g. company name, VAT number, address, payment terms, price lists, ...), the Background information and the Activities at the bottom of the page are fixed. You can't drag and drop or hide these items.*Note: if you customise the 'Company information' to Full width, then it is possible to** hide the 'Background information'.**![Layout settings for Company and Background information sections in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695928786705)*
 
-- You restore the default view by clicking on **Customise page Restore default view. **Click on **Apply changes:****![](https://support.focus.teamleader.eu/hc/article_attachments/25695944654225)**
+- You restore the default view by clicking on **Customise page Restore default view. **Click on **Apply changes:****![Action buttons for restoring default view, canceling, or applying changes.](https://support.focus.teamleader.eu/hc/article_attachments/25695944654225)**
 
-- Next to customising your page, you can also **filter **the results per status in certain widgets (deals, tasks, projects and tickets):![](https://support.focus.teamleader.eu/hc/article_attachments/25695944696209)In the above example you can quickly check the open tasks for a certain customer.
+- Next to customising your page, you can also **filter **the results per status in certain widgets (deals, tasks, projects and tickets):![The Tasks widget in Teamleader Focus showing status tabs and column headers.](https://support.focus.teamleader.eu/hc/article_attachments/25695944696209)In the above example you can quickly check the open tasks for a certain customer.

@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Troubleshooting Exact Online
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697938946321)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this article we'll give you an overview of the more common errors you can encounter in the integration between Exact Online and Teamleader Focus.
  
@@ -47,7 +47,7 @@ In this article we'll give you an overview of the more common errors you can enc
  
 
 To **load the current error messages** in your account, click on the bell icon and delete the notifications. Then, click on the double arrows to start the synchronisation again. You'll then see the latest error(s).
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697914743185)
+![Top navigation bar icons in Teamleader Focus highlighting the sync and notification buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25697914743185)
 
  
 
@@ -105,7 +105,7 @@ There are 2 ways to resolve the unspecified ledger accounts error:
 
 - Click on the error message about unknown accounts; at the bottom you will see links to invoices / credit notes. Open the invoice links 1 by 1 and enter a ledger account where you see 'no accounts' by editing the invoice (clicking on the pencil next to 'content'), and **Save**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697924185361)
+![The 'Items on the invoice' section in Teamleader Focus showing line item details and ledger accounts.](https://support.focus.teamleader.eu/hc/article_attachments/25693775071249)
 
 - If your ledger accounts are related to your VAT rates, you can do this in bulk via **Settings **> **Revenue **> ledger accounts> Auto-suggest accounts at certain VAT-tariffs.
 
@@ -180,7 +180,7 @@ In this example: [https://start.exactonline.be/docs/CRMAccountCard.aspx?_Divisio
 - Copy the ID
 
 - Paste the ID in the field 'External ID' of the contact/company in Teamleader Focus where the problem occurs. You can do this by searching the contact/company > open the page > click on the pencil next to 'Company information'. Save the contact/company.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697914846225)
+![Form fields for assigning an Account manager, Pricelist, External ID, and Tags in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697914846225)
 
 - Perform a [manual synchronization](https://support.focus.teamleader.eu/hc/en-150/articles/25697904813329-FAQ-What-if-my-invoices-aren-t-synchronised-to-my-bookkeeping-tool), and repeat the steps for other customers with this error message
 

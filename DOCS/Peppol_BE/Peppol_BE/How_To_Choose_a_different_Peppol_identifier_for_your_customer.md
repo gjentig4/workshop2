@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # How To: Choose a different Peppol identifier for your customer
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/38324220180497) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Sometimes you might need to use a different Peppol ID for a customer, and that's totally possible in Teamleader Focus! By default, Teamleader Focus sends Peppol documents to your customer’s primary identifier. In Belgium for example, this primary identifier is typically assigned to the customer based on their KBO number. However, there might be situations where you need to use a different identifier to ensure the document reaches the correct recipient. Read this article to learn more.
 
@@ -47,7 +47,7 @@ Teamleader Focus allows you to manually select a different identifier. Here’s 
 - 
 In ‘Send invoices via Peppol to’, you’ll see that ‘Automatic’ is selected by default. Change this to ‘**Other**’:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/33781932924561)
+![Invoicing preferences dialog in Teamleader Focus showing Peppol configuration options.](https://support.focus.teamleader.eu/hc/article_attachments/33781932924561)
 
 A Peppol identifier consists of a prefix based on a KBO number, a VAT number* or another identifier like GLN or DUNS, followed by the actual identification number. This ensures that documents are routed correctly within the network. If you're not sure which Peppol identifier to use, keep this setting to "Automatic". Only use this when your customer specifically asks for it.
 

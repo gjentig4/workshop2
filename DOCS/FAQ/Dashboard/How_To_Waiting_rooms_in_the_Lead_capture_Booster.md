@@ -10,7 +10,7 @@ section: "Dashboard"
 
 # How To: Waiting rooms in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694017410065)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Waiting rooms enable you and your team to meet with a single link, over and over again. Waiting rooms allow you to transfer visitors to specific meeting rooms to continue the conversation where you left previously.
 
@@ -44,7 +44,7 @@ Waiting rooms make it possible for guests to knock in a general room without hav
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693995364241)
+![The Waiting room interface showing pending meeting requests for personal and team rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25693970165393)
 
  
 
@@ -118,7 +118,7 @@ The 'menu' button in which you can change the meeting room
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693970165393)
+![The Waiting room interface showing pending meeting requests for personal and team rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25693970165393)
 
 You have 3 options:
 
@@ -141,21 +141,21 @@ The moment a guest starts knocking, you might be looking at a different program 
 
 If that's not the case, you will see the following notification on your dashboard:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017187547665)
+![A warning banner indicating that browser settings are blocking desktop notifications.](https://support.focus.teamleader.eu/hc/article_attachments/28017187547665)
 
 Enable 'Sound', 'Pop-ups and redirects' and 'Notifications in the site-settings of your browser or read [this help article](https://support.focus.teamleader.eu/hc/en-150/articles/25694924010129-How-To-Allow-browser-settings-to-get-notified-of-waiting-room-and-meeting-room-knockers) which will guide you!
 
 Once the yellow message is gone, notifications will work when guests knock. Now you can choose to (de)activate sound notifications by (de)activating the bell icon next to
 
-- 'Personal/Team waiting room link' on the meeting rooms overview page or![](https://support.focus.teamleader.eu/hc/article_attachments/25694003101585)
+- 'Personal/Team waiting room link' on the meeting rooms overview page or![Links for Personal and Team waiting rooms with a notification bell icon](https://support.focus.teamleader.eu/hc/article_attachments/25694003101585)
 
-- 'Booking links' on the dashboard page![](https://support.focus.teamleader.eu/hc/article_attachments/25694021985425)
+- 'Booking links' on the dashboard page![Action buttons for meeting management including Booking links and Start a meeting](https://support.focus.teamleader.eu/hc/article_attachments/25694021985425)
 
  
 
 If the bell icon is green you will get notified when guests knock. If the bell icon is red you won't be notified but knockers will still appear in the list.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694017664529)
+![Navigation bar showing links for Personal and Team waiting rooms with a notification toggle.](https://support.focus.teamleader.eu/hc/article_attachments/25694017664529)
 
 ### 2.3 Create a new meeting room
 
@@ -165,7 +165,7 @@ In the right top corner of the dashboard, you'll see the blue button 'Start a me
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693995632529)
+![The 'Your meeting rooms' dropdown menu in Teamleader Focus showing a list of available rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25693995632529)
 
  
 
@@ -193,7 +193,7 @@ Click on start from scratch to open the templates list and **select the preferre
 - 
 Click on **Create**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693995672465)
+![The 'Add a new room' dialog box for creating a meeting room in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693995672465)
 
 **Note: If the team settings give host rights to the meeting rooms of other team members, it's possible to choose a meeting room from another team member. Change the scope from Personal to Team and then click on the Start a meeting button.*
 
@@ -209,12 +209,12 @@ You're able to change the meeting room for this specific meeting the same way as
 
  
 
-## ![](https://support.focus.teamleader.eu/hc/article_attachments/25694003327377)
+## ![The 'Upcoming meetings' widget in Teamleader Focus showing a scheduled online meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25694003327377)
 
 ## 
 3. Waiting room in the Team settings
 
-In **Settings **> **Team Settings **you'll find 2 settings regarding the waiting room feature: 'Enable the team waiting room' and 'Guests can book a meeting from the waiting room'.![](https://support.focus.teamleader.eu/hc/article_attachments/25693995727377)
+In **Settings **> **Team Settings **you'll find 2 settings regarding the waiting room feature: 'Enable the team waiting room' and 'Guests can book a meeting from the waiting room'.![Configuration panel for the Teamleader Focus Waiting room feature with two checkbox options.](https://support.focus.teamleader.eu/hc/article_attachments/25693995727377)
 
  
 
@@ -224,7 +224,7 @@ By default, every Lead capture Booster user has a personal waiting room, but the
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693995763345)
+![The Meeting rooms overview in Teamleader Focus with options to create rooms and manage waiting rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25693995763345)
 
 Click on the message which has a [hyperlink to the Team settings](https://meeting.teamleader.eu/team/settings/). There, scroll down until you see Waiting room.
 
@@ -232,11 +232,11 @@ Click on the message which has a [hyperlink to the Team settings](https://meetin
 
 Click on the checkbox next to 'Enable the waiting room' and hit Save to activate the team waiting room.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694003488017)
+![Waiting room settings in Teamleader Focus for team meetings and guest bookings.](https://support.focus.teamleader.eu/hc/article_attachments/25694003488017)
 
 If you go back to your meeting rooms overview page, you'll see that the team waiting room link can be copied so you can share it with customers and leads.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694010261777)
+![The Team waiting room interface in Teamleader Focus showing the link sharing options.](https://support.focus.teamleader.eu/hc/article_attachments/25694010261777)
 
 ### 3.2 Guests can book a meeting from the waiting room
 
@@ -248,9 +248,9 @@ Click on the checkbox next to 'Guests can book a meeting from the waiting room' 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694003637649)This feature allows guests to book a meeting when they get denied at the moment of knocking.
+![Waiting room settings for meetings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694003637649)This feature allows guests to book a meeting when they get denied at the moment of knocking.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017213785489)
+![Teamleader Focus 'No host available' error message dialog](https://support.focus.teamleader.eu/hc/article_attachments/28017213785489)
 
 When the guest clicks on the hyperlink 'book a moment that suits you' they will be forwarded to your booking page.
 

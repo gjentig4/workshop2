@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Using files in meeting rooms
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694140058257)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -28,7 +28,7 @@ For a full list of supported files, please visit [this article](https://support.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694119302545)
+![The collaboration menu in Teamleader Focus showing options for Whiteboard, Upload file, and Screen share.](https://support.focus.teamleader.eu/hc/article_attachments/25694119302545)
 
  
 
@@ -36,7 +36,7 @@ For a full list of supported files, please visit [this article](https://support.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694125124113)
+![Dropdown menu showing file upload options from Computer, Google Drive, Dropbox, and OneDrive.](https://support.focus.teamleader.eu/hc/article_attachments/25694125124113)
 
  
 
@@ -45,7 +45,7 @@ For a full list of supported files, please visit [this article](https://support.
 5. **All participants in the meeting room share your view of the uploaded files and documents**. So you're always on the same page.
 
 6. Adding an additional file will minimize the opened file. **Minimized files show up on the right side of the meeting room.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25694130794129)**
+**![Teamleader Focus meeting room interface showing a presentation slide and collaboration tools.](https://support.focus.teamleader.eu/hc/article_attachments/25694130794129)**
 
  
 

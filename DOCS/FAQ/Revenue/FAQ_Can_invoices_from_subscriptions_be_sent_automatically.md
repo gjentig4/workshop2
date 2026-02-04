@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: Can invoices from subscriptions be sent automatically?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691763950609)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -49,7 +49,7 @@ This toggle will automatically be enabled if:
 
 - AND your customer is registered on Peppol.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/40498259170577)
+![Advanced options for invoice automation settings including payment terms and autosend toggles.](https://support.focus.teamleader.eu/hc/article_attachments/40498259170577)
 
 If this toggle is enabled but your customer isn’t registered on Peppol yet, we’ll automatically send the invoice via email instead.
  

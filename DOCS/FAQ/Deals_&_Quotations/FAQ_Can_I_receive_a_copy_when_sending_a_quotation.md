@@ -10,9 +10,9 @@ section: "Deals & Quotations"
 
 # FAQ: Can I receive a copy when sending a quotation?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693572666769)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
-It might be handy to also receive a copy when sending a quotation to make it easier to follow up on your deal. You can activate the option 'Receive email copy when sending quotations' when navigating to** Settings **> **Deals and Quotations** >** Preferences**.![](https://support.focus.teamleader.eu/hc/article_attachments/25693564032657)
+It might be handy to also receive a copy when sending a quotation to make it easier to follow up on your deal. You can activate the option 'Receive email copy when sending quotations' when navigating to** Settings **> **Deals and Quotations** >** Preferences**.![Preferences menu showing toggles for sending quotation attachments and receiving email copies.](https://support.focus.teamleader.eu/hc/article_attachments/25693564032657)
 
  
 

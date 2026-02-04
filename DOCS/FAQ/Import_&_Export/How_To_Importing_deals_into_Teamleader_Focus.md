@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Importing deals into Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691689475473)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Set up InvoiceCloud
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692172178961)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -20,7 +20,7 @@ InvoiceCloud is a platform that allows your customers to see, download and pay t
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692166794769)
+![A simplified illustration of the Teamleader Focus invoice preview interface.](https://support.focus.teamleader.eu/hc/article_attachments/25692166794769)
 
  
 
@@ -58,7 +58,7 @@ To include the link to InvoiceCloud in your email templates, follow these steps:
 When sending the invoice to your customer, make sure you select a template with the above mentioned #LINK in it. During sending, #LINK will be replaced by in the mail editor.
 
     The email your customer receives will look like this:
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25692157342097)
+    ![Example of an invoice email sent from Teamleader Focus to a customer.](https://support.focus.teamleader.eu/hc/article_attachments/25692157342097)
   
 
 - The parameter #LINK will have changed automatically to the sentence “View this invoice”;
@@ -78,7 +78,7 @@ You can slightly change the above layout of the invoice email by navigating to *
 ## InvoiceCloud
 
 After your customer clicked the InvoiceCloud link, they see a page similar to this one:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692184465553)
+![Detailed view of an overdue invoice in Teamleader Focus with payment and email options.](https://support.focus.teamleader.eu/hc/article_attachments/25692184465553)
 
 You can customise your logo and the colours of your interface to your liking. Read more about it [here](https://support.focus.teamleader.eu/hc/en-150/articles/25690839495441-How-To-Personalising-Teamleader-Focus-cloud-platforms). Additionally, the interface is mobile-friendly and will always be in the language of the customer. The browser tab will mention the name of your company entity as well.
 
@@ -105,7 +105,7 @@ On the actual platform, you'll have a few options.
             **View calculation **will
             be visible underneath. This payment calculation breakdown
             helps your customer understand where the additional costs
-            are coming from.![](https://support.focus.teamleader.eu/hc/article_attachments/25692172392465)
+            are coming from.![Calculation popover for an overdue invoice showing interest and late fees in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692172392465)
           
 
         
@@ -126,7 +126,7 @@ On the actual platform, you'll have a few options.
             will be visible as a tab next to the linked invoice. The
             **View calculation **button
             will show the invoice amount minus the credited amount.
-            ![](https://support.focus.teamleader.eu/hc/article_attachments/25692183089809)
+            ![Header of an invoice detail page in Teamleader Focus showing amount due and due date.](https://support.focus.teamleader.eu/hc/article_attachments/25692183089809)
           
 
         

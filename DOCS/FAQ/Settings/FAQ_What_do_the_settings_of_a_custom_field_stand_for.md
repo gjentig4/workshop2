@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: What do the settings of a custom field stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692057401617)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -60,7 +60,7 @@ An empty field is created which you can fill in as you wish.
 *Note: *on deal level, you could use [the 'Remarks' field](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page) to function as a custom field type multiline text.
 
 - It will look like this:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692057452177)
+![A 'Several lines' multi-line text field in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692057452177)
 
 - You cannot segment on this type of custom field.
  
@@ -295,7 +295,7 @@ Under advanced options, you see different values depending on the type you choos
 
 This option will always be available. The idea behind it is to create an even more advanced overview. If you create several custom fields and some are related to each other, you can create a group so they appear together under one header. Of course, you can name the group according to your process. It will then be displayed as shown below:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692072992529)
+![The Marketing Information section in a Teamleader Focus contact or company form.](https://support.focus.teamleader.eu/hc/article_attachments/25692072992529)
 
  
 

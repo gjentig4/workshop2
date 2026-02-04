@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: Who can share a screen and what do guests see?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694249142161)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Now that you know [how to share a screen](https://support.focus.teamleader.eu/hc/en-150/articles/25694258382353-How-To-Share-your-screen-via-the-Lead-capture-Booster), you might have some extra questions. Can all guests share their screen? Do guests need to install the Google extension? What's the infinity mirror effect? In this article we explain who can use share screen and what it looks like for other participants.
 
@@ -39,7 +39,7 @@ Mac: if you don't [allow screen recording](https://support.focus.teamleader.eu/h
 
 There's no need to install the extension in Chrome to share a screen. There's a visual difference on how the window/tab can be selected but essentially everyone can share a screen.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694234070545)
+![Comparison of screen sharing options in Vectera with and without the browser extension.](https://support.focus.teamleader.eu/hc/article_attachments/25694234070545)
 
 # What's the infinity mirror effect?
 
@@ -96,6 +96,6 @@ Sharing a browser tab means that you share one specific tab in your browser. If 
 
 While sharing a browser tab, it's also possible to share audio. This is not possible in the other 2 options. Read more in [this link](https://support.focus.teamleader.eu/hc/en-150/articles/25695117871633-How-To-Share-audio-while-sharing-your-screen) on how to share audio.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694259264785)
+![Screen sharing interface in Teamleader Focus Meeting Rooms showing the Chrome tab selection dialog.](https://support.focus.teamleader.eu/hc/article_attachments/25694259264785)
 
 *Tip: Want to work together in one tab with your guest? Use cobrowse instead! In [this article](https://support.focus.teamleader.eu/hc/en-150/articles/25694263341969-How-To-Set-up-cobrowsing-with-the-Lead-capture-Booster) you can read how cobrowse works.*

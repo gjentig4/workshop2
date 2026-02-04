@@ -10,13 +10,13 @@ section: "Dashboard"
 
 # How To: The Teamleader Focus integration in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694988534545)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
 Thanks to the integration between Teamleader Focus and the Lead capture Booster, new guests that schedule a meeting via a team member's personal booking page in the Lead capture Booster, can automatically result in new contacts in your Teamleader Focus account. Optionally, the same could be done for deals and companies.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694926933137)
+![Integration settings for Teamleader Focus within the Lead Capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25694926933137)
 
 All new customers who schedule a meeting but cannot be linked to a contact in Teamleader Focus, will automatically result in a new contact in your Teamleader Focus account. Also, all meeting details will be added to this contact.
 
@@ -40,7 +40,7 @@ Make sure to connect the same calendar in your [Lead capture Booster scheduling 
 
  
 
-![Booked Vectera appointment in Teamleader and Google calendar](https://support.focus.teamleader.eu/hc/article_attachments/25694957612561)
+![Comparison showing calendar synchronization between Teamleader Focus Agenda and Google Calendar.](https://support.focus.teamleader.eu/hc/article_attachments/25694957612561)
 
  
 
@@ -70,7 +70,7 @@ We recommend to activate the following modules to have optimal usage of the inte
 
 When the Contacts module is not activated in Teamleader Focus, the integration will not work and a warning will be displayed.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694942219665)
+![Teamleader Focus integration settings for booking meetings and calendar events.](https://support.focus.teamleader.eu/hc/article_attachments/25694942219665)
 
 You can easily update the permissions of your team members in Teamleader Focus by going to **[Settings > Users > name of the user.](https://focus.teamleader.eu/settings/users)
-![](https://support.focus.teamleader.eu/hc/article_attachments/37467858992401)**
+![The Users management page in Teamleader Focus settings showing active, invited, and deactivated users.](https://support.focus.teamleader.eu/hc/article_attachments/37467858992401)**

@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: How can I change my email address in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693511473297)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -77,4 +77,4 @@ You need to follow these security steps:
     
       Click on the 3 dots next to your email address and choose
       **Turn into primary**:
-      ![](https://support.focus.teamleader.eu/hc/article_attachments/25693521637009)
+      ![The 'Alternative email addresses' settings page in Teamleader Focus showing how to manage emails.](https://support.focus.teamleader.eu/hc/article_attachments/25693521637009)

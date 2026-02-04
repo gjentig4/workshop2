@@ -10,7 +10,7 @@ section: "GDPR"
 
 # FAQ: Where can I view the list of sub-processors?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692758831505)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 We engage a limited number of sub-processors. These service providers can process some parts of the personal data, for which you are the controller, for specific purposes. 
 
@@ -24,6 +24,6 @@ We rely on these trusted sub-processors for three main reasons:
 
 - to provide customer support.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692758923537) 
+![GDPR data processing flowchart showing roles of Data Subject, Controller, Processor, and Sub-processors](https://support.focus.teamleader.eu/hc/article_attachments/25692717458833) 
 
 All of these sub-processors were carefully selected because of their strict data protection policies and thorough security measures. We have made the necessary contractual arrangements with each of them to make sure that they meet the same high standards set forth in our data processing agreement (DPA) with you.

@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # FAQ: What are the available fields for Web2Leads?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692171646993)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Anyone who wants to use our Web2Lead integration with Unbounce or Jotform, can use a couple of parameters that will be recognized by Teamleader Focus. Here, you'll find the different syntaxes for these parameters.
 

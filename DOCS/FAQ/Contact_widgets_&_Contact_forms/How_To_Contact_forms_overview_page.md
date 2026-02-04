@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Contact forms overview page
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695775711505)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 After you've [created contact forms in the Lead capture Booster](https://support.focus.teamleader.eu/hc/en-150/articles/25695775141649-How-To-Contact-forms-and-how-to-create-them), you can access them on a handy overview page. From here on out, you can perform different actions. We'll discuss them in this article. 
 
@@ -35,7 +35,7 @@ After you've [created contact forms in the Lead capture Booster](https://support
 
 - [(De)activate form](#(De)activate-form)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695771199633)
+![The Contact forms overview in Teamleader Focus Lead capture Booster showing a list of created forms.](https://support.focus.teamleader.eu/hc/article_attachments/25695771199633)
 
  
 
@@ -67,7 +67,7 @@ If you're on the [Beyond package of the Lead capture Booster](https://support.fo
 
 You can edit a contact form by clicking on the **pencil **next to it, or by clicking the **three ****dots **> **Edit ****form**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695775811217)
+![The actions menu for a form in Teamleader Focus, highlighting the 'Edit form' option.](https://support.focus.teamleader.eu/hc/article_attachments/25695775811217)
 
  
 
@@ -75,7 +75,7 @@ You can edit a contact form by clicking on the **pencil **next to it, or by cli
 
 You can share the contact form by clicking on the **share icon **next to it.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695756835345)
+![A row in the Contact Forms list showing the 'Share your form' button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25695756835345)
 
 In the next screen you'll have different options. You can share the form:
 
@@ -93,7 +93,7 @@ Choose **Copy QR embedded HTML** if you want to copy paste embedded HTML in your
 
 - Via a contact widget
 
-Click on **Create a widget **if you want to embed your contact form in a contact widget on your website. In 'Link contact type', the form you created will automatically be selected. Read more about contact widgets [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695401651985-How-To-Using-the-contact-widget-in-the-Lead-capture-Booster).![](https://support.focus.teamleader.eu/hc/article_attachments/25695791402001)
+Click on **Create a widget **if you want to embed your contact form in a contact widget on your website. In 'Link contact type', the form you created will automatically be selected. Read more about contact widgets [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695401651985-How-To-Using-the-contact-widget-in-the-Lead-capture-Booster).![Configuration screen for creating and customizing a website contact widget button.](https://support.focus.teamleader.eu/hc/article_attachments/25695791402001)
 
 ### Prefill contact form questions
 
@@ -105,19 +105,19 @@ Once you've shared a contact form or embedded it on your website, leads and clie
 
  
 
-Access the responses by clicking on the responses hyperlink, e.g. 2 responses. When you have new submitted responses the past 7 days, an icon will be displayed.![](https://support.focus.teamleader.eu/hc/article_attachments/25695760026513)
+Access the responses by clicking on the responses hyperlink, e.g. 2 responses. When you have new submitted responses the past 7 days, an icon will be displayed.![Overview of Contact forms in Teamleader Focus showing responses, creators, and data destinations.](https://support.focus.teamleader.eu/hc/article_attachments/25695760026513)
 
  
 
 Now you will see a page with the 10 latest responses:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695738720017)
+![A list of individual responses for a specific form in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695738720017)
 
  
 
 If you have more than 10 responses you're able to see the oldest responses on the next page. You can find pagination at the bottom of the page.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695776080401)
+![Pagination controls showing page 1 selected, page 2 available, and a next arrow.](https://support.focus.teamleader.eu/hc/article_attachments/25695776080401)
 
  
 
@@ -125,7 +125,7 @@ If you have more than 10 responses you're able to see the oldest responses on th
 
 When you click on the **three ****dots **next to your contact form, you'll see several other options.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695791586193)
+![Dropdown menu for managing forms in Teamleader Focus with options to preview, edit, or delete.](https://support.focus.teamleader.eu/hc/article_attachments/25695791586193)
 
 ### Preview form
 
@@ -133,7 +133,7 @@ If you click on **Preview form, **a pop-up shows with a preview of the question
 
  
 
-The logo that's shown on the top of your contact form can be edited if you click on **Change branding **at the bottom of the preview. You're then redirected to your [customisation page](https://meeting.teamleader.eu/team/customization/) where you can upload or change your logo.![](https://support.focus.teamleader.eu/hc/article_attachments/25695760192273)
+The logo that's shown on the top of your contact form can be edited if you click on **Change branding **at the bottom of the preview. You're then redirected to your [customisation page](https://meeting.teamleader.eu/team/customization/) where you can upload or change your logo.![Preview of a customizable Contact form in Teamleader Focus with fields for name and email.](https://support.focus.teamleader.eu/hc/article_attachments/25695760192273)
 
  
 

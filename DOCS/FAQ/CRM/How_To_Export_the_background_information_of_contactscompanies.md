@@ -10,9 +10,9 @@ section: "CRM"
 
 # How To: Export the background information of contacts/companies
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693474389137)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
-When adding a contact or a company in Teamleader Focus, you can also add background information that might come in handy when you need to contact a customer. To add this, open a contact or company page and click on the **pencil** next to Background information or click on **+ Add background information**.![](https://support.focus.teamleader.eu/hc/article_attachments/25693481645329)
+When adding a contact or a company in Teamleader Focus, you can also add background information that might come in handy when you need to contact a customer. To add this, open a contact or company page and click on the **pencil** next to Background information or click on **+ Add background information**.![Company information and background information widgets in a Teamleader Focus CRM company profile.](https://support.focus.teamleader.eu/hc/article_attachments/25693481645329)
 
 If you want to export this background information when exporting companies or contacts from Teamleader Focus, you probably already noticed that they are not exported by default. 
 
@@ -27,7 +27,7 @@ Go to Contacts/Companies and click on **Export**
 Click on the **arrow** next to Basic columns >** Create new template**
 
 - 
-Select the values you want to export by double-clicking or by selecting the values and clicking on the **arrow **pointing to the right to add it to the selected columns list. To export the background information, chose the value ‘Background information’![](https://support.focus.teamleader.eu/hc/article_attachments/25693518010257)
+Select the values you want to export by double-clicking or by selecting the values and clicking on the **arrow **pointing to the right to add it to the selected columns list. To export the background information, chose the value ‘Background information’![The Excel Export Template configuration screen in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693518010257)
 
 - 
 Add a template name

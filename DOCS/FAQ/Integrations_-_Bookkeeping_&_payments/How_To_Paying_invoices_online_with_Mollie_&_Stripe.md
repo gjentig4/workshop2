@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Paying invoices online with Mollie & Stripe
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695309218321)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -44,7 +44,7 @@ Mollie is a Dutch company that provides an integration with most common payment 
 
 **1. Create a Mollie account**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695282305041)**
+**![Mollie account creation form for business payment integration](https://support.focus.teamleader.eu/hc/article_attachments/25695282305041)**
 
  
 
@@ -54,7 +54,7 @@ Mollie is a Dutch company that provides an integration with most common payment 
 
 **After you created your Mollie account, you will land on the 'Get Started' page in the Mollie Dashboard. Press the blue button 'Start setup' to continue.**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695294081809)**
+**![Teamleader Focus 'Get started' onboarding screen for setting up a Mollie payment account.](https://support.focus.teamleader.eu/hc/article_attachments/25695294081809)**
 
 **3. Complete your account information**
 
@@ -62,7 +62,7 @@ After you've registered yourself on the website, Mollie will ask you to complete
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695294140433)
+![The Organization details form in Teamleader Focus for entering company information.](https://support.focus.teamleader.eu/hc/article_attachments/25695294140433)
 
 Here, you also have to agree with Mollie's terms and conditions before you can continue.
 
@@ -74,7 +74,7 @@ Enter the data of the [legal representative](https://help.mollie.com/hc/en-gb/ar
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695265239697)
+![The stakeholder information step in the Mollie payment integration setup for Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695265239697)
 
  
 
@@ -94,13 +94,13 @@ Your profile at Mollie contains all of the data from the website you want to use
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695294284177)
+![The website profiles settings page in Teamleader Focus for managing online payment configurations.](https://support.focus.teamleader.eu/hc/article_attachments/25695294284177)
 
  
 
 Finished everything? Then Mollie will perform a check to see if all of the required info on your website is visible enough. Don't worry, this check is done pretty quickly. As soon as this has happened, **you will find your API key on the Developers page**. We'll need this later on to finish the integration with Teamleader Focus.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695294360593)
+![The API keys settings page for connecting a Mollie payment account to a website or platform.](https://support.focus.teamleader.eu/hc/article_attachments/25695294360593)
 
  
 
@@ -110,7 +110,7 @@ Finished everything? Then Mollie will perform a check to see if all of the requi
 
 Finished step 1 and 2? Then it's time for the real thing: selecting your payment methods. Mollie offers a wide range of possibilities, such as iDEAL, PayPal, bank transfer, credit card... **The payment methods you select here, are the ones that will turn up on InvoiceCloud as well**.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695294461969)
+![Payment methods configuration screen for a profile in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695294461969)
 
  
 
@@ -128,7 +128,7 @@ Upload a copy of the ID of each [legal representative or UBO](https://help.molli
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695294534289)
+![The account information and documentation setup checklist in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695294534289)
 
  
 
@@ -155,7 +155,7 @@ Click **Next**.
 
 Last but especially not least: in 'Settings' => 'Payouts', enter your account number to which Mollie can transfer all received payments.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695297467665)
+![Payout frequency settings in Teamleader Focus for bank transfers.](https://support.focus.teamleader.eu/hc/article_attachments/25695297467665)
 
  
 
@@ -171,7 +171,7 @@ If you survived these steps, your Mollie account is now ready to be linked to Te
 
 In Teamleader Focus, navigate to [Integrations/Marketplace](https://marketplace.teamleader.eu/be/en/) and search for 'Mollie'. The only thing you need to enter, is your API key.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695265755153)
+![Mollie integration settings page in Teamleader Focus for online payments.](https://support.focus.teamleader.eu/hc/article_attachments/25695265755153)
 
  
 
@@ -198,4 +198,4 @@ That's it, now go and get those invoices paid!
 
 Interested in our instructive video on payment integrations ? Watch it right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695297584273)
+![Title slide for a tutorial on payment integrations in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695297584273)

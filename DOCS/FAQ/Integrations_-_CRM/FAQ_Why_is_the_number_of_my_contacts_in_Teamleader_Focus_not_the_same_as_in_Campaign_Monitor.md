@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # FAQ: Why is the number of my contacts in Teamleader Focus not the same as in Campaign Monitor?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690775874705)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 It is possible that the segment you’ve  created in Teamleader Focus isn’t exactly the same as the segment in Campaign Monitor. The reason for this is that Campaign Monitor uses different criteria that may cause some differences:
 

@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Set up MFA security
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692014992657)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Safety has always been a top priority for Teamleader Focus and we make sure we secure our customer’s data using the best and latest technology the world has to offer. To do that, we use SSL encryption for example, the same kind of security that is being used in the financial sector.
 
@@ -46,7 +46,7 @@ It’s pretty easy. MFA uses your smartphone to log you in to certain websites t
 - You will then be prompted to scan such a code. To find your personal QR code, go back to your user icon on the top right corner My profile MFA security +.
 
 - When you’ve successfully scanned the code, a 6 digits code will appear. Enter this number into Teamleader Focus (the token), and this will activate the MFA security.
-![Jp4c5UtCfkYux50SOfLTUI7wKFcdqq-xxA.png](https://support.focus.teamleader.eu/hc/article_attachments/31560470338705)
+![MFA security setup dialog showing steps to link Google Authenticator with Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31560470338705)
 
 After the activation, you’ll have to re-enter the 6 digits code every 24 hours or every time you try to login from a different IP address. When prompted, open the MFA app on your smartphone and enter the code. This code will be renewed every 60 seconds, which makes it virtually impossible for someone to hack your account.
 

@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: How can I link an email to a project from my Gmail?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691610874385)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In case you have installed the [Gmail plugin](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25690832651921), you have the option to link incoming or outgoing email to a project. Here you find out how.
 
@@ -28,6 +28,6 @@ In case you have installed the [Gmail plugin](https://support.focus.prd.teamlead
 
 - Go to the email in question and click "Track"
 
-- In the dropdown menu, you choose to track this email to one of the "Active projects".![](https://support.focus.teamleader.eu/hc/article_attachments/25691628175761)
+- In the dropdown menu, you choose to track this email to one of the "Active projects".![A 'Track email to...' dialog box with a dropdown menu for selecting where to save an email.](https://support.focus.teamleader.eu/hc/article_attachments/25691628175761)
 
 - The email is saved in the tracking of the project in question.

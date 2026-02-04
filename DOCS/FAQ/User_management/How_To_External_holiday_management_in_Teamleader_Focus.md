@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: External holiday management in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/28017249806865)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 If you use an external tool for holiday management, this might interfere with your leave and vacation types in Teamleader Focus. This is why we've made it possible to turn off holiday management and manage it externally. The external information can then be synced to Teamleader Focus. Read more about it here.
 

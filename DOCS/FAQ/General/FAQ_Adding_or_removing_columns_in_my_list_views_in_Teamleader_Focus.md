@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: Adding or removing columns in my list views in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697983092881)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,12 +24,12 @@ In this example we will change the columns of the company list view:
 
 - In the bottom right-hand corner, click on the little **cogwheel**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697967270161)
+![Pagination controls and a settings gear icon for list views in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697967270161)
 
 - On the left you will find the available columns, on the right you will find the columns that are already in your overview.
 
 To add a column to your overview, **select the column** on the left and drag it to the right. It will then end up in the selected columns list.
-![](https://support.focus.teamleader.eu/hc/article_attachments/28469288644497)
+![The 'Manage columns' dialog in Teamleader Focus for customizing list views.](https://support.focus.teamleader.eu/hc/article_attachments/28469288644497)
 
 To remove a column from your selected columns list, **drag it to the left **or click on the **cross **icon.
 
@@ -54,7 +54,7 @@ Notes:
 ## Number of rows in the list views
 
 It's not only possible to add or remove columns, you can also select the number of rows in the list view. You can do this by clicking on 10-20-50 (according to the amount of rows that you'd like to see) next to the cogwheel in the bottom left corner:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697989253009)
+![Pagination and column settings controls for list views in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697989253009)
 
  
 

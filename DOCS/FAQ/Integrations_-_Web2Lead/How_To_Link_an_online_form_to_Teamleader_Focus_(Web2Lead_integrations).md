@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Link an online form to Teamleader Focus (Web2Lead integrations)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693155555729)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

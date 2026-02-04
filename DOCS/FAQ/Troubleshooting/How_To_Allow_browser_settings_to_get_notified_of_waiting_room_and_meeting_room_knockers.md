@@ -10,13 +10,13 @@ section: "Troubleshooting"
 
 # How To: Allow browser settings to get notified of waiting room and meeting room knockers
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694882740241)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 The waiting room feature offers the opportunity to let guests knock in a general waiting room and let you choose in which meeting room the meeting should happen. In order to notice knockers, it's important that browser settings like sound, pop-up windows & notifications are enabled!
 
 If that's not the case, you will see one of the following notifications on your dashboard or meeting rooms overview:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311016721)![](https://support.focus.teamleader.eu/hc/article_attachments/27921316259857)
+![Warning banner indicating that browser settings are blocking Teamleader Focus desktop notifications.](https://support.focus.teamleader.eu/hc/article_attachments/27921311016721)![A warning banner stating that the browser is blocking desktop notifications in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27921311021073)
 
 *[](https://support.vectera.teamleader.eu/en/support/solutions/articles/7000072558-get-desktop-notifications-when-guests-join-your-meeting-room-)*
 
@@ -26,7 +26,7 @@ There are 2 types of notifications: the browser pop-up and the sound notificatio
 
 - 
 The browser notification will be visible at the right top (Mac) or the right bottom (windows) of your screen when someone is knocking on your waiting room.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694898545553)
+![The Meeting rooms overview in Teamleader Focus showing a guest waiting in a personal waiting room.](https://support.focus.teamleader.eu/hc/article_attachments/25694898545553)
 
 *In the above examples another program, which is not visible, was the active program. The Lead capture Booster dashboard was opened in the back. Otherwise, the notification would not show, see explanation below.*
 
@@ -40,11 +40,11 @@ If the message shows that notifications are not enabled, you can follow the step
 
 If you haven't allowed (or denied) notifications for meeting.teamleader.eu before, you'll see a clickable link in the yellow message:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921316264593)![](https://support.focus.teamleader.eu/hc/article_attachments/27921311021073)
+![Warning banner indicating that browser settings are blocking Teamleader Focus desktop notifications.](https://support.focus.teamleader.eu/hc/article_attachments/27921311016721)![A warning banner stating that the browser is blocking desktop notifications in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27921311021073)
 
 Click the link to open a pop-up where you can allow notifications for meeting.teamleader.eu.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311026577)
+![Browser permission dialog for meeting.teamleader.eu requesting to show notifications.](https://support.focus.teamleader.eu/hc/article_attachments/27921311026577)
 
 This is very similar in all browsers and is a fast way to enable notifications. If you didn't get the "Click here" link, you'll have to follow the steps below.
 
@@ -61,7 +61,7 @@ This is very similar in all browsers and is a fast way to enable notifications. 
 - 
 The message is gone. If you click on the lock icon again Sound and Notifications will show.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311028369)
+![Browser site settings for meeting.teamleader.eu showing enabled permissions for notifications.](https://support.focus.teamleader.eu/hc/article_attachments/27921311028369)
 
 ## Edge
 
@@ -79,9 +79,9 @@ The message is gone. If you click on the lock icon again Sound and Notifications
 
 - The message is gone. If you click on the lock icon again, Notifications and Pop-ups and redirects will show.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311030289)
+![Browser site permissions for meeting.teamleader.eu with notifications and pop-ups set to Allow.](https://support.focus.teamleader.eu/hc/article_attachments/27921311030289)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311031441)
+![Browser settings menu highlighting 'Cookies and Site Permissions' and 'Media autoplay' options.](https://support.focus.teamleader.eu/hc/article_attachments/27921311031441)
 
 ## Firefox
 
@@ -102,9 +102,9 @@ The message is gone. If you click on the lock icon again Sound and Notifications
 - 
 The message is gone
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921316271761)
+![Firefox browser tracking protection settings for the Teamleader Meeting tool.](https://support.focus.teamleader.eu/hc/article_attachments/27921316271761)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311037585)
+![Browser permission settings showing how to enable notifications and disable pop-up blockers.](https://support.focus.teamleader.eu/hc/article_attachments/27921311037585)
 
 ## Safari
 
@@ -118,7 +118,7 @@ If you're a Mac user you will have to check the Notifications in the general Mac
 
 - Make sure '**Allow Notifications**' is enabled and activate **Banners** or **Alerts**. Make sure that the lowest checkbox '**Play sound for notifications'** is checked!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311038353)
+![macOS System Settings for Safari browser notifications and alerts](https://support.focus.teamleader.eu/hc/article_attachments/27921311038353)
 
 2. General Safari preferences
 
@@ -128,7 +128,7 @@ If you're a Mac user you will have to check the Notifications in the general Mac
 
 - Make sure that meeting.teamleader.eu is set to allow
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311040273)
+![Safari browser settings showing 'Allow' permission for meeting.teamleader.eu notifications.](https://support.focus.teamleader.eu/hc/article_attachments/27921311040273)
 
 3. Browser settings
 
@@ -142,7 +142,7 @@ If you're a Mac user you will have to check the Notifications in the general Mac
 
 - The message is gone
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921311041681)
+![Safari browser settings for meeting.teamleader.eu showing pop-up and auto-play permissions.](https://support.focus.teamleader.eu/hc/article_attachments/27921311041681)
 
 * * If the icon doesn't show in your Safari toolbar, you can activate it by clicking in your General toolbar at the top of your screen. Click on 'View' and 'Customize toolbar...'. Then select the Icon and drag it onto your Safari toolbar.*
 

@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Direct debit in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692267073681)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -38,7 +38,7 @@ If your customer wants to do this, you can put a reference to it on the invoice.
 
 *“This amount will be charged using the reference X from your account via direct debit.**”*
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25692272300305)*
+*![Toggle switches for invoice automation settings: Book directly, Autosend invoice, and Direct debit.](https://support.focus.teamleader.eu/hc/article_attachments/25692272300305)*
 
 This notifies your customer that the invoice will be settled by the direct debit he set up beforehand, so that he has no need to worry about making the payment.
 
@@ -90,7 +90,7 @@ Once you have this, these are the steps you need to follow:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692284484241)
+![SEPApp interface for configuring SEPA Direct Debits and generating XML files.](https://support.focus.teamleader.eu/hc/article_attachments/25692284484241)
 
     7. Click ‘Create SEPA file’. An XML file will be stored locally on your computer. It is recommended you check the created file before uploading it onto your online banking. Some banks offer an online tool for this.
 

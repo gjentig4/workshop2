@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # FAQ: Why do I get a warning message when opening a meeting room in Safari (Mac/IOS)?
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695164191121)**
+**![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)**
 
 ***September 2022 update: Safari 16 does not have general issues for online meetings in the Lead capture Booster!***
 
@@ -20,7 +20,7 @@ Unfortunately, the first version of Big Sur and IOS 14 didn't work out well for 
 
 A robotic voice and inconsistent page crashes on Mac and audio issues on IOS were the main problems. The Lead capture Booster meeting rooms can't guarantee a smooth experience on Safari in those OS/IOS versions and therefore decided to install an informative banner.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695206149649)
+![Informational warning about Safari browser compatibility issues with video meeting software.](https://support.focus.teamleader.eu/hc/article_attachments/25695206149649)
 
  
 

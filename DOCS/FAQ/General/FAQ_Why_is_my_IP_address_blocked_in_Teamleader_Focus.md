@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: Why is my IP address blocked in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691765135633)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

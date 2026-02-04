@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Budget management on projects
 
-## ![](https://support.focus.teamleader.eu/hc/article_attachments/25693463646097)
+## ![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -52,13 +52,13 @@ Budget management on projects is a way to keep track of the predetermined budget
 
 In summary, 'budget spent' displays your customer's budget and how much billable hours (time) and materials are spent. Keep in mind that the external price of a user (which you set in **Settings** > **HR**) or the price per work type or the fixed price per hour is used to calculate the billable hours.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693501702417)
+![Internal cost and External price fields for setting hourly rates in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693501702417)
 
 ## 
 
 ## How is ‘budget spent’ calculated?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693501746065)
+![Budget spent widget in Teamleader Focus showing project costs for time and materials.](https://support.focus.teamleader.eu/hc/article_attachments/25693501746065)
 
  
 
@@ -68,13 +68,13 @@ When creating a project, you can add a budget. Go to the **Project info **page 
  
 
 ********Note: You can also quickly find **the budget you spent via the *[*work breakdown page*](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25697800978065)*, if you filter on 'Budget':*
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25693470532113)*
+*![Project work breakdown view in Teamleader Focus showing budget spent and task completion status.](https://support.focus.teamleader.eu/hc/article_attachments/25693470532113)*
 
  
 
 Going back to your **Project info** page, you can click on **Phase ****budgets** to view the budget per phase in detail. This way you can see which part of the project you’re spending the most time and materials on.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693463810321)
+![Phase budgets table in Teamleader Focus showing spent vs provided amounts and budget forecasts.](https://support.focus.teamleader.eu/hc/article_attachments/25693463810321)
  
 
 At a glance you’ll see:
@@ -91,7 +91,7 @@ At a glance you’ll see:
 
 Note on the budget spent: Do you also want to include your non-billable time in your spent budget? In the settings of your project (click on the pencil next to your project number to edit the project) you’ll find the toggle to also include this time:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693477885969)
+![The 'Edit Project' dialog box in Teamleader Focus showing project details and budget settings.](https://support.focus.teamleader.eu/hc/article_attachments/25693477885969)
  
 
 #### Forecast indicator:
@@ -110,7 +110,7 @@ Meetings: When you plan a meeting linked to the project, you can add a duration.
 
 The text and the symbol in the forecast indicator display different colours depending on whether you are on track with your budget or not:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693501991057)
+![Phase budgets table in Teamleader Focus showing spent vs provided amounts and budget forecasts.](https://support.focus.teamleader.eu/hc/article_attachments/25693463810321)
  
 
 The indicator has three different colours that represent the three different statuses of the budget:
@@ -129,7 +129,7 @@ The indicator has three different colours that represent the three different sta
  
 
 In the general overview of your projects you can find some columns relating to the project budget. It is advised to add these to your project overview. This way, you can check at a glance what’s happening to your budgets:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693463971601)
+![Project budget status table showing spent, provided, forecasted, and remaining budget figures.](https://support.focus.teamleader.eu/hc/article_attachments/25693463971601)
  
 
 - 
@@ -207,4 +207,4 @@ Do you prefer to watch our instructive video ? You can do so right here:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693455414673)
+![Tutorial banner for profit, loss and budget calculation in projects](https://support.focus.teamleader.eu/hc/article_attachments/25693340746769)

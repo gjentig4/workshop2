@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: The Financial Forecast in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693515993745)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Struggling to get an overview of money coming in from outgoing invoices? Teamleader Focus' Financial Forecast provides you with real-time insights that fit your needs. Learn here how to benefit from financial clarity.
 
@@ -33,7 +33,7 @@ You might know your financial expenses by heart, so looking at your exact income
 
 You can find the Financial Forecast by navigating to **Revenue **> **Forecast**.
 
-*Note: someone with [limited CRM access](https://support.focus.teamleader.eu/hc/en-150/articles/25692271859857-FAQ-What-does-limited-CRM-access-stand-for) cannot see any invoices in the financial forecast.*![](https://support.focus.teamleader.eu/hc/article_attachments/25693516058257)
+*Note: someone with [limited CRM access](https://support.focus.teamleader.eu/hc/en-150/articles/25692271859857-FAQ-What-does-limited-CRM-access-stand-for) cannot see any invoices in the financial forecast.*![Financial forecasting dashboard in Teamleader Focus showing expected revenue across three months.](https://support.focus.teamleader.eu/hc/article_attachments/25693516058257)
 
  
 
@@ -64,7 +64,7 @@ The expected payment date for these invoices is missing;
 The due date of these invoices has passed and is in a previous month;
 
 - 
-These are draft invoices you didn’t yet assign to a certain month. You can recognize these draft invoices by the purple label ‘Draft’![](https://support.focus.teamleader.eu/hc/article_attachments/25693549568145)
+These are draft invoices you didn’t yet assign to a certain month. You can recognize these draft invoices by the purple label ‘Draft’![Preview of a draft invoice for NV Teamleader showing the status and amount.](https://support.focus.teamleader.eu/hc/article_attachments/25693549568145)
 
 - 
 We recommend you to keep this left column as empty as possible to be able to keep the best overview!
@@ -83,10 +83,10 @@ Clicking on an invoice will open a **side ****panel **with more information ab
 You can see here, amongst other things, which VAT rate applies, when the due dates and expected payment dates are set, which customer the invoice belongs to and more useful information.
 
 - 
-E.g. for a subscription, more info will be shown about when the invoice will be generated![](https://support.focus.teamleader.eu/hc/article_attachments/25693549596305)
+E.g. for a subscription, more info will be shown about when the invoice will be generated![Financial overview of a projected subscription invoice that has not been booked yet.](https://support.focus.teamleader.eu/hc/article_attachments/25693549596305)
 
 - 
-To find out how the totals per month are calculated, check the calculation via the ‘**View ****calculation**’ button: this gives you an immediate overview of the split between different types of income and how the totals are calculated![](https://support.focus.teamleader.eu/hc/article_attachments/25693568398993)
+To find out how the totals per month are calculated, check the calculation via the ‘**View ****calculation**’ button: this gives you an immediate overview of the split between different types of income and how the totals are calculated![Financial forecast widget showing expected revenue for November including VAT.](https://support.focus.teamleader.eu/hc/article_attachments/25693568398993)
 
 The value on the **left **of the / displays the total amount still expected to be paid **excluding **already paid items.
 
@@ -95,7 +95,7 @@ The value on the **right **of the /** **displays the total amount expected to 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693500800529)
+![Financial calculation widget showing cash forecast and payment statuses in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693500800529)
 
 - 
 The calculation includes subtotals that are explained here:
@@ -123,7 +123,7 @@ The calculation includes subtotals that are explained here:
 **Credit ****notes**: if you credit an invoice, it will disappear from the forecast view and will not be included in the calculations for that certain month. This takes into account credit notes for invoices paid in previous months.
 
 - 
-The view can be **filtered **and **customised **to show only what is relevant for you, the user currently logged in:![](https://support.focus.teamleader.eu/hc/article_attachments/25693560082193)
+The view can be **filtered **and **customised **to show only what is relevant for you, the user currently logged in:![Filtering financial forecasting by payment status in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693560082193)
 
 Filter on **[company entity](https://support.focus.teamleader.eu/hc/en-150/articles/25697681388177-How-To-Multiple-company-entities-in-Teamleader-Focus)**
 
@@ -134,7 +134,7 @@ Filter on the **status **of the invoice, that allows you to, for example, exclu
 When you’ve applied filters, this **view ****will ****be ****remembered **next time you navigate to the forecast
 
 - 
-Via the **preference ****panel**, it’s possible to either show the amounts in your forecast **including ****VAT **or **excluding ****VAT**:![](https://support.focus.teamleader.eu/hc/article_attachments/25693516336913)
+Via the **preference ****panel**, it’s possible to either show the amounts in your forecast **including ****VAT **or **excluding ****VAT**:![Configure your view dialog for financial forecast settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25693516336913)
 
 Find the preference panel in the top right-hand corner of your forecast by clicking on the **cogwheel**
 
@@ -167,7 +167,7 @@ The Financial Forecast is solely focused on revenue generated from invoices and 
 
 ### Q: Why is the total expected amount for month X higher than the sum of the invoices in that month?
 
-Say that there’s an invoice of €2000 for February, and the customer already paid €1000 in January, then the €1000 will be added to the total amount of January. The invoice will have the label ‘Partially paid’ assigned to it. The amount that was paid will be subtracted from the amount of the invoice: only the amount still to be paid will be visible on the invoice card.![](https://support.focus.teamleader.eu/hc/article_attachments/25693549875217)
+Say that there’s an invoice of €2000 for February, and the customer already paid €1000 in January, then the €1000 will be added to the total amount of January. The invoice will have the label ‘Partially paid’ assigned to it. The amount that was paid will be subtracted from the amount of the invoice: only the amount still to be paid will be visible on the invoice card.![A list item showing an invoice for NV Teamleader with a 'Partially paid' status.](https://support.focus.teamleader.eu/hc/article_attachments/25693549875217)
 
  
 

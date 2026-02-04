@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: What does the shortcode $LEGAL_NOTES$ stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692109389585)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -22,7 +22,7 @@ This shortcode will be replaced by the according VAT rule. Some VAT rules will b
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692102887057)
+![The 'Contents' section of a Teamleader Focus document showing line items, VAT, and totals.](https://support.focus.teamleader.eu/hc/article_attachments/25692102887057)
 
  
 

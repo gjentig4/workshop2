@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Saving a quotation as a template
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691263477009)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -23,9 +23,9 @@ If you frequently use the same quotation over and over again then you can create
 - Click on the 3 dots next to your quotation.
 
 - Select the option **Save quotation as template**. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691270210833)
+![Saving a quotation as a template from the deal follow-up page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691270210833)
 
-This way, the content of the quotation is saved and can be reused when creating a new deal.![](https://support.focus.teamleader.eu/hc/article_attachments/25691256517521)
+This way, the content of the quotation is saved and can be reused when creating a new deal.![The 'Add Deal' form in Teamleader Focus showing the Template dropdown selection.](https://support.focus.teamleader.eu/hc/article_attachments/25691256517521)
 
  
 
@@ -43,7 +43,7 @@ You can edit a template by clicking on the pencil next to it. Here you can chang
 
 Important are the advanced options here, which you can find by clicking on **Show ****advanced** **options **below your template content. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691247375505)
+![Advanced options toggle for updating product prices in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691247375505)
 
 When enabling this slider, the most recent product prices will be used in your quotation. This means that if you were to go to your product list and change the price of a product that is used in this template, that this adapted price will be used whenever you use this quotation template - no matter what prices the template was saved with.
 

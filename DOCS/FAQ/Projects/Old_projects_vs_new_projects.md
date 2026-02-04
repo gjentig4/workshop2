@@ -22,7 +22,7 @@ Do you prefer to watch our instructive webinar? You can do so here. Find the sli
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696120131857)
+![Tutorial title slide: Get work done on a solid foundation - Projects in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696120131857)
 
  
 

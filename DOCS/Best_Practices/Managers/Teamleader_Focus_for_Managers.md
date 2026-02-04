@@ -10,7 +10,7 @@ section: "Managers"
 
 # Teamleader Focus for Managers
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692906023953)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -48,7 +48,7 @@ The modules you will mainly need are:
  
 
 When navigating to your agenda, you will have access to the calendars of your entire team. Just select a name in the dropdown list at the right-hand side.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692874272785)
+![User selection dropdown menu in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692874272785)
 
  
 
@@ -64,7 +64,7 @@ By the way, this view stays for your entire Teamleader Focus session, so you do 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692857467665)
+![Team calendar view in Teamleader Focus showing schedules for multiple team members.](https://support.focus.teamleader.eu/hc/article_attachments/25692857467665)
 
  
 
@@ -80,7 +80,7 @@ All the tasks, meetings and calls any of you have tracked time on, will reappear
 
 The goal of having a look at these Timesheets is to be able to know what each of your employees and yourself have been working on day after day.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692845975569)
+![Timesheets overview in Teamleader Focus showing weekly time tracking and user selection.](https://support.focus.teamleader.eu/hc/article_attachments/25692845975569)
 
 You can also [export](https://support.focus.teamleader.eu/hc/en-150/articles/25691186210961) this info to Excel for other calculations. For example, if you want to find out how much time was spent working on a specific work type. In the export file, you can just sort the rows by the column 'Type'.
 
@@ -106,7 +106,7 @@ Once a segment is selected, you will see the number of deals within that segment
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692857570833)
+![Bottom section of a list view showing pagination and total amounts excluding VAT.](https://support.focus.teamleader.eu/hc/article_attachments/25692857570833)
 
  
 
@@ -118,7 +118,7 @@ In the deal overview, you can also select which columns you would like to see, s
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692846078737)
+![Pagination controls and settings gear icon in a Teamleader Focus list view](https://support.focus.teamleader.eu/hc/article_attachments/25690987917841)
 
  
 
@@ -188,7 +188,7 @@ Let’s see how to keep track of your cashflow. 
 
 As you have probably already guessed, segments and columns setup are also available in this module. Moreover, if you go to the overview of invoices, you will see a little widget called “**Mini stats**” at the right-hand bottom corner. It gives you some quick insights and if you click on that pdf sign there, you can even download an invoice report.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692906344977)
+![The Statistics widget in Teamleader Focus showing invoice counts and totals.](https://support.focus.teamleader.eu/hc/article_attachments/25692906344977)
 
 Back to the overview of invoices, you can also [export your invoices](https://support.teamleader.eu/en/support/solutions/articles/7000018210-faq-how-can-i-export-print-several-invoices-in-one-go-) into an excel sheet. This gives you various options for reporting.
 
@@ -204,7 +204,7 @@ If you need an overview of how much products were sold, you can access the repor
 
 If you need all the information, you can also export your invoices (or just a segment, if you want to calculate for a certain period of time) and choose to '**Create a new template**'. You'll get the option to add columns related to the content of your invoices. The most important ones here are '**Item name**' and '**Amount of items**'. Sort your rows in Excel by the column 'Item name' and then calculate the total number based on the 'Amount of items'. This will let you know how much was sold of a product.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692846211729)
+![The Excel Export Template configuration screen for selecting data columns.](https://support.focus.teamleader.eu/hc/article_attachments/25692846211729)
 
  
 

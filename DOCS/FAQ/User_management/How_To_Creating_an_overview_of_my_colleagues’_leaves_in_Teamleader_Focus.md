@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Creating an overview of my colleagues’ leaves in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691069889041)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Human resource managers and others may find it useful to have a complete overview of all their colleagues and their leave. You can generate this easily by following next steps:
 
@@ -18,4 +18,4 @@ Human resource managers and others may find it useful to have a complete overvie
 
 - Click on the **three dots **next to “Closing Days”
 
-- Click on “**Export**”![](https://support.focus.teamleader.eu/hc/article_attachments/25691029683857)
+- Click on “**Export**”![The Closing days calendar overview in Teamleader Focus showing recorded company holidays.](https://support.focus.teamleader.eu/hc/article_attachments/25691029683857)

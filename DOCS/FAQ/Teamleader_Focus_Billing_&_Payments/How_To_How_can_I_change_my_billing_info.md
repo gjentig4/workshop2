@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # How To: How can I change my billing info?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693425998353)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

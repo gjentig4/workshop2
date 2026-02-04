@@ -10,7 +10,7 @@ section: "Insights"
 
 # How To: Insights overview & targets in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697976094097)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

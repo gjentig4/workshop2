@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Create a team meeting type as an admin
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694565808785)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -22,7 +22,7 @@ Once you've created a meeting type you will see which hosts are bookable for tha
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694608088209)
+![A card for a 'Meet the team' scheduling link in Teamleader Focus with meeting types and duration.](https://support.focus.teamleader.eu/hc/article_attachments/25694608088209)
 
 **In this help article**
 
@@ -57,7 +57,7 @@ Once you've created a meeting type you will see which hosts are bookable for tha
 # 1. Click on 'Create new'
 
 When you've connected your calendar for the first time, the Lead capture Booster will have created 1, 2 or 3 meeting types for you. You can either edit them or create a new one via the green button ‘Create new’.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694582722193)
+![The Meeting Types overview in the Lead capture Booster, showing personal and team booking options.](https://support.focus.teamleader.eu/hc/article_attachments/25694449483921)
 
  
 
@@ -85,7 +85,7 @@ Choose whether guests can book an online meeting, an In person meeting or a Phon
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694608247057)
+![Location selection options for a meeting, with 'Online' selected.](https://support.focus.teamleader.eu/hc/article_attachments/25694449549969)
 
 For online meetings, **a meeting room will be automatically generated** for your client after a meeting has been planned. Returning clients will be directed to the same meeting room. The meeting room will be added to your [dashboard](http://vectera.com/dashboard).
 
@@ -95,7 +95,7 @@ If you check In person as a possible option, you will be able to add an offline 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694566071441)
+![Location settings for a meeting in Teamleader Focus with online and in-person options.](https://support.focus.teamleader.eu/hc/article_attachments/25694431202961)
 
 ### 
 
@@ -113,7 +113,7 @@ Below the meeting location you can set the duration of your meeting. You will se
 
 If you want a different duration for this meeting type, click on custom and type the amount of minutes. E.g. 90 minutes
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694595391249)
+![A duration input field in Teamleader Focus with the value set to 90 minutes.](https://support.focus.teamleader.eu/hc/article_attachments/25694421726865)
 
  
 
@@ -159,11 +159,11 @@ Select how customers/guests can book a meeting with you and your team members. 
 
 In the advanced settings of the meeting type, you can give the guest the option to [invite up to 6 additional invitees to the meeting](https://support.focus.teamleader.eu/hc/en-150/articles/25696130908433-How-To-Invite-additional-invitees-to-your-meeting). Fill in the number of additional invitees (max. 6), so the guest will see this on the booking page. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694595443729)
+![Advanced settings for additional invitees in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694446254609)
 
 E.g. If you fill in 2, the guest will be able to invite 2 additional guests, meaning you will have a meeting with 4 participants (you, the guest and 2 additional invitees).
 
-### ![](https://support.focus.teamleader.eu/hc/article_attachments/25694583049873)
+### ![Booking form for an online meeting in Teamleader Focus with guest invitation options.](https://support.focus.teamleader.eu/hc/article_attachments/25694583049873)
 
  
 
@@ -173,7 +173,7 @@ If you have created meeting room templates to have meeting rooms prepared in adv
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694583100433)
+![Dropdown menu for selecting a Meeting room template in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694413773457)
 
 ### Cancellation and rescheduling 
 
@@ -181,7 +181,7 @@ If you want to allow guests to cancel or reschedule a meeting, you will need to 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27153519718417)
+![Setting to allow guests to cancel or reschedule a meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27153243259793)
 
 **Note: This will be automatically enabled for meeting types created after July 2024. For meeting types created before or during July 2024, you will need to manually enable this.*
 
@@ -189,7 +189,7 @@ If you want to allow guests to cancel or reschedule a meeting, you will need to 
 
 Set up several buffers for your meeting type to perfectly optimize your availability for meetings.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694595687697)
+![Configuration settings for booking availability and meeting buffers in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694450043281)
 
  
 
@@ -221,7 +221,7 @@ In the example below My Name and Chris Jones are added to the meeting type. 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694612995473)
+![Step 2 of a setup process showing user availability toggles for team members.](https://support.focus.teamleader.eu/hc/article_attachments/25694612995473)
 
  
 
@@ -233,7 +233,7 @@ Now you can set up the available hours for you and your team members. You can do
 
 - In **Hours view** you can select the days with a checkmark and select the hours by filling in the fields. By default Monday until Friday will be checked and 09:00 until 17:00 will be chosen.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694595850385)
+![The working hours configuration interface for a user in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694595850385)
 
  
 
@@ -241,7 +241,7 @@ If you would like to add a break (e.g. one hour at noon), just click the ‘+’
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694642389905)
+![Configuration of working hours for Monday with two time slots.](https://support.focus.teamleader.eu/hc/article_attachments/25694642389905)
 
 *To remove an hour selection click on the bin icon. Don’t forget to change the hours if needed!*
 
@@ -255,7 +255,7 @@ If you want to have the same availability as another team member you can select 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694616980497)
+![The 'Copy availability from' tool in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694616980497)
 
  
 
@@ -273,7 +273,7 @@ If you click on Reset to default all the days and hours will go back to the Mond
 
 If you want to have the same availability as another team member you can select the team member in ‘Copy availability from’ and click on copy.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694628165521)
+![The 'Copy availability from' tool in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694616980497)
 
  
 
@@ -283,7 +283,7 @@ For every team member you can set up unavailable dates below the availability. W
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694642511889)
+![The 'Unavailable dates' expandable section in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694642511889)
 
  
 
@@ -297,7 +297,7 @@ Add an unavailable date
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694596223505)
+![The 'Unavailable dates' configuration section in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694422405009)
 
 You can remove the unavailable date by clicking on the bin icon. Or you can add another unavailable date by clicking on ‘Add dates’
 
@@ -309,7 +309,7 @@ In the Summary part you will see a summary of the basic meeting type settings. T
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694634128913)
+![Summary step of creating a team appointment type in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694634128913)
 
  
 
@@ -338,7 +338,7 @@ When setting up questions in your meeting type, you will have three basic questi
 If you want to map these to e.g. your contact in Teamleader Focus, make sure to check the box next to 'Create new contact'.
 
 Optionally, select which tag(s) need to be added to your contact.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694613518481)
+![The 'Ask questions' configuration panel for setting up lead capture forms in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694465860753)
 
 You can do the same for if you want to add a company or a deal in Teamleader Focus. Just check the boxes next to 'Create new company/deal'.
 
@@ -360,13 +360,13 @@ Next to these default questions, you can also add custom questions. These custom
 
 - Choose which field in Teamleader Focus you want to link the answer to
 
-- Check the preview on the right side![](https://support.focus.teamleader.eu/hc/article_attachments/25694642742545)
+- Check the preview on the right side![Form editor for adding a telephone number question to a Teamleader Focus lead capture form.](https://support.focus.teamleader.eu/hc/article_attachments/25694465939729)
 
  
 
 Save the question so it’s added to your meeting type. You can now also add a second custom question. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694642794385)
+![A form builder interface showing a required telephone number question and an 'Add question' button.](https://support.focus.teamleader.eu/hc/article_attachments/25694414656017)
 Read more about custom question types [in this help article.](https://support.focus.teamleader.eu/hc/en-150/articles/25695587505553-How-To-What-types-of-questions-can-I-add-to-my-meeting-type)
 
  
@@ -386,10 +386,10 @@ There are 3 default options that you can choose for both reminders:
 - 15 minutes
 
 - 60 minutes
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694642867473)
+![Meeting reminder settings in Teamleader Focus for calendar and email notifications.](https://support.focus.teamleader.eu/hc/article_attachments/25694437952913)
 
 If you would like to pick another amount of minutes, you click on Custom and fill in the preferred number. (e.g. 30)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694642946321)
+![Setting to send an email reminder before a meeting with a numeric input field for minutes.](https://support.focus.teamleader.eu/hc/article_attachments/25694414839569)
 
 ## 3.3 Redirect
 
@@ -399,7 +399,7 @@ If you want to redirect the client after they made a booking enter a redirect UR
 
 Enter the URL to which you want your clients to be redirected.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694628844433)
+![Configuration panel for redirecting invitees to a custom URL in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694521119761)
 
  
 
@@ -426,7 +426,7 @@ Toggle off 'Show a Teamleader confirmation screen before redirecting' if you wan
 ## 3.4 Change the email template of this meeting type
 
 It's possible to customize the email template of the following emails after a meeting is booked:
-![](https://support.focus.teamleader.eu/hc/article_attachments/27153642230161)
+![The 'Customize email templates' settings menu for meeting types in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27153629361425)
 
 - Customer confirmation email = the email your guest will receive after booking the meeting. By default this mail contains all the meeting details and a cancellation or reschedule option. 
 
@@ -449,7 +449,7 @@ Change the templates manually or copy the templates of another meeting type. You
  
 
 ## 3.5 Collect payments (optional)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694628995345)
+![Configuration panel for collecting payments when booking a meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694415072273)
 
  
 
@@ -470,13 +470,13 @@ After integrating with Stripe go back to Scheduling and click on the Meeting typ
 # 4. Save your meeting type and check what it looks like!
 
 Save the meeting type in the page footer. If it’s the first time that you’ve saved the meeting type then you will see a pop-up that gives you the opportunity to test it live on your booking page or go to the meeting types overview.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694643172369)
+![Success message after creating a new meeting type in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694423328529)
 
 # 5. Share or embed your meeting type(s)
 
 After creating your meeting type you can go to the meeting type overview page and choose to share or embed your meeting type. You can either share a meeting type, a personal booking page or a team booking page. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694634815377)
+![Meeting Types overview in Teamleader Focus showing booking link options and meeting cards.](https://support.focus.teamleader.eu/hc/article_attachments/25694448022289)
 
  
 

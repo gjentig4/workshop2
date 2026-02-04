@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Share your screen via the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694224092433)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Find out how to share your screen via the Lead capture Booster in the steps in this help article.
 
@@ -31,7 +31,7 @@ Find out how to share your screen via the Lead capture Booster in the steps in t
 
 ## Google Chrome
 
-1. Click on **Share ****screen **in the meeting room![](https://support.focus.teamleader.eu/hc/article_attachments/25694203027985)
+1. Click on **Share ****screen **in the meeting room![The Teamleader Focus video meeting interface highlighting the 'Share screen' option.](https://support.focus.teamleader.eu/hc/article_attachments/25694203027985)
 
 2. If you have an older version than Chrome 72, a notification will pop up requesting you to[ add the extension](https://chrome.google.com/webstore/detail/vectera-helper/nllnakkoanoloffpgpglbkijkdmiohmi). If you have a more recent version, installing the extension is optional.
 
@@ -41,9 +41,9 @@ Find out how to share your screen via the Lead capture Booster in the steps in t
 
 3. After the extension is added, a new notification pops up. Choose what you want to share: your full screen, an application window or a Chrome tab.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694239304977)
+![Comparison of screen sharing options in Vectera with and without the browser extension.](https://support.focus.teamleader.eu/hc/article_attachments/25694234070545)
 
-4. Choose what particular tab/app you want to share![](https://support.focus.teamleader.eu/hc/article_attachments/25694224279185)
+4. Choose what particular tab/app you want to share![Browser dialog for screen sharing via Vectera within Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694224279185)
 
 5. Start sharing!
 
@@ -53,11 +53,11 @@ Find out how to share your screen via the Lead capture Booster in the steps in t
 
 - Click on **Share ****screen **in the meeting room
 
-- Select which window or screen to share![](https://support.focus.teamleader.eu/hc/article_attachments/25694217180561)
+- Select which window or screen to share![Browser permission dialog for screen sharing in a Teamleader Focus meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/25694217180561)
 
-- Click on **Allow **and your screen will be shared![](https://support.focus.teamleader.eu/hc/article_attachments/25694217281297)
+- Click on **Allow **and your screen will be shared![Browser permission dialog asking to share screen for a Teamleader Focus meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/25694217281297)
 
-- Click on **Stop sharing **or the red X in the top right-hand corner to stop sharing your screen![](https://support.focus.teamleader.eu/hc/article_attachments/25694209949841)
+- Click on **Stop sharing **or the red X in the top right-hand corner to stop sharing your screen![The screensharing interface within a Teamleader Focus meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/25694209949841)
 
  
 
@@ -76,7 +76,7 @@ In your meeting room click on **Share ****screen **
 A pop up will open where you can choose to Allow, Don't allow or never give permission to share your screen.
 
 - 
-Click on **Allow **and your screen will be shared![](https://support.focus.teamleader.eu/hc/article_attachments/25694217440657)
+Click on **Allow **and your screen will be shared![The Teamleader Focus video meeting interface with collaboration tools and call controls.](https://support.focus.teamleader.eu/hc/article_attachments/25694217440657)
 
 ### Safari 16
 
@@ -90,7 +90,7 @@ This is how you can share your screen:
 In your meeting room click on **Share ****screen **
 
 - 
-A pop up will open where you can choose Allow to share window, Allow to share screen, or Don't allow.![](https://support.focus.teamleader.eu/hc/article_attachments/25694239697937)
+A pop up will open where you can choose Allow to share window, Allow to share screen, or Don't allow.![Safari browser permission dialog asking to allow cloud.teamleader.eu to share the screen.](https://support.focus.teamleader.eu/hc/article_attachments/25694239697937)
 
 - 
 Click on one of the Allow options and your screen will be shared
@@ -107,11 +107,11 @@ To stop sharing a window, you have 2 options:
 
  
 
-1. Stop sharing from the window itself by clicking on the purple icon in the top left of the window. Then select Stop Sharing Window.![](https://support.focus.teamleader.eu/hc/article_attachments/25694195105041)
+1. Stop sharing from the window itself by clicking on the purple icon in the top left of the window. Then select Stop Sharing Window.![Browser screen sharing and window management menu in macOS](https://support.focus.teamleader.eu/hc/article_attachments/25694195105041)
 
  
 
-2. Stop sharing from the meeting room by clicking on the red X in the top right corner of the shared screen.![](https://support.focus.teamleader.eu/hc/article_attachments/25694224798353)
+2. Stop sharing from the meeting room by clicking on the red X in the top right corner of the shared screen.![Toolbar for screen sharing or document preview with zoom and close controls](https://support.focus.teamleader.eu/hc/article_attachments/25694224798353)
 
 **Allow to share screen**
 
@@ -119,13 +119,13 @@ You can also share a full screen, in that case everything on the screen will be 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694195282705)
+![Split screen view of a Teamleader Focus video meeting and the Teamleader Talk blog page.](https://support.focus.teamleader.eu/hc/article_attachments/25694195282705)
 
  
 
 Stop sharing from the meeting room by clicking on the red X in the top right corner of the shared screen.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694203746193)
+![Teamleader Focus cobrowsing and screen sharing interface showing a blog post about QR code invoices.](https://support.focus.teamleader.eu/hc/article_attachments/25694203746193)
 
  
 

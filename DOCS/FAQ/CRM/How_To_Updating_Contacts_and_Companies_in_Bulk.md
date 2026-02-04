@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Updating Contacts and Companies in Bulk
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691399125265)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,9 +20,9 @@ It may happen that you need to update a custom field or another value in your CR
 
 - Click **Export** on the right hand side.
 
-- In the next screen, don't select "Basic columns" but **"C****reate ****new template"** instead.![](https://support.focus.teamleader.eu/hc/article_attachments/25691423239569)
+- In the next screen, don't select "Basic columns" but **"C****reate ****new template"** instead.![The 'Export to Excel' dialog window showing segment and column selection options.](https://support.focus.teamleader.eu/hc/article_attachments/25691423239569)
 
-- The following screen will show all possible values. Choose the values you'd like to update and - this is important - add the **Teamleader ID**. Through this ID, the contact or company will be matched correctly when you import your information again.![](https://support.focus.teamleader.eu/hc/article_attachments/25691407114129)
+- The following screen will show all possible values. Choose the values you'd like to update and - this is important - add the **Teamleader ID**. Through this ID, the contact or company will be matched correctly when you import your information again.![The Excel Export Template configuration screen in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691407114129)
 
  
 
@@ -32,7 +32,7 @@ It may happen that you need to update a custom field or another value in your CR
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691399253521)
+![Field mapping step during a data import in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691399253521)
 
 Please note that you will only be able to match the Teamleader ID during the import if the column title in Excel is spelled in exactly this way.
 
@@ -46,7 +46,7 @@ If you're an [admin](https://support.focus.teamleader.eu/hc/en-150/articles/2569
 
 - Once you’ve selected a segment you can find the **Actions **button on the right
 
-- ‘Add tag’ & ‘Remove tag’ are some of the options here:![](https://support.focus.teamleader.eu/hc/article_attachments/25691407212689)
+- ‘Add tag’ & ‘Remove tag’ are some of the options here:![The 'Actions' dropdown menu in Teamleader Focus showing bulk action options.](https://support.focus.teamleader.eu/hc/article_attachments/25691407212689)
 
 - 
 **Confirm the action** and the tag will be added/removed for your selection.

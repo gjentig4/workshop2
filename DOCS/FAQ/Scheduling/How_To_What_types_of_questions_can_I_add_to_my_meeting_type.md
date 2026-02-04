@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: What types of questions can I add to my meeting type?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695555394193)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When you create [a meeting type](https://support.focus.teamleader.eu/hc/en-150/articles/25694496632593-How-To-Create-a-meeting-type-for-your-personal-booking-page-as-a-team-admin) or [a contact form](https://support.focus.teamleader.eu/hc/en-150/articles/25695775141649-How-To-Contact-forms-and-how-to-create-them) you can set up all the details an add some extra questions to get more information from your leads and clients. Information from the questions will be sent to your Teamleader Focus CRM.
 
@@ -42,7 +42,7 @@ When setting up questions in your meeting type, you will have three basic questi
 
  
 
-If you want to map these to e.g. your contact in Teamleader Focus, make sure to check the box next to 'Create new contact'. Optionally, select which tag(s) need to be added to your contact.![](https://support.focus.teamleader.eu/hc/article_attachments/25695561742097)
+If you want to map these to e.g. your contact in Teamleader Focus, make sure to check the box next to 'Create new contact'. Optionally, select which tag(s) need to be added to your contact.![The 'Ask questions' configuration panel for setting up lead capture forms in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694465860753)
 
  
 
@@ -64,13 +64,13 @@ Next to these default questions, you can also add custom questions. These custom
 
 - Choose which field in Teamleader Focus you want to link the answer to
 
-- Check the preview on the right side![](https://support.focus.teamleader.eu/hc/article_attachments/25695607152529)
+- Check the preview on the right side![Form editor for adding a telephone number question to a Teamleader Focus lead capture form.](https://support.focus.teamleader.eu/hc/article_attachments/25694465939729)
 
  
 
 Save the question so it’s added to your meeting type. You can now also add a second custom question. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695555545233)
+![A form builder interface showing a required telephone number question and an 'Add question' button.](https://support.focus.teamleader.eu/hc/article_attachments/25694414656017)
 
 You can also change the order between the basic questions and the other custom questions you might add.
 
@@ -145,7 +145,7 @@ We've divided them in several categories to make it easy for you:
 
 ### Short text (150 characters) 
 
-Give clients the option to give a basic text answer up to 150 characters.![](https://support.focus.teamleader.eu/hc/article_attachments/25695571271953)
+Give clients the option to give a basic text answer up to 150 characters.![The configuration interface for adding a question to a meeting request form.](https://support.focus.teamleader.eu/hc/article_attachments/25695571271953)
 
  
 
@@ -155,7 +155,7 @@ Give clients the option to give an answer consisting of more than 150 characters
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695555644433)
+![Form to create or edit a custom question in Teamleader Focus with a preview pane.](https://support.focus.teamleader.eu/hc/article_attachments/25695555644433)
 
  
 
@@ -163,7 +163,7 @@ The above examples could look like this on the booking page:
 
 ##  
 
-## ![](https://support.focus.teamleader.eu/hc/article_attachments/25695571366161)
+## ![A form for scheduling a meeting with fields for the subject and a business introduction.](https://support.focus.teamleader.eu/hc/article_attachments/25695571366161)
 
 ## Choices 
 
@@ -173,7 +173,7 @@ The above examples could look like this on the booking page:
 
 Ask a question in which the lead or client can select one option out of multiple options that you provide. You can add up to 20 options in one question. You can also add an 'Other' option so clients can fill in a non-provided answer.
 
-### ![](https://support.focus.teamleader.eu/hc/article_attachments/25695571449361)
+### ![Interface for creating a single selection question in a Teamleader Focus form or survey.](https://support.focus.teamleader.eu/hc/article_attachments/25695571449361)
 
  
 
@@ -181,14 +181,14 @@ Ask a question in which the lead or client can select one option out of multiple
 
 Ask a question in which the lead or client can select an option from the dropdown that you provide. It's not possible to add an 'Other option'. Use the type 'Single selection' above if you want to do that.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695607445521)
+![Configuration interface for adding a dropdown selection question to a Teamleader Focus form.](https://support.focus.teamleader.eu/hc/article_attachments/25695607445521)
 
 ### 
 Multiple selection
 
 Ask a question in which the lead or client can select multiple options that you provide. You can also add an 'Other' option so clients can fill in a non-provided answer.
 
-### ![](https://support.focus.teamleader.eu/hc/article_attachments/25695555919377)
+### ![Form editor for creating a multiple-choice question with a real-time preview.](https://support.focus.teamleader.eu/hc/article_attachments/25695555919377)
 
 ###  
 
@@ -198,24 +198,24 @@ You can ask for the language of a client or lead and then they can select their 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695607547793)
+![Form for creating a custom question in Teamleader Focus with field mapping to a Deal Amount.](https://support.focus.teamleader.eu/hc/article_attachments/25695563110673)
 
 ### Yes/No
 
 Give clients the option to add a question in which your lead or client will choose Yes or No. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695562282385)
+![Form editor for creating a Yes/No question in Teamleader Focus with a live preview.](https://support.focus.teamleader.eu/hc/article_attachments/25695562282385)
 
  
 
 The above examples could look like this on the booking page:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695571758097)
+![Teamleader Focus onboarding questionnaire for company size and feature requirements.](https://support.focus.teamleader.eu/hc/article_attachments/25695571758097)
 
 ### 
 Checkbox
 
-If you have a question where your respondents need to check or uncheck a box you can use 'Checkbox'. E.g. if they want to receive your newsletter or not.![](https://support.focus.teamleader.eu/hc/article_attachments/25695571806353)
+If you have a question where your respondents need to check or uncheck a box you can use 'Checkbox'. E.g. if they want to receive your newsletter or not.![Form editor for adding a newsletter opt-in question to a lead capture form in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695571806353)
 
  
 
@@ -227,7 +227,7 @@ If you have a question where your respondents need to check or uncheck a box you
 
 You can ask for an extra email address next to the basic email address of the contact. This email address won’t be synced as the main contact email address in the CRM integrations. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695578806417)
+![Form to add a custom question to a meeting request in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695578806417)
 
  
 
@@ -235,7 +235,7 @@ You can ask for an extra email address next to the basic email address of the co
 
 Ask the lead for the name of his company. You can sync this with the CRM integrations to create a company linked to the contact. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695591135889)
+![Form to add a VAT number question to a custom form in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695572650641)
 
  
 
@@ -245,7 +245,7 @@ Ask the lead for the name of his company. You can sync this with the CRM integra
 
 Ask the lead for their phone number. A phone number should be between 7 and 15 digits. This information will be linked to the CRM integrations. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695591195153)
+![Form to add a VAT number question to a custom form in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695572650641)
 
  
 
@@ -253,7 +253,7 @@ Ask the lead for their phone number. A phone number should be between 7 and 15 d
 
 By asking for a website (URL) the lead will have to fill in a website which needs to be in URL format. We don’t check if the URL is an existing and valid URL, but it should have a URL format. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695579002769)
+![Form to create or edit a custom question in Teamleader Focus with a preview pane.](https://support.focus.teamleader.eu/hc/article_attachments/25695555644433)
 
 ###  
 
@@ -263,7 +263,7 @@ Add an address question to ask for the address of a contact, company or location
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695562735249)
+![Interface for adding an address question to a form, showing configuration and a live preview.](https://support.focus.teamleader.eu/hc/article_attachments/25695562735249)
 
  
 
@@ -271,7 +271,7 @@ The above examples could look like this on the booking page:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695572150289)
+![A contact information form with fields for email, company name, phone, website, and address.](https://support.focus.teamleader.eu/hc/article_attachments/25695572150289)
 
 ## Upload files 
 
@@ -279,13 +279,13 @@ The above examples could look like this on the booking page:
 
 Allow your leads to send you files via an Upload file question. This can be any type of file with a limit of 5MB per file.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695623778193)
+![Form to configure a file upload question for a project overview in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695623778193)
 
  
 
 The above examples could look like this on the booking page:
 
-## ![](https://support.focus.teamleader.eu/hc/article_attachments/25695623859601)
+## ![File upload interface in Teamleader Focus showing a drag-and-drop area and an uploaded PDF file.](https://support.focus.teamleader.eu/hc/article_attachments/25695623859601)
 
 ## 
 Date, number & Money
@@ -296,7 +296,7 @@ Date, number & Money
 
 You can ask the lead for a specific date in the past or in the future. The range of the answer should be between 01-01-1900 and 31-12-2099. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695579240337)
+![Configuration form for adding a date-based question to a Teamleader Focus form.](https://support.focus.teamleader.eu/hc/article_attachments/25695579240337)
 
  
 
@@ -306,7 +306,7 @@ You can ask the lead for a specific date in the past or in the future. The range
 
 Ask the lead for a specific number or amount. This can be a normal number, a negative number or a number with a comma. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695591598097)
+![Form for adding or editing a custom question in Teamleader Focus with a live preview.](https://support.focus.teamleader.eu/hc/article_attachments/25695591598097)
 
  
 
@@ -316,7 +316,7 @@ Ask the lead for a specific number or amount. This can be a normal number or a n
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695608316689)
+![Form to create or edit a question in Teamleader Focus with field mapping options.](https://support.focus.teamleader.eu/hc/article_attachments/25695608316689)
 
  
 
@@ -326,7 +326,7 @@ Ask a question that requires a value response linked with a currency that you se
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695563110673)
+![Form for creating a custom question in Teamleader Focus with field mapping to a Deal Amount.](https://support.focus.teamleader.eu/hc/article_attachments/25695563110673)
 
  
 
@@ -344,7 +344,7 @@ Ask a question that requires a value response linked with a currency that you se
 
 Ask the lead for the VAT number of their company. This VAT number can consist only of numbers and letters, but not of spaces and special characters. The VAT number will be checked if it’s valid. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695572650641)
+![Form to add a VAT number question to a custom form in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695572650641)
 
  
 
@@ -352,15 +352,15 @@ Ask the lead for the VAT number of their company. This VAT number can consist on
 
 If your leads or clients are based in the Netherlands you can also ask for a KvK number. A KvK number should consist of 8 letters. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695624243601)
+![Form to configure a custom question for a KvK number in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695624243601)
 
 The above examples could look like this on the booking page:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695624285969)
+![Form fields for entering a company's VAT number and KvK number in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695624285969)
 
 # Send data to Teamleader Focus
 
-All information entered while booking meetings with you or your team will be sent to your Teamleader Focus account via the field 'Link answer to Teamleader Focus':![](https://support.focus.teamleader.eu/hc/article_attachments/25695608594577)
+All information entered while booking meetings with you or your team will be sent to your Teamleader Focus account via the field 'Link answer to Teamleader Focus':![Form to configure a telephone number question and link it to a Teamleader Focus contact field.](https://support.focus.teamleader.eu/hc/article_attachments/25695608594577)
 
  
 

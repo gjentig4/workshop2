@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: How can I order my custom fields?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691750116753)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 By default, the custom fields within one part are ordered alphabetically. However, in case you would want to set up a certain order, then Teamleader Focus offers two options to do so.
 

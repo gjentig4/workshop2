@@ -10,7 +10,7 @@ section: "Projects"
 
 # FAQ: Can I set custom user rates per project?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695877847825)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -29,10 +29,10 @@ These rates will be applied by default when you've selected 'Time and Materials'
 - Click on the **three ****dots **in the top right-hand corner
 
 - Choose **Set user rates**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695857147025)**
+**![Project actions menu in Teamleader Focus with 'Set user rates' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25695857147025)**
 
 - In the next screen, you'll see all assignees of the project together with their default external price. Adapt their user rates by clicking on the boxes next to their names and inserting another rate.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695895745681)
+![The 'Set user rates' dialog box for configuring hourly billing rates per team member in a project.](https://support.focus.teamleader.eu/hc/article_attachments/25695895745681)
 
 - Optionally you can historically update the rates of all the unbilled time trackings for this project.
 

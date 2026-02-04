@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: Integrate Google Calendar with Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690941413137)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -18,7 +18,7 @@ If you want to integrate your Google Calendar with Teamleader Focus, you can fol
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690971367953)
+![Tutorial banner for integrating Google Calendar into Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690971367953)
 
  
 
@@ -64,7 +64,7 @@ If you enable the agenda synchronisation, you can select:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690924500369)
+![Google Agenda integration settings in Teamleader Focus showing calendar sync options.](https://support.focus.teamleader.eu/hc/article_attachments/25690924500369)
 
  
 
@@ -72,7 +72,7 @@ Remarks
 
 - Items which are fetched from your Google Calendar appear as [grey blocks](https://support.focus.teamleader.eu/hc/en-150/articles/25691415928721-FAQ-Why-do-I-only-see-grey-blocks-in-the-agenda-of-my-colleague) in your Teamleader Focus agenda so that colleagues cannot see your personal meetings. You can convert these to visible meetings by clicking on them in your Teamleader Focus calendar.
 
-- Because the link works in both directions, adjustments in your Teamleader Focus or Google Calendar will always be synchronized. The synchronisation runs in the background every 2 hours. However, for good measure, we recommend you start the sync manually when it is the first time you make the connection. You can do this by going to **Agenda**** **and clicking on the synchronisation symbol ![](https://support.focus.teamleader.eu/hc/article_attachments/25690958076945) on the right.
+- Because the link works in both directions, adjustments in your Teamleader Focus or Google Calendar will always be synchronized. The synchronisation runs in the background every 2 hours. However, for good measure, we recommend you start the sync manually when it is the first time you make the connection. You can do this by going to **Agenda**** **and clicking on the synchronisation symbol ![Grey sync or recurring icon with two arrows in a circular loop.](https://support.focus.teamleader.eu/hc/article_attachments/25690932443793) on the right.
 
 - Google Workspace users: you might have received an email with the following message: *"Starting February 15, 2021, Google Workspace accounts will only allow access to apps using OAuth. Password-based access will no longer be supported." *
 But don't worry, our Google calendar integration already exclusively uses OAuth, so this change has no impact on your integration.

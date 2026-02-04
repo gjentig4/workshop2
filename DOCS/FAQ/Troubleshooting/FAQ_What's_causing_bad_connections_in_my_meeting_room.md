@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # FAQ: What's causing bad connections in my meeting room?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695159138321)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The Lead capture Booster meeting rooms establishes a connection between participants by making use of the [WebRTC API](https://en.wikipedia.org/wiki/WebRTC), which is supported by all major browsers. Usually, WebRTC tries to create a direct connection from participant to participant, but in some cases this is not possible.
 

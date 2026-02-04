@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: How do I add a company in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691984749713)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -29,7 +29,7 @@ Everything in Teamleader Focus starts with your CRM. Moving forward, all deals, 
 - The first possibility is to add companies one by one. Go to **Companies **and click on **Add company **or click the plus sign in the top right hand corner and select ‘Add company’.
 
 - This pop-up will then appear:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691984792465)
+![The 'Add company' dialog box in Teamleader Focus with fields for contact and industry information.](https://support.focus.teamleader.eu/hc/article_attachments/25691984792465)
 
 - You can now start adding information. Note that only ‘Company name’ is a required field, which is indicated by the red asterisk. In [this article](https://support.focus.teamleader.eu/hc/en-150/articles/25691611839633-FAQ-Can-you-make-fields-required-in-Teamleader-Focus), you can find out how to add required fields. 
 
@@ -47,7 +47,7 @@ Everything in Teamleader Focus starts with your CRM. Moving forward, all deals, 
 
 - You could also choose to add several companies at once, via an import action. Go to Companies and click **import**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691984821649)
+![Header of the Companies module in Teamleader Focus with search, filter, and action buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25691984821649)
 
 - A pop-up will then appear.
 
@@ -73,7 +73,7 @@ If you have a Trends Top account, you can integrate your Trends Top data with Te
 
 3. Whenever you add a new company via **Add company** and fill in the VAT number, Teamleader Focus will automatically complete the entry with further info on this company from Trends Top. Once you’ve added a company, you will also see a ‘Trends Top’ button:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691973927825)
+![Company information header in Teamleader Focus with Trends Top integration and edit options.](https://support.focus.teamleader.eu/hc/article_attachments/25691973927825)
 
  
 

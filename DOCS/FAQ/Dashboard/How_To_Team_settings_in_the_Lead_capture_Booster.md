@@ -10,11 +10,11 @@ section: "Dashboard"
 
 # How To: Team settings in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694698149649)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 To set up your team accessibilities go to your [Team settings](https://meeting.teamleader.eu/team/settings/). These team options are based on back-end settings which have a smaller visual impact.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694682563473)
+![Team settings for meeting room access levels and visibility in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694682563473)
 
 **Non-admins can see and edit the meetings of other team members:** If the box is unchecked non-admin team members won't be able to see meetings of other team members.** **
 
@@ -34,7 +34,7 @@ For both options you can choose between:
 
 *Note: team admins will always have the highest access of the above options. *
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694730738321)
+![Meeting room access level settings for team admins and team members.](https://support.focus.teamleader.eu/hc/article_attachments/25694730738321)
 
 *Eg. If the team admin access is 'Should knock' but meeting room access level for team members is 'Can always join', the admins will also have 'Can always join' access.*
 

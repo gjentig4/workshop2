@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # FAQ: How can I adapt my Teamleader Focus subscription?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692610985105)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -70,7 +70,7 @@ That’s why we have the following Boosters in store for you that will be displa
 
 With the Boosters, you only pay for the functionalities you actually use. As an admin, you can add or remove Boosters from here. [Find more information in this article.](https://support.focus.teamleader.eu/hc/en-150/articles/25696169462161-How-To-Add-remove-Boosters-from-your-license-SMART-GROW-FLOW)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692629197969)
+![The 'Your Boosters' overview page showing available add-on modules in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692629197969)
 
  
 

@@ -10,7 +10,7 @@ section: "Integrations - Email tracking"
 
 # How To: Tracking emails to Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692589694609)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ The four ways to track emails are:
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692544308497)
+![A title banner for the Mail tracking feature in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692544308497)
 
  
 
@@ -119,7 +119,7 @@ Now IMAP is installed we can start using the email tracking:
 
 - Click on the “**IMAP**” button in the top right-hand corner
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692544119953)
+![Overview of tracking emails in Teamleader Focus using a personal BCC address or IMAP.](https://support.focus.teamleader.eu/hc/article_attachments/25692544119953)
 
 - Select the correct email and click “**Save**”
 
@@ -137,7 +137,7 @@ Every Teamleader Focus account has a unique forwarding address that comprises tr
 
 - You can find the link of this personal Teamleader Focus inbox in the black box.
 
-- Use this email address as a blind carbon copy (bcc) when sending emails, then a copy is sent straight to this Teamleader Focus inbox.![](https://support.focus.teamleader.eu/hc/article_attachments/25692544175633)
+- Use this email address as a blind carbon copy (bcc) when sending emails, then a copy is sent straight to this Teamleader Focus inbox.![Overview of tracking emails in Teamleader Focus using a personal BCC address or IMAP.](https://support.focus.teamleader.eu/hc/article_attachments/25692544119953)
 
  
 

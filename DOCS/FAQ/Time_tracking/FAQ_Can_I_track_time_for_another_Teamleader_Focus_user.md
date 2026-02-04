@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # FAQ: Can I track time for another Teamleader Focus user?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691649785489)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -27,16 +27,16 @@ If you need to track time for another Teamleader Focus user, you can follow thes
  
 
 1. Go to **Timesheets** and switch to another user in the right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691642175633)
+![The Timesheets overview in Teamleader Focus showing time tracking stats and user selection.](https://support.focus.teamleader.eu/hc/article_attachments/25691642175633)
 
 2. Click on **Add time tracking **in the top right-hand corner. Here you can choose to add single or [multiple time trackings](https://support.focus.teamleader.eu/hc/en-150/articles/25693832046865-How-To-Weekly-time-tracking-in-Teamleader-Focus). 
 
 For this example we choose **single time tracking:**
-![](https://support.focus.teamleader.eu/hc/article_attachments/26664947853969)
+![The 'Add time tracking' dialog box in Teamleader Focus for logging work hours.](https://support.focus.teamleader.eu/hc/article_attachments/26664947853969)
 You will see a warning that you are adding time for another user, but you can simply add all the information you normally fill in when adding time. Click **save **afterwards and the time tracking has been added.
 
 If you choose to add **multiple time trackings** at once you can also add them from your planning. You'll receive the same warning that you're tracking time for another user. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/26664947855249)
+![Dialog box to add multiple time trackings from planning for a specific user and date range.](https://support.focus.teamleader.eu/hc/article_attachments/26664947855249)
 
 [Read more about converting your planning to timesheets here.](https://support.focus.teamleader.eu/hc/en-150/articles/26653504659089-How-To-Convert-your-planning-to-timesheets-in-Teamleader-Focus)
 

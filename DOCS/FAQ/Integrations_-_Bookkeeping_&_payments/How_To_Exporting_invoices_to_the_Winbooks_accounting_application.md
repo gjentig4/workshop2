@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Exporting invoices to the Winbooks accounting application
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692522325905)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,9 +32,9 @@ In addition to the usual parameters, there are a number of specific parameters t
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692490395025)
+![Navigation path in WinBooks to access Journal codes (Dagboekcodes) via Bestand > Tabellen.](https://support.focus.teamleader.eu/hc/article_attachments/25692490395025)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692506175505)
+![The 'Dagboekcodes' dialog window for managing accounting journal codes.](https://support.focus.teamleader.eu/hc/article_attachments/25692506175505)
 
  
 
@@ -56,7 +56,7 @@ In addition to the usual parameters, there are a number of specific parameters t
 
 The parameters will be remembered for the next export so you do not have to enter them each time.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692513303441)
+![Configuration form for accounting export settings including VAT, journals, and ledger accounts.](https://support.focus.teamleader.eu/hc/article_attachments/25692513303441)
 
  
 
@@ -82,4 +82,4 @@ Importing in Winbooks takes place through the separate "**WbLinkInterface**" app
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692513359377)
+![Configuration window for the Winbooks Linker integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692513359377)

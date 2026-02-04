@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: Can I change project templates?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691245902865)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You can't change an existing project template right away, although there are two methods to edit your template. 
 
@@ -32,7 +32,7 @@ Don't know the name of the original project? Just use the second method and crea
 
 If you don't remember the name of the original template or you don't want to change the current template, it's a good idea to create a new project template. 
 
-- Create a new project and select the template you'd like to change![Project Templates: create new](https://support.focus.teamleader.eu/hc/article_attachments/25691255135121)
+- Create a new project and select the template you'd like to change![A form snippet for creating a project, showing the 'Project title' field and 'Template' dropdown.](https://support.focus.teamleader.eu/hc/article_attachments/25691255135121)
 
 - After the project is created, you can make the changes you want.
 
@@ -40,6 +40,6 @@ If you don't remember the name of the original template or you don't want to cha
 
 - Click on the **three** **dots **next to the project details
 
-- Choose **Save as template****![](https://support.focus.teamleader.eu/hc/article_attachments/25691228892817)**
+- Choose **Save as template****![Project details section in Teamleader Focus with an open actions menu.](https://support.focus.teamleader.eu/hc/article_attachments/25691228892817)**
 
 Want to delete the first template? Navigate to **Settings **> **Projects **> **Project ****templates**. Click the small bin below "Actions" to delete the project.

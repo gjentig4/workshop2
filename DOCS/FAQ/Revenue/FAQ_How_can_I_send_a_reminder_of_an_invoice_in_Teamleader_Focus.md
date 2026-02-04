@@ -10,7 +10,7 @@ section: "Revenue"
 
 # FAQ: How can I send a reminder of an invoice in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691491268497)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -30,7 +30,7 @@ First of all, you need to have sent the invoice already to your customer, before
 *Note: you'll only see the button 'reminder' when the invoice is actually overdue, meaning that the payment term has been exceeded. Otherwise you'll see the 'Send' button again.*
 
 - If you click on **Send via email and InvoiceCloud**, you can choose to type an accompanying text yourself, or select one of the predefined templates through **Settings** >** Revenue **> Email templates for invoices.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691507190673)
+![The 'Send invoice' dialog in Teamleader Focus with the email template dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25691507190673)
 
 - The reminder that you're sending out will be the original invoice bearing a '**Reminder' stamp **at the top. The 'Reminder' stamp will only be applied to an invoice if the payment term has been exceeded.
 
@@ -52,7 +52,7 @@ When adding the column 'Latest reminder' to your invoice overview, you'll see ho
 
 - X days ago (#2): Invoice has been sent for the second time X days ago.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691472350353)
+![A column in a Teamleader Focus table showing the status of the 'Latest reminder' for invoices.](https://support.focus.teamleader.eu/hc/article_attachments/25691472350353)
 
  
 
@@ -79,7 +79,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
     
       
         
-          ![](https://support.focus.teamleader.eu/hc/article_attachments/25691491623057)
+          ![Introductory banner for Email Templates in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691192958097)
         
 
       
@@ -90,7 +90,7 @@ Do you prefer to watch our instructive video first? You can do so right here:
  
 
 - To set up automatic reminders, navigate to **Settings** > **Revenue **> 'Automatic reminders for overdue invoices'.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691480125073)
+![Configuration modal for adding an automatic reminder for an overdue invoice in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691480125073)
 
  
 

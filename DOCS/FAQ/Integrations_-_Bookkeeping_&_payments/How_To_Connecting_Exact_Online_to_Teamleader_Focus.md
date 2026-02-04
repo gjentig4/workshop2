@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Connecting Exact Online to Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691210920721)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -25,7 +25,7 @@ Before you make the actual connection between Exact Online and Teamleader Focus,
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691183891985)
+![Tutorial banner for integrating Teamleader Focus with Exact Online](https://support.focus.teamleader.eu/hc/article_attachments/25691183891985)
 
 * *
 
@@ -53,7 +53,7 @@ In Teamleader Focus, click on your icon user in the top right corner and select 
 
 - Connect your account and select the company entity you want to connect.
 
-- Log in with your Exact Online credentials to land in the following overview:![](https://support.focus.teamleader.eu/hc/article_attachments/25691198083345)
+- Log in with your Exact Online credentials to land in the following overview:![Configuration settings for the Exact Online integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691198083345)
 
 - Enter a start date: this defines the date from which Teamleader Focus will synchronise your invoices and credit notes.
 
@@ -70,7 +70,7 @@ Next, you will need to link a few things between Teamleader Focus and Exact. The
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691203580433)
+![Mapping VAT codes between Teamleader Focus and Exact Online integration](https://support.focus.teamleader.eu/hc/article_attachments/25691203580433)
 
  
 
@@ -78,13 +78,13 @@ Besides that, you can set an account to post (commercial) discounts and possibly
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691219961745)
+![Configuration page for the Exact Online bookkeeping integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691219961745)
 
 ## Manually activating the synchronisation
 
 Now that the connection is made, you can manually activate the first synchronisation. First, click **Revenue **> **Invoices** in the navigation to synchronise. You will see that a synchronisation symbol is now being displayed in the top right-hand corner.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691211167377)
+![The Invoices module header in Teamleader Focus with the sync icon highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691211167377)
 
  
 
@@ -118,7 +118,7 @@ The payment term used in Teamleader Focus is compared to the terms in Exact Onli
 
 - There's a difference between normal payment terms and incasso/direct debit payment terms. This is how you should set up a payment term for direct debit: 
 
-        ![Connecting Exact to Teamleader Focus - Direct debit payment term](https://support.focus.teamleader.eu/hc/article_attachments/25691198225169)
+        ![The maintenance screen for configuring a payment condition in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691198225169)
 
  
 

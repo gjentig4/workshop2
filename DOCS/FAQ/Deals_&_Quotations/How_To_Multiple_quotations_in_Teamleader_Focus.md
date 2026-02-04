@@ -10,11 +10,11 @@ section: "Deals & Quotations"
 
 # How To: Multiple quotations in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693710955281)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
-Providing different options to your customer is part of the sales process. It’s your customer’s mindset to compare and look for the best deal. This is where the ability to create multiple quotations per deal comes in. In this article you’ll learn more about the feature and what it does.![](https://support.focus.teamleader.eu/hc/article_attachments/25693696414993)
+Providing different options to your customer is part of the sales process. It’s your customer’s mindset to compare and look for the best deal. This is where the ability to create multiple quotations per deal comes in. In this article you’ll learn more about the feature and what it does.![The 'Follow up on your won deal' section in Teamleader Focus showing a list of open quotations.](https://support.focus.teamleader.eu/hc/article_attachments/25693696414993)
 
 - [What](#What)
 
@@ -109,7 +109,7 @@ Another option is to create an additional quotation but use the content of an al
 
 - Click on **Use ****existing ****quotation **in the top right-hand corner
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693707983249)
+![The 'Add product' dialog in Teamleader Focus for creating a new quotation.](https://support.focus.teamleader.eu/hc/article_attachments/25693707983249)
  
 
 - Choose customer and a deal + quotation
@@ -146,7 +146,7 @@ Via the quotation page:
 Click on the **arrow **next to **Send quotation**
 
 - Choose **Mark as accepted**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693708019217)
+![The quotation action menu in Teamleader Focus with 'Mark as accepted' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693708019217)
  
 
 - Via the deal page:
@@ -154,7 +154,7 @@ Click on the **arrow **next to **Send quotation**
 Click on the **three ****dots **next to the quotation you want to mark as accepted
 
 - Choose **Mark ****as ****accepted**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25693682347281)**
+**![List of open quotations with a dropdown menu highlighting the 'Mark as accepted' option.](https://support.focus.teamleader.eu/hc/article_attachments/25693682347281)**
  
 
 Use case: “What if the wrong quotation in my deal got accepted and my customer wants to be able to accept another one?”
@@ -177,7 +177,7 @@ As stated above, only one quotation can be accepted per deal. An accepted quotat
 
 When creating a document, you get to choose from which quotation you want to continue:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693711216785)
+![Dropdown menu to select a quotation when creating an order confirmation in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693711216785)
 
  
 
@@ -238,13 +238,13 @@ Before sending your quotation(s) to your customer, you might want to preview the
 With the multiple quotations feature, it’s possible to send multiple quotations in one go to your customer.
 
 - In the follow-up section, click on the **Send ****quotations **button:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693711270801)
+![A list of open quotations in Teamleader Focus with a 'Send quotations' button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693711270801)
 
 - Check the boxes next to the quotations you want to send
 
 - Find the send dialog in the next screen, where you’ll find an overview of **how **the quotations will be sent exactly (via CloudSign and/or via attachments)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693696754705)
+![The 'Send quotations' dialog showing CloudSign links, PDF attachments, and an add attachment option.](https://support.focus.teamleader.eu/hc/article_attachments/25693696754705)
 
 *Notes*:
 
@@ -252,7 +252,7 @@ To make sure the quotations are sent **via **CloudSign, add the variable #LINK 
 
 - The ‘Via Attachments’ links back to a slider in your **Settings **> **Deals and Quotations **> **Send quotations in attachment when sending to customers.**
 Make sure it’s enabled when you also want to send your quotations in attachment.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693711379345)
+![Preferences setting to send quotations as attachments to customers.](https://support.focus.teamleader.eu/hc/article_attachments/25693711379345)
 
 - When you send one quotation of a specific deal using CloudSign, all online quotations from this deal will automatically be available for your customer to consult, i.e. there is no separate link for every quotation. If you only want to show one quotation, make sure to remove the others from CloudSign. Read more about CloudSign availability [here](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25693770369937).
 
@@ -285,7 +285,7 @@ When displaying the deal amount and the margin of the deal, the **average **of 
 
 For the deal amount, you’ll be able to view the following calculation per deal by clicking on **View ****calculation **in your deal details:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693711440145)
+![The calculation breakdown for a deal's amount in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693711440145)
 
  
 

@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Setting a signature for outgoing emails
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690752219025)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Give your email an extra touch with a signature. 
 
@@ -18,7 +18,7 @@ Keep in mind that this is a general **signature for your whole company**. So do 
 
 Do you prefer to watch our instructive video first? You can do so right here: 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27921632884241)
+![Tutorial banner for the Email signature feature in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27921632884241)
 
 Follow these steps:
 
@@ -28,7 +28,7 @@ Follow these steps:
 
 - Choose “**HTML email**” in the dropdown menu
 
-- Make a signature as shown below![](https://support.focus.teamleader.eu/hc/article_attachments/25690735144465)
+- Make a signature as shown below![The email signature editor in Teamleader Focus with an HTML rich text toolbar.](https://support.focus.teamleader.eu/hc/article_attachments/25690735144465)
 
 - Type “#TEAMLEADER_CONTENT” where the actual content of your email is to go. Usually this will be immediately above the signature, as is also the case in the image above.
 
@@ -42,7 +42,7 @@ If you want to upload a picture with the full signature or a logo, you need to f
 
 - Once selected, click on "**Send it to the server**"
 
-- If everything went fine, you will have received a message like this:![](https://support.focus.teamleader.eu/hc/article_attachments/25690741633937)
+- If everything went fine, you will have received a message like this:![A success message dialog stating 'The upload was successful' with a green checkmark icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690741633937)
 
 - Adjust the size of the image and whenever ready, click on** OK***Note*: We advise you to already change the size of the image to the correct size before uploading it, especially if you're using Outlook Desktop, to make sure the image will always be shown in the correct size. 
 

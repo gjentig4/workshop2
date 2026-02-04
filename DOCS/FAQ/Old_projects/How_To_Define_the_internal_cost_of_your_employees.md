@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Define the internal cost of your employees
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693449913233)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Next to setting up the [external hourly price](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691956252177) for a certain user you can also define the internal cost of your employees. Discover here what this is, how to set it and when to use it.
 
@@ -44,7 +44,7 @@ First of all: only [Teamleader Focus admins](https://support.focus.prd.teamleade
 
 - Click on the **three ****dots **next to the name of the user for which you want to add an internal cost
 
-- Fill in the field ‘Internal cost’ by inserting an amount per hour![](https://support.focus.teamleader.eu/hc/article_attachments/25693469246737)
+- Fill in the field ‘Internal cost’ by inserting an amount per hour![Internal cost and external price configuration fields in a user or project settings form.](https://support.focus.teamleader.eu/hc/article_attachments/25693469246737)
 
 - Click **Save**
 
@@ -59,4 +59,4 @@ The internal hourly cost comes in handy when you are using the project module an
 - 
 The internal cost for every participant of the project needs to be set in **Settings > HR** otherwise the following message will appear:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693485428625)
+![Empty state for the Profit & loss section in a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/25693485428625)

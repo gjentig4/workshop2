@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Invite guests and team members to a meeting room
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694144509841)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 The meeting rooms are created so they can be used without the need to download or install anything. Meaning that it's very easy to share a meeting room and still keep it safe. Below you can find out what the invite options are!
 
@@ -24,7 +24,7 @@ At the bottom of the meeting room, you can find the Invite settings. Click on In
 
 - Give team members access
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694149149457)
+![Invite settings dialog for a Teamleader Focus meeting showing link and access controls.](https://support.focus.teamleader.eu/hc/article_attachments/25694149149457)
 
 # Share a public link
 
@@ -32,7 +32,7 @@ The easiest way is to share the public link of the meeting room. By clicking on 
 
 Next to the 'Copy link' button you choose whether the meeting room is locked (so guests should knock) or is open to anyone with the link (= Can always join).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694144628113)
+![Meeting link settings in Teamleader Focus showing public and private link options.](https://support.focus.teamleader.eu/hc/article_attachments/25694144628113)
 
 # Share a private link
 
@@ -42,13 +42,13 @@ You can keep the meeting room locked but give someone access by creating a priva
 
 - Can always join: Someone who has the private link can always join without having to knock.
 
-- Is host: the guest who enters the room with this special link will have the rights of a host!![](https://support.focus.teamleader.eu/hc/article_attachments/25694159838737)
+- Is host: the guest who enters the room with this special link will have the rights of a host!![Access settings menu showing options for Private link, Team access, and Specific access.](https://support.focus.teamleader.eu/hc/article_attachments/25694159838737)
 
 # Give specific access to one or multiple people
 
 You can also invite one or multiple people to have specific rights. Click on the button 'Invite via e-mail', type the email address and click on 'Send invite'. The person will receive an email with a special access key.
 
-You can decide what the access key will do: the person should knock, can always join or has host rights.![](https://support.focus.teamleader.eu/hc/article_attachments/25694149339537)
+You can decide what the access key will do: the person should knock, can always join or has host rights.![Configuring specific user access levels and permissions for a team member in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694149339537)
 
 # Give team members access
 

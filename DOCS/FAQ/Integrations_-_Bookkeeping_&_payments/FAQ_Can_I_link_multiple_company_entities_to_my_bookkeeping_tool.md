@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # FAQ: Can I link multiple company entities to my bookkeeping tool?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697694249361)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

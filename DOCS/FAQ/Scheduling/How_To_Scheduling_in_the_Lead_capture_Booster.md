@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Scheduling in the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695093313425)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -58,7 +58,7 @@ An automatic booking link on your website is not just useful for your existing c
 
 ## Setup 
 
-After you've activated and set up the Lead capture Booster in your Teamleader Focus account, automatically a Teamleader Focus integration is set up there. You can find this integration in **Settings > Integrations > Active integrations > Teamleader Focus. ****![](https://support.focus.teamleader.eu/hc/article_attachments/25695099420305)**
+After you've activated and set up the Lead capture Booster in your Teamleader Focus account, automatically a Teamleader Focus integration is set up there. You can find this integration in **Settings > Integrations > Active integrations > Teamleader Focus. ****![Integrations settings page in the Lead capture Booster showing active and inactive connections.](https://support.focus.teamleader.eu/hc/article_attachments/25695099420305)**
 
  
 
@@ -66,7 +66,7 @@ All information entered while booking meetings with you or your team will be sen
 
  
 
-To set up your booking pages you will have to follow a few steps, which can easily be done in our scheduling flow. Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.![](https://support.focus.teamleader.eu/hc/article_attachments/25695099502353)
+To set up your booking pages you will have to follow a few steps, which can easily be done in our scheduling flow. Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.![The 'Get started with scheduling' screen in the Lead capture Booster, prompting calendar connection.](https://support.focus.teamleader.eu/hc/article_attachments/25694264050065)
 
  
 
@@ -86,11 +86,11 @@ To set up your booking pages you will have to follow a few steps, which can easi
 [iCloud](https://support.focus.teamleader.eu/hc/en-150/articles/25694338479377-How-To-Connect-your-iCloud-calendar-with-Lead-capture-Booster)
 
 - 
-[Exchange](https://support.focus.teamleader.eu/hc/en-150/articles/25694412150929-How-To-Connect-your-Exchange-calendar-with-the-Lead-capture-Booster)![](https://support.focus.teamleader.eu/hc/article_attachments/25695084006801)
+[Exchange](https://support.focus.teamleader.eu/hc/en-150/articles/25694412150929-How-To-Connect-your-Exchange-calendar-with-the-Lead-capture-Booster)![Step 1 of the booking page setup: connecting a calendar provider.](https://support.focus.teamleader.eu/hc/article_attachments/25694269451537)
 
  
 
-*Note*: In the integration settings with Teamleader Focus, the check mark next to 'Create a calendar event through Teamleader Focus' is checked by default: this means that all bookings will be synced to your Teamleader Focus agenda by default.![](https://support.focus.teamleader.eu/hc/article_attachments/25695084072081)You still have to [connect your external calendar (Google, iCloud, Exchange,...) to your Teamleader Focus account](https://support.focus.teamleader.eu/hc/en-150/articles/25690957593745-How-To-Integrate-calendars-with-Teamleader-Focus) though if you then want your Teamleader Focus meetings to be synced to that calendar.
+*Note*: In the integration settings with Teamleader Focus, the check mark next to 'Create a calendar event through Teamleader Focus' is checked by default: this means that all bookings will be synced to your Teamleader Focus agenda by default.![Teamleader Focus integration settings for booking meetings and calendar synchronization.](https://support.focus.teamleader.eu/hc/article_attachments/25695084072081)You still have to [connect your external calendar (Google, iCloud, Exchange,...) to your Teamleader Focus account](https://support.focus.teamleader.eu/hc/en-150/articles/25690957593745-How-To-Integrate-calendars-with-Teamleader-Focus) though if you then want your Teamleader Focus meetings to be synced to that calendar.
 
  
 
@@ -103,7 +103,7 @@ To set up your booking pages you will have to follow a few steps, which can easi
 *Important note: *Make sure that the events in your external calendar have the status 'Busy' instead of 'Free'. Only then will those time slots be blocked from your availability, and clients won't be able to book a meeting during your 'busy' time slots. 
 
 - 
-**Choose a calendar in which events will be created** to show in which calendar new meetings should be booked in![](https://support.focus.teamleader.eu/hc/article_attachments/25695084124817)
+**Choose a calendar in which events will be created** to show in which calendar new meetings should be booked in![Step 2 of the booking page setup showing calendar availability and event creation settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694284585105)
 
  
 
@@ -111,7 +111,7 @@ To set up your booking pages you will have to follow a few steps, which can easi
 
  
 
-To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.![](https://support.focus.teamleader.eu/hc/article_attachments/25695093671697)
+To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.![Step 3 of the booking page setup in Teamleader Focus for adding meeting type templates.](https://support.focus.teamleader.eu/hc/article_attachments/25694269703313)
 
  
 
@@ -119,7 +119,7 @@ To have an easy start with creating meeting types, you can select 1 to 3 meeting
 
  
 
-Click on **Check your booking page** to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.![](https://support.focus.teamleader.eu/hc/article_attachments/25695113288721)
+Click on **Check your booking page** to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.![Final step of the booking page setup wizard showing a success message.](https://support.focus.teamleader.eu/hc/article_attachments/25694278205585)
 
 ## Create/edit meeting types
 
@@ -153,7 +153,7 @@ After finishing the onboarding steps, you can edit/create one or multiple meetin
 
 3) Select meeting type: Team
 
-4) Go to Availability. Turn off the slider for yourself but enable it for your colleague![](https://support.focus.teamleader.eu/hc/article_attachments/25695066937361)
+4) Go to Availability. Turn off the slider for yourself but enable it for your colleague![Step 2 of a setup process showing user availability toggles for America Ferrera and John Brook.](https://support.focus.teamleader.eu/hc/article_attachments/25695066937361)
 
 5) Save it and done!
 
@@ -188,11 +188,11 @@ Embed your booking page [into your website](https://support.focus.teamleader.eu/
 
  
 
-Share your booking page with your customers now and let them book meetings. When they did, you'll find your meetings in **Scheduling > Meetings **on this page of the Lead capture Booster:![](https://support.focus.teamleader.eu/hc/article_attachments/25695113431185)
+Share your booking page with your customers now and let them book meetings. When they did, you'll find your meetings in **Scheduling > Meetings **on this page of the Lead capture Booster:![The Meetings overview in the Lead capture Booster showing upcoming scheduled appointments.](https://support.focus.teamleader.eu/hc/article_attachments/25695113431185)
 
  
 
-Or in Teamleader Focus, the meeting will be visible in your calendar:![](https://support.focus.teamleader.eu/hc/article_attachments/25695052742161)
+Or in Teamleader Focus, the meeting will be visible in your calendar:![Calendar week view in Teamleader Focus showing scheduled meetings and online appointments.](https://support.focus.teamleader.eu/hc/article_attachments/25695052742161)
 
  
 

@@ -10,7 +10,7 @@ section: "Products"
 
 # How To: Create price lists
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691965003793)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -21,7 +21,7 @@ Price lists in Teamleader Focus allow you to set different pricing for your prod
 
 You can start creating price lists via **Settings >** **Products >** Button **+**. You’ll get to see the following screen:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691972331409)
+![The 'Add Pricelist' dialog box in Teamleader Focus showing calculation method options.](https://support.focus.teamleader.eu/hc/article_attachments/25691972331409)
 
  
 
@@ -88,11 +88,11 @@ We’re happy to give you a more in-depth example of how to use price lists.
 
 4. With all this data, we are ready to create a quotation for 'Company Y', who is being charged according to our default price. We’ll use the Product X to make the quotation:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39181263154705)
+![The 'Items on the quotation' section in Teamleader Focus for adding products and pricing.](https://support.focus.teamleader.eu/hc/article_attachments/39181263154705)
 
 5. To finish our example, we also create a quotation using the same Product X for Company Z, who is being charged based on our price lists with factor times 2:
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691972402321)**
+**![The 'Items on the quotation' section in Teamleader Focus for adding products and pricing.](https://support.focus.teamleader.eu/hc/article_attachments/25691972402321)**
 
  
 

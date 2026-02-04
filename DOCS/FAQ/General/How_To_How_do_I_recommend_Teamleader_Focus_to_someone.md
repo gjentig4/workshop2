@@ -10,7 +10,7 @@ section: "General"
 
 # How To: How do I recommend Teamleader Focus to someone?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691708173201)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -186,7 +186,7 @@ You don’t really have to put in much effort to start gaining from it. You can 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691680496145)
+![Teamleader Focus referral program banner with a unique referral link and email option.](https://support.focus.teamleader.eu/hc/article_attachments/25691680496145)
 
  
 

@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # FAQ: Can I track time on a ticket?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693095760401)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -28,7 +28,7 @@ It’s possible in Teamleader Focus to directly track time on a ticket. Follow t
 
 - A new row ‘Time Tracking’ will appear in the ticket properties:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693117365009)
+![Header of a support ticket in Teamleader Focus showing status, client, and timetracking.](https://support.focus.teamleader.eu/hc/article_attachments/25692901622417)
 
 - 
 You can also export this information to Excel if you follow these steps:
@@ -45,7 +45,7 @@ Go to your Timesheets.
 
 - In the Excel file you’ll see a column ‘Ticket’ containing the ticket ID.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693100238865)
+![A table showing time tracking details linked to a ticket for NV Teamleader.](https://support.focus.teamleader.eu/hc/article_attachments/25693100238865)
 
  
 

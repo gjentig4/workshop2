@@ -10,7 +10,7 @@ section: "Becoming a customer"
 
 # Getting started: What is included in my trial?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41150090543633)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 **Do I get access to all features during my free trial?**
 
 Yes, you have access to all features during your trial. When you start your trial, we tailor your setup based on the answers you provide. This ensures you begin with the package and features that best match your needs.

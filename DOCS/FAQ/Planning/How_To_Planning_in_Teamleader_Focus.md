@@ -10,7 +10,7 @@ section: "Planning"
 
 # How To: Planning in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696126515729)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -18,7 +18,7 @@ Discover the Planning Module or – your key to streamlined management. Read in 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696126570513)
+![The Planning overview in Teamleader Focus showing team workload and capacity for a specific week.](https://support.focus.teamleader.eu/hc/article_attachments/25696126570513)
 
  
 
@@ -38,7 +38,7 @@ Discover the Planning Module or – your key to streamlined management. Read in 
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696155297297)
+![The Teamleader Focus weekly calendar view showing scheduled tasks and time tracking.](https://support.focus.teamleader.eu/hc/article_attachments/25696155297297)
 
  
 
@@ -71,7 +71,7 @@ You can find **Planning **in the navigation on the left. 
 - If you click on **Assignees **in the top left-hand corner you have the option to filter by people, but also by [teams](https://support.focus.teamleader.eu/hc/en-150/articles/25690706850321-How-To-Creating-a-team-in-Teamleader-Focus).
 
 - If you click on the **cogwheel **at the top, you can set your **planning ****preferences**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/26105437733649)
+![The Planning preferences dialog box in Teamleader Focus for customizing the calendar view.](https://support.focus.teamleader.eu/hc/article_attachments/26105437733649)
 
  
 
@@ -82,7 +82,7 @@ You can choose to display the **work type colour of your tasks **in your planni
 
 - 
 You can choose to** show capacity as a percentage** or not
-![](https://support.focus.teamleader.eu/hc/article_attachments/26105452249233)
+![Time tracking progress bars showing daily and weekly capacity percentages in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/26105452249233)
  
 
 - You can also select what **info **you want to see **displayed on a planning card**. The title of the task will always be the title of the planning card, but when you view a task in the planning you can define which information you see below the name of the task. There are three options, but note that this meta data will only be displayed if the planned time is 2 hours or more: 
@@ -106,7 +106,7 @@ Customer name
 After you've customised the view to your preference, it's time to plan tasks.
 
 - Click on** Plan tasks** in the top right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696193805201)
+![Toolbar for planning tasks with a duration selector and 'Plan tasks' button in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696193805201)
 
 - First of all, you can filter on which tasks are displayed here by: 
 
@@ -130,21 +130,21 @@ If you filled out 6 hours when creating the task, the task will immediately be s
 - Tasks that are already fully planned won’t show up in the sidebar to plan tasks. They will show up with the label ‘Fully planned’ when searching for them.
 
 - You can also plan tasks over multiple days by clicking on the task in the bottom right corner and dragging it horizontally across days. Your availability or the availability of your colleagues will also be taken into account.
-![horizontaldragplanning2-ezgif.com-video-to-gif-converter.gif](https://support.focus.teamleader.eu/hc/article_attachments/28017452388881)
+![Teamleader Focus planning board showing tasks assigned to a user and the 'Convert to timesheet' link.](https://support.focus.teamleader.eu/hc/article_attachments/28017452388881)
 
  
 
 - It's also possible to **add new tasks directly from your planning **by clicking on the plus icon on a day. A task side panel will open where you can add the details of your task.
-![](https://support.focus.teamleader.eu/hc/article_attachments/29310543883793)
+![Adding a new time tracking entry in the Teamleader Focus timesheet view](https://support.focus.teamleader.eu/hc/article_attachments/29310543883793)
  
 
 After you've planned tasks, this has an impact on your capacity.
 
 - At the top left of the planning you have the **totals bar**. Here you can see how much **planned vs unplanned time** you have in total for all your colleagues/employees for the duration of the visible time period on your screen. 
 
-- Next to the totals bar, you have the visualisation of the planned and unplanned time for **every separate day.****![](https://support.focus.teamleader.eu/hc/article_attachments/25696181378833) **
+- Next to the totals bar, you have the visualisation of the planned and unplanned time for **every separate day.****![Weekly time tracking overview showing daily totals and progress bars in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696181378833) **
 
-- Under the totals bar, you have the visualisation of the planned and unplanned time for **every individual colleague/employee.**![](https://support.focus.teamleader.eu/hc/article_attachments/25696170174609)
+- Under the totals bar, you have the visualisation of the planned and unplanned time for **every individual colleague/employee.**![A user profile snippet showing time tracking progress for 'Sara'.](https://support.focus.teamleader.eu/hc/article_attachments/25696170174609)
 
  
 
@@ -153,17 +153,17 @@ After you've planned tasks, this has an impact on your capacity.
 *Notes*:
 
 - You can also plan a task directly from the **project task side panel,** instead of starting from the planning module:
-![](https://support.focus.teamleader.eu/hc/article_attachments/26105452255889)
+![The task side panel in Teamleader Focus showing the 'Plan in planning' link within the Planning section.](https://support.focus.teamleader.eu/hc/article_attachments/26105452255889)
 
 - If you’ve overplanned someone, their totals bar for that day will turn red.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696193955345) 
+![User time tracking and capacity overview showing tracked hours versus total weekly and daily goals.](https://support.focus.teamleader.eu/hc/article_attachments/25696193955345) 
 
 - The **weekly planning options **are different if you’ve also set a [week schedule ](https://support.focus.teamleader.eu/hc/en-150/articles/25691870457873-FAQ-How-can-I-set-a-week-schedule-in-Teamleader-Focus)for someone. 
 
 Here, you can indicate if there are days when someone is **not ****available **and that day will be **shaded **in the planning. 
 
 - If you plan a task for that person on a day that they are not available, you’ll receive the following warning:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696155589009)
+![A 'No available capacity' warning dialog when planning a task in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696155589009)
 
 - If you click on **Plan ****anyway**, then the capacity bar will turn red. 
  
@@ -183,7 +183,7 @@ There’s also the option ‘**Suggest ****time**’. Clicking on it will autom
 
 - 
 If you’ve already planned time for the same task on another day, that amount of time will be visible between **brackets**. In the following example, the total task duration is 10 hours, but you’ve already planned two hours on another day (+02h00):
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696194117777)
+![The 'Edit planned time' dialog box in Teamleader Focus for adjusting task duration.](https://support.focus.teamleader.eu/hc/article_attachments/25696194117777)
 *Note*: The planning module is not a calendar so you can’t see at what exact time a task is planned, only the duration. Check the paragraph below for more information on the link with the calendar module.
  
 
@@ -209,7 +209,7 @@ Tasks, meetings and calls turn a **lighter shade** if they are in the past.
  
 
 **Completed tasks are visually indicated** with a check mark in the Planning, both for past and future tasks: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696181820817)
+![User capacity and time tracking overview showing daily tasks and weekly progress.](https://support.focus.teamleader.eu/hc/article_attachments/25696181820817)
 
  
 
@@ -218,7 +218,7 @@ Tasks, meetings and calls turn a **lighter shade** if they are in the past.
 The planning module is closely linked to the calendar module as the actions you perform in your planning have an impact on your calendar and vice versa:
 
 - After you’ve planned all the tasks to your liking in your planning, it’s up to your team members to schedule the tasks in their calendar. The **tasks **are **not scheduled in the agendas for a specific time frame,** but when they go to their **calendar**, they will see the amount of planned tasks per day on top. The availability bars below a certain day will fill up as they take all planned tasks, meetings and calls from the planning into account. [Read more about the capacity bars here.](https://support.focus.teamleader.eu/hc/en-150/articles/25692599972369-FAQ-What-do-the-coloured-bars-in-the-calendar-stand-for)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696166192017)By clicking on 'x task', a user will be redirected to the day view where **every individual co-worker** has the possibility to check them off immediately or to **click and drag them into the daily schedule** for a specific time frame.
+![Weekly calendar view in Teamleader Focus showing task distribution and workload.](https://support.focus.teamleader.eu/hc/article_attachments/25696166192017)By clicking on 'x task', a user will be redirected to the day view where **every individual co-worker** has the possibility to check them off immediately or to **click and drag them into the daily schedule** for a specific time frame.
 
  
 
@@ -228,7 +228,7 @@ The planning module is closely linked to the calendar module as the actions you 
 
 - 
 When navigating to the task detail page, you can **choose **to plan the task in your planning via **Plan in planning** or Schedule it in your calendar via **Schedule in calendar. **
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25696194331665)**
+**![Detailed view of a task in Teamleader Focus with planning and scheduling options.](https://support.focus.teamleader.eu/hc/article_attachments/25696194331665)**
 *Note: as mentioned before, scheduling a task in your calendar also immediately displays it in your planning as well. Planning a task in your planning however won't schedule it in your calendar for a specific time.*
 
  
@@ -237,7 +237,7 @@ When navigating to the task detail page, you can **choose **to plan the task in
 If you work with an [**external ****integration **for your calendar](https://support.focus.teamleader.eu/hc/en-150/articles/25690957593745-How-To-Integrate-calendars-with-Teamleader-Focus) such as Google Calendar or iCloud, items can also be **copied into the planning**. [Similar to what happens in your calendar](https://support.focus.teamleader.eu/hc/en-150/articles/25691415928721-FAQ-Why-do-I-only-see-grey-blocks-in-the-agenda-of-my-colleague), the boxes will be **greyed ****out **in your planning with the label '**busy**'. The scheduled time of this activity will also be included in the capacity bar so it will affect your availability.
 
 To enable this, go to **Settings **> **Planning > Preferences > Calendar events from integrations affect planning**. *Note that this setting is an account-wide setting, meaning that when enabled, all users will have their planning affected by items from their calendar.* 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696141892369)
+![Planning preferences toggle for calendar integration impact](https://support.focus.teamleader.eu/hc/article_attachments/25696141892369)
 
 ## 
 
@@ -253,7 +253,7 @@ You can also change the planning access for everyone:
 
 - Go to **Settings **> **Users **> **three dots** next to every user in your account.
 
-- You see **Planning **and **Access**. Next to disabling the complete module, you can also limit access. You have 3 options:![](https://support.focus.teamleader.eu/hc/article_attachments/25696141948305)
+- You see **Planning **and **Access**. Next to disabling the complete module, you can also limit access. You have 3 options:![Access rights settings for the Planning module in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25696141948305)
 
  
 
@@ -267,7 +267,7 @@ You can also change the planning access for everyone:
 - 
 **Meetings **scheduled via the calendar are also **visible in the planning.** The duration of the meeting is taken over and is also included in the total bar.
 
-- If you want to **reschedule a call or meeting**, you have to do it **via the calenda**r because you cannot move a call or meeting in the planning module.![](https://support.focus.teamleader.eu/hc/article_attachments/25696170808209)
+- If you want to **reschedule a call or meeting**, you have to do it **via the calenda**r because you cannot move a call or meeting in the planning module.![A tooltip warning stating that meetings cannot be replanned or rescheduled via the calendar.](https://support.focus.teamleader.eu/hc/article_attachments/25696170808209)
 
 - 
 **Tracked time doesn’t show up** on your planning card, and it’s also not possible to register time on a task via the planning.

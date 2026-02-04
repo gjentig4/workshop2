@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # How To: Set a cost per kilometer and invoice your travel distance
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697849286161)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Depending on your type of business, you might want to invoice your travel distance to your customer. In this article you will find out how to set your cost per kilometer and how to invoice these kilometers to your customer.
 
@@ -40,7 +40,7 @@ You can use the cost per kilometer on two different levels in Teamleader Focus; 
 
 - Now you can add a time tracking for your meeting. Make sure the toggle ‘Billable’ is enabled.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697829126929)
+![Time tracking dialog for a meeting titled 'Scheduled actions' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697829126929)
 Underneath ‘Duration’ you will also find the traveled distance. If necessary you can change the amount of kilometers or recalculate it in Google Maps by clicking on **Calculate…**
  
 
@@ -56,15 +56,15 @@ On the invoice page, you will find the travel cost as ‘Mileage allowance’.
 
 - When you create a work order, you can also add your travel distance.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697849396369)
+![Mobile app screen for logging travel distance in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697849396369)
 To find out more about work orders, read [this article](https://support.focus.teamleader.eu/hc/en-150/articles/25690927285777-How-To-From-work-order-to-invoice). After you’ve saved the work order you’ll be able to locate it in the web version of Teamleader Focus under **Work orders**.
 
 - You'll also find the work order on your customer's detail page. The hours spent will be listed under ‘Unbilled time spent’.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697820016657)
+![The 'Unbilled time spent' table in Teamleader Focus showing a workorder entry.](https://support.focus.teamleader.eu/hc/article_attachments/25697820016657)
 
 - Go to **Actions **> **Create ****invoice**. On the invoice page, you will find all the elements you added to the work order, travel cost (mileage allowance) included:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697834236689)
+![The contents table of a Teamleader Focus invoice or quotation showing line items and totals.](https://support.focus.teamleader.eu/hc/article_attachments/25697834236689)
 
 - It might be that you created the work order linked to a project and that you want to invoice the work order, travel distance included, from your project and not as separate time tracking. [In this article](https://support.focus.teamleader.eu/hc/en-150/articles/25693045965329-How-To-Invoice-a-work-order-out-of-a-project) you will find how to invoice a work order from a project.

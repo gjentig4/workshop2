@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # How To: Switching to a higher Teamleader Focus package (MOVE & BOOST)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693396893969)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

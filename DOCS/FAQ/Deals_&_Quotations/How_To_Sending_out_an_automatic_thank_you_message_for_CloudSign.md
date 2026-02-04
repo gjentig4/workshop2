@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Sending out an automatic thank you message for CloudSign
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691790602129)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Whenever a potential customer converts into a paying customer by accepting your quotation through CloudSign, you can choose to send an automatic thank you message via Teamleader Focus.
 

@@ -10,7 +10,7 @@ section: "CRM"
 
 # Getting started: What do you want to get out of your CRM in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692192362641)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 - *What is the main goal of having everything documented in Teamleader Focus?*
 

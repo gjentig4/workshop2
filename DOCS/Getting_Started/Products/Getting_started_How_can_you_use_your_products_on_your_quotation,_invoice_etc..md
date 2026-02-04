@@ -10,7 +10,7 @@ section: "Products"
 
 # Getting started: How can you use your products on your quotation, invoice etc.?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692508898321)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

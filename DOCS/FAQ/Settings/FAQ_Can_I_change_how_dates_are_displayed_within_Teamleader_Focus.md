@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can I change how dates are displayed within Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696222555665) 
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089) 
 
 If you have [multiple entities](https://support.focus.teamleader.eu/hc/en-150/articles/25697681388177-How-To-Multiple-company-entities-in-Teamleader-Focus) or colleagues in your account that are located in countries using different date formats, chances are that users could easily get confused by the account date format as it might differ from what they are used to. Read here how each user can personalise how dates are displayed throughout the account.
 
@@ -27,7 +27,7 @@ Follow these steps to change the date format in the UI. Note that each user has 
 - Click on **My ****profile**
 
 - Below ‘Details’, you can find ‘Date format’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696234342033)
+![User profile details showing language and date format selection in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696234342033)
 
 - Select the date format out of this fixed list:
 

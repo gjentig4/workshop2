@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: How can I undo an import of contacts or companies in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691327259409)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -19,12 +19,12 @@ If you imported contacts or companies and realize that something went wrong, the
  
 
 1. You go to the overview of contacts or companies respectively, where you see at the bottom on the righthand side “Import”. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/36842396461841)
+![Pagination controls, table settings icon, and the vertical Import button in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/36842396461841)
 Click '**Undo import'** to undo the import. You have this option for about two weeks after the import if you didn't click on '**OK, dismiss**' yet. In general we advise not to click on 'Ok, dismiss' in order to keep the undo option available.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691327330961)
+![Confirmation message showing a completed data import with options to dismiss or undo.](https://support.focus.teamleader.eu/hc/article_attachments/25691327330961)
 *! Important note: *if you've only **updated **already existing contacts/companies via an import, it won't be possible to undo the import. The updates will have been permanently added to the contact/company fields.
 
  
@@ -33,7 +33,7 @@ Click '**Undo import'** to undo the import. You have this option for about two w
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691338549393)
+![The 'Add segment' dialog box in Teamleader Focus for creating filtered lists of contacts or items.](https://support.focus.teamleader.eu/hc/article_attachments/25691338549393)
 
  
 

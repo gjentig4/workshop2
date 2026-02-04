@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: How do I add a deal?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691910335761)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -30,7 +30,7 @@ The best way to keep track of your sales opportunities in Teamleader Focus, is t
 
 - A screen will open in which you can complete the details:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691910369553)
+![The 'Add Deal' dialog box in Teamleader Focus with fields for title, customer, and amount.](https://support.focus.teamleader.eu/hc/article_attachments/25691910369553)
 
 - Give your deal a title and select a customer from your Contacts/Companies. It can prove very useful for your statistics afterwards if you also select a source for your deal. This list can be managed under **Settings** > **Deals and Quotations **>** Preferences**. 
 
@@ -46,7 +46,7 @@ The best way to keep track of your sales opportunities in Teamleader Focus, is t
 
 Another possibility to add a deal is to use the plus sign on top of your screen. 
 
-1. Go to Contacts/Companies and open the contact or company you want to add a deal for. Next click on the grey plus sign in right upper corner and select **deal**: ![](https://support.focus.teamleader.eu/hc/article_attachments/25691910408337)
+1. Go to Contacts/Companies and open the contact or company you want to add a deal for. Next click on the grey plus sign in right upper corner and select **deal**: ![The 'Plus' (+) quick-add menu in Teamleader Focus with 'Deal' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25691910408337)
 
  
 
@@ -58,7 +58,7 @@ Another possibility to add a deal is to use the plus sign on top of your screen.
 
 ## 3. [Via the plus button on the customer's page](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page)
 
-When you’re looking for an overview of your deals per customer we suggest you navigate to your contact/company page. There you’ll find the following overview:![](https://support.focus.teamleader.eu/hc/article_attachments/25691901514897)
+When you’re looking for an overview of your deals per customer we suggest you navigate to your contact/company page. There you’ll find the following overview:![Deals overview table in Teamleader Focus showing deal status, phases, and the 'Add' button.](https://support.focus.teamleader.eu/hc/article_attachments/25691901514897)
 
  
 

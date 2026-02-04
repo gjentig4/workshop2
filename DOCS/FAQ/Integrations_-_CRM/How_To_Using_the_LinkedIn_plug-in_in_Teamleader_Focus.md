@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # How To: Using the LinkedIn plug-in in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690800821009)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -37,7 +37,7 @@ In this article we will:
 - Go to the profile page of the person you want to add to Teamleader Focus
 
 - Click on the “**Add to Teamleader**” button above the profile picture 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690796326929)
+![A prompt to add a new contact to Teamleader Focus from an external source.](https://support.focus.teamleader.eu/hc/article_attachments/25690796326929)
 
 - The person is now added as a contact to Teamleader Focus. The information added is the following: 
 

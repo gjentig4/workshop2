@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Migrating from legacy API v1: Transitioning from Integer IDs to UUIDs
 
-![SupportCentre_Letsstart.png](https://support.focus.teamleader.eu/hc/article_attachments/26981168231825)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 The current version of our API brings several enhancements, including the transition from integer IDs to UUIDs for better security and scalability. Every integer ID, together with its entity type, can be translated into a UUID. This article will guide you through the migration process and provide you with necessary code snippets and best practices.
 

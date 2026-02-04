@@ -10,7 +10,7 @@ section: "General"
 
 # How To: Troubleshooting slowness and browser issues when using Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/36486948631825) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Technical issues can be frustrating, especially when they affect your daily work. To help resolve any loading problems or slowness you might experience while using Teamleader Focus, we have compiled some practical troubleshooting steps and questions. By following these guidelines, you’ll help us identify and solve the issue more efficiently.
 

@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: How can I add different layout variations of my documents, e.g. quotations or invoices?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691596290577)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Possibly, you may have more than one kind of quotation or invoice in use. This depends on the type of services you provide or the additional information you'd like to include. That's why Teamleader Focus allows you to create different layout variations for your documents.
 
@@ -18,7 +18,7 @@ Possibly, you may have more than one kind of quotation or invoice in use. This d
 
 To create an additional variation of a file template, navigate to **Settings** > **Docum****ent**** layout** >** New variation +**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691598937745)**
+**![Document layout settings in Teamleader Focus showing templates for quotations and invoices.](https://support.focus.teamleader.eu/hc/article_attachments/25691598937745)**
 
  
 
@@ -28,14 +28,14 @@ In a next step, you can give this variation a name, to allow for clear distincti
 
 As soon as you have multiple layout variations, you can choose between those variations when creating a quotation, an invoice, etc. By default, the first (original) variation will always be selected.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691626885777)
+![The 'Add Invoice' form in Teamleader Focus showing layout selection options.](https://support.focus.teamleader.eu/hc/article_attachments/25691626885777)
 
  
 
  
 
 *Note*: You can select another layout as default by clicking on **Settings **> **Document layout** > Click on the template you'd like to use as default > **Set as default template**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691609580049)**
+**![Custom layout settings for an Invoice template in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691609580049)**
 
  
 

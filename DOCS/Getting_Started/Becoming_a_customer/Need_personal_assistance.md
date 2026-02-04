@@ -12,7 +12,7 @@ section: "Becoming a customer"
 
 We’ve got your back. In addition to our free resources you have the option to get personalised assistance from one of our onboarding managers. If you’d like to arrange one or more personalised sessions, let us know or go to [your license page](https://focus.teamleader.eu/web/settings/subscription/onboarding) by clicking on your image in the top right-hand corner of your account and choosing 'Manage License' 'Assistance'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693575939345)
+![Onboarding service options in Teamleader Focus including self-service and paid assistance packages.](https://support.focus.teamleader.eu/hc/article_attachments/25693575939345)
 
  
 

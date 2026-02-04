@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Link an expense to a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288947994513)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 In Teamleader Focus, you can easily link an expense to a project. This helps you keep a clear overview of all project-related costs, whether they come from incoming invoices or receipts. By connecting these costs to the right projects, you maintain accurate budgets and gain better insight into your project profitability. Learn all about how it works below.
  
 
@@ -49,11 +49,11 @@ The first way to add a project to an expense is via the expense itself. 
 - Click on the tab **Linked items**
 
 - Click on **Link items to expense **or on the **+** in the top right-hand corner
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288860233617)
+![Detailed view of an approved and paid expense for 'Parking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41288860233617)
  
 
 - First choose if you want to link the full amount, a partial amount or only the document. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288860235153)
+![The 'Link items to expense' dialog box in Teamleader Focus for connecting costs to projects.](https://support.focus.teamleader.eu/hc/article_attachments/41288860235153)
 
 **Link full amount: **note that you can’t allocate more than the available amount on an expense.
 
@@ -67,11 +67,11 @@ The first way to add a project to an expense is via the expense itself. 
 - In the next step you search and pick the right project from the list.
 
 When linking, you can select an existing group or material of the project you selected, or create new ones on the fly. If you create new ones, these are added to the project automatically when the expense is linked.
-![](https://support.focus.teamleader.eu/hc/article_attachments/41476768253969)
+![The 'New material' dialog box in Teamleader Focus for adding a material line to a project.](https://support.focus.teamleader.eu/hc/article_attachments/41476768253969)
  
 
 - When you select a customer that isn't yet linked to the project, it will be added automatically to the project as well and we’ll inform you of this.
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905315985)
+![The 'Link items to expense' dialog box in Teamleader Focus for assigning costs to projects.](https://support.focus.teamleader.eu/hc/article_attachments/41288905315985)
 
 - Insert a description if you’d like.
 
@@ -90,7 +90,7 @@ You can also work the other way around and start from the project instead of fro
 
 - Click on **Link expenses to project **or on the **+ **button in the top right corner of the widget
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41289263930257)
+![The 'Linked expenses' section within the Project info tab of a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/41289263930257)
  
 
 - In the next screen, select the expense document you want to link and choose if you want to link the full amount, a partial amount or the document only.
@@ -105,13 +105,13 @@ A final way to link an expense to a project is directly from a material line in 
 - Go to the project 
 
 - Make sure there is a material in the **Work breakdown **tab
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905319825)
+![Work breakdown view in Teamleader Focus showing a list of materials within a project.](https://support.focus.teamleader.eu/hc/article_attachments/41288905319825)
  
 
 - Click on the **three dots **next to the material you want to link
 
 - Click on **Link expense**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/41288860264209)**
+**![Context menu for managing materials and expenses in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41288860264209)**
  
 
 - In the next screen, select the expense document you want to link and choose if you want to link the full amount or a partial amount.
@@ -134,11 +134,11 @@ After you’ve linked your expense to your project you can see the connection in
 **Expense - linked items widget**
 
 See at a glance which projects are linked to your expense together with the amount linked and the amount left to link in the ‘Linked items’ widget in your expense:
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288860265745)
+![The 'Linked items' tab in Teamleader Focus showing items linked to a project or invoice.](https://support.focus.teamleader.eu/hc/article_attachments/41288860265745)
 
 The label next to the title of your expense will also clearly show whether an expense is fully linked, improving transparency.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905331089)
+![Header of an expense detail page for 'Parking' showing status badges.](https://support.focus.teamleader.eu/hc/article_attachments/41288905331089)
 
 Keep in mind that when you’ve linked an expense to a project you can't delete the expense anymore. You can of course unlink the expense from the project again (cf. ‘[Editing or unlinking’](#h_01KAXY8FYMC550H7XDRB0CF7KD)).
 
@@ -147,28 +147,28 @@ For receipts, the total incl. VAT can’t be edited anymore after linking it to 
 **Project - project info tab**
 Immediately see your linked expenses in your project in the **Project info **tab in a project > ‘Linked expenses’.
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/41288905333393)**
+**![Linked expenses table within the Project info tab of a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/41288905333393)**
 
 The ‘Activities’ in your project info will also display which expense was linked or unlinked to a project and by whom. 
 
 **Project - material line**
 Access your linked expense in a material line by clicking on it. The side panel opens and in ‘Cost’ you’ll see ‘View linked expenses’:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905342353)
+![Financials section in Teamleader Focus showing billing method, price, and linked expenses.](https://support.focus.teamleader.eu/hc/article_attachments/41288905342353)
  
 
 Once an expense is linked to a project, you can review its impact on your profitability under ‘Project details’ > Margin. This view shows exactly how your expenses affect the project’s overall margin.
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288860279185)
+![Project health widget in Teamleader Focus showing budget remaining and profit margin.](https://support.focus.teamleader.eu/hc/article_attachments/41288860279185)
  
 
 # Editing or unlinking
 
 After linking an expense to your project you can edit or remove the link between the two at any given time by clicking on the pencil or the unlink button next to it.
- ![](https://support.focus.teamleader.eu/hc/article_attachments/41288905345809)
+ ![Interface for linking payments to invoices showing a zero balance remaining.](https://support.focus.teamleader.eu/hc/article_attachments/41288905345809)
 
 You’ll receive a warning if this impacts project costs, especially if the expense had already been billed.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905346577)
+![Confirmation dialog for unlinking an expense from a project in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/41288905346577)
 
 In a project material line, you can unlink an expense by clicking on the three dots next to the material > Unlink.
  
@@ -179,7 +179,7 @@ In a project material line, you can unlink an expense by clicking on the three d
 
 - 
 [When exporting a project report in PDF](https://support.focus.teamleader.eu/hc/en-150/articles/25691716494225-How-To-Export-reports-from-Teamleader-Focus#:~:text=click%20on%20%27Export%27.-,Projects,-(Available%20in%20MOVE) you can choose to include linked expenses:
-![](https://support.focus.teamleader.eu/hc/article_attachments/41288905348881)
+![The 'Generate report' dialog box in Teamleader Focus for project or time tracking reporting.](https://support.focus.teamleader.eu/hc/article_attachments/41288905348881)
  
 
 - When linking an expense to a project there’ll be a check on [currency](https://support.focus.teamleader.eu/hc/en-150/articles/25692864101137-How-To-Multi-currency-in-Teamleader-Focus) too. If the currency of the selected project line does not match with the currency of expense, the cost will be in the currency of the project.

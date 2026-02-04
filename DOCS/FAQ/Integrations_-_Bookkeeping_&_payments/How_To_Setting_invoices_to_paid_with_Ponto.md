@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Setting invoices to paid with Ponto
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697614463121)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -24,7 +24,7 @@ You receive payments for invoices on your bank account regularly, but still need
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697595312529)
+![Graphic banner with the text 'Teamleader Focus & Ponto' on a teal and white background.](https://support.focus.teamleader.eu/hc/article_attachments/25697595312529)
 
  
 

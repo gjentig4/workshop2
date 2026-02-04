@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: Integrate iCloud with Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690959197073)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -30,7 +30,7 @@ We don’t leave Apple users out in the cold either. The third agenda link is to
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690959240593)
+![Error message indicating a login failure due to two-step verification requirements.](https://support.focus.teamleader.eu/hc/article_attachments/25690959240593)
 
 Follow these steps to create an app-specific password:
 
@@ -51,7 +51,7 @@ Follow these steps to create an app-specific password:
 
 - to push tasks and calls from your Teamleader Focus planning to your personal agenda
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690972661393)
+![Settings for Apple iCloud Calendar integration in Teamleader Focus after successful linking.](https://support.focus.teamleader.eu/hc/article_attachments/25690972661393)
 
  
 
@@ -59,7 +59,7 @@ Remarks
 
 - Items which are fetched from your iCloud agenda appear as [grey blocks](https://support.focus.teamleader.eu/hc/en-150/articles/25691415928721-FAQ-Why-do-I-only-see-grey-blocks-in-the-agenda-of-my-colleague) in your Teamleader Focus agenda so that colleagues cannot see your personal meetings. You can convert these to visible meetings by right-clicking on them in your Teamleader Focus agenda.
 
-- Because the link works in both directions, adjustments in your Teamleader Focus or iCloud agenda will always be synchronized. The synchronization runs in the background every half an hour. However, for good measure, we recommend you start the sync manually when it is the first time you make the connection. You can do this by going to Agenda and clicking on the synchronisation symbol  ![](https://support.focus.teamleader.eu/hc/article_attachments/25690932443793)on the right.
+- Because the link works in both directions, adjustments in your Teamleader Focus or iCloud agenda will always be synchronized. The synchronization runs in the background every half an hour. However, for good measure, we recommend you start the sync manually when it is the first time you make the connection. You can do this by going to Agenda and clicking on the synchronisation symbol  ![Grey sync or recurring icon with two arrows in a circular loop.](https://support.focus.teamleader.eu/hc/article_attachments/25690932443793)on the right.
 
 - There's also the possibility to limit access to a user's calendar. Read all about it [here](https://support.focus.teamleader.eu/hc/en-150/articles/25691555792401-FAQ-Why-can-t-I-see-the-calendar-of-my-colleagues).
 

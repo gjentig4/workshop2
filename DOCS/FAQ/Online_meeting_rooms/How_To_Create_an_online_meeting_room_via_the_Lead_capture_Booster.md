@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Create an online meeting room via the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695041378193)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,7 +20,7 @@ After you’ve activated the Lead capture Booster in your account, you can go ah
 
 Rather watch our video? You can do so here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28017249647505)
+![Tutorial banner for Customer Meeting add-on: Custom Branding in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694720925585)
 
  
 
@@ -30,10 +30,10 @@ Rather watch our video? You can do so here:
 - Fill out the details of your meeting
 
 - In ‘Online meeting room’, select an already existing meeting room or click on **+ Create new meeting room** to create a new meeting room.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695035181201)
+![The 'Add meeting' dialog in Teamleader Focus showing fields for customer, date, and online rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25695035181201)
 
 If you select a room, you can click on **Preview ****room** to preview the meeting room your customer will see.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695041543057)
+![Selection field for an online meeting room in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695041543057)
 
 - Note that if you select an online meeting room, the ‘Location’ of your meeting will be ‘Virtual meeting’ by default. If you do want to add a physical location, please remove the online meeting room first.
 
@@ -43,13 +43,13 @@ If you select a room, you can click on **Preview ****room** to preview the meet
 
 When the meeting is created, you’ll see the link to your meeting room in the meeting info, and you’ll be able to preview it there again as well.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695044572305)You can find and customise the meeting rooms you created in the Lead capture Booster via **Meeting rooms** > **Overview**.![](https://support.focus.teamleader.eu/hc/article_attachments/25695044648593)
+![Meeting info section in Teamleader Focus showing details for a virtual meeting.](https://support.focus.teamleader.eu/hc/article_attachments/25695044572305)You can find and customise the meeting rooms you created in the Lead capture Booster via **Meeting rooms** > **Overview**.![Overview of the Meeting rooms feature within the Lead capture Booster in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694074131857)
 
 After you’ve activated the Lead capture Booster an online meeting room called ‘*test-meeting-room*’ is created by default and synced to the Lead capture Booster. Keep in mind that this is a personal meeting room, so this test-meeting-room is linked to your user. Note that for every active user of your account, a personal meeting room will be created in the same format as ‘test-meeting-room-x’.
 
  
 
-As an [admin ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)of your Teamleader Focus account you’ll have access to all meeting rooms of your colleagues via the ‘Team’ or ‘All’ tabs:![](https://support.focus.teamleader.eu/hc/article_attachments/25695057373073)You can change the **access ****rights** in the team settings or the meeting room invitation settings, so other colleagues could have access to the meeting rooms of others. 
+As an [admin ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)of your Teamleader Focus account you’ll have access to all meeting rooms of your colleagues via the ‘Team’ or ‘All’ tabs:![The Meeting Rooms overview page in Teamleader Focus showing a grid of available rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25695057373073)You can change the **access ****rights** in the team settings or the meeting room invitation settings, so other colleagues could have access to the meeting rooms of others. 
 
 Learn everything there is to know about the meeting rooms page [here](https://support.focus.teamleader.eu/hc/en-150/articles/25694064596369-How-To-The-meeting-rooms-page-overview).
 
@@ -80,13 +80,13 @@ You can invite contacts to the meeting and send them a link to the online meetin
 - Click on the **+** next to ‘Contacts attending’ and add a contact.
 
 - Enable the slider **Send meeting invitation**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695035467025)**
+**![The 'Add contact to meeting' dialog in Teamleader Focus with email invitation options.](https://support.focus.teamleader.eu/hc/article_attachments/25695035467025)**
 
 - Fill out the details or choose a template
 
 - Make sure to include the variable #CUSTOMER_MEETING_ROOM_LINK in your invitation, so your online meeting room link is added to the email.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695057491473)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695071766033)
+![The 'Add contact to meeting' dialog box for sending meeting invitations in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695057491473)
+![An automated meeting invitation email from Teamleader Focus with a meeting room link.](https://support.focus.teamleader.eu/hc/article_attachments/25695071766033)
 
  
 
@@ -98,11 +98,11 @@ The easiest way is to create a meeting room [from the dashboard](https://meeting
 
 - 
 Click on the button '**Start a meeting**' and a pop-up will open.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695057606929)
+![The header section of the Teamleader Focus Dashboard with view toggles and action buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25695057606929)
 
 - 
 Click on **Add a new room **at the bottom of the pop-up
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695035659153)
+![Meeting rooms navigation menu with search and 'Start a meeting' button](https://support.focus.teamleader.eu/hc/article_attachments/25695035659153)
 
 - This will give you 2 options:
 
@@ -126,7 +126,7 @@ Click on start from scratch to open the templates list and **select the preferre
 
 - 
 Click on **Create**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695042165265)**
+**![The 'Add a new room' dialog box in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695042165265)**
 
 ### From the meeting rooms page
 
@@ -134,7 +134,7 @@ The second way is to create a meeting room from the meeting rooms page.
 
 - 
 Click on the button '**Create a meeting room**' and a pop-up will open.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695035785617)
+![The Meeting rooms overview in Teamleader Focus with options to create rooms and manage waiting rooms.](https://support.focus.teamleader.eu/hc/article_attachments/25693995763345)
 
 - This will give you 2 options:
 
@@ -158,4 +158,4 @@ Click on start from scratch to open the templates list and **select the preferre
 
 - 
 Click on **Create**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25695045111825)**
+**![The 'Add a new room' dialog box in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695042165265)**

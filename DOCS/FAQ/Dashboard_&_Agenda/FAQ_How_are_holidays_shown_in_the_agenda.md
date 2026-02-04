@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How are holidays shown in the agenda?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697874451985)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,16 +24,16 @@ Your holidays will be displayed in your calendar according to the view:
 
 - In the **day view**, a message will inform you that you are off that day or if it's a company closing day:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697874493713)
+![Warning message in the Teamleader Focus calendar indicating a user is on leave.](https://support.focus.teamleader.eu/hc/article_attachments/25697874493713)
 
  
 
 - In the **week view**, you will see them thanks to the gray rectangles on the dates (like the weekend days) :
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697866866321)
+![Calendar navigation bar in Teamleader Focus showing week view and date selection.](https://support.focus.teamleader.eu/hc/article_attachments/25697866866321)
 
  
 
 - In the** month view**, your holidays will be symbolized as yellow circles (like the weekend days):
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697881130257)
+![Monthly calendar view in Teamleader Focus showing a multi-day event highlighted in red.](https://support.focus.teamleader.eu/hc/article_attachments/25697881130257)

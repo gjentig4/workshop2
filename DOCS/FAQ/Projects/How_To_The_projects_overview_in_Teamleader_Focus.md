@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: The projects overview in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695803471377)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -36,7 +36,7 @@ When navigating to your project module, you can find all your projects in a hand
 ## What
 
 Find the list view of your projects by going to your projects and clicking on this icon:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695787264785)
+![The 'Add project' button and view toggle icons in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695787264785)
 
 You can customise your project overview by adding or deleting columns to the overview, or by filtering on the status of a project. It's also possible to create invoices in bulk for your projects from the projects overview.
 
@@ -45,7 +45,7 @@ You can customise your project overview by adding or deleting columns to the ove
 ### Column setup
 
 Choose which columns you want to add to your overview by clicking on the **cogwheel **in the bottom right-hand corner:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695849949969)
+![The 'Manage columns' dialog in Teamleader Focus for customizing project list views.](https://support.focus.teamleader.eu/hc/article_attachments/25695849949969)
 
 E.g. easily add the columns ‘Price’, ‘Cost’ or ‘Margin’ if you want to find out how your projects are doing financially.
 
@@ -73,7 +73,7 @@ E.g. easily add the columns ‘Price’, ‘Cost’ or ‘Margin’ if you want 
 
 - 
 **Progress**: This shows the status bar of the work on the project, allowing for a quick overview on how the work is progressing. You can hover over it to see more detailed info on the statuses of the work in the work breakdown.
-![image (14).png](https://support.focus.teamleader.eu/hc/article_attachments/30790866677649)
+![A progress bar tooltip in Teamleader Focus showing task status breakdown.](https://support.focus.teamleader.eu/hc/article_attachments/30790866677649)
 
  
 
@@ -81,7 +81,7 @@ E.g. easily add the columns ‘Price’, ‘Cost’ or ‘Margin’ if you want 
 
 Create filters in the projects overview to look for certain projects or easily find them back.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32604019489169)
+![The filters popover menu in a Teamleader Focus list view, showing the option to add new filters.](https://support.focus.teamleader.eu/hc/article_attachments/32604019489169)
  
 
 Click on **Filters > + Add filter.**
@@ -131,11 +131,11 @@ Find all your project custom fields here (except for the ones of the type 'Multi
  
 
 Click on **Clear **to clear the filter or on the **cross icon **to delete a line in the filter:
-![](https://support.focus.teamleader.eu/hc/article_attachments/32603960744849)
+![The advanced filtering menu in Teamleader Focus with active filters for budget status and customer.](https://support.focus.teamleader.eu/hc/article_attachments/32603960744849)
  
 
 You can also** copy the filter setup as a URL-link. **This way, you can share it with others or save it as a separate bookmark to go back to.
-![](https://support.focus.teamleader.eu/hc/article_attachments/29387139135249)
+![The 'Copy link' button next to the Filters header in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/29387139135249)
  
 
 **Save a filter**
@@ -145,7 +145,7 @@ It's also possible to save a filter to easily find certain information again. Im
 To save a filter, follow these steps:
 
 - After creating a filter, click on **Save filter **in the top right-hand corner:
-![](https://support.focus.teamleader.eu/hc/article_attachments/32587932685969)
+![The filter interface in Teamleader Focus showing a 'Budget status' filter set to 'Over budget'.](https://support.focus.teamleader.eu/hc/article_attachments/32587932685969)
  
 
 - In the next screen, enter a **name **for the filter in the title field.
@@ -158,17 +158,17 @@ This is a mandatory field
 
 - See a preview of the 'applied filters', showing all currently active filters:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32604012902033)
+![The 'Save filter' dialog box in Teamleader Focus for naming and saving project filter criteria.](https://support.focus.teamleader.eu/hc/article_attachments/32604012902033)
 
 - Click on **Save **to store the filter.
 *Click on Cancel to return to the filter dialog without saving.*
 
 - You can access your saved filters afterwards by navigating to the project overview and clicking on **Saved filters **next to the Filters button. The filters will be shown alphabetically and you can search through them.
-![](https://support.focus.teamleader.eu/hc/article_attachments/32603960751249)
+![The Projects overview page in Teamleader Focus showing search, filters, and a saved filters dropdown.](https://support.focus.teamleader.eu/hc/article_attachments/32603960751249)
 
 Click on a saved filter to use it and to make sure the filters are applied. Edit a filter by opening it. Add more lines to it, edit the lines, or delete lines. Make some changes and click on 'Update saved filter' when you're done.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/32603960753041) 
+![The filter management menu in Teamleader Focus showing options to update, save, or delete filters.](https://support.focus.teamleader.eu/hc/article_attachments/32603960753041) 
 Click on the arrow next to the button 'Update saved filter' to either;
 
 Save the edited filter as a new filter;
@@ -184,7 +184,7 @@ Filters can also help you if you want to create invoices for multiple projects a
 
 Click on the check mark next to your projects to select the ones you want to invoice > Invoice X projects:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/29387139139601)
+![Bulk action to invoice multiple selected projects in the Teamleader Focus project overview.](https://support.focus.teamleader.eu/hc/article_attachments/29387139139601)
 
  
 

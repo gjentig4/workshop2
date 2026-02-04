@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Track time with Teamleader Focus' Time Tracker functionality
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693305844625)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -22,7 +22,7 @@ There are [numerous ways to track time in Teamleader](https://support.focus.team
 
 Our Time Tracker functionality is essentially a timer in the top right-hand corner in Teamleader Focus. It allows you to keep an eye on how long you’ve already been working on something at all times. You can very easily start the timer and then stop it when you’re finished.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693296209553)
+![The top navigation bar in Teamleader Focus highlighting the time tracking stopwatch icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690692127121)
  
 
  
@@ -41,7 +41,7 @@ Are you more fond of running a timer while executing a task instead of tracking 
 
 - Click **Start new timer** to start tracking your time.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693288816273)
+![The time tracking dropdown menu in the Teamleader Focus top navigation bar.](https://support.focus.teamleader.eu/hc/article_attachments/25693288816273)
 
 **Notes: **
 
@@ -50,18 +50,18 @@ the timer will continue until you click the stop button
 - it's also possible to track time on an already existing task, you can select it here
 
 - When you’re finished, click the **stop **button. At any time, you can click the item for which you’ve tracked time to add more information like a description, changing the duration, choosing a work type or link the right project and/or customer. After linking the time tracking to a customer you can also choose to make it billable or not. Deleting the item altogether from this view is also possible.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693320766865)
+![The 'Time tracking on' form in Teamleader Focus for logging work hours against projects.](https://support.focus.teamleader.eu/hc/article_attachments/25693320766865)
 Important note:
 The description of the time tracking and the customers linked to a meeting, call or ticket will not be editable in the time tracker. If you click on them it will be clear that they are linked to a call, meeting or ticket but you won't be able to edit that subject.
 You will however still be able to change the duration or the invoiceability. You will also still be able to edit these when you go to your timesheets.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693296331793)
+![The time tracking edit form in Teamleader Focus showing duration, start/end times, and billable status.](https://support.focus.teamleader.eu/hc/article_attachments/25693296331793)
  
 
 - Then, there are two options: 
 
 To continue tracking time for this item click the **play button** again. Note that this will create two separate time trackings.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693334897809)
+![Time tracking interface showing the 'Start new timer' button and an existing time tracking entry.](https://support.focus.teamleader.eu/hc/article_attachments/25693334897809)
  
 
 - To track time for other items, simply click **Start new timer**. Note that you can only do this if you are not currently tracking time for a different item. 
@@ -73,7 +73,7 @@ When you have added more than one time tracking to your day, the purple line vis
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693311099025)
+![The Teamleader Focus mobile time tracking interface showing a timer list for the current day.](https://support.focus.teamleader.eu/hc/article_attachments/25693311099025)
 
  
 

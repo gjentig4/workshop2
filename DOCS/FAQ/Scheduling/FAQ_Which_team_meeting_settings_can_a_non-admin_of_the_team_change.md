@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # FAQ: Which team meeting settings can a non-admin of the team change?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695162666897)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ But what can you change as a non-admin in this meeting type?
 
 You can recognize a team meeting type by the people assigned to it. If more than one image or circle with initials is visible, it's a team meeting type.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695161495569)
+![A card for a 'Team meeting type' in the scheduling tool with an online meeting indicator.](https://support.focus.teamleader.eu/hc/article_attachments/25695161495569)
 
  
 
@@ -50,4 +50,4 @@ Only the team Admins can change the settings in:
 
 - Powerful extensions
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695161564817)
+![The 'Edit a meeting type' configuration screen showing setup steps and powerful extensions.](https://support.focus.teamleader.eu/hc/article_attachments/25695161564817)

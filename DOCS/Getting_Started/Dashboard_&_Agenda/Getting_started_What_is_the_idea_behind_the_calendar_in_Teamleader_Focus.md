@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # Getting started: What is the idea behind the calendar in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692424904593)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

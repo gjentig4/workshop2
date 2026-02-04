@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # How To: Check if your browser extensions/add-ons impact your camera and microphone
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695143023377)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Installing browser extensions or add-ons is often very handy. But they can impact your meeting experience in the Lead capture Booster. If you experience issues with connection to a microphone or camera, it might be that an extension is blocking this access.
 

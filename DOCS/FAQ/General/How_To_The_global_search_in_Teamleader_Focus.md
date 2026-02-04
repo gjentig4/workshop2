@@ -10,13 +10,13 @@ section: "General"
 
 # How To: The global search in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697671000849)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
 No matter where you are in Teamleader Focus, you can find a magnifying glass icon in the top right-hand corner of your account. This icon refers to the global search function in Teamleader Focus. Read all about what it is and which fields you can search on here!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697662454033) 
+![The top navigation bar in Teamleader Focus featuring search, quick add, and time tracking.](https://support.focus.teamleader.eu/hc/article_attachments/25697662454033) 
 
 ## What
 
@@ -24,7 +24,7 @@ The global search functionality basically provides a general search over all mod
 
 - 
 When searching, the **exact search ****term ****matches **are **highlighted**:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697662518673)
+![Global search results in Teamleader Focus showing matches across deals, companies, and projects.](https://support.focus.teamleader.eu/hc/article_attachments/25697662518673)
 
 - 
 **Additional data **is provided **around the search results **to distinguish unique results and give more context. The **creation ****date **of the item is always shown on the right. 
@@ -89,13 +89,13 @@ We **allow **for an **incomplete ****search**, meaning you don't need to type
 ## Sorting & filtering
 
 The search results are **grouped **in **categories **e.g. 'Companies', 'Deals, 'Invoices', and a number will be shown next to it.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697654611345)The number displays the amount of times a search term occurs in a module, ranked from left to right (high to low number of occurrences).
+![Global search results in Teamleader Focus showing categorized results for the term 'apple'](https://support.focus.teamleader.eu/hc/article_attachments/25697654611345)The number displays the amount of times a search term occurs in a module, ranked from left to right (high to low number of occurrences).
 If there are no results in a certain module then that tab won't be shown. Depending on your [user settings](https://support.focus.teamleader.eu/hc/en-150/articles/25691605666193-FAQ-Why-do-I-not-have-the-same-features-in-my-Teamleader-Focus-account-as-my-colleague) and which modules you do or don't have access too, some results might be hidden as well.
 
  
 
 As for the **sorting **it will be on 'most relevant' by default, meaning the most relevant items will be ranked highest:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697654659345)You can however also choose to sort on:
+![Search results header with tabs for All, Deals, and Invoices and a 'Most relevant' sort dropdown.](https://support.focus.teamleader.eu/hc/article_attachments/25697654659345)You can however also choose to sort on:
 
 - Newest
 

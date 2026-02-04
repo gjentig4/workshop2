@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # FAQ: What to do if the Chrome extension doesn't work?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694820327825)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Have you installed the Customer Meetings extension, but screensharing/cobrowse still doesn't work?
 
@@ -23,13 +23,13 @@ In either case, follow the steps below:
 - 
 Open the Chrome extensions page: open the menu in the top right corner and choose Settings.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694801163409)
+![Accessing Google Chrome browser settings via the three-dot menu](https://support.focus.teamleader.eu/hc/article_attachments/25694801163409)
 
-- Click ‘Settings' at the bottom left of the page, look for "Extensions" in the menu and click to get an overview of all your Chrome extensions:![](https://support.focus.teamleader.eu/hc/article_attachments/25694833181713)
+- Click ‘Settings' at the bottom left of the page, look for "Extensions" in the menu and click to get an overview of all your Chrome extensions:![Google Chrome settings page with the 'Extensions' menu item highlighted in the sidebar.](https://support.focus.teamleader.eu/hc/article_attachments/25694833181713)
 
 - Find the Customer Meetings extension:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694820490641)
+![The Google Chrome extension card for Teamleader Focus Customer Meetings.](https://support.focus.teamleader.eu/hc/article_attachments/25694175858193)
 
 - If you want to reinstall the extension click 'Remove'.
 

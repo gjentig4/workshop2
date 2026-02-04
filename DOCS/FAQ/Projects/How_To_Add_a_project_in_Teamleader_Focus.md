@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Add a project in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695534601105)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ If you have set up [required custom fields on project level,](https://support.fo
 - Click on **Add project.** Now you get to the project page. You will notice there is a **header **on top.
 
 Fill in the fields as this will give you a clear overview of the most important information about the project. Click on the **three ****dots **in the top right-hand corner to find the following options:
-![](https://support.focus.teamleader.eu/hc/article_attachments/35961107036177)
+![Project header and actions menu in Teamleader Focus showing project details and management options.](https://support.focus.teamleader.eu/hc/article_attachments/35961107036177)
 
  
 
@@ -90,7 +90,7 @@ This option is only accessible to [admins ](https://support.focus.teamleader.eu
 Closed projects cannot be selected anymore when adding tasks, time trackings, deals or invoices later on.  
 
 When closing a project, you have the option to immediately mark all open work as completed:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695548998289)
+![Confirmation dialog for closing a project in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695548998289)
 
 - You can always reopen the project afterwards.
 
@@ -148,7 +148,7 @@ Clicking on +Add time tracking. Here you can decide if the time tracking should 
 - Clicking on Start timer. This starts a timer with all the information of the task prefilled, which is a huge time saver!
 
 All time tracked on a task will be visible via a progress bar too(provided you filled out the 'Time estimated' field): 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695549048849)
+![The Planning section of a task showing start/end dates, estimated time, and tracked time progress.](https://support.focus.teamleader.eu/hc/article_attachments/25695549048849)
 
 - 
 *Notes*:
@@ -184,7 +184,7 @@ Add a meeting by clicking on the arrow next to **Add task > Add meeting **or **
 A meeting placeholder will be added to your project. A placeholder is actually a great way to already allocate resources for meetings, without adding an actual meeting yet. It allows you to plan a meeting in advance without having all the details yet for example.
 
 - Next to the meeting placeholder, you'll find an exclamation mark stating no meeting has been added yet. You'll also see this reflected in the status of the item:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695549117969)
+![A task list in Teamleader Focus showing a warning for a meeting placeholder with no meeting linked.](https://support.focus.teamleader.eu/hc/article_attachments/25695549117969)
 
 - Click on the placeholder to add a meeting to it. You can choose between an already existing meeting or create a new meeting.
 
@@ -195,36 +195,36 @@ A meeting placeholder will be added to your project. A placeholder is actually a
 - You can also add **work orders **to your project. Read more about it [here](https://support.focus.teamleader.eu/hc/en-150/articles/25696177810449-How-To-Add-a-work-order-to-a-project).
 
 - And not only that; after adding your items to your work breakdown, you an always **inline edit **them easily afterwards instead of having to completely reopen the item. Just click anywhere on the line item and change your title, assignees, status, start and end date etc.:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695518264465)
+![A task list in Teamleader Focus showing articles under an administration group with edit options.](https://support.focus.teamleader.eu/hc/article_attachments/25695518264465)
 
 - To improve the flexibility of the project module, you can **drag and drop** groups, tasks, materials and meetings to alter the order or move something to another group.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695534882705)
+![Reordering tasks within a project group using drag-and-drop in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692948548241)
 
 - Depending on how things are going, you can change the **status **of the tasks and materials to: To do, In progress, On hold, Done. Note that the statuses are also colour coded. It's also possible to filter the work breakdown on status:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695556820625)
+![Status filter dropdown in the Work breakdown tab of a Teamleader Focus project.](https://support.focus.teamleader.eu/hc/article_attachments/25695556820625)
 This way, you don't clutter your work breakdown with work that has already been done for example. This filter works in combination with the type and assignee filter. Also, [when you're invoicing work](https://support.focus.teamleader.eu/hc/en-150/articles/25695672586001-How-To-Invoice-a-project-in-Teamleader-Focus), it's handy to only invoice work that is marked as done for example.
 
 - You can add **columns **to and delete them from the work breakdown overview. In order to do that, click on the cogwheel and add all the columns you want.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695534978705)
+![The work breakdown view in a Teamleader Focus project with the column selection menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25695534978705)
 
 It is possible to scroll horizontally to see all information if you have too many columns.
 
 - Also note that you can always **duplicate **tasks, materials, meetings and groups one by one or altogether:
 
 One by one by clicking on the three dots next to the item > Duplicate:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695556913041)
+![Context menu options for a task in a list, highlighting the 'Duplicate task' action.](https://support.focus.teamleader.eu/hc/article_attachments/25695556913041)
 
 - Select the whole group or several items by checking the box next to it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695573119633)
+![Bulk actions toolbar and item selection in a Teamleader Focus project or quotation list.](https://support.focus.teamleader.eu/hc/article_attachments/25695573119633)
  
 
 - You can **merge ****groups **by dragging one group and dropping it into the other:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695573173009)
+![Confirmation dialog for merging two groups in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25695573173009)
  
 
 - Lastly, you can execute some **bulk actions b**y checking the boxes next to multiple items in the work breakdown. 
 [*! Note that you either need to be an admin or you need admin access or edit access to a project.*](https://support.focus.teamleader.eu/hc/en-150/articles/25695680166801-FAQ-What-are-the-different-rights-in-a-project)
-![](https://support.focus.teamleader.eu/hc/article_attachments/35899244126865)
+![Bulk edit options for selected items in a list, showing actions like Add assignees and Update status](https://support.focus.teamleader.eu/hc/article_attachments/35899244126865)
  
 
 Add assignees: add assignees to selected items in the work breakdown, on top of the ones that were already present
@@ -251,12 +251,12 @@ Assignees of meeting lines and mileages can't be edited in bulk.
 - Next to the Kanban view we have the ‘**Project ****info**’ tab:
 
 In 'Project health', you find an overview on budget spent, margin and budget remaining. [Find more information here.](https://support.focus.teamleader.eu/hc/en-150/articles/38494698372881-How-To-Manage-your-project-budget-in-Teamleader-Focus#h_01K3R7HHR1PERJYT45K7GYQYC8)
-![](https://support.focus.teamleader.eu/hc/article_attachments/38502035322769)
+![Project health dashboard showing budget, time, unbilled amounts, margin, and pending work metrics.](https://support.focus.teamleader.eu/hc/article_attachments/38499801836817)
 
  
 
 - There's also a 'Description' field to provide more details about your project.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695557095953)
+![Warning message in Teamleader Focus indicating a resource conflict for a specific time slot.](https://support.focus.teamleader.eu/hc/article_attachments/25692241813905)
 
 - Below the Description you'll find the field 'Customers', with an overview of the customers linked to your project. You'll be able to add a **Primary customer **to your project by clicking on the star icon next to the name of a customer:
 
@@ -273,7 +273,7 @@ This will be the default linked customer for new tasks, time trackings and invoi
 - Below Linked expenses you'll find an overview of the **Files **that have been added to this project. Or easily add new files here.
 
 - At the bottom of the page, you'll find 'Activities':
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695535298193)
+![The Activities feed in Teamleader Focus showing a timeline of project updates and actions.](https://support.focus.teamleader.eu/hc/article_attachments/25695535298193)
 
 When a project is created, closed, reopened or renamed this will be mentioned here
 

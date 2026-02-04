@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Activate noise reduction for your microphone
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695327557905)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -49,7 +49,7 @@ You can activate the noise reduction from 2 locations: from the meeting room gre
 - Click on the toggle to enable noise reduction. If the toggle is coloured, it means that it's active.
 
 - Join the meeting room.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695344474769)
+![Join screen for a Teamleader Focus video meeting with audio and video selection options.](https://support.focus.teamleader.eu/hc/article_attachments/25695320557585)
 
  
 
@@ -64,7 +64,7 @@ You can activate the noise reduction from 2 locations: from the meeting room gre
 - In the Microphone settings you will see '**(BETA) Enable noise suppression**'. 
 
 - Click on the toggle to enable noise reduction. If the toggle is coloured, it means that it's active.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695320557585)
+![Join screen for a Teamleader Focus video meeting with audio and video selection options.](https://support.focus.teamleader.eu/hc/article_attachments/25695320557585)
 
  
 
@@ -74,7 +74,7 @@ To deactivate the noise reduction setting, you perform the same steps and deacti
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695358338961)
+![A toggle switch to enable noise suppression (BETA) in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695358338961)
 
  
 

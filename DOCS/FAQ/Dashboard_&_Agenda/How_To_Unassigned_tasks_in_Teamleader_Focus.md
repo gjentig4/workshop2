@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # How To: Unassigned tasks in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697666734865)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When creating a task in Teamleader Focus you can assign it to yourself, a colleague, a team or to no one in particular. This last option of 'unassigned tasks' will be discussed here.
 
@@ -34,7 +34,7 @@ Everyone will have access to these unassigned tasks when navigating to the tasks
 
 When you navigate to **Calendar > Tasks **you'll find a smart segment here to easily guide you to the unassigned tasks:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697688556433)
+![Smart Segments navigation menu with 'Unassigned' highlighted](https://support.focus.teamleader.eu/hc/article_attachments/25697688556433)
 
  
 

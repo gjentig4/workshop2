@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Connect your Office 365/Outlook calendar with the Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694302106897)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Planning meetings can sometimes take more time than the meeting itself. Use the Scheduler to have your clients easily plan meetings with you!
 
@@ -33,7 +33,7 @@ Once you're connected you can also send calendar events to Teamleader Focus. Rea
 To set up your booking pages you will have to follow a few steps, which can easily be done in our scheduling flow.
 
 Go to [Scheduling](https://meeting.teamleader.eu/scheduling/welcome/) to get started and click on **Connect ****your ****calendar**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694293878673)
+![The 'Get started with scheduling' screen in the Lead capture Booster, prompting calendar connection.](https://support.focus.teamleader.eu/hc/article_attachments/25694264050065)
 
  
 
@@ -49,13 +49,13 @@ After clicking on connect the onboarding flow will open. In the first step selec
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694302284817)
+![Step 1 of the booking page setup: connecting a calendar provider.](https://support.focus.teamleader.eu/hc/article_attachments/25694269451537)
 
  
 
 Now Select the account you want to connect with and log in:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694294042897)
+![Microsoft Sign in dialog for account authentication](https://support.focus.teamleader.eu/hc/article_attachments/25694294042897)
 
 Click on **Next **and continue the steps until you're logged in.
 
@@ -71,7 +71,7 @@ Click on **Next **and continue the steps until you're logged in.
 
 - Select the '**Calendar to write events in**' to show in which calendar new meetings should be booked in.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694312489745)
+![Step 2 of the booking page setup showing calendar availability and event creation settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694284585105)
 
  
 
@@ -81,7 +81,7 @@ Click on **Next **and continue the steps until you're logged in.
 
 To have an easy start with creating meeting types, you can select 1 to 3 meeting types in this step which will be created automatically for you. You can edit or delete these meeting types at any point or create new ones.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694340321553)
+![Step 3 of the booking page setup in Teamleader Focus for adding meeting type templates.](https://support.focus.teamleader.eu/hc/article_attachments/25694269703313)
 
  
 
@@ -91,7 +91,7 @@ To have an easy start with creating meeting types, you can select 1 to 3 meeting
 
 Click on **Check ****your ****booking ****page **to see what the meeting type(s) look like or click on **Finish **to finish the setup and edit/add meeting types.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694302493841)
+![Final step of the booking page setup wizard showing a success message.](https://support.focus.teamleader.eu/hc/article_attachments/25694278205585)
 
 # 2. Scheduling settings
 
@@ -109,7 +109,7 @@ Click on **Check ****your ****booking ****page **to see what the meeting typ
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694312715409)
+![Microsoft sign-in screen for integrating an Outlook account with Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694312715409)
 
  
 
@@ -117,12 +117,12 @@ Click on **Check ****your ****booking ****page **to see what the meeting typ
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694302656785)
+![Microsoft account permission request dialog for Vectera integration](https://support.focus.teamleader.eu/hc/article_attachments/25694302656785)
 
  
 
 5. Configure your calendar settings. Select from which calendar the Lead capture Booster can check for your availability:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694302762257)
+![Calendar settings interface in Teamleader Focus Lead capture Booster for syncing Google Calendar.](https://support.focus.teamleader.eu/hc/article_attachments/25694269846929)
 
 6. All set! **Next step is to create meeting types**. Find out more [here](https://support.focus.teamleader.eu/hc/en-150/articles/25694606512401-How-To-Create-a-meeting-type-for-your-personal-booking-page).
 
@@ -135,7 +135,7 @@ Now that you've connected your Office 365/Outlook Calendar to the Lead capture B
 - In the Lead capture Booster, go to **[Settings > Integrations > Teamleader.](https://meeting.teamleader.eu/integrations/teamleader/)**
 
 - In these settings, check the box next to "Create a calendar event through Teamleader Focus":
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694294556945)
+![Settings page for syncing booked meetings with Teamleader Focus calendar events.](https://support.focus.teamleader.eu/hc/article_attachments/25694254512401)
 
 - When enabled, a calendar event is created in Teamleader Focus and written through to the online calendar that is configured in Teamleader Focus. To make sure these events are still visible in your online calendars (Google, Microsoft, ...), you need to set up the calendar synchronisation in [the Teamleader Focus marketplace.](https://marketplace.focus.teamleader.eu/eu/en/category/calendar)
 

@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Meeting type overview page
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695874547601)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 After you've created meeting types in the Lead capture Booster, you can access them on a handy overview page. From here on out, you can perform different actions. We'll discuss them in this article.
 
@@ -41,7 +41,7 @@ After you've created meeting types in the Lead capture Booster, you can access t
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695897242001)
+![The Meeting Types overview page in Teamleader Focus Lead capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25695897242001)
 
  
 
@@ -107,7 +107,7 @@ You'll see all the meeting types you've created in separate cards. You can searc
 
 When you click on the **three ****dots **next to your meeting type, you'll see several other options.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695863124753)
+![An actions dropdown menu in Teamleader Focus with Edit, Duplicate, Delete, and Active toggle.](https://support.focus.teamleader.eu/hc/article_attachments/25695863124753)
 
  
 
@@ -115,7 +115,7 @@ When you click on the **three ****dots **next to your meeting type, you'll see
 
 By clicking on the share icon you'll have different options. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695863177745)
+![A card for an 'Online meeting' scheduling type in Teamleader Focus with a share button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25695863177745)
 
 You can share the meeting type:
 
@@ -133,7 +133,7 @@ Choose **Copy QR embedded HTML** if you want to copy paste embedded HTML in your
 
 - Via a contact widget
 
-Click on **Create a widget **if you want to embed your meeting type in a contact widget on your website. In 'Link contact type', the meeting type you created will automatically be selected. Read more about contact widgets [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695401651985-How-To-Using-the-contact-widget-in-the-Lead-capture-Booster).![](https://support.focus.teamleader.eu/hc/article_attachments/25695897395601)
+Click on **Create a widget **if you want to embed your meeting type in a contact widget on your website. In 'Link contact type', the meeting type you created will automatically be selected. Read more about contact widgets [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695401651985-How-To-Using-the-contact-widget-in-the-Lead-capture-Booster).![Configuration screen for creating a 'Contact widget' button for a website in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695897395601)
 
 ### Edit meeting types
 
@@ -153,13 +153,13 @@ You can also delete your meeting type by clicking on **Delete.** Note that this 
 
 ### (De)activate a meeting type
 
-When clicking on the **three ****dots **you'll also see the slider '**Active**'. When a meeting type is active, leads or customers can book a meeting with you or your team members. Deactivate the slider to disable a meeting type from your booking page. Deactivated meeting types will show below active meeting types on your meeting types overview page.![](https://support.focus.teamleader.eu/hc/article_attachments/25695879521297)
+When clicking on the **three ****dots **you'll also see the slider '**Active**'. When a meeting type is active, leads or customers can book a meeting with you or your team members. Deactivate the slider to disable a meeting type from your booking page. Deactivated meeting types will show below active meeting types on your meeting types overview page.![A card for a disabled meeting type titled 'Duplicate of Online meeting' with a 30-minute duration.](https://support.focus.teamleader.eu/hc/article_attachments/25695879521297)
 
 ## Warning messages
 
 There are a few reasons why you can see warning messages on the meeting types page.
 
-- If your calendar isn't connected you'll receive a warning message at the top of the overview page to [connect your calendar](https://support.focus.teamleader.eu/hc/en-150/articles/25695106112785-How-To-Scheduling-in-the-Lead-capture-Booster#Connect-your-calendar). You'll also notice a red exclamation mark in the meeting type card.![](https://support.focus.teamleader.eu/hc/article_attachments/25695897483281)
+- If your calendar isn't connected you'll receive a warning message at the top of the overview page to [connect your calendar](https://support.focus.teamleader.eu/hc/en-150/articles/25695106112785-How-To-Scheduling-in-the-Lead-capture-Booster#Connect-your-calendar). You'll also notice a red exclamation mark in the meeting type card.![Meeting Types overview page in Teamleader Focus with a calendar connection warning banner.](https://support.focus.teamleader.eu/hc/article_attachments/25695897483281)
 
 The red exclamation mark can have several causes:
 
@@ -173,4 +173,4 @@ The red exclamation mark can have several causes:
 
  
 
-Find more information on the cause of the exclamation mark by hovering over it:![](https://support.focus.teamleader.eu/hc/article_attachments/25695874856977)
+Find more information on the cause of the exclamation mark by hovering over it:![Warning message for an online meeting type indicating a missing calendar connection.](https://support.focus.teamleader.eu/hc/article_attachments/25695874856977)

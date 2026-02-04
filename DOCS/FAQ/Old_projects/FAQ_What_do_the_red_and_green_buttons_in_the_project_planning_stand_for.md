@@ -10,11 +10,11 @@ section: "Old projects"
 
 # FAQ: What do the red and green buttons in the project planning stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692131407505)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 When you navigate to **Projects **> **P****lanning**, some projects may be preceded by a green or red button as shown in the screenshot below.
 
-![Project planning button](https://support.focus.teamleader.eu/hc/article_attachments/25692143227921)
+![Project planning overview showing a schedule for tasks like Rebranding and Website Design.](https://support.focus.teamleader.eu/hc/article_attachments/25692143227921)
 
 These colours are an indication of the health score per project.
 

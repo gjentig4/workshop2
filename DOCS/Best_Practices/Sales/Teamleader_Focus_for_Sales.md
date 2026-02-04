@@ -10,7 +10,7 @@ section: "Sales"
 
 # Teamleader Focus for Sales
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692881980689)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
 In this article, we're going to show you how Teamleader Focus can help you organise your funnel to stay on op of your leads.
 
@@ -74,7 +74,7 @@ If you receive emails from contacts that contain important information, you can 
 - 
 And what if a contact tells you something your colleague urgently needs to know? Go to the activities at the bottom of a contact or company page and add an @-sign. You’ll see a dropdown with the name of all users within your account, so click on the name of your colleague and type your note. Your colleague will receive a notification.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692869459985)
+![Adding a note in Teamleader Focus activities using the @mention feature to tag a colleague.](https://support.focus.teamleader.eu/hc/article_attachments/25692862605329)
 
 ## Deals and Quotations
 
@@ -91,7 +91,7 @@ The deal and quotation modules will be your favourite ones. [A deal](https://sup
 
 The phases in a deal pipeline show you the steps a lead has to go through before becoming a customer. Click on the little ball on the phase to mark it as fulfilled. You can, of course, [customize the phases and add/edit/remove them](https://support.focus.teamleader.eu/hc/en-150/articles/25691597918737-How-To-Managing-deal-phases) via **Settings > Deals and Quotations > **Pipelines > Click on the **pencil **next to the phase. More information about changing the dates can be found [here](https://support.focus.teamleader.eu/hc/en-150/articles/25693825469585-FAQ-Can-I-change-the-date-of-a-deal-phase).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692852446865)
+![Deal pipeline progress bar in Teamleader Focus showing the 'Quotation sent' stage.](https://support.focus.teamleader.eu/hc/article_attachments/25692852446865)
 
 - 
 Sometimes, the deal phases jump automatically. This happens on two occasions: when [sending a quotation](https://support.focus.teamleader.eu/hc/en-150/articles/25691228260881-How-To-Email-templates-for-quotations-invoices-and-meetings) and if (one of) the [quotation(s) is accepted via CloudSign](https://support.focus.teamleader.eu/hc/en-150/articles/25690878232593-How-To-Digital-signing-of-your-quotations-with-CloudSign).
@@ -100,7 +100,7 @@ Sometimes, the deal phases jump automatically. This happens on two occasions: wh
 [Via the scheduled actions on your deal page,](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page) you can link meetings, tasks and calls to the deal, so you won’t lose your potential customer out of sight. [You can even link follow-up actions to your deal phases](https://support.focus.teamleader.eu/hc/en-150/articles/25697662084497-How-To-Follow-up-actions-on-deals-deal-automation)*.*
 In case you weren’t able to reach the contact today, just create a task or a call for yourself within a few days to check again.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692869558673)
+![The 'Add meeting' dialog box in Teamleader Focus for scheduling and linking appointments.](https://support.focus.teamleader.eu/hc/article_attachments/25692869558673)
 
 ### Activity meter
 
@@ -108,7 +108,7 @@ In case you weren’t able to reach the contact today, just create a task or a c
 
 In the deal overview, you find specific colours under the column[ Activity](https://support.focus.teamleader.eu/hc/en-150/articles/25691531578641-FAQ-What-do-the-colours-under-deal-activity-stand-for), which let you know what deals need attention. Determine the time span via **Settings > Deals and Quotations > **Pipelines > **Pencil **next to a deal phase.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692869609873)
+![A list view in Teamleader Focus showing columns for Amount, Latest activity, and Activity status.](https://support.focus.teamleader.eu/hc/article_attachments/25692869609873)
 
 ### Probability rate
 
@@ -126,7 +126,7 @@ Under Insights, you’ll find extensive reports on deals such as deal cycle leng
 
 The Dashboard (clicking on the Teamleader Focus logo in the top-left corner) shows you today’s agenda. This should be the first thing you look at in the mornings, while you drink your coffee.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692843270801)
+![Teamleader Focus dashboard showing widgets for Tasks, Meetings, and Calls.](https://support.focus.teamleader.eu/hc/article_attachments/25692843270801)
 
 Here you will find all the tasks, meetings and calls that you have to do today, or that were due in the previous 7 days. 
 
@@ -140,7 +140,7 @@ As a best practice, we recommend that every time a task, meeting or a call is do
 
 Here’s another trick applied by our customers for keeping notes of a meeting. When you finish a meeting, you have the option to create a [meeting report](https://support.focus.teamleader.eu/hc/en-150/articles/25692057110801-FAQ-Can-I-create-a-meeting-report). But if you don’t want to spend time writing, you can also finish the meeting using the [Teamleader Focus app](https://support.focus.teamleader.eu/hc/en-150/articles/25691083613201-FAQ-What-can-the-Teamleader-Focus-app-do). You can create a report by recording your voice, using the mic on your mobile phone. Each customer has a ‘**Files**’ tab where you can upload these documents so that you, or any of your colleagues can find them quickly.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692843324689)
+![Vertical sidebar tab for 'Files' with a folder icon and a count of 77](https://support.focus.teamleader.eu/hc/article_attachments/25692843324689)
 
  
 

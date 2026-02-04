@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Add a work order to a project
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696149360017)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -37,7 +37,7 @@ First of all, you have to [create a work order via the mobile app](https://suppo
 After finalising the work order, every element on a work order is added as an individual line in the work breakdown of a project:
 
 - Work orders are a type of group with a link to the work order itself. You'll see it visualised like this:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696161488273)
+![A list view of a Work order in Teamleader Focus showing completed tasks and tracked items.](https://support.focus.teamleader.eu/hc/article_attachments/25696161488273)
 
 Working hours show up as tasks, with the time trackings linked to them.
 

@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # FAQ: When will Teamleader Focus add VAT to my invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692922151697)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 We are a Belgium based software company, so we are required to follow Belgian law when it comes to invoicing.
 

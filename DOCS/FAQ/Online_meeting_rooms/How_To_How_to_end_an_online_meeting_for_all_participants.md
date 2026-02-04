@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: How to end an online meeting for all participants?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694132115345)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -37,7 +37,7 @@ Hover over the leave button to see the first three options.
 # Leave the meeting room or end the call for everyone
 
 If you choose one of the first 3 options to end the call, you can hover over the red 'Leave' button at the bottom center of the meeting room. This will give you the option to leave the room, end the call for everyone or end the call for everyone but yourself.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694126930705)
+![The Teamleader Focus video meeting interface showing call ending options.](https://support.focus.teamleader.eu/hc/article_attachments/25694126930705)
 
 ### **Leave the meeting room**
 
@@ -67,7 +67,7 @@ A full reset will also remove the chat history, whiteboards and files, recording
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694157540241)
+![Audio, video, and meeting room settings dialog in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694157540241)
 
  
 

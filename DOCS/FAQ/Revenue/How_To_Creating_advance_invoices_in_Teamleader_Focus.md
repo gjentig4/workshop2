@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Creating advance invoices in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690799382161)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -37,20 +37,20 @@ A lot of companies prefer to charge their customers in advance. Luckily, Teamlea
 
 - Now you have two options for your final invoice
 
-- Create an invoice of € 5.000 VAT excluded without any mention of the advance invoice. You are not obligated to mention the previously made invoice.![](https://support.focus.teamleader.eu/hc/article_attachments/25690818492817)
+- Create an invoice of € 5.000 VAT excluded without any mention of the advance invoice. You are not obligated to mention the previously made invoice.![Example of a generated invoice document in Teamleader Focus showing line items and totals.](https://support.focus.teamleader.eu/hc/article_attachments/25690818492817)
 
 - We invoice the total amount and add a negative line mentioning the advance invoice. The amount needs to be - € 5.000. Teamleader Focus will then subtract this amount from the total amount VAT excluded
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690780901777)
+![Invoice line items table showing a deduction for an advance invoice.](https://support.focus.teamleader.eu/hc/article_attachments/25690780901777)
 
 # Via Quotations
 
 - Navigate to **Quotations **and choose a quotation
 
-- Click on **Convert to invoice****![](https://support.focus.teamleader.eu/hc/article_attachments/25690804038289)**
+- Click on **Convert to invoice****![The header of an accepted quotation in Teamleader Focus with the 'Convert to invoice' button.](https://support.focus.teamleader.eu/hc/article_attachments/25690804038289)**
 
 - Choose to create an '**Advance invoice' **first
 
-- Now you get the option to invoice the amount based on a percentage or a fixed amount. In this example we choose for a fixed amount of € 5.000![](https://support.focus.teamleader.eu/hc/article_attachments/25690780978193)
+- Now you get the option to invoice the amount based on a percentage or a fixed amount. In this example we choose for a fixed amount of € 5.000![The 'Create invoice from quotation' dialog box showing options for a fixed amount invoice.](https://support.focus.teamleader.eu/hc/article_attachments/25690780978193)
 
 - Click “**Save**”
 
@@ -68,12 +68,12 @@ A lot of companies prefer to charge their customers in advance. Luckily, Teamlea
 
 - Choose to create an “**Advance invoice**” first
 
-- Now you get the option to invoice the amount based on a percentage or a fixed amount. In this example we choose for a fixed amount of € 5.000![](https://support.focus.teamleader.eu/hc/article_attachments/25690780978193)
+- Now you get the option to invoice the amount based on a percentage or a fixed amount. In this example we choose for a fixed amount of € 5.000![The 'Create invoice from quotation' dialog box showing options for a fixed amount invoice.](https://support.focus.teamleader.eu/hc/article_attachments/25690780978193)
 
 - Click “**Save**”
 
 - 
-After finishing our job, we go back to our original deal/quotation and choose to invoice again. In the case of a quotation, Teamleader Focus will automatically show us our quotation items and the previously invoiced amount as well.![](https://support.focus.teamleader.eu/hc/article_attachments/25690781032465)
+After finishing our job, we go back to our original deal/quotation and choose to invoice again. In the case of a quotation, Teamleader Focus will automatically show us our quotation items and the previously invoiced amount as well.![The 'Invoice items' section in Teamleader Focus showing line items with an advance invoice deduction.](https://support.focus.teamleader.eu/hc/article_attachments/25690781032465)
 
  
 

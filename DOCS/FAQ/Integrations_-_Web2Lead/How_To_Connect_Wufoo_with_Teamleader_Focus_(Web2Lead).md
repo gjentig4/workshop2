@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Connect Wufoo with Teamleader Focus (Web2Lead)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691772043665)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -38,7 +38,7 @@ When creating a form in Wufoo, there's a list of possible fields on your left. O
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691762564497)
+![Wufoo form builder interface showing a 'Web2Lead' form for Teamleader Focus integration.](https://support.focus.teamleader.eu/hc/article_attachments/25691762564497)
 
  
 
@@ -52,7 +52,7 @@ Save your form in order to view the Webhook URL that connects Teamleader Focus w
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691756076433)
+![The 'Add Integration' widget for connecting Teamleader Focus to another application via WebHook.](https://support.focus.teamleader.eu/hc/article_attachments/25691756076433)
 
  
 
@@ -60,7 +60,7 @@ Enter your Webhook URL in the pop-up. You can skip the Handshake Key, but check 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691782244497)
+![Configuration dialog for setting up a WebHook integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691782244497)
 
  
 

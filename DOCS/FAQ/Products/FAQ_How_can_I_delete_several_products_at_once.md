@@ -10,7 +10,7 @@ section: "Products"
 
 # FAQ: How can I delete several products at once?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691383933969)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ In order to delete multiple products, you'll first have to create a segment that
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691426020497)
+![The 'Add segment' dialog box in Teamleader Focus for creating filtered contact or company lists.](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
 
  
 

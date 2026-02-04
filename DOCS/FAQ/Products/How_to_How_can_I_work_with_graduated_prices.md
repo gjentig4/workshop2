@@ -10,7 +10,7 @@ section: "Products"
 
 # How to: How can I work with graduated prices?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691815998225)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 - Go to** Settings** > **Custom fields** > **+**. 
 
@@ -19,9 +19,9 @@ section: "Products"
 - Next, for every graduated price, create a product with a unique ID. You can do this by clicking on **Add product **under Products. Add the quantity to the custom field you just created.
 
 - Once you're done, you can search for the product when creating a quotation or invoice.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691826965649)
+![Searching for a product in a line item description field](https://support.focus.teamleader.eu/hc/article_attachments/25691826965649)
 
 - Clicking on “**Search all results**” brings you to you a pop-up with an overview of all products - including the custom field in order to be able to differentiate.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691787058449)
+![The 'Select product' dialog box in Teamleader Focus showing product search results and details.](https://support.focus.teamleader.eu/hc/article_attachments/25691787058449)
 
 - Choose the right price and fill in the correct quantity.

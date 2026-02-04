@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # Getting started: How do you want to structure your calendar?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692390116241)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 - *Where can you see what?*
 

@@ -10,7 +10,7 @@ section: "Templates"
 
 # FAQ: Can I use my own font in the layout of my documents?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690967798673)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -38,7 +38,7 @@ If you are [integrating your own house style in Teamleader Focus](https://suppor
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25690927783697)**
+**![Microsoft Word settings for embedding fonts to preserve document fidelity.](https://support.focus.teamleader.eu/hc/article_attachments/25690927783697)**
 
 This option ensures that the font is available for others who don’t have this font installed by default. This way, Teamleader Focus is able to recognize which font needs to be used.
 
@@ -64,7 +64,7 @@ This option ensures that the font is available for others who don’t have this 
 
 3. Select **Save** in the popup that appears and check 'Embed fonts in the file'** **and 'Do not embed common system fonts'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690953928465)
+![Microsoft Word Save settings showing how to embed fonts in a document template.](https://support.focus.teamleader.eu/hc/article_attachments/25690953928465)
 
  
 

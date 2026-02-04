@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: Why do I only see grey blocks in the agenda of my colleague?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691465061393)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -18,7 +18,7 @@ When you open[ the agenda of your colleague](https://support.focus.teamleader.e
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691432285329)
+![Weekly calendar view in Teamleader Focus showing a scheduled event on a Saturday.](https://support.focus.teamleader.eu/hc/article_attachments/25691432285329)
 
  
 
@@ -30,4 +30,4 @@ However, your colleague does have the option to convert this calendar entry into
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691432347793)
+![Context menu in the calendar showing options to convert a planned item to a meeting or task.](https://support.focus.teamleader.eu/hc/article_attachments/25691432347793)

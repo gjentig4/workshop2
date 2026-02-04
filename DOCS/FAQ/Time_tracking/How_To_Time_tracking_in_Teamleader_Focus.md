@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Time tracking in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ Time tracking is an important feature throughout the whole of Teamleader Focus. 
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
+![Tutorial title slide for 'Registering timetracking' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690686498321)
 
  
 
@@ -42,7 +42,7 @@ Our Time Tracker functionality is essentially a timer in the top right-hand corn
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690692127121)
+![The top navigation bar in Teamleader Focus highlighting the time tracking stopwatch icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690692127121)
 
  
 
@@ -52,7 +52,7 @@ Our Time Tracker functionality is essentially a timer in the top right-hand corn
 
 - When in Teamleader Focus click on the “**+**” symbol in the upper right-hand corner. Then click “**T****ime Tracking**”.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690708988945)
+![The 'Plus' (+) quick-action menu in Teamleader Focus for creating new items.](https://support.focus.teamleader.eu/hc/article_attachments/25690708988945)
 
 - Fill in the details.
 
@@ -73,7 +73,7 @@ Our Time Tracker functionality is essentially a timer in the top right-hand corn
 **Additional ways to track time via timesheets:**
 
 - You can add new time trackings by clicking on the gaps in the timeline directly:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690709023377)
+![Adding time tracking to a specific date in the Teamleader Focus timesheet view.](https://support.focus.teamleader.eu/hc/article_attachments/25690709023377)
 
 - You can create new time trackings by copying them. Read more [here](https://support.focus.teamleader.eu/hc/en-150/articles/25693842194577-FAQ-Can-I-copy-time-tracking). 
 
@@ -124,11 +124,11 @@ The work orders feature in Teamleader Focus is our final way to track time. It a
 
 - 
 When adding time tracking, it's also possible to add extra costs or products to it in the next step. If you don't see this option in your account, [please contact us.](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690700032785)
+![Duration section in Teamleader Focus for logging time with date, start/end times, and extra costs.](https://support.focus.teamleader.eu/hc/article_attachments/25690700032785)
 
 - 
 There is a user setting when it comes to allowing adding time tracking on projects. Go to **Settings **> **Users **> **click on the name of a user** > 'Permissions'** **> 'Time tracking':
-![](https://support.focus.teamleader.eu/hc/article_attachments/37466254746769)
+![Time tracking and project access permissions settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/37466254746769)
  
 
 Here, you can define if a user can add time tracking on no projects (disabled), according to participation on the project (participant only) or on all projects (all). 

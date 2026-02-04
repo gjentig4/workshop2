@@ -10,7 +10,7 @@ section: "GDPR"
 
 # FAQ: Can a Teamleader Focus employee access my account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693600895633)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Yes, it is possible that an employee accesses your account. A Customer Success employee who needs to do some research in your account in order to provide an appropriate solution to your question or who wants to help you during the onboarding process, can give themselves access to your account under certain conditions. This happens only with a valid reason. We also always inform you about this action and take a number of additional security measures. Read all about it in this article.
 

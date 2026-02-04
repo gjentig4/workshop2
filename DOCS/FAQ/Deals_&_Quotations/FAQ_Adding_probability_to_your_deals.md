@@ -10,9 +10,9 @@ section: "Deals & Quotations"
 
 # FAQ: Adding probability to your deals
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692239856145)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You will see a field called 'Probability (%)' appear when you create a deal or edit an existing one by clicking on the pencil next to 'Details' on your [deal page](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25697814636305). By default, the probability will be set to 5 percent, but you can change it according to your own predictions.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692252594321)
+![The 'Edit Deal' dialog box in Teamleader Focus showing deal details and probability settings.](https://support.focus.teamleader.eu/hc/article_attachments/25692252594321)
 Filling out the probability of your deal is especially relevant if you make use of the deal forecast in Teamleader Focus. The deal forecast calculations rely heavily on the probability rate of your deals. Furthermore, the deal forecast view allows you to easily adjust the probability rate for your open deals in just a few clicks. [Read this article to find out more about it.](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25697739813521)

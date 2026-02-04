@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Contact forms and how to create them
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695751442833)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 A contact form on your website is a valuable tool that facilitates effective communication between your business and your audience. It serves as a convenient and user-friendly means for visitors to reach out to you or provide feedback. Read everything about what contact forms are and how to set them up in Teamleader Focus. 
 
@@ -103,7 +103,7 @@ The **name** of the form will be prefilled as 'Form 1', but you can always adapt
 - 
 *When you change the name of your contact form afterwards, this will impact both the contact form URL and the embedded HTML of your contact form.*
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25695766544017)*
+*![The 'Build your form' interface in Teamleader Focus for creating lead capture forms.](https://support.focus.teamleader.eu/hc/article_attachments/25695766544017)*
 
 Choose **what you want to do **with each completed form. Once checked, there are a few questions that are required. The answers to these questions will be linked to the corresponding fields of your choice in your Teamleader Focus CRM. 
 
@@ -160,7 +160,7 @@ You can link these questions to your contact, company or deal fields in Teamlead
 - You can preview the question immediately next to it
 
 - E.g. I want to know the primary address of the company:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695751580817)
+![Form for creating a custom question in Teamleader Focus with field mapping to a Deal Amount.](https://support.focus.teamleader.eu/hc/article_attachments/25695563110673)
 
 - Save the question. When all your questions are ready, click on **Continue**.
 
@@ -169,12 +169,12 @@ You can link these questions to your contact, company or deal fields in Teamlead
 **Remarks**
 
 - Make sure you either check 'Create new contact' or 'Create new company' if you want to be able to also create a new deal **and **to link the answers to your questions to Teamleader Focus.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695751627537)
+![Form automation settings in Teamleader Focus for creating contacts, companies, or deals.](https://support.focus.teamleader.eu/hc/article_attachments/25695751627537)
 
 - If you already linked a question to a Teamleader Focus field within for example the Company category, then you won't be able to link a second question to that same Teamleader Focus field.
 **Example**: You've already asked your customer their website in this question:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695688185617)
-In the next question, you also want to know what their employee platform is: ![](https://support.focus.teamleader.eu/hc/article_attachments/25695704310289)
+![Configuration modal for adding a website question to a Teamleader Focus lead capture form.](https://support.focus.teamleader.eu/hc/article_attachments/25695688185617)
+In the next question, you also want to know what their employee platform is: ![Error message in a form builder stating 'This field is already in use on another question'.](https://support.focus.teamleader.eu/hc/article_attachments/25695704310289)
 You'll receive the message that this field is already in use on another question. You can choose e.g. 'Contact website' instead, or the field 'Company - Background information'.
 
 *Note: The field 'Background information' is an exception to this rule, as this field can be linked to several times.*
@@ -182,7 +182,7 @@ You'll receive the message that this field is already in use on another question
  
 
 - If you uncheck an option e.g. disable 'Create new company', then the linked questions will be removed:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695751872529)
+![A confirmation dialog for disabling company-related questions in a form or lead capture tool.](https://support.focus.teamleader.eu/hc/article_attachments/25695751872529)
 
  
 
@@ -208,7 +208,7 @@ Double check everything in the preview by clicking on the maximise icon to enlar
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695766869649)
+![Preview of a Teamleader Focus contact form with custom branding and fields.](https://support.focus.teamleader.eu/hc/article_attachments/25695766869649)
 
  
 
@@ -245,7 +245,7 @@ If you afterwards delete the selected pipeline in Teamleader Focus, or your pipe
 
  
 
-![image (23).png](https://support.focus.teamleader.eu/hc/article_attachments/27637105373457)
+![Configuration settings for Teamleader Focus CRM behavior when handling form information.](https://support.focus.teamleader.eu/hc/article_attachments/27637105373457)
 
  
 
@@ -264,13 +264,13 @@ For example, your company offers multiple services and sends a contact form to p
 - Fill in or select the answer
 
 - Click on **Submit**
-**![image (21).png](https://support.focus.teamleader.eu/hc/article_attachments/27637023579025)**
+**![A dialog box to add a prefilled answer for a custom field in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27637023579025)**
  
 
 The end user won't see the prefilled answers when visiting the contact form page. When the end user fills in and submits the form, the answers and the prefilled answers will appear in the contact, company or deal information. 
 E.g. Carl Doe needs a cleaning service for his company Great company x
 
-![image (22).png](https://support.focus.teamleader.eu/hc/article_attachments/27637105377809)
+![Contact information widget in Teamleader Focus showing details for a contact named Carl Doe.](https://support.focus.teamleader.eu/hc/article_attachments/27637105377809)
 
 Important:
 
@@ -283,7 +283,7 @@ Important:
 Notifications 
 
 Set notifications for yourself, colleagues and customers.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695719293457)
+![Notification settings for form completions in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695719293457)
 
 - Notify a team member when a form is completed ([Beyond functionality](https://support.focus.teamleader.eu/hc/en-150/articles/25695070912017-The-Lead-capture-Booster-Basic-vs-Beyond-features)): select which user should receive an email notification whenever a form is completed. Uncheck the box if you don't want to be notified.
 *Note**: this box will be checked by default and the contact form creator is selected. *
@@ -295,7 +295,7 @@ Set notifications for yourself, colleagues and customers.
 Redirecting
 
 If a respondent filled out a form you have two options:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695704572561)
+![Configuration settings for redirecting respondents to a custom URL after form submission.](https://support.focus.teamleader.eu/hc/article_attachments/25695704572561)
 
 - Show the success page (cf. 'Customise your form')
 
@@ -305,7 +305,7 @@ If a respondent filled out a form you have two options:
 
 Legal
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27757401127569)
+![Legal settings section for forms with a checkbox to ask respondents to accept terms and conditions.](https://support.focus.teamleader.eu/hc/article_attachments/27757401127569)
 
 Ask respondents to accept terms and conditions: before submitting their answers, respondents will first be asked to accept the terms and conditions.
 
@@ -402,4 +402,4 @@ If you want to embed the contact form in your website or as a contact widget but
 
 *Note: logos won't show when a contact form is embedded.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695767176465)
+![A public contact form powered by Teamleader Focus for lead generation.](https://support.focus.teamleader.eu/hc/article_attachments/25695767176465)

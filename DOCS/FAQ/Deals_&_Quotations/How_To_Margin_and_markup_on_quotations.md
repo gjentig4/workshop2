@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Margin and markup on quotations
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693005417489)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -52,17 +52,17 @@ If you want to activate this feature for a user, follow these steps.
 
 - In 'Permissions', click on the slider next to the features 'Margin on quotations' and 'Unit cost visible'. **Both have to be enabled.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37462695865617)**![](https://support.focus.teamleader.eu/hc/article_attachments/37462695866641)
+![User permission settings for the Deals and Quotations module in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/37462695865617)**![User permission settings for the Products module in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/37462695866641)
 
 - Then, we [create a new quotation](https://support.focus.teamleader.eu/hc/en-150/articles/25693612763409-FAQ-How-can-I-create-a-quotation-in-Teamleader-Focus).
 
 - Insert a product line.
 
 - The field **Unit cost **will appear just below the product line. You can insert a unit cost here, and the **margin **will be calculated. If a unit cost has already been added to the product page, it will appear automatically.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693065551249)When there wasn't a unit cost linked already, you can fill it out manually. The unit price will be calculated and added to the subtotal of the product line.
+![Adding line items to a quotation in Teamleader Focus with unit price, cost, and margin details.](https://support.focus.teamleader.eu/hc/article_attachments/25693065551249)When there wasn't a unit cost linked already, you can fill it out manually. The unit price will be calculated and added to the subtotal of the product line.
 
 In the bottom left-hand corner of the quotation editor, you'll also find the total unit cost and the total margin of the quotation.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693005529873)
+![Financial summary showing unit cost, margin, and VAT totals for a quotation or invoice.](https://support.focus.teamleader.eu/hc/article_attachments/25693005529873)
 
 - In the bottom right-hand corner you'll find the total excl. VAT, the VAT amount and the total incl. VAT. 
 
@@ -71,9 +71,9 @@ In the bottom left-hand corner of the quotation editor, you'll also find the tot
 - The calculations take discounts on a single line and global commercial [discounts ](https://support.focus.teamleader.eu/hc/en-150/articles/25690788116881-How-To-Giving-discounts-in-Teamleader-Focus)into account.
 
 - If you want to calculate the markup, click on **Calculate markup**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693050746897)
+![The 'Calculate markup' dialog box for a product in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693050746897)
 
-- When you save the quotation, you'll find the margin in the header of the quotation detail page:![](https://support.focus.teamleader.eu/hc/article_attachments/25693005675153)In your [linked deal](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page), you find the total margin of the deal under the 'Details' of your deal in the top left-hand corner:![](https://support.focus.teamleader.eu/hc/article_attachments/25693027355537)
+- When you save the quotation, you'll find the margin in the header of the quotation detail page:![Detail view of Quotation 279 in Teamleader Focus highlighting the profit margin field.](https://support.focus.teamleader.eu/hc/article_attachments/25693005675153)In your [linked deal](https://support.focus.teamleader.eu/hc/en-150/articles/25697814636305-How-To-Deal-overview-per-customer-and-deal-page), you find the total margin of the deal under the 'Details' of your deal in the top left-hand corner:![The Details section of a deal in Teamleader Focus highlighting the Margin field.](https://support.focus.teamleader.eu/hc/article_attachments/25693027355537)
 
 ## Users with no access to unit cost/margin on quotations
 
@@ -82,7 +82,7 @@ When the unit cost and margin are enabled for your user, you can access this inf
  
 
 When you don't have access however you'll see the following warning when editing a quotation:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693065806993)
+![Warning message in the 'Edit quotation' dialog regarding hidden unit costs and profit margins.](https://support.focus.teamleader.eu/hc/article_attachments/25693065806993)
 
 - This essentially means that if unit costs have been added (by another user that edited the quotation or by adding a product that has a registered unit cost) then these unit costs are added in the background.
 

@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Mark a quotation as refused
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696049221905)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -36,7 +36,7 @@ A user can mark a quotation as refused both from the deal detail page and the qu
 
 - Click on the **three dots**
 
-- Click on **Mark as refused****![](https://support.focus.teamleader.eu/hc/article_attachments/25696049273617)**
+- Click on **Mark as refused****![Marking a quotation as refused within a deal overview in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696049273617)**
 
  
 
@@ -44,7 +44,7 @@ A user can mark a quotation as refused both from the deal detail page and the qu
 
 - In a quotation, click on the **arrow **next to ‘Send quotation’
 
-- Choose **Mark as refused****![](https://support.focus.teamleader.eu/hc/article_attachments/25696007930257)**
+- Choose **Mark as refused****![The quotation action menu in Teamleader Focus with 'Mark as refused' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25696007930257)**
 
 After confirming the action, the quotation receives the new quotation status ‘Refused’.
 
@@ -60,9 +60,9 @@ You can also allow your customers to refuse quotations on CloudSign. To enable t
 
 - Click on **Deals and Quotations**
 
-- Enable the toggle ‘Allow customers to refuse quotations on CloudSign’![](https://support.focus.teamleader.eu/hc/article_attachments/25696037175569)*Note*: This is an account wide setting and can’t be enabled per user.
+- Enable the toggle ‘Allow customers to refuse quotations on CloudSign’![Quotation preferences menu showing the option to allow customers to refuse quotations on CloudSign.](https://support.focus.teamleader.eu/hc/article_attachments/25696037175569)*Note*: This is an account wide setting and can’t be enabled per user.
 
-- When enabled, your customer can refuse a quotation on CloudSign, and optionally they can provide context on their decision too.![](https://support.focus.teamleader.eu/hc/article_attachments/25696049448721)
+- When enabled, your customer can refuse a quotation on CloudSign, and optionally they can provide context on their decision too.![The CloudSign interface for a quotation with buttons to refuse, send feedback, or sign.](https://support.focus.teamleader.eu/hc/article_attachments/25696049448721)
 
 - When a quotation is marked as refused:
 

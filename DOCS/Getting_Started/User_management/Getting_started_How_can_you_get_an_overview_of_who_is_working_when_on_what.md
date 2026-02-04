@@ -10,7 +10,7 @@ section: "User management"
 
 # Getting started: How can you get an overview of who is working when on what?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692451462801)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

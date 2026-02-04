@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Link your online form to Teamleader Focus via Zapier
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693134820753)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -87,21 +87,21 @@ Before we choose Google Forms as our first app, we make sure that we have a form
 
  
 
-Apart from the test response, we also need the form to be linked to a new **spreadsheet**. In order to link a form to a spreadsheet (in which the responses are collected), simply click this button in the response-page of your form. This is the spreadsheet you will be linking to Teamleader Focus.![](https://support.focus.teamleader.eu/hc/article_attachments/25693098025489)
+Apart from the test response, we also need the form to be linked to a new **spreadsheet**. In order to link a form to a spreadsheet (in which the responses are collected), simply click this button in the response-page of your form. This is the spreadsheet you will be linking to Teamleader Focus.![Google Forms interface showing the 'Responses' tab with the 'Create Spreadsheet' icon highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693098025489)
 
  
 
-We can now get started in Zapier. Choose **Google Forms** from the drop down menu:![](https://support.focus.teamleader.eu/hc/article_attachments/25693112213393)
+We can now get started in Zapier. Choose **Google Forms** from the drop down menu:![Setting up a Zapier trigger by selecting Google Forms as the app.](https://support.focus.teamleader.eu/hc/article_attachments/25693112213393)
 
-Afterwards, we choose to **trigger **the zap with each new form response. Then, you click on 'Continue':![](https://support.focus.teamleader.eu/hc/article_attachments/25693134979089)
-
- 
-
-Once a trigger has been selected, we can **test **our first phase. In order to do so, Zapier will ask us to link an existing Google Account in order to know what form we’re talking about. Connect your Google account and continue.![](https://support.focus.teamleader.eu/hc/article_attachments/25693102441873)
+Afterwards, we choose to **trigger **the zap with each new form response. Then, you click on 'Continue':![The 'Choose Trigger Event' dropdown menu for setting up an automation or integration.](https://support.focus.teamleader.eu/hc/article_attachments/25693134979089)
 
  
 
-Once connected successfully, you’ll be given the option to choose a **spreadsheet **(this is the spreadsheet linked to your form). In the ‘Worksheet’-field, you just have to select ‘Form Responses 1’.![](https://support.focus.teamleader.eu/hc/article_attachments/25693135083921)
+Once a trigger has been selected, we can **test **our first phase. In order to do so, Zapier will ask us to link an existing Google Account in order to know what form we’re talking about. Connect your Google account and continue.![Zapier integration screen to choose a Google Forms account for Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693102441873)
+
+ 
+
+Once connected successfully, you’ll be given the option to choose a **spreadsheet **(this is the spreadsheet linked to your form). In the ‘Worksheet’-field, you just have to select ‘Form Responses 1’.![Zapier integration setup for mapping a Google Spreadsheet to Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693135083921)
 
  
 
@@ -110,17 +110,17 @@ After the worksheet has been linked, Zapier will fetch responses that you can us
 ## 
 2. Select the second app, action and template: create contact
 
-Select **Teamleader Focus **as your second app. After all, this is where the form info should end up.![](https://support.focus.teamleader.eu/hc/article_attachments/25693098243857)
+Select **Teamleader Focus **as your second app. After all, this is where the form info should end up.![Selecting Teamleader as the app in a Zapier automation workflow step.](https://support.focus.teamleader.eu/hc/article_attachments/25693098243857)
 
-You can now choose a certain action.*Note: in this step, it’s important to know that you can create multiple actions one after another. However, the amount of steps within one zap depends on your Zapier license. If you have a free license, you can only choose one action (preferably ‘Create company’ or ‘Create contact’). If you have a paying license, you can choose multiple actions (f.e. ‘Create contact’, ‘Create company’, ‘Link contact to company’ and ‘Create deal’). In our scenario, we’re choosing to make a multi-step zap. If you have a free Zapier license, you can choose to follow only one of the actions described in this article.*We first choose the **‘Create contact’ **action:![](https://support.focus.teamleader.eu/hc/article_attachments/25693124736401)
+You can now choose a certain action.*Note: in this step, it’s important to know that you can create multiple actions one after another. However, the amount of steps within one zap depends on your Zapier license. If you have a free license, you can only choose one action (preferably ‘Create company’ or ‘Create contact’). If you have a paying license, you can choose multiple actions (f.e. ‘Create contact’, ‘Create company’, ‘Link contact to company’ and ‘Create deal’). In our scenario, we’re choosing to make a multi-step zap. If you have a free Zapier license, you can choose to follow only one of the actions described in this article.*We first choose the **‘Create contact’ **action:![Zapier integration setup: Choosing 'Create Contact' as the action event for Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693124736401)
 
-After we’ve done so, it's time to **connect **our Teamleader Focus account and continue:![](https://support.focus.teamleader.eu/hc/article_attachments/25693148698257)
+After we’ve done so, it's time to **connect **our Teamleader Focus account and continue:![Zapier integration setup showing the 'Choose Account' step for creating a contact in Teamleader.](https://support.focus.teamleader.eu/hc/article_attachments/25693148698257)
 
 In the following step, Zapier asks us to define a **template **of what a normal response would look like. What we’re basically doing here, is defining the value for each field we want to export from our form to our Teamleader Focus account. This is where we use the test response of our form: by adding these values to each field, we basically tell Zapier where to find every piece of information.In order to select the right test responses, we click the “Insert a field”-button on the right of each field. You’ll see a dropdown of the form response, from which you can select the right value.
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27921633154321)**
+**![Mapping spreadsheet fields to Teamleader Focus contact fields in a Zapier-style integration.](https://support.focus.teamleader.eu/hc/article_attachments/27921633154321)**
 
  
 
@@ -157,19 +157,19 @@ In this step, we make sure that the contacts & companies coming in through the f
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27921604657809)**
+**![Mapping a dynamic Company ID from a previous step into a required field in an automation.](https://support.focus.teamleader.eu/hc/article_attachments/27921604657809)**
 
  
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27921633164817)**
+**![Selecting 'Create Company' as a step in a Zapier or automation workflow for Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27921633164817)**
 
  
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/27921604663825)**
+**![Mapping a Data ID to the Company id field in a Zapier or automation integration](https://support.focus.teamleader.eu/hc/article_attachments/27921604663825)**
 
  
 

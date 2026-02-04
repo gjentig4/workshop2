@@ -10,7 +10,7 @@ section: "Projects"
 
 # FAQ: What are the different rights in a project?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695707748753)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -46,7 +46,7 @@ First of all, make sure every user has access to the project module. Within that
 - In 'Permissions', enable the toggle next to "Projects"
 
 - In 'Projects access' you'll see a dropdown menu:
-![](https://support.focus.teamleader.eu/hc/article_attachments/38062234084241)
+![Project module settings in Teamleader Focus showing access and financial visibility toggles.](https://support.focus.teamleader.eu/hc/article_attachments/38062234084241)
  
 *Note that for *[*admins *](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691974365841)*of an account, access rights cannot be restricted.*
 
@@ -63,7 +63,7 @@ First of all, make sure every user has access to the project module. Within that
 ### Financials on a project
 
 In the above menu, you'll find that you can also disable access to financials on a project:
-![](https://support.focus.teamleader.eu/hc/article_attachments/37499811606801)
+![Project settings toggle for enabling the Projects module and financial visibility.](https://support.focus.teamleader.eu/hc/article_attachments/37499811606801)
 
  
 
@@ -106,10 +106,10 @@ If the toggle is off, the following financial information on a project is hidden
 ### Costs on a project
 
 You can disable access to the Margin widget on a project specifically by disabling the toggle ‘Show costs on projects’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/37983919487889)
+![Project settings toggle switches for financials and costs in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/37983919487889)
 If the toggle is off, the user only sees ‘Budget spent’ and ‘Time tracked’ on the Project info page:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695673401745)
+![Project info header in Teamleader Focus showing budget spent and time tracked for a project.](https://support.focus.teamleader.eu/hc/article_attachments/25695673401745)
 
  
 
@@ -122,12 +122,12 @@ After defining the access rights to the project module, you can decide which rol
 - Click on the **three ****dots **in the top right-hand corner
 
 - Choose **Manage ****preferences**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695677890577)
+![Project details header in Teamleader Focus with settings dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25695677890577)
 *Note that this menu is only visible for *[*admins *](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691974365841)*and current owners of the project*
 
 - A new dialog opens in which you can define the **project ****access ****rights**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695677991953)
+![Project preferences menu showing access rights for editing project info.](https://support.focus.teamleader.eu/hc/article_attachments/25695677991953)
 
 Owners only (selected by default)
 *Important note: *even if the access rights are on 'Owners only', non-owners can still make changes if they have 'admin access to all projects' [via the user permissions](#Project-user-permissions)
@@ -171,7 +171,7 @@ The fields in the header, the project title and the project info fields are ‘v
 
 There is a user setting when it comes to allowing users to add time tracking on projects. Go to **Settings **> **Users **> click on the name of a user > 'Time tracking'. You'll see the following dropdown next to 'Time tracking projects access':
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37499973262993)
+![Dropdown menu for Time tracking projects access settings in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/37499973262993)
 
 - Here, you can define if a user can add time tracking on none of the projects, according to participation on the project or on all projects. 
 

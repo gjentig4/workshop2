@@ -10,11 +10,11 @@ section: "Import & Export"
 
 # FAQ: Where can I find an overview of my Teamleader Focus exports?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697743972369)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Similar to the email log in which you can find your email activity from the last two weeks, Teamleader Focus also has an export log. The export log provides you with an overview of who did which kind of export and when.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697744053777)
+![The Export log table in Teamleader Focus showing a history of data exports and download links.](https://support.focus.teamleader.eu/hc/article_attachments/25697744053777)
 You can find the export log in Teamleader Focus by following these steps:
 
 - Click on your user icon in the top right-hand corner

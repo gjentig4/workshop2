@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # How To: Managing contacts and companies on the app
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692744488465)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 The mobile app has some interesting possibilities when it comes to managing your contacts and companies. You can for example add different addresses for your contact/company, see all past/planned activity for a contact/company and see their linked deals and files. Read this article to learn more about these possibilities.
 
@@ -23,7 +23,7 @@ When adding a new contact/company in the app by clicking the plus symbol in the 
 - Fill out custom fields
 
 After saving a contact/company, you can navigate to the detail page and click on the **+ icon**. Some actions are possible here:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692756303121)
+![Mobile app 'Add to company' menu showing options to link contacts, deals, or files to a company.](https://support.focus.teamleader.eu/hc/article_attachments/25692756303121)
 
 - Link a contact (in the case of a company)
 
@@ -51,4 +51,4 @@ When visiting the contact/company page you’re also able to see an overview of:
 
 - 
 **Activities**: an overview of the past activity/tracking for this contact or company: their calls, meetings, tasks, notes, emails etc.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692754266257)
+![Mobile app view of a company profile showing associated Deals and Files in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692754266257)

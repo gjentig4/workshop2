@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # Our BOOST package
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693667485201)
+![Stylized illustration of a person jumping with calendar, timer, and clipboard icons.](https://support.focus.teamleader.eu/hc/article_attachments/25693666569361)
 
 *! This article is only relevant if you have one of our older pricing plans GO, MOVE or BOOST. If you have one of our newer plans (SMART, GROW, FLOW) the distribution of the features is different. Find more information [here](https://support.focus.teamleader.eu/hc/en-150/articles/25696098299537-Features-per-package-SMART-GROW-FLOW).*
 

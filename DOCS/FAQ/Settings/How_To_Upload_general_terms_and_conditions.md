@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Upload general terms and conditions
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690902136849)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -39,7 +39,7 @@ Default general conditions (applied to both quotations and invoices)
 - General conditions exclusively for orders
 
 - Click on the **+** to add them:
-![](https://support.focus.teamleader.eu/hc/article_attachments/39934227766801)
+![The Terms and conditions settings page in Teamleader Focus for managing document legal text.](https://support.focus.teamleader.eu/hc/article_attachments/39934227766801)
 
  
 

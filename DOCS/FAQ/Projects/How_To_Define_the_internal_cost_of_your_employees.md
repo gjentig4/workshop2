@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Define the internal cost of your employees
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695714302097)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -55,7 +55,7 @@ First of all: only [Teamleader Focus admins](https://support.focus.teamleader.eu
 - Click on **the name of the user** for which you want to add an internal cost
 
 - Fill in the field ‘Internal cost’ by inserting an amount per hour
-![](https://support.focus.teamleader.eu/hc/article_attachments/37491424349073)
+![User profile view for a non-active user with the 'Transfer data' button highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/37501213361425)
  
  
 
@@ -73,5 +73,5 @@ To view the margin on a project:
 
 - Consult ‘Margin’:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695729023889)**
+![Project info tab in Teamleader Focus showing budget spent, profit margin, and time tracked.](https://support.focus.teamleader.eu/hc/article_attachments/25695729023889)**
 **

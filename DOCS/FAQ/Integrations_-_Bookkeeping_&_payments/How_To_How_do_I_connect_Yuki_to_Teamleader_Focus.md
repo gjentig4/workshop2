@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: How do I connect Yuki to Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692509584401)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Connecting to the Yuki accounting package is an in-depth integration. As with Octopus, Exact Online and Twinfield, payment data and invoices are all synchronised between Teamleader Focus and Yuki. This ensures that you are immediately aware of the latest financial activity. Here we explain how to connect a Yuki account and how the connection works.
 
@@ -45,15 +45,15 @@ Your account is probably not connected yet, so you can do that straightaway here
 
 To find these codes, log in to Yuki and go to your **S****ettings **in the bottom-left corner.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692525968529)
+![The Settings menu item in the Teamleader Focus sidebar navigation.](https://support.focus.teamleader.eu/hc/article_attachments/25692525968529)
 Next, you go to **Integrations > Web services **and here you'll find the Company-ID's and API keys of your account (or all your accounts, if you have several).
 *Note: If you can't find the ID or keys you'll need to add one. Click on the + in the top left-hand corner and then click on Save.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692516801297)
+![The Web service API keys management table in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692516801297)
 
 Enter both in your Teamleader Focus Marketplace settings:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692494179729)
+![Form to link a division in Teamleader Focus using Start date, Company ID, and API key.](https://support.focus.teamleader.eu/hc/article_attachments/25692494179729)
 
  
 

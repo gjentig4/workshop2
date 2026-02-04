@@ -10,6 +10,6 @@ section: "GDPR"
 
 # FAQ: Where can I ask questions about the data processing agreement (DPA)?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692718697233)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Our DPA has been drawn up in accordance with the GDPR. In case you still have questions, please send an email to our **Data Protection Officer** (DPO) at [dpo@teamleader.eu](http://dpo@teamleader.eu).

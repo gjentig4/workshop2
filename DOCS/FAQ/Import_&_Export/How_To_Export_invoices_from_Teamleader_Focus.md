@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Export invoices from Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695239797265)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -39,7 +39,7 @@ To be able to export your invoices to Excel, you need to make sure you have Exce
 - Next to Export…** **click on the **Arrow **
 
 - Click on **Export to Excel**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695239838865)
+![Export options menu in Teamleader Focus showing PDF, Excel, CSV, and Bookkeeping export.](https://support.focus.teamleader.eu/hc/article_attachments/25695239838865)
 
 - In ‘Columns’, choose ‘Basic columns’ if you only want to export the basic columns, or choose **+ Create template** to [create a custom template.](https://support.focus.teamleader.eu/hc/en-150/articles/25698010805521-FAQ-How-can-I-select-the-fields-that-need-to-be-exported)
 
@@ -54,7 +54,7 @@ To be able to export your invoices to Excel, you need to make sure you have Exce
 - Click on **Export**. The export will be generated in the background.
 
 - Click on **Download **to download your Excel file.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695216532113)
+![Notification banner confirming that an invoice export is ready for download.](https://support.focus.teamleader.eu/hc/article_attachments/25695216532113)
 
  
 
@@ -67,7 +67,7 @@ You can also export your invoices to CSV, and the steps are similar to the ones 
 - Next to Export… click on the **Arrow**
 
 - Click on **Export to CSV**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695239941009)
+![The export dropdown menu in Teamleader Focus with PDF, Excel, CSV, and Bookkeeping options.](https://support.focus.teamleader.eu/hc/article_attachments/25695239941009)
 
 - In ‘Columns’, choose ‘Basic columns’ if you only want to export the basic columns, or choose **+ Create template** to [create a custom template.](https://support.focus.teamleader.eu/hc/en-150/articles/25698010805521-FAQ-How-can-I-select-the-fields-that-need-to-be-exported)
 
@@ -84,7 +84,7 @@ You can also export your invoices to CSV, and the steps are similar to the ones 
 - Click on **Export**. The export will be generated in the background.
 
 - Click on **Download **to download your CSV file.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695216639889)
+![Notification banner confirming that an invoice export is ready for download.](https://support.focus.teamleader.eu/hc/article_attachments/25695216532113)
 
  
 
@@ -92,7 +92,7 @@ You can also export your invoices to CSV, and the steps are similar to the ones 
 
 A third option is to export your invoices to PDF. A ZIP file will be created which you can download and which contains all invoices separately in PDF.
 
-**Note:** The maximum number of invoices you can export in one batch via the pdf export is 250. If you want to export more invoices, you need to create separate segments to split the export.![](https://support.focus.teamleader.eu/hc/article_attachments/25695234448145)
+**Note:** The maximum number of invoices you can export in one batch via the pdf export is 250. If you want to export more invoices, you need to create separate segments to split the export.![Error message in the Bulk export invoices dialog showing an export limit exceeded.](https://support.focus.teamleader.eu/hc/article_attachments/25695234448145)
 
  
 

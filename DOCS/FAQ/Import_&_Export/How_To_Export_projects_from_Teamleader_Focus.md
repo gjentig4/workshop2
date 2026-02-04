@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Export projects from Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/33056971026321) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Export your projects to Excel for further analysis using the export functionality in Teamleader Focus. Learn more about this feature in this article.
  
@@ -37,7 +37,7 @@ To export your projects, follow these steps:
 - Go to **Projects**
 
 - 
-On this overview page, click on **Export to Excel** next to the "Add Project" button.![](https://support.focus.teamleader.eu/hc/article_attachments/33058333447953)
+On this overview page, click on **Export to Excel** next to the "Add Project" button.![Action buttons for exporting projects to Excel and adding a new project in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/33058333447953)
  
 
 - 
@@ -80,7 +80,7 @@ If you select a filter from your ‘Saved filters’ you can choose to export on
 - 
 Click on **Export**. Your export will start in the background. You’ll receive a message in the bottom right-hand corner when the export is ready.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/33058333450001)
+![Notification banner confirming that a project export is ready for download.](https://support.focus.teamleader.eu/hc/article_attachments/33058333450001)
  
 
 - 

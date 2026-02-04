@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Duplicate a project in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695784958097)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -27,14 +27,14 @@ Want to reuse the same project just once without having to make use of project t
 - Click on the **three ****dots **in the top right-hand corner
 
 - Click on **Duplicate ****project**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/28441690825745)**
+**![The project actions menu in Teamleader Focus with 'Duplicate project' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/28441690825745)**
 
  
 
 # What
 
 Automatically, a new project is created with the same title +copy as the one you duplicated it from. E.g. ‘Installing shower cabinet **- copy**’. You can easily adjust the title here:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695847140241)
+![Editing task details in Teamleader Focus with fields for owner, assignee, customer, and price.](https://support.focus.teamleader.eu/hc/article_attachments/25695847140241)
 
  
 
@@ -75,10 +75,10 @@ Note that you can also duplicate tasks, materials, meetings or groups of a proje
 You can do this one by one or altogether:
 
 - One by one by clicking on the three dots next to the item > **Duplicate**:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695833432081)
+![Context menu options for a task in a list, highlighting the 'Duplicate task' action.](https://support.focus.teamleader.eu/hc/article_attachments/25695556913041)
 
 - Select the whole group or several items by checking the box next to it:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695847259409)
+![Bulk actions toolbar and item selection in a Teamleader Focus project or quotation list.](https://support.focus.teamleader.eu/hc/article_attachments/25695573119633)
 
  
 

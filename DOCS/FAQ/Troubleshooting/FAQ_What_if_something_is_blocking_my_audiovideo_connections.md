@@ -10,7 +10,7 @@ section: "Troubleshooting"
 
 # FAQ: What if something is blocking my audio/video connections?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694913478033)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -68,7 +68,7 @@ In some cases, webRTC might be disabled in Firefox. To **enable WebRTC in Firefo
 
 - Search for media.peerconnection.enabled.
 
-- Double click on the item in the list to set the value to 'True'. ![](https://support.focus.teamleader.eu/hc/article_attachments/25694881500049)
+- Double click on the item in the list to set the value to 'True'. ![Firefox about:config page showing 'media.peerconnection.enabled' set to true](https://support.focus.teamleader.eu/hc/article_attachments/25694881500049)
 
  
 
@@ -126,7 +126,7 @@ If you can't find how to disable the blocking in your ad blocker's settings, we 
 - 
 **Dive into your ad blocker's settings and look for WebRTC** (might be located in Advanced Settings). Make sure to disable blocking WebRTC.
 
-Example from AdGuard: ![](https://support.focus.teamleader.eu/hc/article_attachments/25694913180177)
+Example from AdGuard: ![AdGuard Preferences window showing Stealth Mode settings and Browser API options.](https://support.focus.teamleader.eu/hc/article_attachments/25694913180177)
 
  
 

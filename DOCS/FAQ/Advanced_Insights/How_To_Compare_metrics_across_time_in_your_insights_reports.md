@@ -10,7 +10,7 @@ section: "Advanced Insights"
 
 # How To: Compare metrics across time in your insights reports
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/34789505539473)*! Note that you need to have the Advanced insights Booster to use this functionality. Read more about it *[*here*](https://support.focus.teamleader.eu/hc/en-150/articles/34775080480913-FAQ-What-are-the-key-features-of-the-Advanced-insights-Booster)*.*
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)*! Note that you need to have the Advanced insights Booster to use this functionality. Read more about it *[*here*](https://support.focus.teamleader.eu/hc/en-150/articles/34775080480913-FAQ-What-are-the-key-features-of-the-Advanced-insights-Booster)*.*
  
 
 Tracking and comparing your data over time is essential for understanding business performance and making informed decisions. With customised reports and the ability to group and compare data, you can easily spot patterns and identify key growth opportunities. Read all about it here!
@@ -35,12 +35,12 @@ The Insights Booster gives you access to two Premium reports that compare metric
 
 - You’ll immediately see a **line chart **with a comparison of your sales over the years. Each year has a different colour to visualise the difference at a glance:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34789505542801)
+![Year-on-Year Sales report in Teamleader Focus with a line chart comparing 2023 and 2024 performance.](https://support.focus.teamleader.eu/hc/article_attachments/34789505542801)
 *Note: *you can of course represent the data on a bar chart as well by changing the view in the top right-hand corner.
  
 
 - In the **table **you can find the same comparative metrics. Expand the data by clicking on the name of the month:
-![](https://support.focus.teamleader.eu/hc/article_attachments/34789521517713)
+![A grouped list view in Teamleader Focus showing deals categorized by month and year.](https://support.focus.teamleader.eu/hc/article_attachments/34789521517713)
  
 
 ## Add comparative metrics to your customised reports
@@ -59,13 +59,13 @@ Follow these steps to add comparative metrics to a report:
 - Click on ‘Group by’.
 
 Add the field ‘Date added’ twice, one with ‘Name of month’ filled out and one with ‘Year’, like in this screenshot:
-![](https://support.focus.teamleader.eu/hc/article_attachments/34789521523601)
+![The 'Group by' configuration menu in Teamleader Focus for organizing list data.](https://support.focus.teamleader.eu/hc/article_attachments/34789521523601)
  
 
-- Filter on the field ‘Date added’ and choose ‘After’ a certain date X:![](https://support.focus.teamleader.eu/hc/article_attachments/34789505562385)
+- Filter on the field ‘Date added’ and choose ‘After’ a certain date X:![Date filter dropdown menu in Teamleader Focus showing 'Date added' criteria](https://support.focus.teamleader.eu/hc/article_attachments/34789505562385)
  
 
-- Your metrics will be visualised over time with a comparison between the years:![](https://support.focus.teamleader.eu/hc/article_attachments/34789521539217)
+- Your metrics will be visualised over time with a comparison between the years:![Line graph showing cycle time comparison between 2023 and 2024 by month.](https://support.focus.teamleader.eu/hc/article_attachments/34789521539217)
 
 - As stated above you can also consult the metrics over time in your table and expand the rows.
  

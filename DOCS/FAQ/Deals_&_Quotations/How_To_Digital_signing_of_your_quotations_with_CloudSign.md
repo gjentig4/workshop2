@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Digital signing of your quotations with CloudSign
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690858559633)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -18,7 +18,7 @@ There’s money to be found in ecology. And everybody knows: paperless is the fu
 
 One of those platforms is CloudSign - the perfect way to send online quotations and get your customer to accept them on the spot!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690845255953)
+![Interface for digitally signing a quotation with options for manual or typed signatures.](https://support.focus.teamleader.eu/hc/article_attachments/25690845255953)
 
  
 
@@ -44,7 +44,7 @@ In Teamleader Focus
 
 Do you prefer to watch our instructive video first? You can do so right here:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690874828305)
+![Introductory banner for CloudSign by Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690874828305)
 
  
 
@@ -57,7 +57,7 @@ Instead of sending the quotation to your lead via post, you can include a link i
 - Click on the “**+**” symbol next to “Email templates for quotations” to create a new one or click on a template from the list to edit
 
 - Add the parameter #LINK somewhere in your email body. The parameter will change automatically to the sentence “view quotation online” once you send the email to your customer
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690833115793)
+![The configuration form for creating or editing an email template for quotations in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690833115793)
 
 - Click “**Save**”
 
@@ -100,7 +100,7 @@ Instead of sending the quotation to your lead via post, you can include a link i
  
 
 **Note: **You can also manually mark quotations as sent without actually sending them (e.g. if you didn't send them via Teamleader Focus). Click on the quotation and click on the arrow next to 'Send quotation' > **Mark as sent.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25690872593553)**
+**![The dropdown menu for quotation actions in Teamleader Focus, highlighting 'Mark as sent'.](https://support.focus.teamleader.eu/hc/article_attachments/25690872593553)**
 
  
 
@@ -108,7 +108,7 @@ Instead of sending the quotation to your lead via post, you can include a link i
 
 The email your customer receives will look like this:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690860060049)
+![An email notification containing a link to view a quotation online via Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690860060049)
 
 You can slightly change the above layout of the quotation email by navigating to **Settings **> **Email **> **Preferences**. Disable the toggle ‘Use Teamleader design for outgoing emails’ here if you’d rather use your own layout. Keep in mind that this will cause the above thumbnail and background to disappear and only display ‘plain text’.
 
@@ -125,7 +125,7 @@ When your customer clicks the link 'View quotation online' in the email they rec
  
 
 This is what your customer sees: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690860112273)
+![CloudSign interface for signing a quotation in Teamleader Focus with multiple quotation options.](https://support.focus.teamleader.eu/hc/article_attachments/25690860112273)
 Your customer is able to:
 
 - Access all online quotations linked to the deal (read more about online availability [here](https://support.focus.teamleader.eu/hc/en-150/articles/25693770369937-FAQ-Can-I-make-a-quotation-un-available-on-CloudSign))
@@ -173,7 +173,7 @@ All account admins will also be informed of every accepted quotation by notifica
  
 
 - You’ll also see that the status of the deal is changed automatically to “Won”, and the quotation receives the label 'Accepted'. The accepted quotation will be at the top of the list as well on your deal page:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690833308689)
+![The quotations overview table in Teamleader Focus showing accepted and open offers.](https://support.focus.teamleader.eu/hc/article_attachments/25690833308689)
 
 - This information is updated in the Activities of the deal and the quotation.
 
@@ -181,9 +181,9 @@ All account admins will also be informed of every accepted quotation by notifica
 
 *Note: For the customer's signature to appear on the quotation, you need to add one of the following shortcodes to your quotation template: *
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25690883767953)*
+*![Table of document signature shortcodes and their descriptions in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25690883767953)*
 To make the legal validity of a signed quotation more prominent, we also store both the timestamp of the signature (shown in Greenwich Mean Time (GMT)) and the IP address of the signer. Both will be displayed on your quotation if you use one of the three signature shortcodes mentioned above.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690872903185)
+![A digital signature on a Teamleader Focus document with a timestamp and IP address.](https://support.focus.teamleader.eu/hc/article_attachments/25690872903185)
 
  
 

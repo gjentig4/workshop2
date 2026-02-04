@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: Do I have to add the company address to contacts in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692402325393)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You might wonder if you need to repeat the company address for the related contacts. However, this is not needed. We collected a few instances where this question could come up.
 

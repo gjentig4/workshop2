@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # How To: Duration time tracking in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693115762833)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -20,7 +20,7 @@ When registering time in Teamleader Focus, we'll ask you to choose a date and al
 
 It's however also possible to only register the duration of the time tracking instead of the from-to time tracking. Tracking time in Teamleader Focus will then look like this:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693108693009)
+![The 'Add time tracking' modal window in Teamleader Focus for logging work hours.](https://support.focus.teamleader.eu/hc/article_attachments/25693108693009)
 
 To set this up, follow these steps:
 
@@ -39,4 +39,4 @@ Note that this setting for the time tracking input is an **account-wide** settin
 ## Note
 
 When adding [weekly time tracking](https://support.focus.teamleader.eu/hc/en-150/articles/25693832046865-How-To-Weekly-time-tracking-in-Teamleader-Focus), all time trackings are registered by **duration **by default.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693087422481)
+![Time tracking overview showing daily progress bars for a work week.](https://support.focus.teamleader.eu/hc/article_attachments/25693087422481)

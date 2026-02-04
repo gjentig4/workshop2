@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # FAQ: What can I do with the credits in my Teamleader Focus wallet?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691420224401)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -30,7 +30,7 @@ Teamleader Focus credits, Teamleader Focus wallet - what are those? How can I to
 
 - Select **Manage ****licence**.
 
-- Click the '**Wallet**' tab.![](https://support.focus.teamleader.eu/hc/article_attachments/25691452381201)
+- Click the '**Wallet**' tab.![The 'Wallet' tab in Teamleader Focus showing current balance and payment method options.](https://support.focus.teamleader.eu/hc/article_attachments/25691452381201)
 
  
 
@@ -50,7 +50,7 @@ You can buy a cash pack starting from €5 up to €1000.
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691452412561)**
+**![The 'Fill your wallet' page in Teamleader Focus for managing credits and automatic refills.](https://support.focus.teamleader.eu/hc/article_attachments/25691452412561)**
 
  
 
@@ -100,7 +100,7 @@ Teamleader Focus allows you to send invoices in three ways: via email, by post o
 
 When you invite someone to a meeting, you also have the option to send a meeting reminder via SMS.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691461643921)
+![The 'Add contact to meeting' dialog box in Teamleader Focus with an option to send an SMS invite.](https://support.focus.teamleader.eu/hc/article_attachments/25691461643921)
 
  
 
@@ -113,7 +113,7 @@ To see what your credits where spent on, click the '**Transaction history'** lin
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691452479377)
+![The 'Your Wallet' widget in Teamleader Focus showing a balance of €2.](https://support.focus.teamleader.eu/hc/article_attachments/25691452479377)
 
  
 

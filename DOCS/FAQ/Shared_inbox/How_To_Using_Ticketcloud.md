@@ -10,7 +10,7 @@ section: "Shared inbox"
 
 # How To: Using Ticketcloud
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692651223313)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -29,7 +29,7 @@ Ticketcloud is an online page you can share with your customer to give him or he
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692669996817)
+![Customer view of a support ticket in the Teamleader Focus ticketing system.](https://support.focus.teamleader.eu/hc/article_attachments/25692669996817)
 
 - The status of the ticket can be viewed from within the platform
 

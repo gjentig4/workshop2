@@ -10,7 +10,7 @@ section: "Integrations - Email tracking"
 
 # How To: How do I install the Outlook email add-in?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692163282577)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -66,18 +66,18 @@ Now you can start tracking your emails. This example shows how to track emails i
 In the top right-hand corner you'll see **three dots**.
 *Note: Depending on your Outlook version, you might have to go via 'Apps' in the header of your email instead of the three dots. *
 
-![image (23).png](https://support.focus.teamleader.eu/hc/article_attachments/36755965012497)
+![The 'Apps' icon in the Outlook integration toolbar for Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/36755965012497)
  
 
 - Click on **Teamleader. **
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25692153815441)**
+**![Email action menu in Outlook showing the Teamleader Focus integration option.](https://support.focus.teamleader.eu/hc/article_attachments/25692153815441)**
 
 - Teamleader Focus will search for the sender’s name in your CRM database. If the email address is not in Teamleader Focus yet, you’ll be able to add the contact in Teamleader Focus by clicking on **Add contact to Teamleader**.
 
 - Click on **Track **to track the email directly to a contact, company, deal or project. The email will appear in the activities of the page.
 
 - By clicking the **three ****dots **next to the sender, you’ll be able to:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692168791441)
+![Teamleader Focus email tracking sidebar showing contact selection and action menu.](https://support.focus.teamleader.eu/hc/article_attachments/25692168791441)
 
 - Create a follow-up task from the email*.*
 
@@ -88,12 +88,12 @@ In the top right-hand corner you'll see **three dots**.
  
 
 Enable the checkbox next to 'Attachments' if you also want to track the attachments of the email to the activity page of your contact, company, deal or project. All file types are supported.
-![](https://support.focus.teamleader.eu/hc/article_attachments/33640752219793)
+![Checkbox for 'Attachments' and a 'TRACK' button in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/33640752219793)
 
  
 
 You can track outgoing emails in a similar way. When composing a new email, click on the **three ****dots **right here and click on the Teamleader Focus symbol.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692141302289)
+![Accessing the Teamleader Focus add-in within the Outlook email composer menu.](https://support.focus.teamleader.eu/hc/article_attachments/25692141302289)
 
 By clicking on it, a screen will appear on the right that will enable you to track the email you’re sending to the right contact, company, deal or project in your CRM.
 

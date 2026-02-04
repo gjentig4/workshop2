@@ -10,10 +10,10 @@ section: "Integrations - CRM"
 
 # FAQ: Can I receive incoming VoIP calls on my mobile phone?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692160626449)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You cannot receive incoming VoIP calls directly on your mobile phone, but there is an easy workaround: you can pass the incoming VoIP calls on to your mobile phone. 
 
 To do so, go to **Integrations/Marketplace **> **VoIP **and adjust the settings. Choose** '****Call forwarding'** instead of **'Voicemail' **and fill in the mobile number you'd like to forward calls to.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692132719889)
+![Configuration settings for a Twilio phone number integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692132719889)

@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Configuring leave in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690689534353)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ In the following article we will explain:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690695687953)
+![The 'Add vacation type' dialog box in Teamleader Focus for configuring time off settings.](https://support.focus.teamleader.eu/hc/article_attachments/25690695687953)
 
  
 
@@ -61,7 +61,7 @@ When the basic settings of a leave type do not apply to all employees, you’re 
 - In the next screen, click on the tab **Work info**
 
 - There will be a block named “Vacation types”. Click on the **pencil** next to the vacation type that you want to change 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690695723537)
+![The 'Edit vacation type employee' dialog box for managing individual leave settings.](https://support.focus.teamleader.eu/hc/article_attachments/25690695723537)
 
 - In the pop-up screen you can enable the vacation type for the employee. This can be handy for example maternity leave. You can also “overwrite” the terms for a certain type of leave. 
 

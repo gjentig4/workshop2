@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: How do I reset my password?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691113168529)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -40,8 +40,8 @@ When entering your password, you get five attempts in total to get it right. Aft
 
 A password reset will then be sent to the specified email address. You’ll receive an email with a link. Clicking this link will redirect you to the following page where you can set your new password:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691090015889)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691136429201)
+![The 'Forgot password?' screen for Teamleader Focus with an email input field and reset button.](https://support.focus.teamleader.eu/hc/article_attachments/25691090015889)
+![The 'Reset password' form in Teamleader Focus for creating a new account password.](https://support.focus.teamleader.eu/hc/article_attachments/25691136429201)
 
  
 
@@ -69,4 +69,4 @@ Follow these steps:
 - Go to **Settings > Security**
 
 - In the user list next to the name of the users, you'll find the option to send a reset password mail:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691102632977)
+![User management table showing MFA status and password reset options in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691102632977)

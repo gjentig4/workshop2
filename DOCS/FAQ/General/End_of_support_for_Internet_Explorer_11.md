@@ -10,7 +10,7 @@ section: "General"
 
 # End of support for Internet Explorer 11
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27925741530257)
+![Official Teamleader logo featuring black text and a teal geometric icon on a white background.](https://support.focus.teamleader.eu/hc/article_attachments/27925741530257)
 
 We will stop supporting Internet Explorer 11 (IE 11) as a browser for Teamleader Focus from **01/09/2020**. If you are currently using IE 11, you’ll need to [switch to another browser](https://support.focus.teamleader.eu/hc/en-150/articles/25697874143121-FAQ-What-browsers-does-Teamleader-Focus-support) in order to access your Teamleader Focus account. If you are required to use a Microsoft product, we recommend switching to [Microsoft Edge](https://www.microsoft.com/en-us/edge).
 

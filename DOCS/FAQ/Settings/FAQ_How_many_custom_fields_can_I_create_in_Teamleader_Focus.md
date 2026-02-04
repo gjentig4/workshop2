@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: How many custom fields can I create in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691180526993)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 There are some limits to the amount of custom fields you can create in Teamleader Focus. Read this article to find out about them.
 

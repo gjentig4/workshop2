@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: The Accounting connector Booster in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/42261775591313) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Sync financial data from Teamleader Focus to your accounting software using the Accounting connector Booster. By activating this Booster, invoices, credit notes, expenses, customers and suppliers are automatically sent to your accounting tool. This reduces manual work, avoids double entry, and keeps your bookkeeping up to date. This article covers what the Booster is, how to add it to your license and finally how to set up the integration per company entity.
  
@@ -85,12 +85,12 @@ Add the Booster to your account by following these steps:
 - Click on [**Manage license**](https://focus.teamleader.eu/web/settings/subscription)
 
 - In 'Your Boosters', click on **Add** next to the Accounting connector. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261729594129)
+![Pricing and feature overview for the Teamleader Focus Accounting connector add-on.](https://support.focus.teamleader.eu/hc/article_attachments/42261729594129)
 *Note: it’s not possible to start a trial for this Booster, it will be added to your subscription immediately.*
  
 
 - In the next screen, click on **Buy now **to gain immediate access to the functionalities of the Booster.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775595921)
+![Checkout screen for adding the Accounting connector Booster in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775595921)
  
 
 - Proceed with the checkout and confirm your purchase. The Booster is now added to your licence and you'll be charged pro-rata for the remainder of your billing period.
@@ -125,13 +125,13 @@ To set up an accounting integration, follow these steps:
 - Click on the **name of the company entity **you want to set up the integration for
 
 - Click on the tab **Accounting**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/42261729596177)**
+**![Accounting integration setup within the Company entities settings in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261729596177)**
  
 
 - Click on **the integration of your choice** and authenticate with the accounting tool login. In this example we’ll show the steps for Octopus, but note that the main steps are very similar for all integrations. Some fields can differ a bit per accounting integration. 
 
 - A new screen will open with the following information:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775598481)
+![The first step of connecting Octopus accounting software to Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775598481)
  
 
 Fill in the required information such as **username** and **password** and click on **Connect.**
@@ -140,11 +140,11 @@ Fill in the required information such as **username** and **password** and click
 
 - After successfully connecting, you get redirected back to Teamleader Focus where you can complete your integration setup by clicking on **Complete setup.**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775600273)
+![Integration setup screen for Octopus in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/42261775600273)
  
 
 - In the next screen in ‘Integration details’, start by filling out a **start date**. This defines the date from which Teamleader Focus will start synchronising your invoices and credit notes.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261729599633)
+![The 'Integration details' step in the Octopus accounting software setup wizard in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261729599633)
 
 Define the **journals** for outgoing/incoming invoices and for outgoing/incoming credit notes. We filter on the accepted types (incoming/outgoing) in your accounting tool and filter out the unaccepted ones, so you can easily choose these without making mistakes. 
 
@@ -158,12 +158,12 @@ Define the **journals** for outgoing/incoming invoices and for outgoing/incoming
 - The final step is ‘**Set ledger accounts’**. Here, you link the VAT rates in Teamleader Focus to the corresponding ledger accounts in your accounting software. These ledger accounts will then be used automatically for invoice lines with that VAT rate.
 
 If you enable the slider ‘Set ledger accounts for existing invoice lines without a ledger account’, any existing invoice lines that don’t yet have a ledger account will automatically be updated with the linked one.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261729600017)
+![Mapping a VAT rate to a ledger account and enabling automatic ledger assignment for invoices.](https://support.focus.teamleader.eu/hc/article_attachments/42261729600017)
 
 - After following these steps, you’ll see the overview page of the integration, where you can always access and edit the settings.
 
 - If you return to **Settings** > **Company** **information** > your company entity > **Accounting**, the **status** of the integration will be shown here:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775603217)
+![The Accounting tab in Teamleader Focus settings showing a connected Octopus integration.](https://support.focus.teamleader.eu/hc/article_attachments/42261775603217)
 
 If the setup was successful the status will be ‘Connected’.
 
@@ -208,19 +208,19 @@ If you are also uploading receipts or non-Peppol invoices in your Expenses modul
 A synchronisation can be started from five places:
 
 - The invoices page: click on the double arrows next to the title ‘Invoices’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775603729)
+![Navigation tabs for Invoices, Forecast, and Subscriptions in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775603729)
 
 - The expenses page: click on the double arrows next to the title ‘Expenses’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775605137)
+![The Expenses module header with a recurring icon in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775605137)
 
 - The credit notes page: click on the double arrows next to the title ‘Credit notes’:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775607057)
+![Navigation tabs for Invoices, Forecast, Subscriptions, and Credit notes in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775607057)
 
 - Via **Settings** > **Company** **information** > **Company** **entity** > **Accounting** > the **double** **arrows** next to the integration:
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261729605649)
+![Accounting integration status for a company in Teamleader Focus showing Octopus connected.](https://support.focus.teamleader.eu/hc/article_attachments/42261729605649)
 
 - Via the accounting detail page (**Settings** > **Company** **information** > **Company** **entity** > **Accounting** > **Click** on the integration): here you click on the **Sync **button in the top right-hand corner
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775608081)
+![The Octopus accounting integration settings page in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775608081)
  
 
 - Depending on the page from which you start the sync, the sync is started for **all connected company entities** (via invoice, expense or credit note page) **or for a specific company entity** (via Settings > Company entity). 
@@ -247,21 +247,21 @@ Once the first synchronisation has completed successfully, you can return to the
 
 - 
 **Enable the slider **next to ‘Synchronise outgoing and incoming invoices and credit notes automatically’
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775610129)
+![The synchronisation settings for the Octopus accounting integration in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775610129)
  
 
 # Notifications and troubleshooting
 
 In the **Settings** of your integration > **Synchronisation** tab, you'll find a **synchronisation** **history** of the past 7 days. This log shows the status of every sync and shows if it was successful or not. An error can occur if for instance the credentials of your accounting tool have changed or if you no longer have access to the tool, which prevents the synchronisation from completing.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/42261775611409)
+![Synchronisation settings and history for invoices and credit notes in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42261775611409)
 
 *Note: if the status of the sync is ‘Success’, this does not mean that all of your documents were synced, some could be skipped. Read on to find out more about this. *
 
 For each company entity you sync, you’ll receive an **in-app notification** (via the notification bell in the top-right corner of your account) and an **email** once a **manual synchronisation** is finished. 
-![afbeelding-20251224-211721.png](https://support.focus.teamleader.eu/hc/article_attachments/42268385819537)
+![Notification showing the results of an accounting synchronization with Octopus.](https://support.focus.teamleader.eu/hc/article_attachments/42268385819537)
 
-![afbeelding-20251224-211715.png](https://support.focus.teamleader.eu/hc/article_attachments/42267061224209)
+![Notification showing the results of an accounting synchronization with Octopus in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/42267061224209)
 
 - Note that if automatic sync is enabled (cf. above), no notification will be sent to avoid sending too many notifications. 
 
@@ -278,11 +278,11 @@ To find out where the synchronisation might go wrong and which documents were sk
 
 - 
 **Invoices and credit notes**: add the **Booking number** column via the cogwheel in the bottom-right corner of the invoices or credit notes overview. Documents without a booking number have not yet been synced.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42267061226129)
+![The Invoices overview table in Teamleader Focus showing a list of generated invoices.](https://support.focus.teamleader.eu/hc/article_attachments/42267061226129)
 
 - 
 **Expenses**: synced expenses get the status **Sent to bookkeeper**. You can add this column to the expenses overview to quickly identify which expenses have not yet been sent to your accounting tool.
-![](https://support.focus.teamleader.eu/hc/article_attachments/42267061227153)
+![Table view of incoming invoices in Teamleader Focus with bookkeeper status.](https://support.focus.teamleader.eu/hc/article_attachments/42267061227153)
  
 
 As mentioned, if there’s an issue you’ll receive an in-app notification about this or you’ll see this in the sync history. If it’s unclear what the issue is or how to solve it, [please contact us. ](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065)
@@ -295,7 +295,7 @@ Keep in mind that changing information in the **Details** tab can affect how the
 
 Delete an integration by following the above steps to edit the settings of the integration. Click on the **three dots **in the top right corner and click on **Delete integration:**
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/42261775612305)**
+**![Octopus integration settings page showing the sync button and delete integration option.](https://support.focus.teamleader.eu/hc/article_attachments/42261775612305)**
 
 # 
 

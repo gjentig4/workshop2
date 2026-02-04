@@ -10,7 +10,7 @@ section: "Integrations - CRM"
 
 # FAQ: How can I send mails to a target group?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691005139985)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -30,7 +30,7 @@ Find ‘Email Marketing’ in the left hand overview.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691015792273)
+![Email marketing integration marketplace in Teamleader Focus showing various third-party tools.](https://support.focus.teamleader.eu/hc/article_attachments/25691015792273)
 
  
 

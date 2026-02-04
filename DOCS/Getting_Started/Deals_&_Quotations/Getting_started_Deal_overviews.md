@@ -10,12 +10,12 @@ section: "Deals & Quotations"
 
 # Getting started: Deal overviews
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693444754449)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 
 As you might have noticed, there are two overviews from which you can follow up on your deals. Next to the **list ****view **there's also a **kanban ****view **in which we allow you to literally ‘drag’ a deal from one phase to the next or mark them as won or lost. This way, you’ll never lose track of an important lead. Read everything about the kanban view here.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693438485393)
+![Kanban board view of the Deals pipeline in Teamleader Focus showing deal stages and values.](https://support.focus.teamleader.eu/hc/article_attachments/25693438485393)
 What are the advantages for your business?
 
 - 
@@ -50,16 +50,16 @@ Lost deals
 - Filter on your **own deals or those of a colleague **with the 'Assignees'-filter
 
 If you have between 1 and 5 users in your account the avatars of your colleagues will be shown next to each other
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693438524689)
+![A filter dropdown button next to user avatar icons in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693438524689)
 
-- If you have over 5 users in your account you'll see a multi-select drop-down list of these users![](https://support.focus.teamleader.eu/hc/article_attachments/25693444913681)
+- If you have over 5 users in your account you'll see a multi-select drop-down list of these users![The 'Assignees' dropdown menu in Teamleader Focus showing a list of team members.](https://support.focus.teamleader.eu/hc/article_attachments/25693444913681)
 
 - Next to the assignee filter, you can filter your deals on '**Created date'** and '**Close date**', e.g. the previous quarter or a custom range of your choice.
 
 - 
 Next, there are 3 easy **smart filters** to keep a clear overview. The number of deals is updated dynamically depending on the filter selected.
 Note that if you've selected a certain smart filter here in the deal kanban it won't be remembered next time you visit the page.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693414582929)
+![Filtering and search bar for the Sales Pipeline in Teamleader Focus with deal status cards.](https://support.focus.teamleader.eu/hc/article_attachments/25693414582929)
 
 Without activity
 
@@ -92,7 +92,7 @@ Revenue numbers are updated in real-time
 
 You can always shift back and forth between both views - the list view or the kanban view - by clicking here in the top right-hand corner of your deal overview:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693398666001)
+![View switcher toggle between list view and board/kanban view, with board view selected.](https://support.focus.teamleader.eu/hc/article_attachments/25693398666001)
 
  
 

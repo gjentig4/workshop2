@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: How can I merge contacts or companies?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691769362065)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In case you accidentally created a contact or a company twice, you always have the possibility to merge two contacts or companies.
 
@@ -22,18 +22,18 @@ In case you accidentally created a contact or a company twice, you always have t
 
 ## Merging contacts
 
-1. To merge two contacts, go to the detail page of one of them via **Contacts**. Click on the **three dots **at the very top next to “Contact information”.![](https://support.focus.teamleader.eu/hc/article_attachments/25691769394705)
+1. To merge two contacts, go to the detail page of one of them via **Contacts**. Click on the **three dots **at the very top next to “Contact information”.![Contact information card in Teamleader Focus with the actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25691769394705)
 
 2. Select “**Merge contact**” which brings you to the screen below. Fill in the second contact - the other contact you would like to merge. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691769425425)
+![The 'Merge contact' dialog box for merging Alexia Coppens with another contact record.](https://support.focus.teamleader.eu/hc/article_attachments/25691769425425)
 
 3. If your database contains a contact with a similar name, Teamleader Focus will ask you if you want to merge these two contacts. You can always select another contact to merge with.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691775490065)
+![The 'Merge contact' dialog box in Teamleader Focus showing a duplicate contact suggestion.](https://support.focus.teamleader.eu/hc/article_attachments/25691775490065)
 
 4. Once you click “**Do now**”, you will be taken to the screen below, if the data for both contacts doesn't match exactly. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691753477777)
+![The Merge contact dialog in Teamleader Focus for resolving data conflicts between two contacts.](https://support.focus.teamleader.eu/hc/article_attachments/25691753477777)
 
 5. Select which fields you'd like to maintain after the merge, and click "**Merge contact**" to proceed.

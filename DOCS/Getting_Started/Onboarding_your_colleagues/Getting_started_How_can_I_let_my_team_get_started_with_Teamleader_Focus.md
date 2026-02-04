@@ -10,7 +10,7 @@ section: "Onboarding your colleagues"
 
 # Getting started: How can I let my team get started with Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697691022353)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

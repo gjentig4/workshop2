@@ -1,0 +1,1120 @@
+{
+  "summary": {
+    "total_failed_urls": 101,
+    "affected_files": 32
+  },
+  "failed_urls_with_locations": {
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691788555921": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691788595345": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        19
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691788662161": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        33
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691788781073": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        53
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691803364625": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        43
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25691835610257": [
+      [
+        "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+        49
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693497191569": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        90
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693497382161": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        194
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693512601617": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        15
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693512903313": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        148
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693536695313": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        58
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693536735505": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        69
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693536760593": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        85
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693536805393": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        87
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693536961553": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        191
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693545238417": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693545641745": [
+      [
+        "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+        117
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693563195921": [
+      [
+        "FAQ/General/FAQ_How_can_I_become_a_beta_tester.md",
+        47
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693586233745": [
+      [
+        "FAQ/General/FAQ_How_can_I_become_a_beta_tester.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693634076177": [
+      [
+        "FAQ/Shared_inbox/FAQ_Can_I_link_a_ticket_to_a_project.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693634151057": [
+      [
+        "FAQ/Shared_inbox/FAQ_Can_I_link_a_ticket_to_a_project.md",
+        46
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693640173457": [
+      [
+        "FAQ/Shared_inbox/FAQ_Can_I_link_a_ticket_to_a_project.md",
+        54
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693991954065": [
+      [
+        "FAQ/Integrations_-_Bookkeeping_&_payments/FAQ_Where_did_the_field_Bookkeeping_ID_go.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693994809233": [
+      [
+        "FAQ/To_be_translated/What_is_the_minimum_required_internet_speed_for_an_online_meeting.md",
+        52
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25693999123857": [
+      [
+        "FAQ/Integrations_-_Bookkeeping_&_payments/FAQ_Where_did_the_field_Bookkeeping_ID_go.md",
+        25
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694002231441": [
+      [
+        "FAQ/To_be_translated/What_is_the_minimum_required_internet_speed_for_an_online_meeting.md",
+        23
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694002648081": [
+      [
+        "FAQ/To_be_translated/Test_your_browser_and_devices.md",
+        23
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694002779281": [
+      [
+        "FAQ/To_be_translated/Test_your_browser_and_devices.md",
+        35
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694006286225": [
+      [
+        "FAQ/Integrations_-_Bookkeeping_&_payments/FAQ_Where_did_the_field_Bookkeeping_ID_go.md",
+        27
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694016879249": [
+      [
+        "FAQ/To_be_translated/What_is_the_minimum_required_internet_speed_for_an_online_meeting.md",
+        38
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694021546385": [
+      [
+        "FAQ/To_be_translated/Test_your_browser_and_devices.md",
+        27
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694069670929": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        38
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694083804177": [
+      [
+        "FAQ/To_be_translated/FAQ_How_do_I_change_my_cameramicrophonespeaker_in_the_meeting_room.md",
+        21
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694084259217": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        65
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694092764049": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        70
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694101124625": [
+      [
+        "FAQ/To_be_translated/FAQ_How_do_I_change_my_cameramicrophonespeaker_in_the_meeting_room.md",
+        37
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694101517073": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        47
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694101565329": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        60
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694106806161": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        28
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694114011793": [
+      [
+        "FAQ/To_be_translated/FAQ_How_do_I_change_my_cameramicrophonespeaker_in_the_meeting_room.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694114378257": [
+      [
+        "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+        33
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694143699473": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        23
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694143890961": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        37
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694144158481": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        31
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694148300817": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        27
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694159145745": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        41
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694159178129": [
+      [
+        "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+        47
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694250633873": [
+      [
+        "FAQ/To_be_translated/How_To_How_to_decrease_high_CPU_usage.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694722929297": [
+      [
+        "FAQ/To_be_translated/What_to_do_if_your_meeting_room_is_very_slow_in_Google_Chrome.md",
+        25
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694722965649": [
+      [
+        "FAQ/To_be_translated/What_to_do_if_your_meeting_room_is_very_slow_in_Google_Chrome.md",
+        30
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694747537681": [
+      [
+        "FAQ/To_be_translated/FAQ_Something_went_wrong_while_accessing_your_device.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694750493073": [
+      [
+        "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694753600913": [
+      [
+        "FAQ/To_be_translated/What_to_do_if_your_meeting_room_is_very_slow_in_Google_Chrome.md",
+        20
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694757671185": [
+      [
+        "FAQ/To_be_translated/My_Logitech_camera_doesn't_work_in_Windows._What_can_I_do_to_fix_it.md",
+        17
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694758062609": [
+      [
+        "FAQ/To_be_translated/FAQ_Why_does_my_cameramicrophone_not_work.md",
+        17
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694758600977": [
+      [
+        "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+        36
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694760106001": [
+      [
+        "FAQ/To_be_translated/My_Logitech_camera_doesn't_work_in_Windows._What_can_I_do_to_fix_it.md",
+        25
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694760682897": [
+      [
+        "FAQ/To_be_translated/I_can't_hear_my_participants._How_do_I_make_sure_they_can.md",
+        25
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694760771857": [
+      [
+        "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694764253841": [
+      [
+        "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        21
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694764640401": [
+      [
+        "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694765495185": [
+      [
+        "FAQ/To_be_translated/Google_Chrome_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_setting.md",
+        19
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694766378257": [
+      [
+        "FAQ/To_be_translated/Safari_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_settings..md",
+        18
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694772786065": [
+      [
+        "FAQ/To_be_translated/My_Logitech_camera_doesn't_work_in_Windows._What_can_I_do_to_fix_it.md",
+        29
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694772919953": [
+      [
+        "FAQ/To_be_translated/FAQ_Why_does_my_cameramicrophone_not_work.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694773124113": [
+      [
+        "FAQ/To_be_translated/FAQ_Why_does_my_cameramicrophone_not_work.md",
+        18
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694773455249": [
+      [
+        "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+        22
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694773506449": [
+      [
+        "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+        26
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694773553041": [
+      [
+        "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+        30
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694774156945": [
+      [
+        "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md",
+        17
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694777167249": [
+      [
+        "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694777289105": [
+      [
+        "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        19
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694777933841": [
+      [
+        "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        27
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694778664977": [
+      [
+        "FAQ/To_be_translated/Google_Chrome_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_setting.md",
+        24
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694779042065": [
+      [
+        "FAQ/To_be_translated/Firefox_-_We_couldn't_connect_to_your_device._Please_unblock_your_devices_in_the_browser_settings..md",
+        22
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694786200721": [
+      [
+        "FAQ/To_be_translated/Whiteboard_content_doesn't_show._What_to_do.md",
+        15
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694791531409": [
+      [
+        "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md",
+        23
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694791591825": [
+      [
+        "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md",
+        27
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694795242641": [
+      [
+        "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        17
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694796018449": [
+      [
+        "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        34
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694796765713": [
+      [
+        "FAQ/To_be_translated/Google_Chrome_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_setting.md",
+        28
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694797018769": [
+      [
+        "FAQ/To_be_translated/Firefox_-_We_couldn't_connect_to_your_device._Please_unblock_your_devices_in_the_browser_settings..md",
+        20
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694803768721": [
+      [
+        "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        23
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694811677457": [
+      [
+        "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+        38
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694812099601": [
+      [
+        "FAQ/To_be_translated/FAQ_How_can_I_share_my_microphone_and_camera_in_Firefox_(Android).md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694812722449": [
+      [
+        "FAQ/To_be_translated/Firefox_-_We_couldn't_connect_to_your_device._Please_unblock_your_devices_in_the_browser_settings..md",
+        24
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25694829435665": [
+      [
+        "FAQ/To_be_translated/Safari_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_settings..md",
+        20
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25695139032209": [
+      [
+        "FAQ/To_be_translated/How_To_Share_audio_while_sharing_your_screen.md",
+        35
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25695154413713": [
+      [
+        "FAQ/To_be_translated/How_To_Share_audio_while_sharing_your_screen.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25695154599313": [
+      [
+        "FAQ/To_be_translated/How_To_Share_audio_while_sharing_your_screen.md",
+        55
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25695360002833": [
+      [
+        "FAQ/Time_tracking/How_To_Reopen_time_tracking_after_crediting_an_invoice.md",
+        46
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25695459467281": [
+      [
+        "FAQ/Teamleader_Focus_Licence/Our_ONE_package.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25697709929617": [
+      [
+        "FAQ/Teamleader_Focus_Licence/FAQ_What_happens_when_I_switch_from_an_old_pricing_plan_to_a_Teamleader_Focus_package.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25697826348817": [
+      [
+        "FAQ/Insights/How_To_Insights_on_invoices.md",
+        17
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25697826450833": [
+      [
+        "FAQ/Insights/How_To_Insights_on_invoices.md",
+        66
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25697839545745": [
+      [
+        "FAQ/Insights/How_To_Insights_on_invoices.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/25697856240273": [
+      [
+        "FAQ/Insights/How_To_Insights_on_invoices.md",
+        56
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/26755126764049": [
+      [
+        "FAQ/Settings/How_To_Why_is_my_MFA_token_invalid.md",
+        13
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/27148869196305": [
+      [
+        "FAQ/Projects/How_To_ProjectCloud_in_Teamleader_Focus.md",
+        60
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/28017626829073": [
+      [
+        "FAQ/Projects/How_To_ProjectCloud_in_Teamleader_Focus.md",
+        49
+      ]
+    ],
+    "https://support.focus.teamleader.eu/hc/article_attachments/28017650529169": [
+      [
+        "FAQ/Projects/How_To_ProjectCloud_in_Teamleader_Focus.md",
+        13
+      ]
+    ]
+  },
+  "files_with_failed_images": {
+    "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691788555921",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691788595345",
+        "line": 19
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691788662161",
+        "line": 33
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691788781073",
+        "line": 53
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691803364625",
+        "line": 43
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25691835610257",
+        "line": 49
+      }
+    ],
+    "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693497191569",
+        "line": 90
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693497382161",
+        "line": 194
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693512601617",
+        "line": 15
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693512903313",
+        "line": 148
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693536695313",
+        "line": 58
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693536735505",
+        "line": 69
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693536760593",
+        "line": 85
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693536805393",
+        "line": 87
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693536961553",
+        "line": 191
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693545238417",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693545641745",
+        "line": 117
+      }
+    ],
+    "FAQ/General/FAQ_How_can_I_become_a_beta_tester.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693563195921",
+        "line": 47
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693586233745",
+        "line": 13
+      }
+    ],
+    "FAQ/Shared_inbox/FAQ_Can_I_link_a_ticket_to_a_project.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693634076177",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693634151057",
+        "line": 46
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693640173457",
+        "line": 54
+      }
+    ],
+    "FAQ/Integrations_-_Bookkeeping_&_payments/FAQ_Where_did_the_field_Bookkeeping_ID_go.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693991954065",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693999123857",
+        "line": 25
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694006286225",
+        "line": 27
+      }
+    ],
+    "FAQ/To_be_translated/What_is_the_minimum_required_internet_speed_for_an_online_meeting.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25693994809233",
+        "line": 52
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694002231441",
+        "line": 23
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694016879249",
+        "line": 38
+      }
+    ],
+    "FAQ/To_be_translated/Test_your_browser_and_devices.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694002648081",
+        "line": 23
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694002779281",
+        "line": 35
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694021546385",
+        "line": 27
+      }
+    ],
+    "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694069670929",
+        "line": 38
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694084259217",
+        "line": 65
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694092764049",
+        "line": 70
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694101517073",
+        "line": 47
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694101565329",
+        "line": 60
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694106806161",
+        "line": 28
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694114378257",
+        "line": 33
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_How_do_I_change_my_cameramicrophonespeaker_in_the_meeting_room.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694083804177",
+        "line": 21
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694101124625",
+        "line": 37
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694114011793",
+        "line": 13
+      }
+    ],
+    "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694143699473",
+        "line": 23
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694143890961",
+        "line": 37
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694144158481",
+        "line": 31
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694148300817",
+        "line": 27
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694159145745",
+        "line": 41
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694159178129",
+        "line": 47
+      }
+    ],
+    "FAQ/To_be_translated/How_To_How_to_decrease_high_CPU_usage.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694250633873",
+        "line": 13
+      }
+    ],
+    "FAQ/To_be_translated/What_to_do_if_your_meeting_room_is_very_slow_in_Google_Chrome.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694722929297",
+        "line": 25
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694722965649",
+        "line": 30
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694753600913",
+        "line": 20
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_Something_went_wrong_while_accessing_your_device.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694747537681",
+        "line": 13
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694750493073",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694774156945",
+        "line": 17
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694791531409",
+        "line": 23
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694791591825",
+        "line": 27
+      }
+    ],
+    "FAQ/To_be_translated/My_Logitech_camera_doesn't_work_in_Windows._What_can_I_do_to_fix_it.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694757671185",
+        "line": 17
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694760106001",
+        "line": 25
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694772786065",
+        "line": 29
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_Why_does_my_cameramicrophone_not_work.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694758062609",
+        "line": 17
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694772919953",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694773124113",
+        "line": 18
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694758600977",
+        "line": 36
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694760771857",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694773455249",
+        "line": 22
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694773506449",
+        "line": 26
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694773553041",
+        "line": 30
+      }
+    ],
+    "FAQ/To_be_translated/I_can't_hear_my_participants._How_do_I_make_sure_they_can.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694760682897",
+        "line": 25
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694764253841",
+        "line": 21
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694777167249",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694777289105",
+        "line": 19
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694795242641",
+        "line": 17
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694764640401",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694777933841",
+        "line": 27
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694796018449",
+        "line": 34
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694803768721",
+        "line": 23
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694811677457",
+        "line": 38
+      }
+    ],
+    "FAQ/To_be_translated/Google_Chrome_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_setting.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694765495185",
+        "line": 19
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694778664977",
+        "line": 24
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694796765713",
+        "line": 28
+      }
+    ],
+    "FAQ/To_be_translated/Safari_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_settings..md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694766378257",
+        "line": 18
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694829435665",
+        "line": 20
+      }
+    ],
+    "FAQ/To_be_translated/Firefox_-_We_couldn't_connect_to_your_device._Please_unblock_your_devices_in_the_browser_settings..md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694779042065",
+        "line": 22
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694797018769",
+        "line": 20
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694812722449",
+        "line": 24
+      }
+    ],
+    "FAQ/To_be_translated/Whiteboard_content_doesn't_show._What_to_do.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694786200721",
+        "line": 15
+      }
+    ],
+    "FAQ/To_be_translated/FAQ_How_can_I_share_my_microphone_and_camera_in_Firefox_(Android).md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25694812099601",
+        "line": 13
+      }
+    ],
+    "FAQ/To_be_translated/How_To_Share_audio_while_sharing_your_screen.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25695139032209",
+        "line": 35
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25695154413713",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25695154599313",
+        "line": 55
+      }
+    ],
+    "FAQ/Time_tracking/How_To_Reopen_time_tracking_after_crediting_an_invoice.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25695360002833",
+        "line": 46
+      }
+    ],
+    "FAQ/Teamleader_Focus_Licence/Our_ONE_package.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25695459467281",
+        "line": 13
+      }
+    ],
+    "FAQ/Teamleader_Focus_Licence/FAQ_What_happens_when_I_switch_from_an_old_pricing_plan_to_a_Teamleader_Focus_package.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25697709929617",
+        "line": 13
+      }
+    ],
+    "FAQ/Insights/How_To_Insights_on_invoices.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25697826348817",
+        "line": 17
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25697826450833",
+        "line": 66
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25697839545745",
+        "line": 13
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/25697856240273",
+        "line": 56
+      }
+    ],
+    "FAQ/Settings/How_To_Why_is_my_MFA_token_invalid.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/26755126764049",
+        "line": 13
+      }
+    ],
+    "FAQ/Projects/How_To_ProjectCloud_in_Teamleader_Focus.md": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/27148869196305",
+        "line": 60
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/28017626829073",
+        "line": 49
+      },
+      {
+        "url": "https://support.focus.teamleader.eu/hc/article_attachments/28017650529169",
+        "line": 13
+      }
+    ]
+  },
+  "files_by_category": {
+    "FAQ": [
+      "FAQ/Old_projects/FAQ_How_do_I_grant_someone_external_access_to_a_project.md",
+      "FAQ/Old_projects/How_To_The_Cross-projects_timeline_in_Teamleader_Focus.md",
+      "FAQ/General/FAQ_How_can_I_become_a_beta_tester.md",
+      "FAQ/Shared_inbox/FAQ_Can_I_link_a_ticket_to_a_project.md",
+      "FAQ/Integrations_-_Bookkeeping_&_payments/FAQ_Where_did_the_field_Bookkeeping_ID_go.md",
+      "FAQ/To_be_translated/What_is_the_minimum_required_internet_speed_for_an_online_meeting.md",
+      "FAQ/To_be_translated/Test_your_browser_and_devices.md",
+      "FAQ/To_be_translated/How_to_kick_participants_out_of_your_meeting.md",
+      "FAQ/To_be_translated/FAQ_How_do_I_change_my_cameramicrophonespeaker_in_the_meeting_room.md",
+      "FAQ/To_be_translated/How_to_mute_participants_in_online_meetings.md",
+      "FAQ/To_be_translated/How_To_How_to_decrease_high_CPU_usage.md",
+      "FAQ/To_be_translated/What_to_do_if_your_meeting_room_is_very_slow_in_Google_Chrome.md",
+      "FAQ/To_be_translated/FAQ_Something_went_wrong_while_accessing_your_device.md",
+      "FAQ/To_be_translated/FAQ_Windows_-_What_if_my_cameramicrophone_is_not_found_(13).md",
+      "FAQ/To_be_translated/My_Logitech_camera_doesn't_work_in_Windows._What_can_I_do_to_fix_it.md",
+      "FAQ/To_be_translated/FAQ_Why_does_my_cameramicrophone_not_work.md",
+      "FAQ/To_be_translated/FAQ_Mac_-_What_if_my_camera_andor_microphone_can't_be_found.md",
+      "FAQ/To_be_translated/I_can't_hear_my_participants._How_do_I_make_sure_they_can.md",
+      "FAQ/To_be_translated/FAQ_IOS_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+      "FAQ/To_be_translated/FAQ_Android_-_We_couldn't_connect_to_your_camera_and_microphone.md",
+      "FAQ/To_be_translated/Google_Chrome_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_setting.md",
+      "FAQ/To_be_translated/Safari_-_We_couldn't_connect_to_your_device._Please_unblock_the_device_in_the_browser_settings..md",
+      "FAQ/To_be_translated/Firefox_-_We_couldn't_connect_to_your_device._Please_unblock_your_devices_in_the_browser_settings..md",
+      "FAQ/To_be_translated/Whiteboard_content_doesn't_show._What_to_do.md",
+      "FAQ/To_be_translated/FAQ_How_can_I_share_my_microphone_and_camera_in_Firefox_(Android).md",
+      "FAQ/To_be_translated/How_To_Share_audio_while_sharing_your_screen.md",
+      "FAQ/Time_tracking/How_To_Reopen_time_tracking_after_crediting_an_invoice.md",
+      "FAQ/Teamleader_Focus_Licence/Our_ONE_package.md",
+      "FAQ/Teamleader_Focus_Licence/FAQ_What_happens_when_I_switch_from_an_old_pricing_plan_to_a_Teamleader_Focus_package.md",
+      "FAQ/Insights/How_To_Insights_on_invoices.md",
+      "FAQ/Settings/How_To_Why_is_my_MFA_token_invalid.md",
+      "FAQ/Projects/How_To_ProjectCloud_in_Teamleader_Focus.md"
+    ]
+  }
+}

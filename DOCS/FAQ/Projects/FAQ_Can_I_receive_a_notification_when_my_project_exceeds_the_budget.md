@@ -10,7 +10,7 @@ section: "Projects"
 
 # FAQ: Can I receive a notification when my project exceeds the budget?
 
-![juDjmMnxxmh7pmjeR-zyUe89KC7QAelFIg.png](https://support.focus.teamleader.eu/hc/article_attachments/30424081372817) 
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089) 
 
 *******This article describes functionality of our new project module. This module is being rolled out gradually, so it is possible you do not have access to the features described here yet. If that is the case, *[*you can still find documentation on the previous project module here.*](https://support.focus.teamleader.eu/hc/en-150/sections/25690691571089)  
 

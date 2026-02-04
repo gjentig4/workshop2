@@ -10,7 +10,7 @@ section: "New Users"
 
 # Teamleader Focus for New Users
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692899189521)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 

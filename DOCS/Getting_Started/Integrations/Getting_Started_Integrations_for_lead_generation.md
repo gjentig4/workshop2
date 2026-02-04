@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting Started: Integrations for lead generation
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695322035089)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 ## What exactly is the Marketplace?
 

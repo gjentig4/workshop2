@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Importing subscriptions into Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691691556241)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -40,7 +40,7 @@ Once your file is structured correctly, simply send it to [support](https://supp
 
  
 
-![Set as default invoice template](https://support.focus.teamleader.eu/hc/article_attachments/25691653657617)
+![The 'Custom layout for Invoice' page showing the 'Set as default invoice template' button.](https://support.focus.teamleader.eu/hc/article_attachments/25691645021841)
 
  
 

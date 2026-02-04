@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Creating a segment in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690801836561)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -42,7 +42,7 @@ Note that **admin** users will still be able to edit this segment.
 
 - Finally, you can refine an existing segment, so you don’t have to apply all of your rules again to get your desired result.
 
-![add segment in Teamleader](https://support.focus.teamleader.eu/hc/article_attachments/25690797291665)
+![The 'Add segment' form in Teamleader Focus showing general information and segment rules.](https://support.focus.teamleader.eu/hc/article_attachments/25690797291665)
 
  
 
@@ -60,7 +60,7 @@ Note that **admin** users will still be able to edit this segment.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
+![The 'Add segment' dialog box in Teamleader Focus for creating filtered contact or company lists.](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
 
  
 
@@ -72,7 +72,7 @@ Or you could choose "At least one rule applies". This means that you can add sev
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690789518865)
+![The 'Add segment' dialog box in Teamleader Focus for creating filtered contact or company lists.](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
 
  
 
@@ -84,8 +84,8 @@ Or you could choose "At least one rule applies". This means that you can add sev
 
 - Make a segment on company level 'French companies': Country equals France
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690801991569)
+![The 'Add segment' dialog in Teamleader Focus for creating a filtered list of companies.](https://support.focus.teamleader.eu/hc/article_attachments/25690801991569)
 
 - Make a segment on contact level: Companies is in segment 'French companies'
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690766052881)
+![The 'Add segment' dialog box in Teamleader Focus for creating a new contact or company segment.](https://support.focus.teamleader.eu/hc/article_attachments/25690766052881)

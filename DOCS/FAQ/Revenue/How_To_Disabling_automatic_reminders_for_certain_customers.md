@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: Disabling automatic reminders for certain customers
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691408917905)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -19,4 +19,4 @@ If you [set automatic reminders](https://support.focus.teamleader.eu/hc/en-150/a
 - You need to go to the company in your CRM and click on the **three dots **at the very top next to "Company Information". 
 
 - Choose the option '**Invoicing preferences**'. In the following pop-up you can choose whether you want this company to receive automatic reminders or not.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691383314193)
+![Invoicing preferences dialog box in Teamleader Focus for setting default invoice rules.](https://support.focus.teamleader.eu/hc/article_attachments/25691383314193)

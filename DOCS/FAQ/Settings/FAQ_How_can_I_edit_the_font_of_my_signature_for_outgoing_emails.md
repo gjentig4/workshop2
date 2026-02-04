@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: How can I edit the font of my signature for outgoing emails?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693941989905)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -20,7 +20,7 @@ When you navigate to **Settings **> **Email **** **> **Signatures for outgoin
 
 You can embed pictures, make the font bold or italic and insert tables using the provided buttons. To change the size, color and font of the text, however, you'll need to click the '**Source**' button.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693973361681)
+![The email signature editor in Teamleader Focus with an HTML rich text toolbar.](https://support.focus.teamleader.eu/hc/article_attachments/25690735144465)
 
  
 

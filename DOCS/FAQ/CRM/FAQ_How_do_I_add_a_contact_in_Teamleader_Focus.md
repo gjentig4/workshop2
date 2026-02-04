@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: How do I add a contact in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691572874513)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -39,7 +39,7 @@ The first option is to add contacts one by one. 
 
 - Go to **Contacts **and click on **Add contact** or click the plus sign in the top right-hand corner and select "Add contact".
 
-- This pop-up will then appear:![](https://support.focus.teamleader.eu/hc/article_attachments/25691545083281)
+- This pop-up will then appear:![The 'Add Product' dialog box in Teamleader Focus showing fields for product info and pricing.](https://support.focus.teamleader.eu/hc/article_attachments/25690767797777)
 
 - You can now start adding information. Note that only 'Last name' is a required field, which is indicated by the red asterisk. In [this article](https://support.focus.teamleader.eu/hc/en-150/articles/25691611839633-FAQ-Can-you-make-fields-required-in-Teamleader-Focus), you can find out how to add required fields.
 
@@ -53,7 +53,7 @@ The first option is to add contacts one by one. 
 
 Another possibility is to add several contacts at once via an import action.
 
-- Go to contacts and click **import**:![](https://support.focus.teamleader.eu/hc/article_attachments/25691569644561)
+- Go to contacts and click **import**:![Header of the Companies module in Teamleader Focus with search, export, import, and add buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25691174764049)
 
 - A pop-up will then appear.
 
@@ -69,7 +69,7 @@ After installation, you will see a bar below every email with some options conce
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691588906001)
+![Notification that a person was not found in Teamleader Focus with an 'Add to Teamleader' button.](https://support.focus.teamleader.eu/hc/article_attachments/25691588906001)
 
  
 

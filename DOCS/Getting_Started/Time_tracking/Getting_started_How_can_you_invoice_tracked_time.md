@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # Getting started: How can you invoice tracked time?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692439388305)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 - *Should time tracking be invoiced?*
 

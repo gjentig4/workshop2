@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Personalising Teamleader Focus' cloud platforms
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690854960145)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 ** **
 
@@ -29,7 +29,7 @@ Find the customisation settings by navigating to **Settings **> **Cloud platfor
 ### Company entity
 
 If you use [multiple company entities](https://support.focus.teamleader.eu/hc/en-150/articles/25697681388177-How-To-Multiple-company-entities-in-Teamleader-Focus), you can set up a customisation per company entity by selecting it here.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690842235153)
+![Selecting a company entity for CloudSign and InvoiceCloud customisation in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25690842235153)
 Make sure that the quotation/invoice you send to your customer is linked to the right company entity for the right CloudSign or InvoiceCloud customisation to be selected.
 
  
@@ -37,7 +37,7 @@ Make sure that the quotation/invoice you send to your customer is linked to the 
 ### Colors
 
 Tailor your CloudSign and InvoiceCloud by using your brand colours. Select a primary, secondary or menu background colour by using the colour picker or by inserting the colour code via the #
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690869527441)
+![Color customization settings for Primary color, Secondary color, and Menu background.](https://support.focus.teamleader.eu/hc/article_attachments/25690869527441)
 
  
 

@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: Add extra costs or mileage on a project
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/31353971355281) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Tracking project costs can sometimes get complicated, but Teamleader Focus is here to simplify it for you! In this article, we will walk you through how to add extra costs, such as materials and mileage, to your project through time tracking. You’ll also learn how these costs are reflected in the project and where to make adjustments when needed.
 
@@ -32,7 +32,7 @@ Follow these steps to add extra costs to your project:
 - 
 Check the box next to ‘Add materials to project in next step’
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31353971365137)
+![The 'Add time tracking' dialog in Teamleader Focus for logging work on projects and tasks.](https://support.focus.teamleader.eu/hc/article_attachments/31353971365137)
  
 
 - Click on **Add time tracking**
@@ -40,7 +40,7 @@ Check the box next to ‘Add materials to project in next step’
 - 
 In the next screen, fill out the relevant fields or select a product from your product database:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31353971367441)
+![The 'Add materials to project' dialog box for tracking extra costs and margins in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31353971367441)
 
 - Click on **Confirm**
 
@@ -74,7 +74,7 @@ You can also add mileages on meetings linked to a project by following these ste
 - 
 Go to your project and take a look at your linked meetings. Or if you don’t have a linked meeting yet, add a meeting placeholder and then a meeting.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31353971370257)
+![A list of project items in Teamleader Focus showing tasks and a meeting placeholder warning.](https://support.focus.teamleader.eu/hc/article_attachments/31353971370257)
 
 - Go to the **detail page of the meeting**
 
@@ -83,9 +83,9 @@ Go to your project and take a look at your linked meetings. Or if you don’t ha
 - 
 **Add travel distance** to the meeting
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31353929736593)
+![The time tracking dialog for a meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/31353929736593)
  
 
 - 
 **Return to the project** to find your mileage as a separate mileage line below the meeting
-![](https://support.focus.teamleader.eu/hc/article_attachments/31353971373841)
+![A list of billable items in Teamleader Focus including tasks, meetings, and mileage.](https://support.focus.teamleader.eu/hc/article_attachments/31353971373841)

@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # How To: Travel distance in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697841184145)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -77,12 +77,12 @@ There are different locations you can choose from to add the meeting addresses. 
 
 *Note*: You'll only see the distance when you're a participant of the meeting. You won't see the distance of your colleagues' meetings.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697841242769)
+![Meeting info card in Teamleader Focus showing details and an 'Add work order' button.](https://support.focus.teamleader.eu/hc/article_attachments/25697841242769)
  
 
 - Now go to your Teamleader Focus calendar to the day of the meeting. You will see that Teamleader Focus added the distance to your meeting. On top of that, Teamleader Focus also gives you an estimated travel time. If your meeting starts at 9 am and your travel time is 1 hour, your meeting will be planned starting from 8 am.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697832747409)
+![Teamleader Focus calendar view showing a scheduled meeting with distance tracking.](https://support.focus.teamleader.eu/hc/article_attachments/25697832747409)
 *Note*: the distance won't be shown in the calendar if it takes less than 45 minutes to reach the location.
 
  
@@ -93,7 +93,7 @@ If you are often on the road, it might be useful to know where you need to go ne
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697857871505)
+![Calendar view in Teamleader Focus showing navigation controls and the 'Show route' option.](https://support.focus.teamleader.eu/hc/article_attachments/25697857871505)
 
  
 

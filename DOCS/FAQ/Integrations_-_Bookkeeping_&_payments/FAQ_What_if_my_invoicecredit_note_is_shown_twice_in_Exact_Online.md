@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # FAQ: What if my invoice/credit note is shown twice in Exact Online?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693651806737)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 In this article we'll give you more information on how to solve the issue of an invoice/credit note being shown twice in Exact Online and consequently having 2 different bookkeeping numbers.
 

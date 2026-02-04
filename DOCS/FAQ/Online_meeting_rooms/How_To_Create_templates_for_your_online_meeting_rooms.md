@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # How To: Create templates for your online meeting rooms
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694080087569)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When you have a lot of online meetings with customers, colleagues and other connections, you often upload the same documents. Therefore it's very useful to prepare a meeting room template that you can use for new meeting rooms. In this article, you can read how to create templates for your team. Only team admins will be able to create templates.
 
@@ -30,7 +30,7 @@ When you have a lot of online meetings with customers, colleagues and other conn
 # 1. Create a meeting room template
 
 To create a new meeting room template go to Meeting rooms -> Room templates or open [https://meeting.teamleader.eu/room-templates/](https://meeting.teamleader.eu/room-templates/) and click on **Create a new room template**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694065282833)The meeting room template looks exactly like regular meeting rooms without the white label options. In the template you can:
+![The Meeting room templates overview in Teamleader Focus Lead capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25694065282833)The meeting room template looks exactly like regular meeting rooms without the white label options. In the template you can:
 
 - add whiteboards with annotations,
 
@@ -42,7 +42,7 @@ To create a new meeting room template go to Meeting rooms -> Room templates or o
 
 You can't organise a meeting in the template window itself. That's why all the other options (eg. camera, share screen, recordings,..) are unusable and non-admins can't enter the room.
 
-Changes in the templates will be automatically saved. To return to the templates overview you can click on the button 'Return to meeting template overview' at the right top of the room.![](https://support.focus.teamleader.eu/hc/article_attachments/25694077056529)
+Changes in the templates will be automatically saved. To return to the templates overview you can click on the button 'Return to meeting template overview' at the right top of the room.![Interface for editing a meeting template in the Teamleader Focus meeting room.](https://support.focus.teamleader.eu/hc/article_attachments/25694077056529)
 
 # 2. Edit, duplicate or delete a template
 
@@ -59,7 +59,7 @@ By clicking on the three dots on the right end (next to the shown size) you can 
 - **Duplicate the template** by clicking on Duplicate.
 
 - **Delete the template** by clicking on Delete and confirming the deletion.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694052733713)
+![The Meeting room templates overview table showing existing templates and management options.](https://support.focus.teamleader.eu/hc/article_attachments/25694052733713)
 
 # 3. Create a template based on an existing meeting room
 
@@ -73,7 +73,7 @@ Follow these steps to save your room as a template:
 
 - Fill in a name for the template
 
-- Click on 'Save as template'![](https://support.focus.teamleader.eu/hc/article_attachments/25694077176081)
+- Click on 'Save as template'![Audio, video, and meeting room settings dialog in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694077176081)
 
 The new template will be visible in the overview of your [meeting room templates](https://meeting.teamleader.eu/room-templates/).
 
@@ -88,9 +88,9 @@ When you've created one or multiple templates you can now create a room on the [
 - Click on the button 'Create or join meeting room', a pop-up will open.
 
 - 
-Type the name of the meeting room that you would like to create, eg. John-Doe.![](https://support.focus.teamleader.eu/hc/article_attachments/25694065529489)
+Type the name of the meeting room that you would like to create, eg. John-Doe.![The 'Create or join a meeting room' dialog in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694065529489)
 
-- Click on 'Create  from template..' and select a template, now you'll be forwarded to the room.![](https://support.focus.teamleader.eu/hc/article_attachments/25694097357073)
+- Click on 'Create  from template..' and select a template, now you'll be forwarded to the room.![Dialog box for creating or joining a meeting room in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694097357073)
 
 ## 4.2 Add the template to a meeting type (scheduling)
 
@@ -103,6 +103,6 @@ If customers book a session with you which auto-generates an online meeting room
 - Select a meeting template from the dropdown
 
 - Hit **Save the meeting type**
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694052933905)
+![Configuration form for creating or editing a meeting type in Lead capture Booster.](https://support.focus.teamleader.eu/hc/article_attachments/25694052933905)
 
 If you have any questions regarding meeting room templates, don't hesitate to contact [support.focus@teamleader.eu](mailto:support.focus@teamleader.eu).*[](https://www.vectera.com/login/)[](https://www.vectera.com/signup/)*

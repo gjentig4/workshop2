@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Exporting invoices to the Bob (Sage) accounting application
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692527616145)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 ## Step 1: BOBLink and BDE
 
@@ -24,7 +24,7 @@ To use BOBLink, you also need a **BDE**, which you can also get from your distri
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692561543569)
+![Windows Control Panel search result for BDE Administrator (32-bit)](https://support.focus.teamleader.eu/hc/article_attachments/25692561543569)
 
  
 
@@ -36,7 +36,7 @@ To be able to continue, it is important to know what the installation and data f
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692501619473)
+![Info dialog in Sage BOB 50 showing version, installation folder, and data folder paths.](https://support.focus.teamleader.eu/hc/article_attachments/25692501619473)
 
  
 
@@ -98,7 +98,7 @@ Replace "C:\b50adsdemo" with the path to your installation folder and we recomme
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692527844753)
+![Login dialog for Sage BOB 50 Expert integration with user and dossier selection fields.](https://support.focus.teamleader.eu/hc/article_attachments/25692527844753)
 
  
 
@@ -127,7 +127,7 @@ Put the files from the .zip file in the same directory where the .bat files are.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692561765265)
+![Technical view of the BOB 50 accounting export process using batch files and command prompt.](https://support.focus.teamleader.eu/hc/article_attachments/25692561765265)
 
  
 

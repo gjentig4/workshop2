@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How do I add a meeting in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691939678097)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -38,7 +38,7 @@ There are several possibilities to add meetings in Teamleader Focus:
 
 - Next you can complete the details of this meeting. Fill out the customer field to link this meeting to a contact/company. As you can see, you have [different locations to choose from](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25692167395857).This choice has an effect on how much you can[ invoice your customer ](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691017896081)as you can [let Teamleader Focus calculate the travel costs](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25692040007313) and add them automatically to your invoice. 
 
-- Once the meeting is created, you will see you can add colleagues (via the pencil) and external contacts (via the plus sign) to the meeting:![](https://support.focus.teamleader.eu/hc/article_attachments/25691944601233)
+- Once the meeting is created, you will see you can add colleagues (via the pencil) and external contacts (via the plus sign) to the meeting:![The 'Colleagues attending' and 'Contacts attending' sections for managing event participants.](https://support.focus.teamleader.eu/hc/article_attachments/25691944601233)
 
  
 
@@ -100,7 +100,7 @@ After you’ve activated the [Lead capture Booster](https://support.focus.prd.te
 
 - 
 Here you have the possibility to add a meeting. Click on the arrow next to 'Add task' in the top right-hand corner and choose **Add meeting**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691952124945)
+![Adding groups, tasks, materials, or meetings to a project in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691952124945)
 
  
 

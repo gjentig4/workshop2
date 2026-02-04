@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How do I add a call in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691976601233)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 There are a couple of options to add calls in Teamleader Focus, which are explained below.
 
@@ -79,7 +79,7 @@ You can add calls in bulk too via your contact or company overview. Know that [o
 [Create a segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) or select it from your existing segments
 
 - In the top right-hand corner, click on **Actions > Create calls**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/36566612156177)**
+**![Bulk actions menu in the Teamleader Focus CRM company overview list.](https://support.focus.teamleader.eu/hc/article_attachments/36566612156177)**
 
 - Fill out the next screen with the properties of the calls and confirm the action. 
 

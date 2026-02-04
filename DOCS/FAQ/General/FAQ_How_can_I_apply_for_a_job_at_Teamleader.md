@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: How can I apply for a job at Teamleader?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690981589265)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Setting up my personal Teamleader Focus account
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691914562065)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 You just received an invitation for an own personal Teamleader Focus account? Great, then the next step should be setting up your personal account and setting a new password.
 

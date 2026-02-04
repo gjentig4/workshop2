@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # FAQ: What do I do if my payment failed?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693405101457)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Did you receive the notification your payment failed? Here's what happens.
 

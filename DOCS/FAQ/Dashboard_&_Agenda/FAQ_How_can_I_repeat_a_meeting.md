@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How can I repeat a meeting?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692005674129)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 There are several ways to create a meeting in Teamleader Focus. If you're not yet familiar with them, find out more in [this article](https://support.focus.teamleader.eu/hc/en-150/articles/25691976258193-FAQ-How-do-I-add-a-meeting-in-Teamleader-Focus).
 
@@ -28,13 +28,13 @@ Here is how to set up a recurrent meeting:
 
  
 
-2. Click on the three dots next to 'Meeting info' and select **Repeat meeting** to make this a recurrent meeting:![](https://support.focus.teamleader.eu/hc/article_attachments/25692005726225)
+2. Click on the three dots next to 'Meeting info' and select **Repeat meeting** to make this a recurrent meeting:![Meeting info card in Teamleader Focus showing meeting details and action menu.](https://support.focus.teamleader.eu/hc/article_attachments/25692005726225)
 
 3. Define how often you want the meeting to be repeated, and also what the end date of the recurring meeting should be.
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692013570065)
+![The 'Repeat Meeting' dialog box in Teamleader Focus for setting up recurring calendar events.](https://support.focus.teamleader.eu/hc/article_attachments/25692013570065)
 
  
 

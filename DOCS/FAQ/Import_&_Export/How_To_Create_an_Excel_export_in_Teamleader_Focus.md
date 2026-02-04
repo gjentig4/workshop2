@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How To: Create an Excel export in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691180956689)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -34,7 +34,7 @@ First of all, you’ll need to check if the ‘Export’ slider is activated for
 
 Once the Excel export rights are activated, you’ll have the ability to export on multiple levels within Teamleader Focus. You’ll notice that in the overviews of **Contacts**, **Companies**, **Deals, ****Invoices, Products**** **and **Shared inbox **the Excel export has become available as an export option.
 *Note that it's not possible to export your Expenses or your Work orders.*
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691174764049)
+![Header of the Companies module in Teamleader Focus with search, export, import, and add buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25691174764049)
 
 In order to create such an export, you simply:
 

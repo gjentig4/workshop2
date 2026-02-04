@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting Started: Integrations for creative agencies
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695960176913)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 Discover how our integrations can enhance collaboration, streamline tasks, and boost productivity for creative agencies. Explore essential tools for optimised workflows and superior creative outcomes.
 

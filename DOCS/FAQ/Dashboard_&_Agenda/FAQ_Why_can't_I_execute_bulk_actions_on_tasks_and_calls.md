@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: Why can't I execute bulk actions on tasks and calls?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692001924113)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

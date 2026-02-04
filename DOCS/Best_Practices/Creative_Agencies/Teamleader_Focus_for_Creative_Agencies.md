@@ -10,7 +10,7 @@ section: "Creative Agencies"
 
 # Teamleader Focus for Creative Agencies
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692915542161)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -49,7 +49,7 @@ The creative sector is all about pitching. Going to great lengths to present you
 
 In our example, our project is a marketing campaign for a rebranding:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692933485201)
+![Project header in Teamleader Focus showing owners, assignees, and customer details.](https://support.focus.teamleader.eu/hc/article_attachments/25692933485201)
 
  
 
@@ -67,7 +67,7 @@ Fill in the fields as these will give you a clear overview of the most important
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692904240785)
+![Project management header in Teamleader Focus showing project details and the actions menu.](https://support.focus.teamleader.eu/hc/article_attachments/25692904240785)
 
  
 
@@ -79,7 +79,7 @@ Creative agencies often have a clear process in mind when embarking on a new pro
 
 Below the header, you can find the **Work ****breakdown **tab. This is where you will structure your project. Since we converted our quotation into a project, we already have groups and tasks in our project:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692904300689)
+![Project task list view showing task groups, assignees, and status labels.](https://support.focus.teamleader.eu/hc/article_attachments/25692904300689)
 
  
 
@@ -102,7 +102,7 @@ To **improve the flexibility of the project module**, you can **drag **and **dr
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692948548241)
+![Reordering tasks within a project group using drag-and-drop in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692948548241)
 
  
 
@@ -134,7 +134,7 @@ We’ve created several billing methods for you to follow up on your project in 
 
 For the whole project, you can choose the following billing methods: 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692915794961)
+![Dropdown menu for selecting a Billing method in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692915794961)
 
  
 
@@ -153,7 +153,7 @@ As stated above, you can be creative and deviate from this default billing metho
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692933758993)
+![The billing method dropdown menu within the Budget section of a project or task.](https://support.focus.teamleader.eu/hc/article_attachments/25692933758993)
 
  
 

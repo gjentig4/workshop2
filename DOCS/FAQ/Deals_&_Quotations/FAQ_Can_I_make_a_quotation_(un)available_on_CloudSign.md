@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: Can I make a quotation (un)available on CloudSign?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693746796561)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Since you can create [multiple quotations for one deal](https://support.focus.teamleader.eu/hc/en-150/articles/25693685516433-How-To-Multiple-quotations-in-Teamleader-Focus), you might want to choose which options to present to your leads or customers on [CloudSign](https://support.focus.teamleader.eu/hc/en-150/articles/25690878232593-How-To-Digital-signing-of-your-quotations-with-CloudSign). Read on to find out how you can do this.
 
@@ -34,12 +34,12 @@ Sending your quotation to the customer
 - Navigate to the quotation you wish to change the CloudSign availability for.
 
 - Click on the **arrow **next to 'Send quotation', and select **Make available on CloudSign**: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693753077521)
+![The quotation action menu in Teamleader Focus with 'Mark as accepted' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693708019217)
 
-- You will get a notification saying the quotation is now available with the option to copy the link to the quotation on CloudSign, making it easier to share it immediately:![](https://support.focus.teamleader.eu/hc/article_attachments/25693738072337)
+- You will get a notification saying the quotation is now available with the option to copy the link to the quotation on CloudSign, making it easier to share it immediately:![A notification banner confirming a quotation is available on CloudSign with a view link.](https://support.focus.teamleader.eu/hc/article_attachments/25693738072337)
 
 - In the overview of your quotations, you'll find a column 'CloudSign activity', so you can see which of your quotations are available for your leads or customers. ‘Online’ quotations are available, ‘Offline’ ones are not:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693753174673)
+![The Quotations overview page in Teamleader Focus featuring the CloudSign activity column.](https://support.focus.teamleader.eu/hc/article_attachments/25693753174673)
 
  
 
@@ -50,13 +50,13 @@ Navigate to your deal overview and select the deal for which you want to change 
 
 - 
 Scroll down to the follow-up section, click on the **three ****dots **next to your quotation and select **Make ****available ****on ****CloudSign**: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693746966289)
+![Dropdown menu for quotation actions with 'Make available on CloudSign' highlighted](https://support.focus.teamleader.eu/hc/article_attachments/25693746966289)
 
 - 
 You will get a notification saying the quotation is now available with the option to copy the link to the quotation on CloudSign, making it easier to share it immediately.
 
 - 
-In the quotation overview of the deal, you will see below ‘CloudSign activity’ which of your quotations are available for your leads or customers. ‘Online’ quotations are available, ‘Offline’ ones are not:![](https://support.focus.teamleader.eu/hc/article_attachments/25693717544209)
+In the quotation overview of the deal, you will see below ‘CloudSign activity’ which of your quotations are available for your leads or customers. ‘Online’ quotations are available, ‘Offline’ ones are not:![CloudSign activity widget showing online and offline status links](https://support.focus.teamleader.eu/hc/article_attachments/25693717544209)
 
 - 
 You can repeat these steps for every quotation in your deal. 
@@ -78,10 +78,10 @@ Before sending your quotation to your customer, you might want to preview the qu
 ## Removing a quotation from CloudSign
 
 To remove a quotation from CloudSign, navigate to your quotation detail page and choose **Remove from CloudSign: **
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25693738257681)**
+**![The 'Send quotation' dropdown menu in Teamleader Focus with 'Remove from CloudSign' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693738257681)**
 
 Or from your deal overview page, simply click the **three ****dots **next to your quotation and select **Remove ****from ****CloudSign**: 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693717658897)
+![Dropdown menu showing the option to 'Remove from CloudSign' for a document in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25693717658897)
 
 ### Notes
 

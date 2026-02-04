@@ -10,13 +10,13 @@ section: "Templates"
 
 # FAQ: How can I change the language of a quotation or another document in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691488159249)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
 If you want to create a quotation for a customer who does not speak your language, you only need to make sure that the language within the **contact** or the **company** is set correctly. This can be done by clicking on the pencil next to the contact or company's name and going to 'Language'.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691488193041)
+![Language selection dropdown menu in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691488193041)
 
  
 
@@ -34,7 +34,7 @@ Yet, you need to pay attention to several things.
 
 When you go to **Settings** > **Document layout**, you can click on any document where you want to make changes. Below the preview you will see the button 'Shortcode list'. At the very bottom of this list, you have the option to create own shortcodes and also to translate those. If the language is available, also those shortcodes will be translated accordingly.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691460622737)
+![The 'Create extra shortcode' dialog box in Teamleader Focus for document templates.](https://support.focus.teamleader.eu/hc/article_attachments/25691460622737)
 
  
 

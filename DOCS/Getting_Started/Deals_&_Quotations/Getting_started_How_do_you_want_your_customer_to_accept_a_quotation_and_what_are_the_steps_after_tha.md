@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # Getting started: How do you want your customer to accept a quotation and what are the steps after that?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692382254737)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

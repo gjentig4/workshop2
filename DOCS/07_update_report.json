@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-04T13:43:33.640683",
+  "mode": "apply",
+  "stats": {
+    "files_processed": 775,
+    "files_modified": 611,
+    "files_unchanged": 164,
+    "total_images": 2499,
+    "images_updated": 2262,
+    "images_overwritten": 87,
+    "images_skipped_has_alt": 0,
+    "images_skipped_not_in_metadata": 150,
+    "errors": []
+  }
+}

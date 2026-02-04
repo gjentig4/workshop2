@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Last activity for contacts
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697765294737)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 If you want to see which contacts need some attention, you can check the 'last activity' date. 
 It's possible to add this column to the overview of all your contacts (your contacts list), but on individual contact pages you'll have to scroll down to 'Activities' to see the history.

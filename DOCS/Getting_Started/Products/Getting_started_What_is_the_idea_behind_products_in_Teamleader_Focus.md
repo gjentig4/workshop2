@@ -10,7 +10,7 @@ section: "Products"
 
 # Getting started: What is the idea behind products in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692472893969)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
  
 
 - *What information do you need to add to your products?*

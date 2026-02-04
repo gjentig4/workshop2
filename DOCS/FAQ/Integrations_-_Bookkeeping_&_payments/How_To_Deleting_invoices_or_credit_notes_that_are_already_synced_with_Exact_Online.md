@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Deleting invoices or credit notes that are already synced with Exact Online
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692226213777)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

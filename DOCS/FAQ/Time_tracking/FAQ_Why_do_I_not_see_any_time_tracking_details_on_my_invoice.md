@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # FAQ: Why do I not see any time tracking details on my invoice?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692119739409)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -37,7 +37,7 @@ In the following you will find read more on:
 ## Checking the time tracking report
 
 To open the time tracking report, simply click the **three dots **on top of the invoice and choose "**Time tracking report**".
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692098572305)
+![The 'Info' widget on an invoice with the actions dropdown menu open.](https://support.focus.teamleader.eu/hc/article_attachments/25692098572305)
  
 
  
@@ -45,7 +45,7 @@ To open the time tracking report, simply click the **three dots **on top of the
 ## Sending the time tracking report
 
 If you then [send the invoice](https://support.focus.teamleader.eu/hc/en-150/articles/25691492744849-FAQ-How-can-I-send-a-reminder-of-an-invoice-in-Teamleader-Focus), you'll have the option to add the time tracking report as an attachment.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692126436241)
+![The 'Send invoice' dialog in Teamleader Focus showing how to add time tracking attachments.](https://support.focus.teamleader.eu/hc/article_attachments/25692126436241)
 
  
 

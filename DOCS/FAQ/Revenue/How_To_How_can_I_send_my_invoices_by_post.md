@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: How can I send my invoices by post?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691557740305)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 ***Important note****: the option to send invoices or credit notes from Teamleader Focus by post is only available in 2 countries: Belgium and the Netherlands.*
 
@@ -67,7 +67,7 @@ normal: € 1,30
 ### Sending an invoice or a reminder manually:
 
 - First of all, you need to enable the following toggle in your **Settings > Revenue > Preferences: **'Enable send by postal service'
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691568384529)
+![Preferences menu in Teamleader Focus showing invoice and subscription toggle settings.](https://support.focus.teamleader.eu/hc/article_attachments/25691568384529)
 
 - When sending an invoice or a reminder, you will get a pop up which now shows you the option '**Send via postal service'**. Click on it.
 
@@ -76,7 +76,7 @@ normal: € 1,30
 - Choose the "Send type".
 
 - Click "**Send invoice**". Make sure you have enough credits left in your [Teamleader Focus wallet.](https://support.focus.teamleader.eu/hc/en-150/articles/25691506715921-FAQ-What-can-I-do-with-the-credits-in-my-Teamleader-Focus-wallet)
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691544001937)
+![The 'Send invoice' dialog box in Teamleader Focus for configuring physical mail delivery.](https://support.focus.teamleader.eu/hc/article_attachments/25691544001937)
 
 - The invoice will then be printed out and sent via our postal service partners.
 
@@ -102,7 +102,7 @@ normal: € 1,30
 - The request to send the automatic reminder will be processed by the postal service on the day itself and should be received one or two days later.
 
 - In case the automatic sending fails, you will receive a notification and an error message will show up in the activities of the invoice:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691557875089)
+![Error message in the activity log showing a failed automatic invoice reminder.](https://support.focus.teamleader.eu/hc/article_attachments/25691557875089)
 
  
 

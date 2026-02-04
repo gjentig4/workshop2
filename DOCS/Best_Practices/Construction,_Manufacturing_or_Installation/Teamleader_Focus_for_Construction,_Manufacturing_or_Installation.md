@@ -10,7 +10,7 @@ section: "Construction, Manufacturing or Installation"
 
 # Teamleader Focus for Construction, Manufacturing or Installation
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441)
 
  
 
@@ -50,7 +50,7 @@ Let’s say you’ve arranged a time with the customer to do your work. Time to 
 
 2. Drag and drop the cursor in the selected time frame and click '**Schedule meeting'**:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692867515025)
+![The Scheduling selection dialog in Teamleader Focus with options for tasks and meetings.](https://support.focus.teamleader.eu/hc/article_attachments/25692867515025)
 
  
 
@@ -73,7 +73,7 @@ Let’s say you’ve arranged a time with the customer to do your work. Time to 
 There you have it. The meeting has been scheduled. You will now find it in your own calendar and your colleague will find it in his or hers. It's also possible to let Teamleader Focus calculate the distance (in km) to the [meeting address](https://support.focus.teamleader.eu/hc/en-150/articles/25692167395857-FAQ-What-locations-can-I-choose-when-creating-a-meeting) automatically by going to **Settings > Calendar > Preferences > Show distances to meetings. **Then the meeting will look like this in your calendar:
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692819221905)
+![A calendar event card in Teamleader Focus showing distance and task details.](https://support.focus.teamleader.eu/hc/article_attachments/25692819221905)
 
 Note that this is a setting on **account level and not on user level. **If the option to show distances to meetings is enabled in the settings then it will be enabled for every user.
 
@@ -153,7 +153,7 @@ When a task has been finished:
 
 4. Indicate the start and finish time.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692880355601)
+![The 'Add time tracking' dialog in Teamleader Focus after completing a task.](https://support.focus.teamleader.eu/hc/article_attachments/25692880355601)
 
 5. Indicate whether or not the task is billable. If you select this, the time tracking will be registered as ‘unbilled time’ and can be added to the invoice later on.
 
@@ -205,7 +205,7 @@ All the tasks you have completed for the customer which you marked as ‘billabl
 
  
 
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25692819289873)**
+**![The 'Unbilled time spent' table in Teamleader Focus showing billable time tracking entries.](https://support.focus.teamleader.eu/hc/article_attachments/25692819289873)**
 
  
 

@@ -10,7 +10,7 @@ section: "Templates"
 
 # How To: How can I edit the CSS of my templates?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692079171985)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -32,7 +32,7 @@ Click '**Show** **a****dvanced options'  **and** 'Edit' **Custom CSS
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692092055697)
+![Document template settings for fallback font, page numbers, and custom CSS.](https://support.focus.teamleader.eu/hc/article_attachments/25692092055697)
 
  
 
@@ -40,7 +40,7 @@ Click '**Show** **a****dvanced options'  **and** 'Edit' **Custom CSS
 
 2. On the following screen, you'll find the CSS code as displayed below:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692079268497)
+![The Custom CSS dialog box in Teamleader Focus for document template styling.](https://support.focus.teamleader.eu/hc/article_attachments/25692079268497)
 
  
 
@@ -125,11 +125,11 @@ If the name of a font family consists of more than one word, it must be placed i
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692046993937)
+![The text color picker dropdown in the Teamleader Focus document editor.](https://support.focus.teamleader.eu/hc/article_attachments/25692046993937)
 
 On the next screen, you'll need to go for **'Custom'** to see the values of the color you have used.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692054253457)
+![The custom color picker dialog box for selecting specific RGB values.](https://support.focus.teamleader.eu/hc/article_attachments/25692054253457)
 
  
 
@@ -326,7 +326,7 @@ To be able to edit the layout of the shortcodes $INVOICE_REFERENCE$ and $LEGAL_N
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692069791249)
+![An example of CSS code used for document styling in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692069791249)
 
  
 

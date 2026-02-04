@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: The Teamleader Focus Marketplace
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692702389521)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
  
 
 ## What exactly is the Marketplace?
@@ -29,7 +29,7 @@ To access the marketplace, just click your icon user in the top right hand corne
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692714929169)
+![The user profile dropdown menu in Teamleader Focus with 'Integrations/Marketplace' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25692714929169)
 
  
 
@@ -37,7 +37,7 @@ You will land on the wonderful Marketplace page. Now you have 3 options:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692702520465)
+![Banner with the text 'Explore', 'Manage', and 'Build' on a teal background.](https://support.focus.teamleader.eu/hc/article_attachments/25692702520465)
 
  
 
@@ -51,7 +51,7 @@ You’ll find a number of categories to browse through. Clicking a category will
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692702561169)
+![The teal 'ADD' button used in Teamleader Focus to confirm the creation of new items.](https://support.focus.teamleader.eu/hc/article_attachments/25692702561169)
 
  
 
@@ -71,7 +71,7 @@ The Teamleader Focus Marketplace offers well over a hundred integrations, and co
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692702593809)
+![The help and support dropdown menu in Teamleader Focus with 'What's new' highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25692702593809)
 
  
 

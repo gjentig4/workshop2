@@ -10,7 +10,7 @@ section: "Becoming a customer"
 
 # Getting started: How can I empty my (trial) account?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691713486865)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 
@@ -44,7 +44,7 @@ Once you do so, all data will be removed, including the data you added up until 
 
 **Deals:** You cannot perform bulk actions on deals. Unfortunately, this means that you'll need to delete deals one by one. To do so, simply open a deal and click on the orange trash bin in the top right-hand corner. More information? Click [here](https://support.focus.teamleader.eu/hc/en-150/articles/25692126037521-FAQ-What-is-the-difference-between-a-lost-deal-and-a-deleted-deal).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691729534993)
+![The deal detail page in Teamleader Focus showing the pipeline and the delete button.](https://support.focus.teamleader.eu/hc/article_attachments/25691729534993)
 
  
 
@@ -53,13 +53,13 @@ Once you do so, all data will be removed, including the data you added up until 
  
 
 **Time tracking:** To delete open time tracking, either open "Timesheets" or the contact or company that you tracked time for. You can then simply edit the time tracking and click "Delete".
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691729583377)
+![The 'Edit Time Tracking' dialog box in Teamleader Focus for modifying a time log entry.](https://support.focus.teamleader.eu/hc/article_attachments/25691729583377)
 
 **Products:** You can perform bulk actions on products similar to contacts or companies. Create a segment as shown below and then simply click "Actions", "Delete".
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691729607697)
+![The 'Edit segment' dialog box in Teamleader Focus for configuring CRM filters and segment rules.](https://support.focus.teamleader.eu/hc/article_attachments/25691426020497)
 
 **Projects:** Alas! Projects need to be deleted one by one. To do so, navigate to a project and click on the three dots at the top of your screen. In the pop-up menu, select "Delete project".
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691702204689)
+![Project actions dropdown menu in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691702204689)
 
 Once you've deleted all dummy data, you can start filling your account with real data, and get started with Teamleader Focus. How? Click [here](https://support.focus.teamleader.eu/hc/en-150/categories/24833596585105).

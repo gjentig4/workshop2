@@ -10,7 +10,7 @@ section: "General"
 
 # FAQ: How can I contact Teamleader Focus' marketing team?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692712670865)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 You are organizing an event and would like to collaborate with Teamleader Focus? You see other opportunities from which Teamleader Focus and your company could mutually benefit from? Or you would just like to get in touch with our marketing team to see what the possibilities are?
 

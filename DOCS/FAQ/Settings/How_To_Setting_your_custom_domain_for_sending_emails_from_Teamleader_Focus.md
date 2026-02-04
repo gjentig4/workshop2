@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Setting your custom domain for sending emails from Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692607031953)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -52,7 +52,7 @@ If you plan on adding the records yourself, we advise you to copy them one by on
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692591751569)
+![The 'Connect your domain' dialog showing DNS records to install for email white-labeling.](https://support.focus.teamleader.eu/hc/article_attachments/25692591751569)
 
  
 
@@ -74,7 +74,7 @@ In those DNS settings, you are able to create a new DNS record. While adding suc
 
  
 
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25692623782545)*
+*![Personal DNS settings in one.com for configuring CNAME records for email whitelabeling.](https://support.focus.teamleader.eu/hc/article_attachments/25692623782545)*
 
  
 

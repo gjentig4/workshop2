@@ -10,7 +10,7 @@ section: "Projects"
 
 # How To: The timeline view in projects
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696078851857)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -18,7 +18,7 @@ section: "Projects"
 
 With the project timeline view in Teamleader Focus we assist you and your team in creating a pragmatic and high-level timeline view. Read all about it here!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696069678993)
+![Timeline view of the Projects module in Teamleader Focus showing project schedules and statuses.](https://support.focus.teamleader.eu/hc/article_attachments/25696069678993)
 
  
 
@@ -60,7 +60,7 @@ The timeline view in Teamleader Focus allows you to effortlessly **check across 
 
 You find the timeline view by navigating to the overview of your **Projects **and clicking on the **icon ****switch **in the top right-hand corner. Via this button, you can easily switch between the list view and the timeline view.
 
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25696054992657)
+    ![The 'Add project' button and view toggle icons in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696054992657)
   
 
  
@@ -74,7 +74,7 @@ The last selected view is saved here. This means that if you leave the timeline 
 - Opening the timeline loads all of your projects, and you’ll be able to scroll down to access all of them
 
 - At the top, choose a Days or Months view 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696040730001)
+![Project planning navigation bar with view toggles and 'Add project' button](https://support.focus.teamleader.eu/hc/article_attachments/25696040730001)
 
 Choose 'Months' for a zoomed out and more high-level overview
 
@@ -90,25 +90,25 @@ Choose 'Months' for a zoomed out and more high-level overview
 
 - The **colours **of your project are taken over from the colour you assigned to them on the project detail page (via the three dots in the top right-hand corner > Choose colour).
 *Note: if either the start or end date of the project isn't filled out, the bar won't be filled in full colour, advising you to fill out the missing information. Before:*
-*![](https://support.focus.teamleader.eu/hc/article_attachments/25696055064849)*
-*After: ![](https://support.focus.teamleader.eu/hc/article_attachments/25696055113617)*
+*![Project timeline view in Teamleader Focus showing a project name and date range selection.](https://support.focus.teamleader.eu/hc/article_attachments/25696055064849)*
+*After: ![Project planning view showing project name, dates, and timeline bar](https://support.focus.teamleader.eu/hc/article_attachments/25696055113617)*
 
 - If a project has groups, an **arrow **appears next to the project title on the left. Click on the arrow to expand its groups and view them on the timeline:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696079149841)
+![Gantt chart view showing project timelines and task groups in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25696079149841)
 
 - 
 **Click **on a a coloured project bar or group to open a **side panel. **All info can be seen and edited from this side panel:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696040898577)
+![Project planning timeline view with a side panel showing details for 'Project 68'.](https://support.focus.teamleader.eu/hc/article_attachments/25696040898577)
 
 - 
 **Drag & drop projects and groups** in their track to **edit their start and end date**
 Adjust the time period of your project by extending or shortening it
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696069972625)
+![Resizing a project block in the project planning timeline view using the drag handle.](https://support.focus.teamleader.eu/hc/article_attachments/25696069972625)
 ! Only [admins ](https://support.focus.teamleader.eu/hc/en-150/articles/25691974365841-FAQ-What-are-the-rights-of-an-admin)and [users with admin access to projects](https://support.focus.teamleader.eu/hc/en-150/articles/25695680166801-FAQ-What-are-the-different-rights-in-a-project) can edit start and end dates. If you have none of these rights, you cannot do this. Even if you are the owner of a project, you have to navigate to the project itself to edit it.
 
 - 
 **Inline add or edit the start and end date** of a project right from this view:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696070021905)
+![Selecting a start date for a project using the calendar date picker in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696070021905)
  
 
 ### Search bar, filtering & statuses
@@ -126,7 +126,7 @@ In the top left-hand corner of your timeline you’ll find the search bar. Searc
 #### Status
 
     You can also search your projects based on their status:
-    ![](https://support.focus.teamleader.eu/hc/article_attachments/25696041026961)
+    ![Project list view filters and search bar in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25696041026961)
   
 
  

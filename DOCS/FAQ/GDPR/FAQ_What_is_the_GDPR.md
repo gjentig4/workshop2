@@ -10,7 +10,7 @@ section: "GDPR"
 
 # FAQ: What is the GDPR?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692737939601)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The **General Data Protection Regulation** ([GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)) is a European law on data protection and privacy which has been in force since May 2018. It imposes rules on companies which deal with personal data.
 

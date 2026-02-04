@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Integrate Teamleader Focus with Make
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693972145169)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Over the past few years, Teamleader Focus has integrated with a lot of different applications in the process of becoming an all-in-one tool. Make offers an integration with many more tools in one go.
 
@@ -80,7 +80,7 @@ Some examples of **actions **for Teamleader Focus are:
 
 *Note*: *you can see the full list of possible actions and triggers by adding a step to your scenario, looking for Teamleader and clicking on it. **An exhaustive list** of the possibilities will be shown:*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693972210321)
+![Selecting a Teamleader Focus trigger or action in a Make (formerly Integromat) automation scenario.](https://support.focus.teamleader.eu/hc/article_attachments/25693972210321)
 
  
 

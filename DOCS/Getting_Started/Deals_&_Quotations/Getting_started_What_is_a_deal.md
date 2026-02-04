@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # Getting started: What is a deal?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692317942161)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Multiple company entities in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697669866897)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -55,7 +55,7 @@ Does your company consist of different entities or departments? Would you like t
 - Once you've filled in all relevant data for your second company entity, simply click **Save and close **to confirm.
 
 - Do you want to set this company entity as your [default company entity](https://support.focus.teamleader.eu/hc/en-150/articles/25697699124625-FAQ-Can-I-set-a-default-company-entity)? Then simply click on the **three dots **next to your entity and choose **Set as default.**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/39920160082449)**
+**![The three dots menu in Teamleader Focus with options to set as default, deactivate, or delete.](https://support.focus.teamleader.eu/hc/article_attachments/39920160082449)**
 
  
 
@@ -75,7 +75,7 @@ You also have the possibility to create different layouts for quotations, invoic
 
 - For quotations, you'll have to choose the company entity and the corresponding layout manually.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697643667217)
+![The 'Add product' dialog box in Teamleader Focus showing entity, layout, and discount fields.](https://support.focus.teamleader.eu/hc/article_attachments/25697643667217)
 
 ## 
 
@@ -103,7 +103,7 @@ By setting these signatures, it will be immediately clear to your customers visu
 - the email address from the first deal responsible
 
 At the same time, the signature you set for this company entity will be applied. If you want to change the signature/company entity, you need to return to your invoice (if it's not booked yet), quotation or order to manually change the company entity.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697669987729)
+![The 'Send invoice' dialog box showing the email configuration and signature selection.](https://support.focus.teamleader.eu/hc/article_attachments/25697669987729)
 
  
 
@@ -143,7 +143,7 @@ When you create the first invoice or the first credit note for a new company ent
 ## Insights
 
 Under Insights you can filter all reports based on the different company entities. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/28409173819409)
+![Filtering a sales pipeline by company entity in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/28409173819409)
 
  
 

@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Permanently delete a user in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693182387217)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -40,4 +40,4 @@ In line with the GDPR and the ‘right to be forgotten’ it could be needed to 
 
 - All items linked to this user like companies, time tracking, deals, tasks,.. will remain in the account, no info will be deleted. All information will be anonymised though:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693177236753)
+![The Activities section in Teamleader Focus showing a timeline of actions and an email tracking button.](https://support.focus.teamleader.eu/hc/article_attachments/25693177236753)

@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: How do I connect my Twinfield account to Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691299518993)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -90,7 +90,7 @@ Invoices will be sent to Twinfield and you'll receive a notification when the sy
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691283714449)
+![Error message for Twinfield integration regarding invoices with undefined booking accounts.](https://support.focus.teamleader.eu/hc/article_attachments/25691283714449)
 
  
 

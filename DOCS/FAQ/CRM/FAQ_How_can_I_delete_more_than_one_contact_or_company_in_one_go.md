@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: How can I delete more than one contact or company in one go?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691292354193)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -26,18 +26,18 @@ Just follow these steps:
 
  
 
-- Create a segment on CRM level that includes all those contacts or companies. Therefore, you need to define fitting rules. In case you want to delete, e.g. all of your contacts, the best [segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) would be the following:![delete contact segment](https://support.focus.teamleader.eu/hc/article_attachments/25691292407313)
+- Create a segment on CRM level that includes all those contacts or companies. Therefore, you need to define fitting rules. In case you want to delete, e.g. all of your contacts, the best [segment](https://support.focus.teamleader.eu/hc/en-150/articles/25690816108305-How-To-Creating-a-segment-in-Teamleader-Focus) would be the following:![The 'Add segment' dialog box in Teamleader Focus for creating filtered contact or company lists.](https://support.focus.teamleader.eu/hc/article_attachments/25690789468817)
 
 - After you created a segment that includes all contacts or companies you would like to delete, you have to select that segment in the dropdown-menu next to the search field.
 
 - You will then see an “**Actions**” button at the top right of your overview below “Import” and “Export”. 
 
 - Clicking on this button gives you the option to delete all the contacts or companies in the segment.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691292501777)
+![The 'Actions' dropdown menu in the Teamleader Focus CRM company overview.](https://support.focus.teamleader.eu/hc/article_attachments/25691292501777)
 
 - 
 Note: It won't be possible to delete contacts/companies that have linked deals, invoices, time tracking or projects. Teamleader Focus then sends an email to the email address linked to your Teamleader Focus account. The email will state that the action failed and couldn't be executed:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691314074641)
+![Error message stating a company cannot be deleted due to linked deals](https://support.focus.teamleader.eu/hc/article_attachments/25691314074641)
 
  
 

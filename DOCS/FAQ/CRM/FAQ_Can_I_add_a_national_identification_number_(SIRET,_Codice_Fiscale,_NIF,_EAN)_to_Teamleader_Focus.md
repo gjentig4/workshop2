@@ -10,7 +10,7 @@ section: "CRM"
 
 # FAQ: Can I add a national identification number (SIRET, Codice Fiscale, NIF, EAN) to Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692961270417)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Some European countries have specific business numbers besides the acknowledged European VAT number. We've provided the fields below for companies or contacts residing in these countries:
 

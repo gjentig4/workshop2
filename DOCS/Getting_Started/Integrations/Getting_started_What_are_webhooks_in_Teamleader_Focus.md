@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: What are webhooks in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691095882257)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

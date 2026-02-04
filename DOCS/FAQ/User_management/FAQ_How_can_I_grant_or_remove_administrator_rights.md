@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: How can I grant or remove administrator rights?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690922897297)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -25,7 +25,7 @@ To grant or remove admin rights, follow these steps:
 - Click on **the name of a user **
 
 - On the next page, click on **Make admin** or **Remove admin **in the top right-hand corner
-![](https://support.focus.teamleader.eu/hc/article_attachments/37572935651473) 
+![User management profile in Teamleader Focus showing the 'Make admin' button.](https://support.focus.teamleader.eu/hc/article_attachments/37572935651473) 
 
 - 
 **Confirm **the action.

@@ -10,7 +10,7 @@ section: "CRM"
 
 # How To: Visualise your contacts or companies in Google Maps
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697733981585)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In Teamleader Focus you can collect all kinds of information about your customers, including their address. Wouldn't it be nice if you could visualise your customer addresses on a map? Importing your Teamleader Focus customers to Google Maps provides you an overview of all your customers, which allows you to easily plan your route from one meeting to another. You can easily get an idea what the precise distance is to your customer(s) and see at a glance which customers are in the neighbourhood.
 
@@ -24,7 +24,7 @@ Follow the steps below or watch:
 - Go to [Google My Maps](https://www.google.com/maps/d/u/0/)
 
 - Click on **Create a new ****map
-![](https://support.focus.teamleader.eu/hc/article_attachments/26561753060625)
+![Google My Maps interface showing the 'Create a new map' button and an existing untitled map.](https://support.focus.teamleader.eu/hc/article_attachments/26561753060625)
 **
 
 - Click on **Import** and upload the Excel file from Teamleader Focus from step 1

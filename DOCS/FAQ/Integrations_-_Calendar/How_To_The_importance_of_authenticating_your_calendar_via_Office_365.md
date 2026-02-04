@@ -10,7 +10,7 @@ section: "Integrations - Calendar"
 
 # How To: The importance of authenticating your calendar via Office 365
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693685871889)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 **Note**: Connecting via the Office 365 platform can only be done if you use the default outlook.office365.com server, not if you use your own, remote server.
 
@@ -38,9 +38,9 @@ An IP address change on our side won’t stop the integration from working 
 ## How to switch to the new authentication?
 
 - Go to the settings of your Office 365 / Exchange calendar integration in the Marketplace.
-![](https://support.focus.teamleader.eu/hc/article_attachments/27925076624529) 
+![Office 365 Calendar integration page in the Teamleader Marketplace](https://support.focus.teamleader.eu/hc/article_attachments/27925076624529) 
 
-- You’ll notice a new button: “**Connect via Office 365**”. This button will redirect you to the Office platform, where you can log in using your own security defaults.![](https://support.focus.teamleader.eu/hc/article_attachments/27925076623121) 
+- You’ll notice a new button: “**Connect via Office 365**”. This button will redirect you to the Office platform, where you can log in using your own security defaults.![Microsoft account sign-in dialog for integrating external services with Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/27925076623121) 
 
 - After successfully logging in, you’ll be redirected to the Teamleader Focus Marketplace again and you’ll be able to adjust the settings of your integration. 
 

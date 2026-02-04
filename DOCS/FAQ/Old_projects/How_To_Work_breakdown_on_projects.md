@@ -10,7 +10,7 @@ section: "Old projects"
 
 # How To: Work breakdown on projects
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697788544529)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Clicking on a project in your project overview opens the Work breakdown page. It allows you to make clear estimates of the required work per project phase and allows you to keep your projects perfectly under control. Read everything there is to know about the work breakdown on projects here!
 
@@ -18,19 +18,19 @@ Planning a project in manageable pieces and dividing the work equally among coll
 
 ## First steps
 
-After creating your project and defining the first phase, you'll be redirected to the work breakdown page. You can add a description of the project by clicking on the pencil next to 'Description'. ![](https://support.focus.teamleader.eu/hc/article_attachments/25697788588561)Now, plan all major phases of your project first. You do this by clicking on the button **Add phase**. A side panel opens on the right in which you can fill out the most important steps to bring the project to a successful conclusion.![](https://support.focus.teamleader.eu/hc/article_attachments/25697788628369)By clicking on **+ Dependency**, you can create dependencies between different phases. [Read more about it in this article. ](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691937254417)
+After creating your project and defining the first phase, you'll be redirected to the work breakdown page. You can add a description of the project by clicking on the pencil next to 'Description'. ![Project info and work breakdown view in Teamleader Focus showing budget and phases.](https://support.focus.teamleader.eu/hc/article_attachments/25697788588561)Now, plan all major phases of your project first. You do this by clicking on the button **Add phase**. A side panel opens on the right in which you can fill out the most important steps to bring the project to a successful conclusion.![The 'Add phase' form in Teamleader Focus for creating a new project phase.](https://support.focus.teamleader.eu/hc/article_attachments/25697788628369)By clicking on **+ Dependency**, you can create dependencies between different phases. [Read more about it in this article. ](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25691937254417)
 
-When you've filled out all the information about the phase, just press Enter on your keyboard to add it or click on the button **Add phase.**If you don't have a lot of time and want to quickly add phases to your project, you can also click on **+ Add phase **at the bottom of the page. You only need to fill out the phase title and then press Enter on your keyboard. You can add some details to the phase later on by clicking on it.![](https://support.focus.teamleader.eu/hc/article_attachments/25697788663953)
+When you've filled out all the information about the phase, just press Enter on your keyboard to add it or click on the button **Add phase.**If you don't have a lot of time and want to quickly add phases to your project, you can also click on **+ Add phase **at the bottom of the page. You only need to fill out the phase title and then press Enter on your keyboard. You can add some details to the phase later on by clicking on it.![Project management interface showing how to add a new phase to a project.](https://support.focus.teamleader.eu/hc/article_attachments/25697788663953)
 
 ## Adding tasks and meetings
 
 After you’ve added your phases it’s time to add specific tasks and meetings per project phase.
 
-Click on **Add ****task **in the top right-hand corner to start adding tasks. If you’d rather add a meeting, click on the arrow and choose **Add ****meeting**:![](https://support.focus.teamleader.eu/hc/article_attachments/25697753532177)The Add task/Add meeting button allows you to add these items to any phase you want by choosing the right phase in the ‘Details’:![](https://support.focus.teamleader.eu/hc/article_attachments/25697745354001)
+Click on **Add ****task **in the top right-hand corner to start adding tasks. If you’d rather add a meeting, click on the arrow and choose **Add ****meeting**:![Project planning overview in Teamleader Focus showing details, description, and action buttons.](https://support.focus.teamleader.eu/hc/article_attachments/25697753532177)The Add task/Add meeting button allows you to add these items to any phase you want by choosing the right phase in the ‘Details’:![The 'Add task' form in Teamleader Focus showing the Phase selection field.](https://support.focus.teamleader.eu/hc/article_attachments/25697745354001)
 
-If you want to immediately add a task/meeting to a certain phase instead of choosing one, you just need to hover over that phase to view the ‘Add task’/Add meeting button:![](https://support.focus.teamleader.eu/hc/article_attachments/25697788812561)
+If you want to immediately add a task/meeting to a certain phase instead of choosing one, you just need to hover over that phase to view the ‘Add task’/Add meeting button:![Project phase management interface showing options to close a phase, add tasks, or add meetings.](https://support.focus.teamleader.eu/hc/article_attachments/25697788812561)
 
-You can also click on **+ Add task **right below the phase to quickly add tasks to it by filling in the task title and pressing Enter. You can add some details to the task later on by clicking on it.![](https://support.focus.teamleader.eu/hc/article_attachments/25697788863761)
+You can also click on **+ Add task **right below the phase to quickly add tasks to it by filling in the task title and pressing Enter. You can add some details to the task later on by clicking on it.![Adding a new task to a project phase in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25697788863761)
 
 So, when adding tasks, it’s not needed to choose a task assignee immediately. You can always do this later; this has the advantage to first take a look at who's available to execute the task and keep everyone happy. 
 
@@ -50,7 +50,7 @@ For meetings: in the side panel, click on the **pencil** to change your meeting 
 
 - Click on **Mark as done **to mark it as done
 
-- Do you also want to track time? Then click on the **arrow **next to Mark as done > **Track time. **That way it's not needed to navigate to that task first.![](https://support.focus.teamleader.eu/hc/article_attachments/25697762277521)*Note: If you're in a hurry and want to quickly add your tasks as done, just hover over the task in your work breakdown and click on the green check mark next to your task title to mark the task as done.**![](https://support.focus.teamleader.eu/hc/article_attachments/25697767316369)*
+- Do you also want to track time? Then click on the **arrow **next to Mark as done > **Track time. **That way it's not needed to navigate to that task first.![Action buttons for a task including Track time, Mark as done, edit, and delete.](https://support.focus.teamleader.eu/hc/article_attachments/25697762277521)*Note: If you're in a hurry and want to quickly add your tasks as done, just hover over the task in your work breakdown and click on the green check mark next to your task title to mark the task as done.**![A project phase view showing a completed task with a green checkmark icon.](https://support.focus.teamleader.eu/hc/article_attachments/25697767316369)*
 
 #### 
 Drag & drop open tasks/meetings between open phases
@@ -69,7 +69,7 @@ There are some work breakdown specifics we'd like to point out to you as well in
 
 ### Filter on time or on budget
 
-By default, your work breakdown overview will be filtered on **Time. ****![](https://support.focus.teamleader.eu/hc/article_attachments/25697753802385)**
+By default, your work breakdown overview will be filtered on **Time. ****![Project work breakdown view showing time tracking, estimated time, and task completion status.](https://support.focus.teamleader.eu/hc/article_attachments/25697753802385)**
 
 You can find an overview of:
 
@@ -93,7 +93,7 @@ Remark for meetings: the total time estimated for a meeting is the result of mul
 
 You can find the same overview of tracked time vs estimated time in detail per phase and per task, and also in the side panel when viewing a specific task/meeting. Compare estimated time of items with tracked time in order to learn from your planning.
 
-If you're interested in seeing at a glance the budget you spent instead of the time tracked/estimated, then you can also filter on **Budget:****![](https://support.focus.teamleader.eu/hc/article_attachments/25697779242129)**You'll see an overview of:
+If you're interested in seeing at a glance the budget you spent instead of the time tracked/estimated, then you can also filter on **Budget:****![Project budget overview showing budget spent, budget provided, and completed tasks.](https://support.focus.teamleader.eu/hc/article_attachments/25697779242129)**You'll see an overview of:
 
 - Budget spent: (billable hours + material) * sale price.
 
@@ -107,7 +107,7 @@ Find more information on budgeting by navigating to **Project info **in the hea
 
 In your phase overview you’ll also find the column ‘Due date’. The due date of the phase will be visible, but also the due dates of the linked tasks and meetings. A due date can have four different 'statuses':
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697774673937)
+![Project phase overview showing tasks, time tracking, and completion status in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697774673937)
 
 - Red status: the due date of the item has passed
 
@@ -125,16 +125,16 @@ Notes:
 
 ### Time trackings not linked to tasks/meetings
 
-Time trackings that are not linked to tasks/meetings are shown separately per project phase. You can click on this notification to get an overview of these time trackings. Time trackings on calls linked to the project are shown here, as well as separate time trackings.![](https://support.focus.teamleader.eu/hc/article_attachments/25697779364241)
+Time trackings that are not linked to tasks/meetings are shown separately per project phase. You can click on this notification to get an overview of these time trackings. Time trackings on calls linked to the project are shown here, as well as separate time trackings.![A pop-up window showing a list of time trackings for a specific project phase.](https://support.focus.teamleader.eu/hc/article_attachments/25697779364241)
 
 ### Closing phases/closing the project
 
-When you've finished the tasks, meetings and calls linked to a certain phase, we advise you to close that phase. Do this by hovering over a phase and clicking on **Close phase:****![](https://support.focus.teamleader.eu/hc/article_attachments/25697796164881)**
+When you've finished the tasks, meetings and calls linked to a certain phase, we advise you to close that phase. Do this by hovering over a phase and clicking on **Close phase:****![Project management interface showing how to close a project phase in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697796164881)**
 
 When every phase in a project is set to ‘Closed’, the project will be considered 'Done'. You can also close a project by navigating to your project > **Project ****info **> click on the **three dots **next to your project number > **Close project**. All phases linked to the project will be closed automatically.
 
 ### Smart filters to manage your project
 
-Each project also has some filters to make it possible to filter on which phases are still open, which phases are overdue, which work you still need to do, which work is overdue and which work is due today. You can select several filters by just clicking on them:![](https://support.focus.teamleader.eu/hc/article_attachments/25697767617553)
+Each project also has some filters to make it possible to filter on which phases are still open, which phases are overdue, which work you still need to do, which work is overdue and which work is due today. You can select several filters by just clicking on them:![Project management filter cards showing counts for open phases and work items.](https://support.focus.teamleader.eu/hc/article_attachments/25697767617553)
 
 That’s it for the work breakdown on projects! On the **Project info page,** you can find your project financials such as ‘[Budget spent](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25693457215889)’ and '[Profit](https://support.focus.prd.teamleader.eu/hc/en-us/articles/25693364328465)'. The combination of this work breakdown and financial information helps you keep control of your projects at all times.

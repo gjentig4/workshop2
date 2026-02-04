@@ -10,7 +10,7 @@ section: "Lead capture Booster"
 
 # Getting Started: The Lead capture Booster
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695323767441)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 With our Lead capture Booster you can easily meet and engage with your customers online! Read all about getting started with it here.
 

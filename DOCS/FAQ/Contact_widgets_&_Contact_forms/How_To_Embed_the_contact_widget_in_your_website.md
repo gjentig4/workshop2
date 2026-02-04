@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Embed the contact widget in your website
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695441182865)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 There are multiple ways to add your Lead capture Booster booking page(s) on your website:
 
@@ -42,7 +42,7 @@ After you have [created one or multiple contact widgets](https://support.focus.t
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695402541713)
+![The Contact widgets overview in Teamleader Focus showing a created widget and its embed code.](https://support.focus.teamleader.eu/hc/article_attachments/25695402541713)
 
  
 
@@ -52,7 +52,7 @@ If a webmaster manages your website, this step is very easy for you. Once you've
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695416710545)
+![The Contact widgets overview page in the Teamleader Focus Customer Meeting add-on.](https://support.focus.teamleader.eu/hc/article_attachments/25695416710545)
 
  
 
@@ -99,13 +99,13 @@ Basically all you have to do is copy the code from the contact widget page and p
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695387988113)
+![Editing a website page with a 'Book a meeting' header and an 'About Us' section in a web builder.](https://support.focus.teamleader.eu/hc/article_attachments/25695387988113)
 
 Congrats, the contact widget is on your website!
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695388032273)
+![A 'Book a meeting' call-to-action section on a website featuring an 'About Us' description.](https://support.focus.teamleader.eu/hc/article_attachments/25695388032273)
 
  
 
@@ -133,13 +133,13 @@ In [wordpress.org](//wordpress.org) you can setup your contact widget in your si
 
 - In the code editor add a paragraph and paste the contact widget code in it
 
-- Click on Publish ![](https://support.focus.teamleader.eu/hc/article_attachments/25695426172689)
+- Click on Publish ![Editor interface for customizing a meeting booking page titled 'Book John' in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695426172689)
 
  
 
 Congrats, the contact widget is on your website!
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695402881297)
+![Public booking page for scheduling a meeting with John Doe in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25695402881297)
 
  
 
@@ -161,10 +161,10 @@ In Webflow it's easy to embed the contact widget in your site. Just follow these
 
 **Make sure that the Embed element is sufficiently large to contain the button.*
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695388224017)
+![Web design interface for a 'Contact us' section with layout and spacing controls.](https://support.focus.teamleader.eu/hc/article_attachments/25695388224017)
 
 Congrats, the contact widget is on your website!
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695441765009)
+![Teamleader Focus website footer and call-to-action section for more information.](https://support.focus.teamleader.eu/hc/article_attachments/25695351789969)

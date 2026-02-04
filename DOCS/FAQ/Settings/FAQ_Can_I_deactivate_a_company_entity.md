@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can I deactivate a company entity?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694887195281)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -23,7 +23,7 @@ If you have [multiple company entities](https://support.focus.teamleader.eu/hc/e
 - Click on the **three ****dots **next to your company entity
 
 - Choose **Deactivate**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/39920993782929)**
+**![Company entities settings page showing the action menu to deactivate or delete an entity.](https://support.focus.teamleader.eu/hc/article_attachments/39920993782929)**
  
 
 When you deactivate a company entity it will no longer be available to be used in Teamleader Focus. It will still be visible on linked items though, such as quotations, invoices, etc.
@@ -31,7 +31,7 @@ When you deactivate a company entity it will no longer be available to be used i
  
 
 You can always reactivate the company entity at a later point in time. Go to the tab 'Deactivated', click on the **three ****dots **next to it and choose **Activate**:
-![](https://support.focus.teamleader.eu/hc/article_attachments/39920993784977)
+![The Company entities settings page showing the Deactivated tab with options to activate or delete.](https://support.focus.teamleader.eu/hc/article_attachments/39920993784977)
 
  
 

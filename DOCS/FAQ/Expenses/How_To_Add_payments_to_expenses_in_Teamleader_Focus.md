@@ -10,7 +10,7 @@ section: "Expenses"
 
 # How To: Add payments to expenses in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39152238001553) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 Want a better grip on your expenses? With payment tracking in Teamleader Focus, you’ll always know which expenses are paid, partially paid, or still outstanding. Easily filter by payment status and even pay incoming invoices quickly via QR code. Read on to learn exactly how to manage and track your expense payments.
 
@@ -23,23 +23,23 @@ All users (admins and non-admins) can add payments to any type of expense: incom
 - Navigate to your expense
 
 - Click **Add payment** in the top right-hand corner, or go to the **Payments** tab > **Linked payments** > **Add payment**.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370629137)
+![Payment details and action buttons for an invoice in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/39164370629137)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164417081617)
+![The 'Payments' tab for an expense in Teamleader Focus with an option to add linked payments.](https://support.focus.teamleader.eu/hc/article_attachments/39164417081617)
 
 *Notes:*
 
 If your expense isn’t approved yet, you can find the option to add a payment if you click on the arrow next to ‘Mark as approved’.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164417083025)
+![Action buttons for approving, refusing, or adding payments to a document in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/39164417083025)
 
 - You can also add a payment to expenses that are refused or pending, if needed.
 
 - You can’t add a payment to expenses without a total amount including VAT. Edit the expense and fill in the total first.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370634001)
+![Approval and payment options for an expense in Teamleader Focus with a validation tooltip.](https://support.focus.teamleader.eu/hc/article_attachments/39164370634001)
  
 
 - A pop-up opens in which you can add the details of your payment.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370636305)
+![The 'Add payment' dialog box in Teamleader Focus showing payment details and a QR code.](https://support.focus.teamleader.eu/hc/article_attachments/39164370636305)
  
 
 Fill in a **payment date**. This can also be a date in the future.
@@ -50,7 +50,7 @@ Fill in a **payment date**. This can also be a date in the future.
 **Full payment:** by default, the slider next ‘Full payment’ is enabled and this is also the only option when adding a payment to a receipt or an incoming credit note. For incoming invoices, you can also add **partial payments:**
 
 Disable the slider next to ‘Full payment’ and enter the ‘Paid amount’.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370637841)
+![A form section for recording a partial payment on an invoice.](https://support.focus.teamleader.eu/hc/article_attachments/39164370637841)
 
 - If the amount of payments exceeds or equals the total monetary amount of the expense then it’s not possible to add an additional payment anymore.
 
@@ -72,12 +72,12 @@ A QR code will only be generated if required fields such as the IBAN number of t
 - On your expense detail page a new status label such as ‘Paid’ or ‘Partially paid’ will be added next to the title of the expense.
 
 - In the tab ‘Payments’, your payment(s) will be linked.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370639121)
+![The 'Payments' tab in a Teamleader Focus invoice or document showing linked payments.](https://support.focus.teamleader.eu/hc/article_attachments/39164370639121)
  
 
 - 
 **Activity log**: in the detail tab of your expense > ‘Activities’, you can find when payments were added, edited or removed for an expense and by whom. 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164417096465)
+![Activity log for an incoming invoice showing payment history and status updates.](https://support.focus.teamleader.eu/hc/article_attachments/39164417096465)
  
 
 # Edit a payment
@@ -92,7 +92,7 @@ It’s always possible to edit or remove a payment from an expense.
 # Expenses overview
 
 In the expenses overview, you can add columns that provide more insights into the payment status of your expenses. Add these columns to your expenses overview by clicking on the **cogwheel **in the top right-hand corner.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164370642705)
+![Table view of incoming invoices and receipts with payment status columns highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/39164370642705)
  
 
 - 
@@ -115,10 +115,10 @@ Paid: an expense is fully paid if the sum of all added payments (= the ‘paid a
 
 Easily **filter **on payment status or date paid by clicking on **Filters **in your expenses overview:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/39164417099537)
+![Filtering invoices by payment status 'Paid' and a specific 'Date paid' after 01-09-2025.](https://support.focus.teamleader.eu/hc/article_attachments/39164417099537)
 
 You can also mark expenses as paid in bulk by clicking on the check boxes next to them > **Mark as paid.** Note that these expenses will then be fully paid as it's not possible to add partial payments in bulk.
-![](https://support.focus.teamleader.eu/hc/article_attachments/40186845857425)
+![Bulk actions toolbar for incoming invoices in Teamleader Focus with two items selected.](https://support.focus.teamleader.eu/hc/article_attachments/40186845857425)
 
  
 

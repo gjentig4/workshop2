@@ -10,7 +10,7 @@ section: "Settings"
 
 # How To: Prepare Teamleader Focus for the new year
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691728812945)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -96,7 +96,7 @@ Create your own fiscal year by going to **Settings **> **Revenue **> **Fiscal 
 
 **A**: To know what went wrong exactly you can check if you've received an error message. Navigate to your invoices and click on the double arrows in the top right-hand corner to manually sync with your accounting software. You'll receive a notification via the bell icon:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691712765585)
+![The top-right navigation icons in Teamleader Focus, including notifications and the time tracker.](https://support.focus.teamleader.eu/hc/article_attachments/25691712765585)
 
 The error message will tell you where the sync goes wrong or will tell you to [contact us](https://support.focus.teamleader.eu/hc/en-150/requests/new?ticket_form_id=25911134514065). Please let us know which error notification you receive exactly. It can also help to add the column 'Bookkeeping number' to your invoices overview by clicking on the cogwheel in the bottom right corner. The first invoice that can't be synchronised, is the invoice without a bookkeeping number. The problem is probably related to this invoice.
 

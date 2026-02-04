@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can I set a different date format on documents?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693601457809)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -29,7 +29,7 @@ Click on **Company details**
 - 
 Choose your date format in the field **Date ****format**
 
-The options are:![](https://support.focus.teamleader.eu/hc/article_attachments/25693639186321)
+The options are:![The 'Fill in company information' setup wizard showing company details and date format options.](https://support.focus.teamleader.eu/hc/article_attachments/25693639186321)
 
 - 
 dd/mm/yyyy

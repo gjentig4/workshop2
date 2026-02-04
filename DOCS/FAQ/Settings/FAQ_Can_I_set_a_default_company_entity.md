@@ -10,7 +10,7 @@ section: "Settings"
 
 # FAQ: Can I set a default company entity?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697712519825)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -25,7 +25,7 @@ To do this, follow these steps:
 - Click on the **three dots **next to the company entity you'd like to set as default company entity
 
 - Click on **Set as default**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/39923728537233)**
+**![Action menu for Peppol settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/39923728537233)**
  
 
 This will cause this company entity to be the default one, and therefore the one used by default when creating invoices, quotations or when using a signature when sending an email. Remember that even if this is marked as default, you can continue to manually select the other company entities when necessary.

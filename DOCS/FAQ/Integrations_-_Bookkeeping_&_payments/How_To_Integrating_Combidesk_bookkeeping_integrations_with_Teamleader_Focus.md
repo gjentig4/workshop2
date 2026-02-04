@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Integrating Combidesk bookkeeping integrations with Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693354626193)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Our partner Combidesk developed a couple of integrations which allow you to integrate Teamleader Focus with the following accountancy tools:
 
@@ -58,7 +58,7 @@ When an invoice is created for a company or contact in Teamleader Focus, they wi
 
 Do note that the synchronization can only be completed if an email address is linked to the contact or company for which you have made the invoice. In other words, just the mail address where the invoice is sent is not enough. An address will also have to be filled in in the settings of the CRM:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693330495761)
+![The 'Add company' form in Teamleader Focus with the Email field highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25693330495761)
 
  
 

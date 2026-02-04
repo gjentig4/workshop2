@@ -10,7 +10,7 @@ section: "Teamleader Focus App"
 
 # FAQ: How do I scan a business card in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691541963793)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -25,7 +25,7 @@ It’s actually really easy to scan a business card. The scanner is available in
 - Click on the **+ **to add a new contact
 
 - Click on **Scan business card**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25691542044561)**
+**![The 'Add contact' form in the Teamleader Focus mobile app for creating new CRM contacts.](https://support.focus.teamleader.eu/hc/article_attachments/25691542044561)**
 
 - It is essential that the Teamleader Focus app has access to the camera of your phone. With it, you can take a picture of the business card. Teamleader Focus will recognise the information on it, but you can still make some changes and add or edit information.
 

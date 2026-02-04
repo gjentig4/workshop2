@@ -1,0 +1,37 @@
+{
+  "total_documents": 775,
+  "useful_documents": 694,
+  "empty_documents": 0,
+  "tiny_documents": 41,
+  "total_tokens": 671212,
+  "useful_tokens": 667449,
+  "avg_tokens_per_doc": 866,
+  "documents_over_embedding_limit": 0,
+  "cost_estimates": {
+    "embeddings": 0.01,
+    "llm_enrichment_gemini": 0.65,
+    "llm_enrichment_claude": 0.31,
+    "total_gemini": 0.66,
+    "total_claude": 0.32
+  },
+  "quality_breakdown": {
+    "useful": 694,
+    "stub": 41,
+    "video_reference": 40
+  },
+  "category_breakdown": {
+    "Best Practices": 12,
+    "FAQ": 569,
+    "Getting Started": 66,
+    "Peppol \ud83c\udde7\ud83c\uddea": 9,
+    "Training Videos": 119
+  },
+  "size_distribution": {
+    "Huge (2000+)": 70,
+    "Very Large (1000-2000)": 155,
+    "Large (500-1000)": 235,
+    "Medium (200-500)": 177,
+    "Small (50-200)": 97,
+    "Tiny (<50)": 41
+  }
+}

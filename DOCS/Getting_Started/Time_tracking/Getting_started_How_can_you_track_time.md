@@ -10,7 +10,7 @@ section: "Time tracking"
 
 # Getting started: How can you track time?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692438757009)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
  
 

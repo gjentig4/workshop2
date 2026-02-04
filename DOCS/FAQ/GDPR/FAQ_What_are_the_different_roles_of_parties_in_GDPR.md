@@ -10,7 +10,7 @@ section: "GDPR"
 
 # FAQ: What are the different roles of parties in GDPR?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692717730705)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 The GDPR makes a clear distinction between two roles:
 
@@ -36,7 +36,7 @@ We facilitate the management of your contacts’ data through our tool. By enter
 
 As a processor, we engage a limited number of **sub-processors**. These parties can process some parts of the personal data, for which you are the controller, for specific purposes. You can see the full list of sub-processors [in your account](https://focus.teamleader.eu/sub-processors.php).
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692717458833)
+![GDPR data processing flowchart showing roles of Data Subject, Controller, Processor, and Sub-processors](https://support.focus.teamleader.eu/hc/article_attachments/25692717458833)
 
 ## Teamleader as controller
 
@@ -46,6 +46,6 @@ Read our [Privacy Statement](https://www.teamleader.eu/privacy) to learn more ab
 
 As a data controller, we engage several service providers which we instruct to process your personal data on our behalf for various purposes, e.g. to send you our newsletter or to collect feedback from you. We have data processing agreements (DPAs) in place with all these data processors to ensure that they apply the same high standards of data protection as we do.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692732347793)
+![Diagram illustrating the GDPR data flow between Teamleader customers, Teamleader, and data processors.](https://support.focus.teamleader.eu/hc/article_attachments/25692732347793)
 
 For more information, go to our [**GDPR page**](https://www.teamleader.eu/gdpr).

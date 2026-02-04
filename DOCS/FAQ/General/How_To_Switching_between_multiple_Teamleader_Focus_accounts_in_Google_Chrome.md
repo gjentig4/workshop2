@@ -10,7 +10,7 @@ section: "General"
 
 # How To: Switching between multiple Teamleader Focus accounts in Google Chrome
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692170085777)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 We love to help our customers work smarter, so from time to time we like to share some tips. These aren’t necessarily directly related to the use of Teamleader Focus itself, but they will help you to use the software even more efficiently.
 
@@ -42,6 +42,6 @@ One thing you should know - this solution will only work with everyone’s favor
 
 Are you using Firefox instead of Google Chrome? 
 
-Firefox has a really handy extension you can use concerning multiple accounts. It uses the concept of "containers" which means every tab using a container is isolated from the others with colour-coded tabs. This also means that you can use multiple Teamleader Focus users for different companies within the same window, but in different tabs.![](https://support.focus.teamleader.eu/hc/article_attachments/25692148899857)
+Firefox has a really handy extension you can use concerning multiple accounts. It uses the concept of "containers" which means every tab using a container is isolated from the others with colour-coded tabs. This also means that you can use multiple Teamleader Focus users for different companies within the same window, but in different tabs.![Firefox Multi-Account Containers extension menu for managing multiple user sessions.](https://support.focus.teamleader.eu/hc/article_attachments/25692148899857)
 
 You can find and download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/).

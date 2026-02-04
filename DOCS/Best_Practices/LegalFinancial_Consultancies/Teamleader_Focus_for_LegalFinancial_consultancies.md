@@ -10,7 +10,7 @@ section: "Legal/Financial Consultancies"
 
 # Teamleader Focus for Legal/Financial consultancies
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692947569297) 
+![Illustrative banner with the text 'TEAMLEADER FOR' and icons representing CRM contact management.](https://support.focus.teamleader.eu/hc/article_attachments/25692850503441) 
 
 Do you work in a legal or financial consultancy? Keep reading if you want to know how Teamleader Focus can help you. This article contains tips, links, and a potential workflow. These are, of course, suggestions. If you couldn't find what you're looking for, please check out our support centre or contact [our support team](https://support.teamleader.eu/en/support/tickets/new)!
 

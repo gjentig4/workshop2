@@ -10,11 +10,11 @@ section: "Dashboard & Agenda"
 
 # How To: Adding call outcomes
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691894288401)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 Whenever you finish a call, you need to fill in a call outcome to make sure you're on top of your calls and keep track of status of your calls.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691894334737)
+![The 'Mark call as done' dialog box in Teamleader Focus for logging call outcomes and summaries.](https://support.focus.teamleader.eu/hc/article_attachments/25691894334737)
 
  
 
@@ -24,7 +24,7 @@ By default, Teamleader Focus automatically suggests standard outcomes, such as "
 
 - On the following screen, you'll need to define certain parameters.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691879082513)
+![The 'Add Type of call outcome' dialog box in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691879082513)
 
  
 

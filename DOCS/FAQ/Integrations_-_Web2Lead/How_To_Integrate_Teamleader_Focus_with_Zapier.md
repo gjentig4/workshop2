@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Integrate Teamleader Focus with Zapier
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693097344017)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -92,7 +92,7 @@ Each piece of data you run through your Zap counts as a task. That means if your
 
 - Mail: Once the quotation has been accepted, you automatically receive a Slack-message to inform you about this.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693097394321)
+![A blank white image placeholder.](https://support.focus.teamleader.eu/hc/article_attachments/25693097394321)
 
  
 

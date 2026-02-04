@@ -10,7 +10,7 @@ section: "Teamleader Focus Billing & Payments"
 
 # FAQ: How can I receive my invoices at a different e-mail address?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693394670609)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Does your company or finance administration use an e-mail address for invoices or do you want incoming invoices from Teamleader Focus to be sent to another specific mail address? Admin users can adjust this in the following way:
 

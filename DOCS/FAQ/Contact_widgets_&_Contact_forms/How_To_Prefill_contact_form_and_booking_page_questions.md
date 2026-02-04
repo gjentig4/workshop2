@@ -10,7 +10,7 @@ section: "Contact widgets & Contact forms"
 
 # How To: Prefill contact form and booking page questions
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695954816401)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 When integrating a contact form or booking page in your app, platform or website, you can add data in the URL to prefill some answers of questions and improve the customer experience.
 
@@ -77,7 +77,7 @@ You can copy the question ID of a contact form question by following these steps
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695924295569)
+![The 'Add questions' interface in Teamleader Focus for building forms or surveys.](https://support.focus.teamleader.eu/hc/article_attachments/25695924295569)
 
  
 
@@ -168,7 +168,7 @@ To prefill the questions of the following form as follows:
 
 - Dok-Noord,3A/101,9000,Gent,Belgium
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695924322705)
+![A public Teamleader Focus web form titled 'Form 19' with various input fields and a submit button.](https://support.focus.teamleader.eu/hc/article_attachments/25695924322705)
 
  
 
@@ -188,4 +188,4 @@ Which results in:
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25695954948113)
+![Example of a Teamleader Focus web form with contact details, custom fields, and a submit button.](https://support.focus.teamleader.eu/hc/article_attachments/25695954948113)

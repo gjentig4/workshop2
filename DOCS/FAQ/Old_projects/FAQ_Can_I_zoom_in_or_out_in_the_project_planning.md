@@ -10,11 +10,11 @@ section: "Old projects"
 
 # FAQ: Can I zoom in or out in the project planning?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692684403985)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Yes, you can. When entering the project planning, you can see the weeks that are displayed on the screen. Use the plus and minus buttons to zoom in or out and get more or less weeks on your screen.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692636467217)
+![Date range and duration selector in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25692636467217)
 
 You can zoom in to a maximum of 1 week and zoom out to a maximum of 8 weeks.
 

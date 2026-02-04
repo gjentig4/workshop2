@@ -10,7 +10,7 @@ section: "Old projects"
 
 # FAQ: What do the colors under project progress stand for?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691900248977)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 Within every project, there is a **Project info **tab in the header. Click on it to find the "Progress" section with the subcategory "Roadmap". This article explains the color coding used in that roadmap.
 
@@ -18,7 +18,7 @@ Within every project, there is a **Project info **tab in the header. Click on i
 
 ## 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691897442193)
+![Project progress roadmap showing milestones and timeline in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25691897442193)
 
 Red: The deadline has passed but the phase hasn't been closed yet.
 
@@ -30,4 +30,4 @@ Green: The phase has been closed.
 
 When you return to the general overview of your projects, you can also add the column 'phase' to that overview via the cogwheel in the bottom right-hand corner. If the colour of your phase turns orange, then it means that the due date of your active phase has passed.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691915887761)
+![A table showing forecasted budget, remaining budget, and phase names for a project.](https://support.focus.teamleader.eu/hc/article_attachments/25691915887761)

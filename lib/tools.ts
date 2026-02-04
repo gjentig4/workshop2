@@ -171,13 +171,56 @@ export function executeTool(
     case "createDeal":
       return createDeal(args as {
         title: string;
-        customer_id: string;
-        customer_name: string;
+        customer_id?: string;
+        customer_name?: string;
         amount?: number;
         currency?: string;
         pipeline?: string;
         source?: string;
         description?: string;
+      });
+    case "createContact":
+      return createContact(args as {
+        first_name?: string;
+        surname: string;
+        email?: string;
+        phone?: string;
+        mobile?: string;
+        language?: string;
+        gender?: string;
+        date_of_birth?: string;
+        job_title?: string;
+        remarks?: string;
+        tags?: string[];
+        linked_company_id?: string;
+        linked_company_name?: string;
+        marketing_opt_in?: boolean;
+      });
+    case "createCompany":
+      return createCompany(args as {
+        company_name: string;
+        vat_number?: string;
+        kvk_number?: string;
+        siret_number?: string;
+        email?: string;
+        phone?: string;
+        fax?: string;
+        website?: string;
+        country?: string;
+        street?: string;
+        street_number?: string;
+        zip_code?: string;
+        city?: string;
+        province?: string;
+        language?: string;
+        account_manager?: string;
+        tags?: string[];
+        marketing_opt_in?: boolean;
+        iban?: string;
+        bic_swift?: string;
+        vat_liability?: string;
+        pricelist?: string;
+        remarks?: string;
       });
     
     default:
@@ -299,6 +342,21 @@ function getWeather(location: string, units: string = "celsius") {
 // TEAMLEADER FOCUS TOOLS - Sales Workflow PoC
 // =============================================================================
 
+// Detect if a name looks like a company (LLC, Inc, Corp, BV, NV, etc.)
+function looksLikeCompany(name: string): boolean {
+  const companyIndicators = [
+    /\bllc\b/i, /\binc\b/i, /\bcorp\b/i, /\bcorporation\b/i,
+    /\bbv\b/i, /\bnv\b/i, /\bsa\b/i, /\bgmbh\b/i, /\bag\b/i,
+    /\bltd\b/i, /\blimited\b/i, /\bplc\b/i, /\bptyltd\b/i,
+    /\bsprl\b/i, /\bsrl\b/i, /\bsarl\b/i, /\beurl\b/i,
+    /\bvof\b/i, /\bcv\b/i, /\bvzw\b/i, /\basbl\b/i,
+    /\bcompany\b/i, /\benterprises?\b/i, /\bsolutions?\b/i,
+    /\bservices?\b/i, /\bgroup\b/i, /\bholdings?\b/i,
+    /\bindustries\b/i, /\bsystems?\b/i, /\btechnolog/i,
+  ];
+  return companyIndicators.some(regex => regex.test(name));
+}
+
 // Search for customers (companies or contacts) with fuzzy matching
 function searchCustomer(query: string) {
   if (!query || query.trim().length === 0) {
@@ -306,10 +364,14 @@ function searchCustomer(query: string) {
       success: false,
       error: "Search query is required",
       results: [],
+      queryLooksLikeCompany: false,
     };
   }
 
-  const results = MOCK_CUSTOMERS
+  const CONFIDENCE_THRESHOLD = 75; // Minimum % to consider a "found" match
+  const CLOSE_MATCH_DELTA = 5; // If two results are within 5%, ask for clarification
+
+  const allMatches = MOCK_CUSTOMERS
     .map(customer => {
       const { matches, score } = fuzzyMatch(customer.name, query);
       return { customer, matches, score };
@@ -326,22 +388,55 @@ function searchCustomer(query: string) {
       matchScore: Math.round(r.score * 100),
     }));
 
+  // Filter to only those above threshold
+  const confidentMatches = allMatches.filter(r => r.matchScore >= CONFIDENCE_THRESHOLD);
+  
+  // Check if we need clarification (multiple close matches)
+  let needsClarification = false;
+  if (confidentMatches.length >= 2) {
+    const scoreDiff = confidentMatches[0].matchScore - confidentMatches[1].matchScore;
+    if (scoreDiff <= CLOSE_MATCH_DELTA) {
+      needsClarification = true;
+    }
+  }
+
+  // Detect if query looks like a company name
+  const queryLooksLikeCompany = looksLikeCompany(query);
+
+  // Determine result status
+  let status: "found" | "not_found" | "needs_clarification";
+  let hint: string | undefined;
+
+  if (confidentMatches.length === 0) {
+    status = "not_found";
+    hint = `No customer found matching "${query}" with confidence ≥${CONFIDENCE_THRESHOLD}%. User should create a new customer or check the spelling.`;
+  } else if (needsClarification) {
+    status = "needs_clarification";
+    hint = `Multiple customers match "${query}" with similar confidence. Ask the user to clarify which one is correct.`;
+  } else {
+    status = "found";
+    hint = `Found ${confidentMatches[0].name} with ${confidentMatches[0].matchScore}% confidence.`;
+  }
+
   return {
     success: true,
     query,
-    resultCount: results.length,
-    results,
-    hint: results.length === 0 
-      ? "No customers found. Try a different search term or check the spelling."
-      : undefined,
+    status,
+    queryLooksLikeCompany,
+    confidenceThreshold: CONFIDENCE_THRESHOLD,
+    resultCount: confidentMatches.length,
+    results: confidentMatches,
+    // Include low-confidence matches for context (but clearly marked)
+    lowConfidenceMatches: allMatches.filter(r => r.matchScore < CONFIDENCE_THRESHOLD),
+    hint,
   };
 }
 
 // Create a deal - returns structured output for UI integration
 function createDeal(params: {
   title: string;
-  customer_id: string;
-  customer_name: string;
+  customer_id?: string;
+  customer_name?: string;
   amount?: number;
   currency?: string;
   pipeline?: string;
@@ -360,34 +455,36 @@ function createDeal(params: {
   } = params;
 
   // Validate required fields
-  if (!title || !customer_id || !customer_name) {
+  if (!title) {
     return {
       success: false,
-      error: "Missing required fields: title, customer_id, and customer_name are required",
+      error: "Missing required field: title is required",
       action: null,
     };
   }
 
-  // Verify customer exists
-  const customer = MOCK_CUSTOMERS.find(c => c.id === customer_id);
-  if (!customer) {
-    return {
-      success: false,
-      error: `Customer with ID ${customer_id} not found`,
-      action: null,
-    };
+  // If customer_id provided, verify it exists
+  let customerType: "company" | "contact" | null = null;
+  if (customer_id) {
+    const customer = MOCK_CUSTOMERS.find(c => c.id === customer_id);
+    if (customer) {
+      customerType = customer.type;
+    }
   }
 
   // Return structured output for frontend to handle
+  // Supports both with-customer and without-customer (quick contact) flows
   return {
     success: true,
     action: "openDealDialog",
-    message: `Ready to create deal "${title}" for ${customer_name}`,
+    message: customer_name 
+      ? `Ready to create deal "${title}" for ${customer_name}`
+      : `Ready to create deal "${title}" (customer can be added in the deal dialog)`,
     prefill: {
       title,
-      customer_id,
-      customer_name,
-      customer_type: customer.type,
+      customer_id: customer_id ?? null,
+      customer_name: customer_name ?? null,
+      customer_type: customerType,
       amount: amount ?? null,
       currency,
       pipeline,
@@ -398,7 +495,147 @@ function createDeal(params: {
       expected_close_date: null, // Let user select
       probability: null, // Based on pipeline phase
     },
-    note: "This is a PoC - in production, this would trigger the actual Teamleader Focus deal creation dialog",
+    note: customer_id 
+      ? "This is a PoC - in production, this would trigger the actual Teamleader Focus deal creation dialog"
+      : "No customer linked - user can create a quick contact directly in the deal dialog",
+  };
+}
+
+// Create a contact - returns structured output for UI integration
+function createContact(params: {
+  first_name?: string;
+  surname: string;
+  email?: string;
+  phone?: string;
+  mobile?: string;
+  language?: string;
+  gender?: string;
+  date_of_birth?: string;
+  job_title?: string;
+  remarks?: string;
+  tags?: string[];
+  linked_company_id?: string;
+  linked_company_name?: string;
+  marketing_opt_in?: boolean;
+}) {
+  const { surname, first_name, ...optionalFields } = params;
+
+  // Validate required fields
+  if (!surname || surname.trim() === "") {
+    return {
+      success: false,
+      error: "Missing required field: surname is required",
+      action: null,
+    };
+  }
+
+  const displayName = first_name ? `${first_name} ${surname}` : surname;
+
+  // Return structured output for frontend to handle
+  return {
+    success: true,
+    action: "openContactDialog",
+    message: `Ready to create contact "${displayName}"`,
+    prefill: {
+      first_name: first_name ?? null,
+      surname,
+      email: optionalFields.email ?? null,
+      phone: optionalFields.phone ?? null,
+      mobile: optionalFields.mobile ?? null,
+      language: optionalFields.language ?? "English",
+      gender: optionalFields.gender ?? null,
+      date_of_birth: optionalFields.date_of_birth ?? null,
+      job_title: optionalFields.job_title ?? null,
+      remarks: optionalFields.remarks ?? null,
+      tags: optionalFields.tags ?? [],
+      linked_company_id: optionalFields.linked_company_id ?? null,
+      linked_company_name: optionalFields.linked_company_name ?? null,
+      marketing_opt_in: optionalFields.marketing_opt_in ?? false,
+    },
+    note: "This is a PoC - in production, this would trigger the actual Teamleader Focus contact creation dialog",
+  };
+}
+
+// Create a company - returns structured output for UI integration
+function createCompany(params: {
+  company_name: string;
+  // Company lookup - if provided, would trigger autofill in production
+  vat_number?: string;
+  kvk_number?: string;
+  siret_number?: string;
+  // Contact info
+  email?: string;
+  phone?: string;
+  fax?: string;
+  website?: string;
+  // Address
+  country?: string;
+  street?: string;
+  street_number?: string;
+  zip_code?: string;
+  city?: string;
+  province?: string;
+  // Additional info
+  language?: string;
+  account_manager?: string;
+  tags?: string[];
+  marketing_opt_in?: boolean;
+  // Financial & Industry
+  iban?: string;
+  bic_swift?: string;
+  vat_liability?: string;
+  pricelist?: string;
+  remarks?: string;
+}) {
+  const { company_name, ...optionalFields } = params;
+
+  // Validate required fields
+  if (!company_name || company_name.trim() === "") {
+    return {
+      success: false,
+      error: "Missing required field: company_name is required",
+      action: null,
+    };
+  }
+
+  // Return structured output for frontend to handle
+  return {
+    success: true,
+    action: "openCompanyDialog",
+    message: `Ready to create company "${company_name}"`,
+    prefill: {
+      company_name,
+      // Company lookup fields
+      vat_number: optionalFields.vat_number ?? null,
+      kvk_number: optionalFields.kvk_number ?? null,
+      siret_number: optionalFields.siret_number ?? null,
+      // Contact info
+      email: optionalFields.email ?? null,
+      phone: optionalFields.phone ?? null,
+      fax: optionalFields.fax ?? null,
+      website: optionalFields.website ?? null,
+      // Address
+      country: optionalFields.country ?? null,
+      street: optionalFields.street ?? null,
+      street_number: optionalFields.street_number ?? null,
+      zip_code: optionalFields.zip_code ?? null,
+      city: optionalFields.city ?? null,
+      province: optionalFields.province ?? null,
+      // Additional info
+      language: optionalFields.language ?? "English",
+      account_manager: optionalFields.account_manager ?? null,
+      tags: optionalFields.tags ?? [],
+      marketing_opt_in: optionalFields.marketing_opt_in ?? false,
+      // Financial & Industry
+      iban: optionalFields.iban ?? null,
+      bic_swift: optionalFields.bic_swift ?? null,
+      vat_liability: optionalFields.vat_liability ?? "Other EU member state",
+      pricelist: optionalFields.pricelist ?? null,
+      remarks: optionalFields.remarks ?? null,
+    },
+    note: optionalFields.vat_number || optionalFields.kvk_number || optionalFields.siret_number
+      ? "VAT/KVK/SIRET provided - in production, this would trigger autofill of company details"
+      : "This is a PoC - in production, this would trigger the actual Teamleader Focus company creation dialog",
   };
 }
 
@@ -425,7 +662,7 @@ export const TEAMLEADER_TOOLS: OpenRouterTool[] = [
     type: "function",
     function: {
       name: "createDeal",
-      description: "Create a new deal in Teamleader Focus. Use this when the user wants to create a deal after discussing a potential sale or project. The tool returns structured data that the UI uses to open a pre-filled deal creation dialog.",
+      description: "Create a new deal in Teamleader Focus. Use this when the user wants to create a deal after discussing a potential sale or project. The tool returns structured data that the UI uses to open a pre-filled deal creation dialog. Can be used with or without an existing customer - if no customer is linked, the user can create a quick contact in the deal dialog.",
       parameters: {
         type: "object",
         properties: {
@@ -435,11 +672,11 @@ export const TEAMLEADER_TOOLS: OpenRouterTool[] = [
           },
           customer_id: {
             type: "string",
-            description: "The ID of the customer (from searchCustomer results)",
+            description: "The ID of the customer (from searchCustomer results). Optional - can create deal without customer.",
           },
           customer_name: {
             type: "string",
-            description: "The name of the customer for display purposes",
+            description: "The name of the customer for display purposes. Optional if creating deal without customer.",
           },
           amount: {
             type: "number",
@@ -455,7 +692,184 @@ export const TEAMLEADER_TOOLS: OpenRouterTool[] = [
             description: "Optional description or notes about the deal",
           },
         },
-        required: ["title", "customer_id", "customer_name"],
+        required: ["title"],
+      },
+    },
+  },
+  {
+    type: "function",
+    function: {
+      name: "createContact",
+      description: "Create a new contact (person) in Teamleader Focus. Use this when the customer is not found and the user wants to create a new individual contact. Only surname is required.",
+      parameters: {
+        type: "object",
+        properties: {
+          first_name: {
+            type: "string",
+            description: "The contact's first name",
+          },
+          surname: {
+            type: "string",
+            description: "The contact's surname/last name (required)",
+          },
+          email: {
+            type: "string",
+            description: "Email address",
+          },
+          phone: {
+            type: "string",
+            description: "Phone number",
+          },
+          mobile: {
+            type: "string",
+            description: "Mobile phone number",
+          },
+          language: {
+            type: "string",
+            description: "Preferred language (e.g., 'English', 'Dutch', 'French')",
+          },
+          gender: {
+            type: "string",
+            enum: ["male", "female", "other"],
+            description: "Gender",
+          },
+          date_of_birth: {
+            type: "string",
+            description: "Date of birth (YYYY-MM-DD format)",
+          },
+          job_title: {
+            type: "string",
+            description: "Job title or position",
+          },
+          remarks: {
+            type: "string",
+            description: "Additional notes or remarks",
+          },
+          tags: {
+            type: "array",
+            items: { type: "string" },
+            description: "Tags to categorize the contact",
+          },
+          linked_company_id: {
+            type: "string",
+            description: "ID of a company to link this contact to",
+          },
+          linked_company_name: {
+            type: "string",
+            description: "Name of the linked company for display",
+          },
+          marketing_opt_in: {
+            type: "boolean",
+            description: "Whether the contact has opted in for marketing emails",
+          },
+        },
+        required: ["surname"],
+      },
+    },
+  },
+  {
+    type: "function",
+    function: {
+      name: "createCompany",
+      description: "Create a new company in Teamleader Focus. Use this when the customer is not found and the user wants to create a new company/business. Only company_name is required. If VAT/KVK/SIRET number is provided, it would autofill other company details in production.",
+      parameters: {
+        type: "object",
+        properties: {
+          company_name: {
+            type: "string",
+            description: "The company name (required)",
+          },
+          vat_number: {
+            type: "string",
+            description: "VAT number - if provided, triggers autofill in production (e.g., 'BE0123.456.789')",
+          },
+          kvk_number: {
+            type: "string",
+            description: "KVK number (Netherlands Chamber of Commerce)",
+          },
+          siret_number: {
+            type: "string",
+            description: "SIRET number (France)",
+          },
+          email: {
+            type: "string",
+            description: "Company email address",
+          },
+          phone: {
+            type: "string",
+            description: "Company phone number",
+          },
+          fax: {
+            type: "string",
+            description: "Fax number",
+          },
+          website: {
+            type: "string",
+            description: "Company website URL",
+          },
+          country: {
+            type: "string",
+            description: "Country (e.g., 'Belgium', 'Netherlands', 'France')",
+          },
+          street: {
+            type: "string",
+            description: "Street name",
+          },
+          street_number: {
+            type: "string",
+            description: "Street/house number",
+          },
+          zip_code: {
+            type: "string",
+            description: "Postal/ZIP code",
+          },
+          city: {
+            type: "string",
+            description: "City name",
+          },
+          province: {
+            type: "string",
+            description: "Province or state",
+          },
+          language: {
+            type: "string",
+            description: "Preferred language (e.g., 'English', 'Dutch', 'French')",
+          },
+          account_manager: {
+            type: "string",
+            description: "Account manager name or ID",
+          },
+          tags: {
+            type: "array",
+            items: { type: "string" },
+            description: "Tags to categorize the company",
+          },
+          marketing_opt_in: {
+            type: "boolean",
+            description: "Whether the company has opted in for marketing emails",
+          },
+          iban: {
+            type: "string",
+            description: "IBAN account number",
+          },
+          bic_swift: {
+            type: "string",
+            description: "BIC/SWIFT code",
+          },
+          vat_liability: {
+            type: "string",
+            description: "VAT liability status",
+          },
+          pricelist: {
+            type: "string",
+            description: "Assigned pricelist",
+          },
+          remarks: {
+            type: "string",
+            description: "Additional notes or remarks",
+          },
+        },
+        required: ["company_name"],
       },
     },
   },

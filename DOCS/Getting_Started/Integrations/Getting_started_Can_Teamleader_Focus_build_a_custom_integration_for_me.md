@@ -10,7 +10,7 @@ section: "Integrations"
 
 # Getting started: Can Teamleader Focus build a custom integration for me?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691020053905)
+![A 'LET'S START' introductory banner with a paper plane illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25691002060177)
 
 Thanks to our [API](https://developer.teamleader.eu/#_ga=2.154767281.862457319.1530024383-1293655958.1528116603), you can perfectly integrate information from Teamleader Focus into your own tool or vice versa.
 

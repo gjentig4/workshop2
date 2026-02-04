@@ -10,7 +10,7 @@ section: "Integrations - Web2Lead"
 
 # How To: Connect Unbounce with Teamleader Focus (Web2Lead)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691760769041)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -58,9 +58,9 @@ Save your form in order to view the Webhook URL that connects Teamleader Focus w
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691754608785)
+![Lead-Gen Form Results menu showing options to view, download, or integrate lead data.](https://support.focus.teamleader.eu/hc/article_attachments/25691754608785)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691760863377)
+![Configuration screen for setting up a Webhook URL to POST form data in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25691760863377)
 
 ### 
 
@@ -70,7 +70,7 @@ If you want to edit your Webhook or if an error message occurs after entering th
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691793344785)
+![Confirmation screen for a successful WebHook integration for form data.](https://support.focus.teamleader.eu/hc/article_attachments/25691793344785)
 
  
 
@@ -78,4 +78,4 @@ Check if all the fields are linked to the correct name. Are there any fields in 
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691760998417)
+![Mapping Unbounce form fields to WebHook (POST to URL) fields for Teamleader Focus integration.](https://support.focus.teamleader.eu/hc/article_attachments/25691760998417)

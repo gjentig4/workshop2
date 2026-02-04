@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # FAQ: What if my invoices aren't synchronised to my bookkeeping tool?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697909290641)In this article we'll explain to you what you can do when your invoices aren't synchronised to your bookkeeping tool. [Read this article](https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-FAQ-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country) if you want to know more about the available bookkeeping integrations in Teamleader Focus per country.
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)In this article we'll explain to you what you can do when your invoices aren't synchronised to your bookkeeping tool. [Read this article](https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-FAQ-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country) if you want to know more about the available bookkeeping integrations in Teamleader Focus per country.
 
  
 
@@ -26,9 +26,9 @@ First of all; an invoice has to be **booked in order to be synced to a bookkeepi
 There are 2 ways to synchronise your invoices to your bookkeeping tool: 
 
 - Manual sync: **Always start a manual sync first if your invoices have not been synced to your bookkeeping tool.** You can manually sync your invoices by going to the overview of your invoices and clicking on the **synchronisation symbol.** 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697887083665)
+![The Invoices overview page in Teamleader Focus with the sync icon highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25697887083665)
 Once the synchronisation has been finished, you'll get a notification via the bell:
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697903648145)
+![The Invoices overview page in Teamleader Focus with the sync icon highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25697887083665)
 This notification will give you more info about the amount of customers and invoices that have been synced and it will also give you an error message if something went wrong. If you don't see any error message or the message 'that there are no changes', remove all open/unread notifications by clicking on the notification, and sync again. The error message cannot be shown if the list of notifications is too long. 
  
 
@@ -40,7 +40,7 @@ This notification will give you more info about the amount of customers and invo
 
 Once an invoice has been synced to a bookkeeping tool, it will receive a booking number. To check if your invoice has been synced, we recommend you to go to the overview of invoices and to click on the cogwheel to add the column '**Booking number**':
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697913523985)
+![The 'Edit view of columns' dialog in Teamleader Focus for customizing list table columns.](https://support.focus.teamleader.eu/hc/article_attachments/25697913523985)
 
 If this column is empty, it means that your invoice hasn't been synced to your bookkeeping tool.
 

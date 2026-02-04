@@ -10,7 +10,7 @@ section: "Revenue"
 
 # How To: How can I set whom the invoices are emailed to?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692199203473)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 *E-invoicing is set to become mandatory in all European countries by 2030.*
 *For Belgium, e-invoicing already became mandatory on 01/01/2026.** Find out all about e-invoicing and enabling **Peppol ***[*here *](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus)*or *[*set it up in Teamleader Focus.*](https://focus.teamleader.eu/settings.php#company_information)
@@ -27,7 +27,7 @@ When your customer is a contact, this is easy: when sending your invoice by emai
  
 
 If there is no email address available for this contact, you can manually enter an email address yourself.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692204632849)
+![The 'Send invoice' dialog box in Teamleader Focus showing email recipient fields.](https://support.focus.teamleader.eu/hc/article_attachments/25692204632849)
 
  
 
@@ -71,7 +71,7 @@ This is the first point Teamleader Focus checks. The address or addresses filled
 When the invoice [is sent automatically:](https://support.focus.teamleader.eu/hc/en-150/articles/25691492744849-FAQ-How-can-I-send-a-reminder-of-an-invoice-in-Teamleader-Focus)
 In case you selected a contact person (attn.) when creating your invoice, the invoice will be sent to the email address of this person and to the email address of the company.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692188780305)
+![The initial setup fields for creating a new invoice in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25692188780305)
 
  
 
@@ -105,8 +105,8 @@ If there is no email address available for your company and there is no decision
 - Under **Settings** > **Revenue **> "Preferences" > "Receive a copy of all invoices, credit notes and reminder emails", you also have the option to put yourself in bcc when sending an invoice to always receive a copy of your sent invoices.
 
 - You can also set a **specific bcc address** for all invoices and credit notes. Here, you can define an email address that is not necessarily linked to one of your Teamleader Focus users (such as your bookkeeper’s email address). Note that only the actual invoices and credit notes (no reminders) will be sent to this address.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692199346705)
+![The dialog box for adding a BCC email address for all invoice and credit note emails.](https://support.focus.teamleader.eu/hc/article_attachments/25692199346705)
 Did you send your invoices via [Peppol?](https://support.focus.teamleader.eu/hc/en-150/articles/25693204310673-How-To-What-is-e-invoicing-and-how-do-I-enable-Peppol-in-Teamleader-Focus) Outgoing invoices sent via Peppol are not sent via email to the BCC email.
 
 - Of course, you can always add email addresses for specific invoices by clicking on cc or bcc when sending an invoice.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692220888977)
+![The 'Send invoice' dialog in Teamleader Focus showing CC and BCC options for email recipients.](https://support.focus.teamleader.eu/hc/article_attachments/25692220888977)

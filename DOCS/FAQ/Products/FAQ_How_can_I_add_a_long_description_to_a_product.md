@@ -10,7 +10,7 @@ section: "Products"
 
 # FAQ: How can I add a long description to a product?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691463188113)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -26,7 +26,7 @@ Remarks:
 
 - To edit the description when creating your quotation, simply click the symbol with four horizontal lines next to the product line:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691413732241)
+![VAT selection dropdown menu in Teamleader Focus with action icons](https://support.focus.teamleader.eu/hc/article_attachments/25691413732241)
 
 - Make sure you've added the shortcode $LONG_DESCRIPTION$ to your [quotation template](https://support.focus.teamleader.eu/hc/en-150/articles/25692647207057-How-To-Customizing-your-templates-in-Teamleader-Focus) to show the description on your quotations. 
 

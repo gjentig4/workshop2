@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # FAQ: How can I select the fields that need to be exported?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697995231121)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
 It is useful to export your Teamleader Focus data from time to time but you might only want to export certain fields. In this article we'll explain to you how you can select the fields that need to be included in your [Excel export](https://support.focus.teamleader.eu/hc/en-150/articles/25691186210961-How-To-Create-an-Excel-export-in-Teamleader-Focus).
 
@@ -24,7 +24,7 @@ In this example we'll export our companies but you can of course also export oth
 
  
 
-To add a field to your export, select it on the left and click on the arrow that is pointing to the right or just double click on the name of the field. It will then end up in the selected columns list.![](https://support.focus.teamleader.eu/hc/article_attachments/25697995309585)
+To add a field to your export, select it on the left and click on the arrow that is pointing to the right or just double click on the name of the field. It will then end up in the selected columns list.![The Excel Export Template configuration screen in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25697995309585)
 
  
 
@@ -44,6 +44,6 @@ Notes:
 
 - Once you have created an export template, you'll be able to select it in the dropdown menu of Basic columns.
 
-- You can easily delete an export template by selecting it and clicking to the **recycle bin** next to it.![](https://support.focus.teamleader.eu/hc/article_attachments/25697995359377)
+- You can easily delete an export template by selecting it and clicking to the **recycle bin** next to it.![The 'Export to Excel' dialog window showing segment and selection options.](https://support.focus.teamleader.eu/hc/article_attachments/25697995359377)
 
 - There's a maximum of 50 fields that can be exported.

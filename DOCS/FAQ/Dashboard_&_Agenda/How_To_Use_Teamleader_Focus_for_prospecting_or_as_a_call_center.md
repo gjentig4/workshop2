@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # How To: Use Teamleader Focus for prospecting or as a call center
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693656750353)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -30,7 +30,7 @@ First of all, you need to create a call list with calls that will be assigned to
 
 - Choose [**Create calls**](https://support.focus.teamleader.eu/hc/en-150/articles/25692017785361-FAQ-Why-can-t-I-execute-bulk-actions-on-tasks-and-calls)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693656811025)
+![The Contacts overview in Teamleader Focus showing the 'Actions' dropdown to create bulk calls.](https://support.focus.teamleader.eu/hc/article_attachments/25693656811025)
  
 
 - Fill out the start date of your calls, their duration and the assignee. An average of your calls per day will be calculated and a calculation of the working days you need will be shown.

@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # FAQ: Can I copy a quotation in Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25693573642897)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ From the quotation page
 
 - Click the **3 dots **in the header of the quotation
 
-- Choose **Copy quotation****![](https://support.focus.teamleader.eu/hc/article_attachments/25693555824657)**
+- Choose **Copy quotation****![The quotation actions menu in Teamleader Focus, highlighting the 'Copy quotation' option.](https://support.focus.teamleader.eu/hc/article_attachments/25693555824657)**
 
 - Concerning the field 'Deal', you have three options:
 
@@ -40,7 +40,7 @@ From the [deal page](https://support.focus.teamleader.eu/hc/en-150/articles/2569
 Next to ‘Follow up on your open deal’, click on the **three ****dots **next to your quotation
 
 - 
-Choose **Copy**![](https://support.focus.teamleader.eu/hc/article_attachments/25693564874385)
+Choose **Copy**![The quotation actions menu in a deal overview, highlighting the 'Rename' option.](https://support.focus.teamleader.eu/hc/article_attachments/25693475600913)
 
 - 
 Concerning the field 'Deal', you have three options (mentioned above).
@@ -55,7 +55,7 @@ When you create a quotation, we will ask you a question first:
 When you regularly create the same quotations this means you don’t have to start writing your quotation from scratch all over again. 
 
 - 
-Click on **Use existing quotation** and in the next screen you'll be able to select the existing quotation that needs to be used as the basis for your new quotation.![](https://support.focus.teamleader.eu/hc/article_attachments/25693573802769)
+Click on **Use existing quotation** and in the next screen you'll be able to select the existing quotation that needs to be used as the basis for your new quotation.![The 'Create quotation' dialog box in Teamleader Focus with fields for name, customer, and currency.](https://support.focus.teamleader.eu/hc/article_attachments/25693573802769)
 
 ### Note
 

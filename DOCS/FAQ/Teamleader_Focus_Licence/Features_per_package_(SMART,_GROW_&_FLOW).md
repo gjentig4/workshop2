@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # Features per package (SMART, GROW & FLOW)
 
-## ![](https://support.focus.teamleader.eu/hc/article_attachments/25696112318737)
+## ![Stylized illustration of a person jumping with calendar, timer, and clipboard icons.](https://support.focus.teamleader.eu/hc/article_attachments/25693666569361)
 
  
 

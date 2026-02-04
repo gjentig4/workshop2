@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # FAQ: How can I try out a Booster?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696191435921)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -53,7 +53,7 @@ Here’s how to try out a Booster for 14 days: 
 *However: once the trial is activated the trial is open for the entire account and every user!*
 
 - In ‘Your Boosters’, click on the button **Try for free** next to the Booster you want to take for a spin.
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696219101585)
+![Overview of available Teamleader Focus Boosters: Lead capture, Work orders, and Project management.](https://support.focus.teamleader.eu/hc/article_attachments/25696219101585)
 *Note: It's of course also possible to immediately **buy **the Booster without trying it out. Click on the arrow next to 'Try for free' > **Add**. [Read all about adding & removing Boosters to your license here.](https://support.focus.teamleader.eu/hc/en-150/articles/25696169462161-How-To-Add-remove-Boosters-from-your-license-SMART-GROW-FLOW)*
 
 - After clicking the button, you'll find an overview of the features of the Booster as well as the information about the price after the trial.
@@ -62,7 +62,7 @@ Here’s how to try out a Booster for 14 days: 
 The prorated price is calculated based on the end date of the trial: trial date + 14 days until the end of the billing period.
 
 - After **confirmation**, you return to the license page. Next to the Booster, you can see that the trial is active and how many days are remaining in the trial.
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25696191569169)**
+**![Active trial status for the Work orders booster in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696191569169)**
 
 - The person that activated the trial is assigned the **user ****permissions **that come with the new Booster. All other users of the account do not automatically get the new permissions. Read all about user permissions [here](https://support.focus.teamleader.eu/hc/en-150/articles/25695511139345-How-To-User-permissions-in-Teamleader-Focus).
 

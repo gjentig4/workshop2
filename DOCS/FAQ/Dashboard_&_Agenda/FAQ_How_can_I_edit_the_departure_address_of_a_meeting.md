@@ -10,7 +10,7 @@ section: "Dashboard & Agenda"
 
 # FAQ: How can I edit the departure address of a meeting?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692044911505)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 

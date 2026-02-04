@@ -10,7 +10,7 @@ section: "Peppol 🇧🇪"
 
 # How To: Enable Peppol in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/30200149676177) 
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153) 
 
 E-invoicing is mandatory in Belgium since January 1, 2026. Teamleader Focus makes it easy to comply by registering on Peppol, a secure network for sending electronic invoices. Follow the steps in this article to activate Peppol in your account easily.
  
@@ -47,17 +47,17 @@ Ready to start sending and receiving e-invoices through Peppol in Teamleader Foc
 
 - Click on** Enable Peppol**
 *Note that this button will only appear next to company entities with the country ‘Belgium’ or 'Luxembourg' as it's not possible to activate Peppol for countries other than Belgium or Luxembourg.*
-*![](https://support.focus.teamleader.eu/hc/article_attachments/39925303600657)*
+*![Company entities settings page showing active entities and the option to enable Peppol.](https://support.focus.teamleader.eu/hc/article_attachments/39925303600657)*
 
 Do you see the button **Not Peppol verified yet** instead?
-![](https://support.focus.teamleader.eu/hc/article_attachments/39925303602833)
+![A company contact row in Teamleader Focus showing Peppol verification status.](https://support.focus.teamleader.eu/hc/article_attachments/39925303602833)
 
 In this case you might still need to complete your VAT information for this company entity, or we simply can’t confirm that this entity is allowed to have access to Peppol. Please contact us via [peppol@teamleader.eu](mailto:peppol@teamleader.eu) for further assistance. 
  
 
 - In the next screen, you’ll see that your KBO number and your VAT number were filled out automatically based on the information in your company information.
 Confirm your IBAN number or fill it out.
-![](https://support.focus.teamleader.eu/hc/article_attachments/39925301804945)
+![A dialog box to enable Peppol for a company entity by confirming business details.](https://support.focus.teamleader.eu/hc/article_attachments/39925301804945)
 
 Notes
 
@@ -81,14 +81,14 @@ Your identity on the Peppol network will be verified and you’ll receive the me
 
 - 
 **You’re already registered on Peppol elsewhere:**
-![](https://support.focus.teamleader.eu/hc/article_attachments/41985057043089)
+![Information dialog about Peppol registration status and instructions for switching providers.](https://support.focus.teamleader.eu/hc/article_attachments/41985057043089)
 
 The moment you want to enable Peppol, we check if both your KBO number and VAT number aren’t registered elsewhere. If one of them are, you won’t be able to enable Peppol for receiving documents in Teamleader Focus and you’ll only be able to send invoices. 
 [Read this article for more information.](https://support.focus.teamleader.eu/hc/en-150/articles/30082880993553-FAQ-What-if-I-m-already-registered-to-Peppol-elsewhere)
  
 
 - After Saving, you’ll find all information in the **Peppol** tab of your company entity. Here you’ll see the status of Sending and Receiving:
-![](https://support.focus.teamleader.eu/hc/article_attachments/39925301805713)
+![Peppol configuration settings showing enabled status for sending and receiving e-invoices.](https://support.focus.teamleader.eu/hc/article_attachments/39925301805713)
  
 
 # Sending and receiving invoices through Peppol
@@ -110,7 +110,7 @@ Follow these steps to disable Peppol for a company entity:
 - Click on the **three dots** next to your company entity
 
 - Choose **Disable Peppol**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/39925301809297)**
+**![Dropdown menu for Peppol settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/39925301809297)**
 
 Note that disabling Peppol doesn’t mean your incoming invoices will be deleted. You will be deregistered from the Peppol network, and you won’t be able to send and receive e-invoices through Peppol anymore.
  
@@ -119,7 +119,7 @@ Note that disabling Peppol doesn’t mean your incoming invoices will be deleted
 
 In Teamleader Focus accounts with at least one Belgian or German entity, invoices and credit notes can also be downloaded (separately) as a UBL/XML file. This allows you to e.g. send the UBL as an attachment via email to your bookkeeper, who in turn can upload that UBL to the bookkeeping tool. Go to your invoice > **three dots > Download UBL: **
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/31033328969617)
+![Dropdown menu with invoice actions in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/31033328969617)
 
 It's also possible to automatically add the UBL of an invoice/credit note in attachment when sending an invoice/credit note via email:
 

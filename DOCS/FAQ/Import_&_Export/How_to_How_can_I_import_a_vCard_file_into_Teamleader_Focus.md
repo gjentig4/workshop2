@@ -10,7 +10,7 @@ section: "Import & Export"
 
 # How to: How can I import a vCard file into Teamleader Focus?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692215559441)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -26,7 +26,7 @@ You can, however, convert this vCard file into a .csv file. Read on to find out 
 
 You can use [this website](http://labs.brotherli.ch/vcfconvert/) to convert vCard files to CSV files. The title of the new file should be structured as follows: CSV, semicolon, header line, Unicode (UTF-8)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692215625233)
+![Form for converting vCard files to CSV format with custom encoding and filter options.](https://support.focus.teamleader.eu/hc/article_attachments/25692215625233)
 
  
 
@@ -34,7 +34,7 @@ You can use [this website](http://labs.brotherli.ch/vcfconvert/) to convert vCar
 
 In order to convert the encoding of the file, you'll need to open it in [notepad++](https://notepad-plus-plus.org/downloads/) and change the encoding from "UTF-8 with BOM" to "UTF-8".
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692215672209)
+![Selecting 'Convert to UTF-8' in Notepad++ to fix CSV encoding for Teamleader Focus imports.](https://support.focus.teamleader.eu/hc/article_attachments/25692215672209)
 
 ##  
 
@@ -42,11 +42,11 @@ In order to convert the encoding of the file, you'll need to open it in [notepad
 
 Carry out a find and replace operation and replace ’ (backquote) by ' (single quote). Then, save and replace the file.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692208564753)
+![The Search menu in Notepad++ with the 'Replace...' option highlighted.](https://support.focus.teamleader.eu/hc/article_attachments/25692208564753)
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692215784081)
+![The 'Replace' dialog box in a text editor showing search and replace options.](https://support.focus.teamleader.eu/hc/article_attachments/25692215784081)
 
 ##  
 

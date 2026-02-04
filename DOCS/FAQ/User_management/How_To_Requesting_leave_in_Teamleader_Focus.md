@@ -10,7 +10,7 @@ section: "User management"
 
 # How To: Requesting leave in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690715480209)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 - Navigate to the user icon in the top right hand corner and click on **My profile**.
 
@@ -26,7 +26,7 @@ section: "User management"
 
 Note: It is possible that you do not have the option to select specific hours. Then the administrator of your account specified under **Settings **> Holiday management > Vacation types that this leave type can only be taken in full days.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25690715638673)
+![The 'Days off' calendar view in Teamleader Focus for requesting time off.](https://support.focus.teamleader.eu/hc/article_attachments/25690715638673)
 
 5. Click “**Add**”. Now your request is sent for approval.
 

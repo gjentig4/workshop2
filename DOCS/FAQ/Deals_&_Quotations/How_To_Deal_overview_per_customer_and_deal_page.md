@@ -10,7 +10,7 @@ section: "Deals & Quotations"
 
 # How To: Deal overview per customer and deal page
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697809333009)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 [After you’ve added your first deal(s)](https://support.focus.teamleader.eu/hc/en-150/articles/25691911529617-FAQ-How-do-I-add-a-deal) to Teamleader Focus you’ll want to know which information you can find on the deal page. This article will zoom in on that page, as well as on where exactly you can find an overview of the deals you created per customer.
 
@@ -22,7 +22,7 @@ You’ll find the deals you created in the menu ‘Deals’ on the left-hand sid
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697809376145)
+![Deals overview table in Teamleader Focus showing pipeline status, amounts, and deal phases.](https://support.focus.teamleader.eu/hc/article_attachments/25697809376145)
  
 
 The total deal amount of your deals for this customer will be shown in the column ‘all’, as well as the number of deals and the deal amount per status (open, won, lost). You can easily filter on this status by clicking on it. Per deal you can find the following columns:
@@ -60,7 +60,7 @@ By clicking on **lost **deals you’ll find the lost date and the [loss reason]
 - 
 This list view will show up to 10 deals but you can click through to the other deals using the pagination below:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697813488017)
+![Pagination controls showing page numbers 1, 2, 3 and a next arrow](https://support.focus.teamleader.eu/hc/article_attachments/25697813488017)
 
  
 
@@ -70,7 +70,7 @@ If you want to know more about your deal in detail, just click on it via the ove
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25697813532817)
+![Detailed overview of a Deal in Teamleader Focus showing pipeline progress, details, and quotations.](https://support.focus.teamleader.eu/hc/article_attachments/25697813532817)
  
 
 ### Status

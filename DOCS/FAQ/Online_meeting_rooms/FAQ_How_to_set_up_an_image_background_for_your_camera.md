@@ -10,7 +10,7 @@ section: "Online meeting rooms"
 
 # FAQ: How to set up an image background for your camera?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694115054865)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -18,7 +18,7 @@ When having video meetings you sometimes prefer not to show everything in the ro
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694093357329)
+![A video call interface mockup showing a person with camera, microphone, and end call controls.](https://support.focus.teamleader.eu/hc/article_attachments/25694093357329)
 
 *Both features can be used in Google Chrome, Edge and Opera browser.*
 
@@ -31,7 +31,7 @@ Go to **Settings > **[**Customization**](https://meeting.teamleader.eu/team/cus
 
 - 
 Below 'Brand' you will see **Camera background image**
-**![](https://support.focus.teamleader.eu/hc/article_attachments/25694084940305)**
+**![Customization settings for the Lead capture Booster in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694084940305)**
 
 - 
 Click on upload image and select the correct image
@@ -58,7 +58,7 @@ Click on **No** **background **below your camera and select **Image ****backgr
 - 
 The image background will show now
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694093482513)
+![Join a Teamleader meeting with options for audio + video, audio only, or without audio/video.](https://support.focus.teamleader.eu/hc/article_attachments/25694093482513)
 
  
 

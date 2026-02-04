@@ -10,7 +10,7 @@ section: "Scheduling"
 
 # How To: Set up the availability and buffer settings for a meeting type
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694690391441)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
 In this guide you can read more on how to set up the availability and buffers for a meeting type. 
 
@@ -23,7 +23,7 @@ When you create a new meeting type or edit an existing one, you will immediately
  
 
 # 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694677408657)2. Advanced settings
+![A toggle switch labeled 'Show advanced settings' in the off position.](https://support.focus.teamleader.eu/hc/article_attachments/25694677408657)2. Advanced settings
 
  
 
@@ -31,11 +31,11 @@ When you create a new meeting type or edit an existing one, you will immediately
 
 In the advanced settings of the meeting type, you can give the guest the option to[ invite up to 6 additional invitees to the meeting.](https://support.focus.teamleader.eu/hc/en-150/articles/25696130908433-How-To-Invite-additional-invitees-to-your-meeting) Fill in the number of additional invitees (max. 6), so the guest will see this on the booking page. 
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694677471889)
+![Advanced settings for additional invitees in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694446254609)
 
 E.g. If you fill in 2, the guest will be able to invite 2 additional guests, meaning you will have a meeting with 4 participants (you, the guest and 2 additional invitees).
 
-### ![](https://support.focus.teamleader.eu/hc/article_attachments/25694703073809)
+### ![Booking form for an online meeting in Teamleader Focus with guest invitation options.](https://support.focus.teamleader.eu/hc/article_attachments/25694583049873)
 
  
 
@@ -45,7 +45,7 @@ E.g. If you fill in 2, the guest will be able to invite 2 additional guests, mea
 
 If you have created meeting room templates to have meeting rooms prepared in advance, you can also use them for booked meetings. Select the preferred template for this meeting type.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694662306577)
+![Dropdown menu for selecting a Meeting room template in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694413773457)
 
  
 
@@ -53,7 +53,7 @@ If you have created meeting room templates to have meeting rooms prepared in adv
 
 If you want to allow guests to cancel or reschedule a meeting, you will need to enable this checkbox*. The guest will then have a link in the confirmation and reminder mail to cancel or reschedule the meeting.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/27153243259793)
+![Setting to allow guests to cancel or reschedule a meeting in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/27153243259793)
 
 **Note: This will be automatically enabled for meeting types created after July 2024. For meeting types created before or during July 2024, you will need to manually enable this.*
 
@@ -71,7 +71,7 @@ If you want to allow guests to cancel or reschedule a meeting, you will need to 
 
 If you want a different range for this meeting type, click on custom and type the amount of days. E.g. 45 days.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694674864401)
+![The 'Bookable range' setting field in Teamleader Focus scheduling.](https://support.focus.teamleader.eu/hc/article_attachments/25694674864401)
 
 In **Booking start date** and **Booking end date**, you can define a specific period in which people can book a meeting. This can be used in combination with the minimum buffer and the max range of days in the future.
 
@@ -81,7 +81,7 @@ In **Booking start date** and **Booking end date**, you can define a specific pe
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694690785169)
+![Date input fields for Booking start date and Booking end date](https://support.focus.teamleader.eu/hc/article_attachments/25694690785169)
 
  
 
@@ -89,7 +89,7 @@ In **Booking start date** and **Booking end date**, you can define a specific pe
 
  
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694674951057)
+![Setting to choose calendar availability increments in 15, 30, or 60 minute intervals.](https://support.focus.teamleader.eu/hc/article_attachments/25694674951057)
 
  
 
@@ -99,7 +99,7 @@ In **Booking start date** and **Booking end date**, you can define a specific pe
 
 If you click 'Custom' you will be able to set an amount of hours before a booking can be made. E.g 16 hours.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694703330833)
+![The Booking buffer setting field in Teamleader Focus scheduling](https://support.focus.teamleader.eu/hc/article_attachments/25694703330833)
 
  
 
@@ -135,7 +135,7 @@ You will see 3 default options: 
 
  
 
-If you want a different buffer for this meeting type, click on custom and type the amount of minutes. E.g. 30 minutes![](https://support.focus.teamleader.eu/hc/article_attachments/25694677817873)
+If you want a different buffer for this meeting type, click on custom and type the amount of minutes. E.g. 30 minutes![Configuration settings for meeting buffers before and after scheduled appointments.](https://support.focus.teamleader.eu/hc/article_attachments/25694677817873)
 
 # 3. Select your availability
 
@@ -145,13 +145,13 @@ Below Meeting type details you will find Availability. On this page, you can set
 
 ## Availability
 
-There are 2 ways to set up your availability: Hours view or Calendars view.![](https://support.focus.teamleader.eu/hc/article_attachments/25694675109521)
+There are 2 ways to set up your availability: Hours view or Calendars view.![The Availability settings section in Teamleader Focus showing timezone and view options.](https://support.focus.teamleader.eu/hc/article_attachments/25694675109521)
 
 **Hours view**
 
-In Hours view you can select the days with a checkmark and select the hours by filling in the fields. By default Monday until Friday will be checked and 09:00 until 17:00 will be chosen.![](https://support.focus.teamleader.eu/hc/article_attachments/25694691113105)
+In Hours view you can select the days with a checkmark and select the hours by filling in the fields. By default Monday until Friday will be checked and 09:00 until 17:00 will be chosen.![Working hours and availability settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694413998225)
 
-If you would like to add a break (e.g. one hour at noon), just click the ‘+’ icon and change the hours from 09:00 to 12:00 and from 13:00 to 17:00.![](https://support.focus.teamleader.eu/hc/article_attachments/25694662736401)
+If you would like to add a break (e.g. one hour at noon), just click the ‘+’ icon and change the hours from 09:00 to 12:00 and from 13:00 to 17:00.![Setting up working hours for Monday with two time slots in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25694446806929)
 
 To remove an hour selection click on the bin icon. Don’t forget to change the hours if needed!
 
@@ -175,7 +175,7 @@ All the fields in blue indicate that you're available for a meeting. Every blue 
 
 Below the availability you can set up unavailable dates. When adding a date here, guests will not be able to book them.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25694675286545)
+![The 'Unavailable dates' expandable section in Teamleader Focus settings.](https://support.focus.teamleader.eu/hc/article_attachments/25694642511889)
 
  
 
@@ -185,6 +185,6 @@ Add an unavailable date
 
 - Click on the button ‘Add dates’
 
-- Select a Start and End date when you will not be available![](https://support.focus.teamleader.eu/hc/article_attachments/25694675354641)
+- Select a Start and End date when you will not be available![Form for adding unavailable dates in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/25694675354641)
 
 You can remove the unavailable date by clicking on the bin icon. Or you can add another unavailable date by clicking on ‘Add dates’.

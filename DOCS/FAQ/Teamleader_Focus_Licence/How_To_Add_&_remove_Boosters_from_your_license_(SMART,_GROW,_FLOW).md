@@ -10,7 +10,7 @@ section: "Teamleader Focus Licence"
 
 # How To: Add & remove Boosters from your license (SMART, GROW, FLOW)
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25696125056401)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 
@@ -56,7 +56,7 @@ Only [administrators](https://support.focus.teamleader.eu/hc/en-150/articles/256
 
 - Go to **Manage license**
 
-- In 'Your Boosters', click on the **arrow **next to 'Try for free' > **Add, **or **Remove **next to the Booster you want to add/remove:![](https://support.focus.teamleader.eu/hc/article_attachments/25696139801489)
+- In 'Your Boosters', click on the **arrow **next to 'Try for free' > **Add, **or **Remove **next to the Booster you want to add/remove:![Add-on management screen for Project management and Shared inbox features in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/25696139801489)
 
 In case of adding a Booster:
 
@@ -68,7 +68,7 @@ All users in the account have immediate access to all features of the Booster
 
 - In case of removing a Booster:
 
-You’ll see an overview of the data you’ll lose when removing a Booster:![](https://support.focus.teamleader.eu/hc/article_attachments/25696125146769)You’ll need to check a box here to show us you understand what will happen to your data when you proceed. This data will be deleted, so please make sure you [export all necessary data.](https://support.focus.teamleader.eu/hc/en-150/articles/25690929430545-FAQ-How-can-I-create-a-backup-of-my-data)
+You’ll see an overview of the data you’ll lose when removing a Booster:![Confirmation dialog for removing the Project management Booster from a Teamleader Focus account.](https://support.focus.teamleader.eu/hc/article_attachments/25696125146769)You’ll need to check a box here to show us you understand what will happen to your data when you proceed. This data will be deleted, so please make sure you [export all necessary data.](https://support.focus.teamleader.eu/hc/en-150/articles/25690929430545-FAQ-How-can-I-create-a-backup-of-my-data)
 
 - The Booster will be removed on **your next renewal**. After confirmation you’ll see how much you’ll be billed on your next renewal. According to our [Terms of Service](https://www.teamleader.eu/legal/terms-of-service-teamleader-focus) we need the submitted form at least 15 days before your renewal date. You can find your renewal date in the top right-hand corner of your Teamleader Focus subscription page. You’ll be able to keep using the functionalities of the Booster until the renewal date.
 

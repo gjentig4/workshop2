@@ -10,7 +10,7 @@ section: "Templates"
 
 # How To: Customising your document templates in Teamleader Focus
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692618650641)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

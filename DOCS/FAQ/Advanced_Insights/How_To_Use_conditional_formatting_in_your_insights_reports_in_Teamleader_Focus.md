@@ -10,7 +10,7 @@ section: "Advanced Insights"
 
 # How To: Use conditional formatting in your insights reports in Teamleader Focus
 
-![SupportCentre_Howto.png](https://support.focus.teamleader.eu/hc/article_attachments/34788268922513)*! Note that you need to have the Advanced insights Booster to use this functionality. Read more about it *[*here*](https://support.focus.teamleader.eu/hc/en-150/articles/34775080480913-FAQ-What-are-the-key-features-of-the-Advanced-insights-Booster)*.*
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)*! Note that you need to have the Advanced insights Booster to use this functionality. Read more about it *[*here*](https://support.focus.teamleader.eu/hc/en-150/articles/34775080480913-FAQ-What-are-the-key-features-of-the-Advanced-insights-Booster)*.*
  
 
 Formatting your insights reports in Teamleader Focus helps you quickly spot trends and outliers. Via formatting, you can highlight key data using rules and colour indicators. Apply formatting at cell, row or group levels for clearer insights. This article shows you how to set formatting and make your reports more actionable.
@@ -40,11 +40,11 @@ Follow these steps to apply formatting to a report:
 
 - Choose **+ Add formatting**
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34788236288145)
+![The 'Formatting' menu in the Billability rate monthly report in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/34788236288145)
  
 
 - Fill out a rule, e.g. ‘Billability rate is less than 50%’, if you want to track billability rate and identify the users who aren’t meeting the desired billable hours.
-![](https://support.focus.teamleader.eu/hc/article_attachments/34805186002577)
+![The 'Add formatting' dialog box for setting conditional formatting rules in Teamleader Focus.](https://support.focus.teamleader.eu/hc/article_attachments/34805186002577)
 
 *Notes:*
 
@@ -53,7 +53,7 @@ Know that you can add multiple rules (with different colours for example) at the
 - You can only apply formatting on numerical fields for now, and not on non-numerical ones.
  
 
-- Choose to highlight a cell or row and pick a colour in which to highlight the values: ![](https://support.focus.teamleader.eu/hc/article_attachments/34788236293905)
+- Choose to highlight a cell or row and pick a colour in which to highlight the values: ![Dropdown menu for selecting highlight options in a table with a color picker.](https://support.focus.teamleader.eu/hc/article_attachments/34788236293905)
 
 - If you enable ‘Apply formatting on group level’, then only the group gets highlighted
 
@@ -61,7 +61,7 @@ Know that you can add multiple rules (with different colours for example) at the
 
 - Find the highlighted values in the table below the report:
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/34788268936721)
+![A report table in Teamleader Focus showing billability rate and billable time tracked per user.](https://support.focus.teamleader.eu/hc/article_attachments/34788268936721)
 
 - You can find your formatting rules back in ‘Formatting’ and edit them by clicking on the pencil or remove them by clicking on the cross.
  

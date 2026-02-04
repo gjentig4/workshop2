@@ -10,7 +10,7 @@ section: "Integrations - Bookkeeping & payments"
 
 # How To: Exporting invoices from Teamleader Focus to import into your bookkeeping application
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25692633896593)
+![A 'How To' tutorial banner featuring a wrench and gear illustration on a light blue background.](https://support.focus.teamleader.eu/hc/article_attachments/25690662955153)
 
  
 

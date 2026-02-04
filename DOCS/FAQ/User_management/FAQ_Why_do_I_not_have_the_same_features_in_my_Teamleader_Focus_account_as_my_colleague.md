@@ -10,7 +10,7 @@ section: "User management"
 
 # FAQ: Why do I not have the same features in my Teamleader Focus account as my colleague?
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/25691605178385)
+![A graphic banner featuring the text 'FAQ' with a magnifying glass and a document icon.](https://support.focus.teamleader.eu/hc/article_attachments/25690748323089)
 
  
 
@@ -24,7 +24,7 @@ Other features could be export, order confirmations, delivery notes, orders, set
 
 To see an overview of the active features per user, an admin user can simply navigate to **Settings** > **Users **and click on the name of a user. On the following page in 'Permissions', you'll see all active features for the general Teamleader Focus account. If the slider is enabled for a certain feature, this feature will also be available for that specific user.
 
-![](https://support.focus.teamleader.eu/hc/article_attachments/37573034352145)
+![User permissions and access rights settings in Teamleader Focus](https://support.focus.teamleader.eu/hc/article_attachments/37573034352145)
  
 
 In the example above, the feature "Settings" is not active for this specific user.
