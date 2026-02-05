@@ -39,9 +39,9 @@ This plan outlines the implementation of an **Agentic RAG** system for Teamleade
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                              USER QUERY                                     │
 │  Examples:                                                                  │
-│  • "How do I create a quotation?" (knowledge)                              │
-│  • "Create a deal for Solar Systems Belgium" (action)                      │
-│  • "Does SMART include subscriptions? Create a deal if it does" (hybrid)  │
+│  • "How do I create a quotation?" (knowledge)                               │
+│  • "Create a deal for Solar Systems Belgium" (action)                       │
+│  • "Does SMART include subscriptions? Create a deal if it does" (hybrid)    │
 └─────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ▼
